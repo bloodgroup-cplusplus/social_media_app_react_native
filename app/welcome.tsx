@@ -5,6 +5,7 @@ import { StatusBar } from "expo-status-bar";
 import { width_percentage } from "@/helpers/common";
 import { height_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
+import Button from "@/components/Button";
 
 const Welcome = () => {
   return (
@@ -25,7 +26,16 @@ const Welcome = () => {
           </Text>
         </View>
         {/*footer*/}
-        <View style={styles.footer}></View>
+        <View style={styles.footer}>
+          <Button
+            title="Getting Started"
+            onPress={() => {}}
+            buttonStyle={{ marginHorizontal: width_percentage(3) }}
+            textStyle={{}}
+            loading={true}
+            hasShadow={true}
+          />
+        </View>
       </View>
     </ScreenWrapper>
   );
@@ -60,5 +70,8 @@ const styles = StyleSheet.create({
     color: theme.colors.text,
   },
 
-  footer: {},
+  footer: {
+    gap: 30,
+    width: "100%",
+  },
 });

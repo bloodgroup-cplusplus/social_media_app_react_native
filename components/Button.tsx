@@ -1,10 +1,12 @@
 import { Pressable, StyleSheet, Text, View } from "react-native";
 
 import React from "react";
+import { theme } from "@/constants/theme";
+import { height_percentage } from "@/helpers/common";
 
 interface ButtonProps {
-  buttonStyle: React.CSSProperties;
-  textStyle: React.CSSProperties;
+  buttonStyle: any;
+  textStyle: any;
   title: string;
   onPress: () => void;
   loading: boolean;
@@ -19,7 +21,20 @@ const Button: React.FC<ButtonProps> = ({
   loading,
   hasShadow,
 }: ButtonProps) => {
-  const shadowStyle = {};
+  const shadowStyle = {
+    shadowColor: theme.colors.dark,
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.2,
+    shadowRadius: 8,
+    elevation: 4,
+  };
+  if (loading) {
+    return (
+      <View
+        style={[styles.button, buttonStyle, { backgroundColor: "white" }]}
+      ></View>
+    );
+  }
   return (
     <Pressable
       onPress={onPress}
@@ -31,4 +46,17 @@ const Button: React.FC<ButtonProps> = ({
 };
 export default Button;
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  button: {
+    backgroundColor: theme.colors.primary,
+    height: height_percentage(6.6),
+    justifyContent: "center",
+    borderCurve: "continuous",
+    borderRadius: theme.radius.xl,
+  },
+  text: {
+    fontSize: height_percentage(2.5),
+    color: "white",
+    fontWeight: "700",
+  },
+});
