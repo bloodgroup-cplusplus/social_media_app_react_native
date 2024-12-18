@@ -1,4 +1,4 @@
-import { StyleSheet, View, Text, Image } from "react-native";
+import { StyleSheet, View, Text, Image, Pressable } from "react-native";
 import React from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { StatusBar } from "expo-status-bar";
@@ -32,9 +32,22 @@ const Welcome = () => {
             onPress={() => {}}
             buttonStyle={{ marginHorizontal: width_percentage(3) }}
             textStyle={{}}
-            loading={true}
+            loading={false}
             hasShadow={true}
           />
+          <View style={styles.bottomTextContainer}>
+            <Text style={styles.loginText}>Already have an account</Text>
+            <Pressable>
+              <Text
+                style={[
+                  styles.loginText,
+                  { color: theme.colors.primaryDark, fontWeight: "500" },
+                ]}
+              >
+                Login
+              </Text>
+            </Pressable>
+          </View>
         </View>
       </View>
     </ScreenWrapper>
@@ -73,5 +86,17 @@ const styles = StyleSheet.create({
   footer: {
     gap: 30,
     width: "100%",
+  },
+  bottomTextContainer: {
+    flexDirection: "row",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: 5,
+  },
+
+  loginText: {
+    textAlign: "center",
+    color: theme.colors.text,
+    fontSize: height_percentage(1.6),
   },
 });
