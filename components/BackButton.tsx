@@ -8,9 +8,12 @@ interface BackButtonProps {
   router: Router;
 }
 
-const BackButton = ({ size, router }: BackButtonProps) => {
+const BackButton: React.FC<BackButtonProps> = ({
+  size,
+  router,
+}: BackButtonProps) => {
   return (
-    <Pressable>
+    <Pressable onPress={() => router.back()} style={styles.button}>
       <Icon
         name="arrowLeft"
         strokeWidth={2.5}
