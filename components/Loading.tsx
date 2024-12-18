@@ -1,8 +1,15 @@
-import { StyleSheet, Text, View } from "react-native";
-const Loading: React.FC = () => {
+import { ActivityIndicator, StyleSheet, Text, View } from "react-native";
+import React from "react";
+import { theme } from "@/constants/theme";
+
+interface LoadingProps {
+  size: any;
+  color: string;
+}
+const Loading: React.FC<LoadingProps> = ({ size, color }) => {
   return (
-    <View>
-      <Text>Loading</Text>
+    <View style={{ justifyContent: "center", alignContent: "center" }}>
+      <ActivityIndicator size={size} color={color} />
     </View>
   );
 };

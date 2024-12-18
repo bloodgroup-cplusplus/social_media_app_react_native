@@ -3,6 +3,7 @@ import { Pressable, StyleSheet, Text, View } from "react-native";
 import React from "react";
 import { theme } from "@/constants/theme";
 import { height_percentage } from "@/helpers/common";
+import Loading from "./Loading";
 
 interface ButtonProps {
   buttonStyle: any;
@@ -30,9 +31,9 @@ const Button: React.FC<ButtonProps> = ({
   };
   if (loading) {
     return (
-      <View
-        style={[styles.button, buttonStyle, { backgroundColor: "white" }]}
-      ></View>
+      <View style={[styles.button, buttonStyle, { backgroundColor: "white" }]}>
+        <Loading size={"large"} color={theme.colors.primary} />
+      </View>
     );
   }
   return (
