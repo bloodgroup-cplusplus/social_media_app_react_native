@@ -12,23 +12,28 @@ import { useRef } from "react";
 
 const Welcome = () => {
   const videoRef = useRef<VideoRef>(null);
-  const background = require("../assets/images/welcome.webm");
+  const background = require("../assets/images/bkyt_logo.png");
   const router = useRouter();
   return (
     <ScreenWrapper bg="white">
       <StatusBar style="dark" />
       <View style={styles.container}>
         {/*welcome image */}
-        <Video
+        <Image
           style={styles.welcomeImage}
           source={background}
+          //ref={videoRef}
           resizeMode="contain"
         />
         {/*title*/}
         <View style={{ gap: 20 }}>
           <Text style={styles.title}>Bhutia Language Learning App</Text>
+          <Text style={styles.title}>
+            བྱོན་པོ་ ལེགས་སོ་ བྷོ་ཊི་ཡསྐད་རབས་ ཡར་རྒྱས་ ཆོ༹གས་པོ།
+          </Text>
           <Text style={styles.punchline}>
-            Where every thought finds a home and every image tells a story.
+            A fully integrated bhutia-english dictionary and bhutia e-learning
+            app
           </Text>
         </View>
         {/*footer*/}
