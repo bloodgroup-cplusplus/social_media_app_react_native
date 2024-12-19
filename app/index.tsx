@@ -7,22 +7,26 @@ import { height_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import Button from "@/components/Button";
 import { useRouter } from "expo-router";
+import Video, { VideoRef } from "react-native-video";
+import { useRef } from "react";
 
 const Welcome = () => {
+  const videoRef = useRef<VideoRef>(null);
+  const background = require("../assets/images/welcome.webm");
   const router = useRouter();
   return (
     <ScreenWrapper bg="white">
       <StatusBar style="dark" />
       <View style={styles.container}>
         {/*welcome image */}
-        <Image
+        <Video
           style={styles.welcomeImage}
-          source={require("../assets/images/welcome.png")}
+          source={background}
           resizeMode="contain"
         />
         {/*title*/}
         <View style={{ gap: 20 }}>
-          <Text style={styles.title}>LinkUp!</Text>
+          <Text style={styles.title}>Bhutia Language Learning App</Text>
           <Text style={styles.punchline}>
             Where every thought finds a home and every image tells a story.
           </Text>
