@@ -1,4 +1,11 @@
-import { Pressable, StyleSheet, Text, TextInput, View } from "react-native";
+import {
+  Alert,
+  Pressable,
+  StyleSheet,
+  Text,
+  TextInput,
+  View,
+} from "react-native";
 import React, { useRef, useState } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { theme } from "@/constants/theme";
@@ -16,7 +23,13 @@ const Login: React.FC = () => {
   const passwordRef = useRef("");
   const [loading, setLoading] = useState(false);
 
-  const onSubmit = () => {};
+  const onSubmit = () => {
+    if (!emailRef.current || !passwordRef.current) {
+      Alert.alert("Login", "pleaes fill all the fields!");
+      return;
+    }
+    // good to go
+  };
   return (
     <ScreenWrapper bg={"white"}>
       <StatusBar style="dark" />
@@ -47,7 +60,7 @@ const Login: React.FC = () => {
             icon={<Icon name="lock" size={26} strokeWidth={1.6} />}
             placeholder="Enter your password"
             secureTextEntry
-            onChangeText={(value: string) => (emailRef.current = value)}
+            onChangeText={(value: string) => (passwordRef.current = value)}
           />
           <Text style={styles.forgotPassword}>Forgot Password?</Text>
           {/*button*/}
