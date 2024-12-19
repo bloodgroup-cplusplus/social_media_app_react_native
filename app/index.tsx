@@ -34,26 +34,13 @@ const Welcome = () => {
         {/*footer*/}
         <View style={styles.footer}>
           <Button
-            title="Getting Started"
+            title="Get Started"
             onPress={() => router.push("/signup")}
             buttonStyle={{ marginHorizontal: width_percentage(3) }}
             textStyle={{}}
             loading={false}
             hasShadow={true}
           />
-          <View style={styles.bottomTextContainer}>
-            <Text style={styles.loginText}>Already have an account</Text>
-            <Pressable onPress={() => router.push("/login")}>
-              <Text
-                style={[
-                  styles.loginText,
-                  { color: theme.colors.primaryDark, fontWeight: "500" },
-                ]}
-              >
-                Login
-              </Text>
-            </Pressable>
-          </View>
         </View>
       </View>
     </ScreenWrapper>

@@ -49,7 +49,7 @@ export default Button;
 
 const styles = StyleSheet.create({
   button: {
-    backgroundColor: theme.colors.primary,
+    backgroundColor: theme.colors.skyblue,
     height: height_percentage(6.6),
     justifyContent: "center",
     borderCurve: "continuous",
