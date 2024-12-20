@@ -1,8 +1,9 @@
-import { View, Text, StyleSheet } from "react-native";
+import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import React from "react";
 import { router } from "expo-router";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
+import Icon from "@/assets/icons";
 interface PostCardProps {
   item: any;
   router: typeof router;
@@ -23,6 +24,7 @@ const PostCard: React.FC<PostCardProps> = ({
     shadowRadius: 6,
     elevation: 1,
   };
+  const openPostDetails = () => {};
   return (
     <>
       <View style={[styles.container, hasShadow && shadowStyles]}>
@@ -33,7 +35,16 @@ const PostCard: React.FC<PostCardProps> = ({
               <Text style={styles.postTime}>11.11.11</Text>
             </View>
           </View>
+          <TouchableOpacity onPress={openPostDetails}>
+            <Icon
+              name="threeDotsHorizontal"
+              size={height_percentage(3.4)}
+              strokeWidth={3}
+              color={theme.colors.text}
+            />
+          </TouchableOpacity>
         </View>
+        {/* post body and media */}
       </View>
     </>
   );
