@@ -45,6 +45,11 @@ const PostCard: React.FC<PostCardProps> = ({
           </TouchableOpacity>
         </View>
         {/* post body and media */}
+        <View style={styles.content}>
+          <View style={styles.postBody}>
+            <Text>chad</Text>
+          </View>
+        </View>
       </View>
     </>
   );
