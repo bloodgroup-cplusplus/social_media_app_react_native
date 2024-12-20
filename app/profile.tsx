@@ -1,22 +1,21 @@
-import { Alert, Button, Pressable, StyleSheet, Text, View } from "react-native";
-import { TextInput } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 import React from "react";
-
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import Icon from "@/assets/icons";
 import Input from "@/components/Input";
 import { useState } from "react";
+import { Image } from "expo-image";
 
 const Home = () => {
   const [search, setSearch] = useState("");
+  const logo = require("@/assets/images/bkyt_logo.png");
   return (
     <ScreenWrapper bg={"white"}>
       {/*header*/}
       <View style={styles.header}>
-        <Text>Chad</Text>
-        <br></br>
+        <Image source={logo} style={styles.avatarImage} />
         <Input
           icon={<Icon name="search" size={30} strokeWidth={2} />}
           placeholder="Search for a word in english or bhutia "
@@ -49,12 +48,12 @@ const styles = StyleSheet.create({
   },
 
   avatarImage: {
-    height: height_percentage(4.3),
-    width: height_percentage(4.3),
-    borderRadius: theme.radius.sm,
+    height: height_percentage(10.3),
+    width: height_percentage(10.3),
+    //borderRadius: theme.radius.sm,
     borderCurve: "continuous",
     borderColor: theme.colors.gray,
-    borderWidth: 3,
+    //borderWidth: 3,
   },
   icons: {
     flexDirection: "row",
