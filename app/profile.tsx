@@ -35,6 +35,26 @@ const Home = () => {
         audiolink: "",
       },
     },
+    {
+      id: "2",
+      topic: "Letters",
+      data: {
+        english: "chad",
+        bhutia: "leb",
+        pronounciation: "bal",
+        audiolink: "",
+      },
+    },
+    {
+      id: "3",
+      topic: "Letters",
+      data: {
+        english: "chad",
+        bhutia: "leb",
+        pronounciation: "bal",
+        audiolink: "",
+      },
+    },
   ];
 
   useEffect(() => {
@@ -51,12 +71,16 @@ const Home = () => {
           placeholder="Search for a word in english or bhutia "
           onChangeText={(value: string) => setSearch(value)}
         />
+      </View>
+      <View>
         <FlatList
           data={data}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={styles.listStyle}
           keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => <PostCard item={item} router={router} />}
+          renderItem={({ item }) => (
+            <PostCard item={item} router={router} hasShadow={true} />
+          )}
         />
       </View>
     </ScreenWrapper>
