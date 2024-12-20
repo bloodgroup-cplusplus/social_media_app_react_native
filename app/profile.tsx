@@ -1,5 +1,5 @@
-import { StyleSheet, Text, View } from "react-native";
-import React from "react";
+import { FlatList, StyleSheet, Text, View } from "react-native";
+import React, { useEffect } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
@@ -7,23 +7,58 @@ import Icon from "@/assets/icons";
 import Input from "@/components/Input";
 import { useState } from "react";
 import { Image } from "expo-image";
+import { router } from "expo-router";
+import PostCard from "@/components/PostCard";
 
 const Home = () => {
   const [search, setSearch] = useState("");
   const logo = require("@/assets/images/bkyt_logo.png");
+  const [topics, setTopics] = useState([]);
+  interface TopicsProps {
+    id: string;
+    topic: string;
+    data: {
+      english: string;
+      bhutia: string;
+      pronounciation: string;
+      audiolink: string;
+    };
+  }
+  const data: Array<TopicsProps> = [
+    {
+      id: "1",
+      topic: "Letters",
+      data: {
+        english: "chad",
+        bhutia: "leb",
+        pronounciation: "bal",
+        audiolink: "",
+      },
+    },
+  ];
+
+  useEffect(() => {
+    getPosts();
+  }, []);
+  const getPosts = async () => {};
   return (
     <ScreenWrapper bg={"white"}>
       {/*header*/}
       <View style={styles.header}>
-        <Image source={logo} style={styles.avatarImage} />
+        <Image source={logo} style={styles.avatarImage} transition={100} />
         <Input
           icon={<Icon name="search" size={30} strokeWidth={2} />}
           placeholder="Search for a word in english or bhutia "
           onChangeText={(value: string) => setSearch(value)}
         />
-        <View style={styles.icons}></View>
+        <FlatList
+          data={data}
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={styles.listStyle}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={({ item }) => <PostCard item={item} router={router} />}
+        />
       </View>
-      <Text>Home</Text>
     </ScreenWrapper>
   );
 };
