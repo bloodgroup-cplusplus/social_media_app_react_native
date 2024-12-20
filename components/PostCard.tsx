@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet } from "react-native";
 import React from "react";
 import { router } from "expo-router";
-import { height_percentage } from "@/helpers/common";
+import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 interface PostCardProps {
   item: any;
@@ -25,8 +25,15 @@ const PostCard: React.FC<PostCardProps> = ({
   };
   return (
     <>
-      <View>
-        <Text>Postcard</Text>
+      <View style={[styles.container, hasShadow && shadowStyles]}>
+        <View style={styles.header}>
+          <View style={styles.userInfo}>
+            <View style={{ gap: 2 }}>
+              <Text style={styles.username}>Chad</Text>
+              <Text style={styles.postTime}>11.11.11</Text>
+            </View>
+          </View>
+        </View>
       </View>
     </>
   );
@@ -34,7 +41,32 @@ const PostCard: React.FC<PostCardProps> = ({
 export default PostCard;
 
 const styles = StyleSheet.create({
-  username: {},
+  container: {
+    gap: 10,
+    marginBottom: 15,
+    borderRadius: theme.radius.xxl * 1.1,
+    borderCurve: "continuous",
+    padding: 10,
+    paddingVertical: 12,
+    backgroundColor: "white",
+    borderWidth: 0.5,
+    borderColor: theme.colors.gray,
+    shadowColor: "#000",
+  },
+  header: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+  },
+  userInfo: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+  },
+  username: {
+    fontSize: height_percentage(1.7),
+    color: theme.colors.textDark,
+    fontWeight: "400",
+  },
   postTime: {
     fontSize: height_percentage(1.4),
     color: theme.colors.textLight,
