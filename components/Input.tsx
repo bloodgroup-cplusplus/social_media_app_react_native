@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, TextInput } from "react-native";
 import React from "react";
 import { theme } from "@/constants/theme";
-import { height_percentage } from "@/helpers/common";
+import { height_percentage, width_percentage } from "@/helpers/common";
 
 const Input = (props: any) => {
   return (
@@ -10,7 +10,12 @@ const Input = (props: any) => {
     >
       {props.icon && props.icon}
       <TextInput
-        style={{ flex: 1 }}
+        style={{
+          flex: 1,
+          textAlign: "center",
+          alignContent: "center",
+          justifyContent: "center",
+        }}
         placeholderTextColor={theme.colors.textLight}
         ref={props.inputRef && props.inputRef}
         {...props}
@@ -25,13 +30,14 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
     height: height_percentage(7.2),
+    width: width_percentage(92),
     alignItems: "center",
     justifyContent: "center",
-    borderWidth: 0.4,
+    borderWidth: 0.8,
     borderColor: theme.colors.text,
     borderRadius: theme.radius.xxl,
     borderCurve: "continuous",
     paddingHorizontal: 18,
-    gap: 12,
+    gap: 100,
   },
 });

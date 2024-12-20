@@ -5,23 +5,21 @@ import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import Icon from "@/assets/icons";
+import Input from "@/components/Input";
+import { useState } from "react";
 
 const Home = () => {
+  const [search, setSearch] = useState("");
   return (
     <ScreenWrapper bg={"white"}>
       {/*header*/}
       <View style={styles.header}>
-        <Text style={styles.title}>Dictionary</Text>
-        <View style={styles.icons}>
-          <Pressable>
-            <Icon
-              name="heart"
-              size={height_percentage(3.2)}
-              strokeWidth={2}
-              color={theme.colors.text}
-            />
-          </Pressable>
-        </View>
+        <Input
+          icon={<Icon name="search" size={30} strokeWidth={2} />}
+          placeholder="Search for a word in english or bhutia "
+          onChangeText={(value: string) => setSearch(value)}
+        />
+        <View style={styles.icons}></View>
       </View>
       <Text>Home</Text>
     </ScreenWrapper>
