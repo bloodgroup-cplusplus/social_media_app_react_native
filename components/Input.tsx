@@ -34,10 +34,12 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     borderWidth: 0.8,
-    borderColor: theme.colors.text,
-    borderRadius: theme.radius.xxl,
+    borderStartColor: "skyblue",
+    borderColor: theme.colors.skyblue,
+
+    borderRadius: theme.radius.xl,
     borderCurve: "continuous",
-    paddingHorizontal: 18,
-    gap: 100,
+    paddingHorizontal: 50,
+    gap: 120,
   },
 });

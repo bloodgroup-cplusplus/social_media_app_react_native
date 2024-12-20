@@ -1,4 +1,5 @@
 import { Alert, Button, Pressable, StyleSheet, Text, View } from "react-native";
+import { TextInput } from "react-native";
 import React from "react";
 
 import ScreenWrapper from "@/components/ScreenWrapper";
@@ -14,6 +15,8 @@ const Home = () => {
     <ScreenWrapper bg={"white"}>
       {/*header*/}
       <View style={styles.header}>
+        <Text>Chad</Text>
+        <br></br>
         <Input
           icon={<Icon name="search" size={30} strokeWidth={2} />}
           placeholder="Search for a word in english or bhutia "
