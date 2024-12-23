@@ -1,4 +1,4 @@
-import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
+import { FlatList, StyleSheet, Text, View, ScrollView } from "react-native";
 import React, { useEffect } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
@@ -10,69 +10,11 @@ import { Image } from "expo-image";
 import { router } from "expo-router";
 import PostCard from "@/components/PostCard";
 import Loading from "@/components/Loading";
+import LanguageData from "@/constants/languagedata";
 
 const Home = () => {
   const [search, setSearch] = useState("");
   const logo = require("@/assets/images/bkyt_logo.png");
-  const birds = require("@/assets/images/birds.jpg");
-  const colors = require("@/assets/images/colors_.jpg");
-  const drinks = require("@/assets/images/drinks_.jpg");
-  //const [topics, setTopics] = useState([]);
-  interface TopicsProps {
-    id: string;
-    topic_english: string;
-    topic_bhutia: string;
-    topic_pronunciation: string;
-    imageLink: any;
-    data: {
-      english: string;
-      bhutia: string;
-      pronounciation: string;
-      audiolink: string;
-    };
-  }
-  const data: Array<TopicsProps> = [
-    {
-      id: "1",
-      topic_english: "Birds",
-      topic_bhutia: "",
-      topic_pronunciation: "",
-      imageLink: birds,
-      data: {
-        english: "chad",
-        bhutia: "leb",
-        pronounciation: "bal",
-        audiolink: "",
-      },
-    },
-    {
-      id: "2",
-      topic_english: "Colors",
-      topic_bhutia: "",
-      topic_pronunciation: "",
-      imageLink: colors,
-      data: {
-        english: "chad",
-        bhutia: "leb",
-        pronounciation: "bal",
-        audiolink: "",
-      },
-    },
-    {
-      id: "3",
-      topic_english: "Drinks",
-      topic_bhutia: "",
-      topic_pronunciation: "",
-      imageLink: drinks,
-      data: {
-        english: "chad",
-        bhutia: "leb",
-        pronounciation: "bal",
-        audiolink: "",
-      },
-    },
-  ];
-
   useEffect(() => {
     getPosts();
   }, []);
@@ -90,22 +32,19 @@ const Home = () => {
       </View>
       <View>
         <FlatList
-          data={data}
+          data={LanguageData}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={styles.listStyle}
           keyExtractor={(item) => item.id.toString()}
           renderItem={({ item }) => (
-            <Pressable onPress={() => router.push("/postDetails")}>
-              <PostCard item={item} router={router} hasShadow={true} />
-            </Pressable>
+            <PostCard item={item} router={router} hasShadow={true} />
           )}
+          ListFooterComponent={
+            <View style={{ marginVertical: 30 }}>
+              <Loading size={25} color="skyblue" />
+            </View>
+          }
         />
-        ListFooterComponent =
-        {
-          <View style={{ marginVertical: 30 }}>
-            <Loading size={25} color="blue" />
-          </View>
-        }
       </View>
     </ScreenWrapper>
   );

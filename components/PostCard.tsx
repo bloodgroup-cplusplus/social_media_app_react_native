@@ -3,7 +3,6 @@ import React from "react";
 import { router } from "expo-router";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
-import Icon from "@/assets/icons";
 import { Image } from "expo-image";
 
 interface PostCardProps {
@@ -17,7 +16,6 @@ const PostCard: React.FC<PostCardProps> = ({
   router,
   hasShadow,
 }: PostCardProps) => {
-  const images = require("@/assets/images/bkyt_logo.png");
   const shadowStyles = {
     shadowOffset: {
       width: 0,
@@ -34,23 +32,15 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.header}>
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
-              <Text style={styles.username}>{item.topic}</Text>
-              <Text style={styles.postTime}></Text>
+              <Text style={styles.username}>{item.english}</Text>
+              <Text style={styles.postTime}>{item.chad}</Text>
             </View>
           </View>
-          <TouchableOpacity onPress={openPostDetails}>
-            <Icon
-              name="threeDotsHorizontal"
-              size={height_percentage(3.4)}
-              strokeWidth={3}
-              color={theme.colors.text}
-            />
-          </TouchableOpacity>
         </View>
         {/* post body and media */}
         <View style={styles.content}>
           <View style={styles.postBody}>
-            <Text>chad</Text>
+            <Text>tim</Text>
           </View>
           <Image
             source={item.imageLink}
