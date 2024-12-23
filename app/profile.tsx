@@ -1,4 +1,4 @@
-import { FlatList, StyleSheet, Text, View } from "react-native";
+import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 import React, { useEffect } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
@@ -80,7 +80,9 @@ const Home = () => {
           contentContainerStyle={styles.listStyle}
           keyExtractor={(item) => item.id.toString()}
           renderItem={({ item }) => (
-            <PostCard item={item} router={router} hasShadow={true} />
+            <Pressable onPress={() => router.push("/postDetails")}>
+              <PostCard item={item} router={router} hasShadow={true} />
+            </Pressable>
           )}
         />
         ListFooterComponent =
