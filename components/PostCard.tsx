@@ -32,16 +32,14 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.header}>
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
-              <Text style={styles.username}>{item.english}</Text>
-              <Text style={styles.postTime}>{item.chad}</Text>
+              <Text style={styles.username}>{item.english} ( བྱོན་པོ་)</Text>
+              <Text style={styles.postTime}>{item.english}</Text>
             </View>
           </View>
         </View>
         {/* post body and media */}
         <View style={styles.content}>
-          <View style={styles.postBody}>
-            <Text>tim</Text>
-          </View>
+          <View style={styles.postBody}></View>
           <Image
             source={item.imageLink}
             transition={100}
@@ -81,14 +79,17 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   username: {
-    fontSize: height_percentage(1.7),
+    fontSize: height_percentage(2.7),
     color: theme.colors.textDark,
-    fontWeight: "400",
+    fontWeight: "bold",
+    alignContent: "center",
+    textAlign: "center",
   },
   postTime: {
-    fontSize: height_percentage(1.4),
+    fontSize: height_percentage(2.2),
     color: theme.colors.textLight,
-    fontWeight: "400",
+    fontStyle: "italic",
+    fontWeight: "600",
   },
   content: {
     gap: 10,

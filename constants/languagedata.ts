@@ -15,6 +15,7 @@ const attire = require("@/assets/images/attire_.jpg");
 const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
+const planets = require("@/assets/images/planets.jpg");
 
 interface DataProps {
   english: string;
@@ -209,6 +210,66 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "buoe",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1734933261/birds/yellow_bird_hearja.mp4",
+      },
+    ],
+  },
+  {
+    id: "13",
+    english: "Vegetables",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: vegetables,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
+      },
+    ],
+  },
+  {
+    id: "14",
+    english: "Medical Terms",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: medical,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
+      },
+    ],
+  },
+  {
+    id: "15",
+    english: "Planets",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: planets,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
+      },
+    ],
+  },
+  {
+    id: "16",
+    english: "Months",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: months,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
       },
     ],
   },
