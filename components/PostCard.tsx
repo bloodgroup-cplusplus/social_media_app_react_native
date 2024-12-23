@@ -59,11 +59,7 @@ const PostCard: React.FC<PostCardProps> = ({
             contentFit="cover"
           />
           <View style={styles.footer}>
-            <View style={styles.foooterButton}>
-              <TouchableOpacity>
-                <Icon name="comment" size={24} color={theme.colors.skyblue} />
-              </TouchableOpacity>
-            </View>
+            <View style={styles.foooterButton}></View>
           </View>
         </View>
       </View>

@@ -24,8 +24,9 @@ const PostDetails: React.FC = () => {
       <ScrollView
         showsVerticalScrollIndicator={false}
         contentContainerStyle={styles.list}
-      />
-      <PostCard item={post} router={router} hasShadow={false} />
+      >
+        <PostCard item={post} router={router} hasShadow={false} />
+      </ScrollView>
     </View>
   );
 };
