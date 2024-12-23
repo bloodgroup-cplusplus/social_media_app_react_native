@@ -14,6 +14,7 @@ const fooditems = require("@/assets/images/fooditems.jpg");
 const attire = require("@/assets/images/attire_.jpg");
 const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
+const departments = require("@/assets/images/departments.jpg");
 
 interface DataProps {
   english: string;
@@ -156,6 +157,36 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     imageLink: fruits,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
+      },
+    ],
+  },
+  {
+    id: "10",
+    english: "Departments",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: departments,
+    data: [
+      {
+        english: "fam",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink: "",
+      },
+    ],
+  },
+  {
+    id: "11",
+    english: "Days",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: days,
     data: [
       {
         english: "fam",
