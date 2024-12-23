@@ -35,7 +35,7 @@ const PostCard: React.FC<PostCardProps> = ({
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
               <Text style={styles.username}>{item.topic}</Text>
-              <Text style={styles.postTime}>11.11.11</Text>
+              <Text style={styles.postTime}></Text>
             </View>
           </View>
           <TouchableOpacity onPress={openPostDetails}>

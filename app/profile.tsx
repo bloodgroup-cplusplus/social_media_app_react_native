@@ -15,10 +15,14 @@ const Home = () => {
   const [search, setSearch] = useState("");
   const logo = require("@/assets/images/bkyt_logo.png");
   const birds = require("@/assets/images/birds.jpg");
+  const colors = require("@/assets/images/colors_.jpg");
+  const drinks = require("@/assets/images/drinks_.jpg");
   //const [topics, setTopics] = useState([]);
   interface TopicsProps {
     id: string;
-    topic: string;
+    topic_english: string;
+    topic_bhutia: string;
+    topic_pronunciation: string;
     imageLink: any;
     data: {
       english: string;
@@ -30,8 +34,10 @@ const Home = () => {
   const data: Array<TopicsProps> = [
     {
       id: "1",
-      topic: "Birds",
-      imageLink: { birds },
+      topic_english: "Birds",
+      topic_bhutia: "",
+      topic_pronunciation: "",
+      imageLink: birds,
       data: {
         english: "chad",
         bhutia: "leb",
@@ -41,8 +47,10 @@ const Home = () => {
     },
     {
       id: "2",
-      topic: "Colors",
-      imageLink: "",
+      topic_english: "Colors",
+      topic_bhutia: "",
+      topic_pronunciation: "",
+      imageLink: colors,
       data: {
         english: "chad",
         bhutia: "leb",
@@ -52,8 +60,10 @@ const Home = () => {
     },
     {
       id: "3",
-      topic: "Letters",
-      imageLink: "",
+      topic_english: "Drinks",
+      topic_bhutia: "",
+      topic_pronunciation: "",
+      imageLink: drinks,
       data: {
         english: "chad",
         bhutia: "leb",
