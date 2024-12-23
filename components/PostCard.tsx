@@ -32,8 +32,10 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.header}>
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
-              <Text style={styles.username}>{item.english} ( བྱོན་པོ་)</Text>
-              <Text style={styles.postTime}>{item.english}</Text>
+              <Text style={styles.username}>
+                {item.english} ( {item.bhutia} ་)
+              </Text>
+              <Text style={styles.postTime}>{item.pronunciation}</Text>
             </View>
           </View>
         </View>

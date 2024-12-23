@@ -35,8 +35,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "1",
     english: "Customes",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཆ་ལུགས་",
+    pronunciation: "chya-lug",
     imageLink: attire,
     data: [
       {
@@ -50,8 +50,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "2",
     english: "Food",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཟན་",
+    pronunciation: "zaen",
     imageLink: fooditems,
     data: [
       {
@@ -65,8 +65,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "3",
     english: "Drinks",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "མཆོད་",
+    pronunciation: "chhoth",
     imageLink: drinks,
     data: [
       {
@@ -80,8 +80,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "4",
     english: "Meat",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཤ་",
+    pronunciation: "sha",
     imageLink: meat,
     data: [
       {
@@ -95,8 +95,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "5",
     english: "Mountains",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "གངས་ཆེན་",
+    pronunciation: "gangchen",
     imageLink: mountain,
     data: [
       {
@@ -110,8 +110,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "6",
     english: "Places",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ལུང་པོ་",
+    pronunciation: "lungpo",
     imageLink: places,
     data: [
       {
@@ -125,8 +125,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "7",
     english: "Festivals",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "དུས་ཆེན་",
+    pronunciation: "dhue chen",
     imageLink: festivals,
     data: [
       {
@@ -140,8 +140,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "8",
     english: "Flowers",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "མེ་ཏོག་",
+    pronunciation: "me-tog",
     imageLink: flowers,
     data: [
       {
@@ -155,8 +155,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "9",
     english: "Fruits",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "འབྲས་བུ་",
+    pronunciation: "dresbu",
     imageLink: fruits,
     data: [
       {
@@ -170,8 +170,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "10",
     english: "Departments",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ལེ་ལག་",
+    pronunciation: "lelag",
     imageLink: departments,
     data: [
       {
@@ -185,8 +185,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "11",
     english: "Days",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "བདུན་ཕྲག་",
+    pronunciation: "dun-thak",
     imageLink: days,
     data: [
       {
@@ -200,8 +200,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "12",
     english: "Birds",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "བྱ༹་",
+    pronunciation: "bya",
     imageLink: birds,
     data: [
       {
@@ -216,8 +216,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "13",
     english: "Vegetables",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཚོདམ་",
+    pronunciation: "tshom",
     imageLink: vegetables,
     data: [
       {
@@ -231,8 +231,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "14",
     english: "Medical Terms",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "བཤག་བཅོས་ ཐ་སྙད་",
+    pronunciation: " shagchos tha-nyath",
     imageLink: medical,
     data: [
       {
@@ -246,8 +246,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "15",
     english: "Planets",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "གཟའ་",
+    pronunciation: "zaa",
     imageLink: planets,
     data: [
       {
@@ -261,8 +261,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "16",
     english: "Months",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཧོཪ་ཟླ་",
+    pronunciation: "horda",
     imageLink: months,
     data: [
       {
