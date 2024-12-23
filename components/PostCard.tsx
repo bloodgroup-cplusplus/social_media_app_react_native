@@ -34,7 +34,7 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.header}>
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
-              <Text style={styles.username}>Chad</Text>
+              <Text style={styles.username}>{item.topic}</Text>
               <Text style={styles.postTime}>11.11.11</Text>
             </View>
           </View>
@@ -53,7 +53,7 @@ const PostCard: React.FC<PostCardProps> = ({
             <Text>chad</Text>
           </View>
           <Image
-            source={images}
+            source={item.imageLink}
             transition={100}
             style={styles.postMedia}
             contentFit="cover"

@@ -14,10 +14,12 @@ import Loading from "@/components/Loading";
 const Home = () => {
   const [search, setSearch] = useState("");
   const logo = require("@/assets/images/bkyt_logo.png");
-  const [topics, setTopics] = useState([]);
+  const birds = require("@/assets/images/birds.jpg");
+  //const [topics, setTopics] = useState([]);
   interface TopicsProps {
     id: string;
     topic: string;
+    imageLink: any;
     data: {
       english: string;
       bhutia: string;
@@ -28,7 +30,8 @@ const Home = () => {
   const data: Array<TopicsProps> = [
     {
       id: "1",
-      topic: "Letters",
+      topic: "Birds",
+      imageLink: { birds },
       data: {
         english: "chad",
         bhutia: "leb",
@@ -38,7 +41,8 @@ const Home = () => {
     },
     {
       id: "2",
-      topic: "Letters",
+      topic: "Colors",
+      imageLink: "",
       data: {
         english: "chad",
         bhutia: "leb",
@@ -49,6 +53,7 @@ const Home = () => {
     {
       id: "3",
       topic: "Letters",
+      imageLink: "",
       data: {
         english: "chad",
         bhutia: "leb",
