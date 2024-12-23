@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
     height: height_percentage(7.2),
-    width: width_percentage(80),
+    width: width_percentage(75.0),
     alignItems: "center",
     justifyContent: "center",
     borderWidth: 0.8,
@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
 
     borderRadius: theme.radius.xl,
     borderCurve: "continuous",
-    paddingHorizontal: 50,
-    gap: 50,
+    paddingHorizontal: 15,
+    gap: 10,
   },
 });

@@ -4,6 +4,8 @@ import { router } from "expo-router";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import Icon from "@/assets/icons";
+import { Image } from "expo-image";
+
 interface PostCardProps {
   item: any;
   router: typeof router;
@@ -15,6 +17,7 @@ const PostCard: React.FC<PostCardProps> = ({
   router,
   hasShadow,
 }: PostCardProps) => {
+  const images = require("@/assets/images/bkyt_logo.png");
   const shadowStyles = {
     shadowOffset: {
       width: 0,
@@ -48,6 +51,19 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.content}>
           <View style={styles.postBody}>
             <Text>chad</Text>
+          </View>
+          <Image
+            source={images}
+            transition={100}
+            style={styles.postMedia}
+            contentFit="cover"
+          />
+          <View style={styles.footer}>
+            <View style={styles.foooterButton}>
+              <TouchableOpacity>
+                <Icon name="comment" size={24} color={theme.colors.skyblue} />
+              </TouchableOpacity>
+            </View>
           </View>
         </View>
       </View>

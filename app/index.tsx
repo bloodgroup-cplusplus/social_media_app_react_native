@@ -40,7 +40,7 @@ const Welcome = () => {
         <View style={styles.footer}>
           <Button
             title="Get Started"
-            onPress={() => router.push("/profile")}
+            onPress={() => router.push("./profile")}
             buttonStyle={{ marginHorizontal: width_percentage(3) }}
             textStyle={{}}
             loading={false}

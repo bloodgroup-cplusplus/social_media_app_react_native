@@ -9,6 +9,7 @@ import { useState } from "react";
 import { Image } from "expo-image";
 import { router } from "expo-router";
 import PostCard from "@/components/PostCard";
+import Loading from "@/components/Loading";
 
 const Home = () => {
   const [search, setSearch] = useState("");
@@ -67,7 +68,7 @@ const Home = () => {
       <View style={styles.header}>
         <Image source={logo} style={styles.avatarImage} transition={100} />
         <Input
-          icon={<Icon name="search" size={30} strokeWidth={2} />}
+          icon={<Icon name="search" size={18} strokeWidth={2} />}
           placeholder="Search for a word in english or bhutia "
           onChangeText={(value: string) => setSearch(value)}
         />
@@ -82,6 +83,12 @@ const Home = () => {
             <PostCard item={item} router={router} hasShadow={true} />
           )}
         />
+        ListFooterComponent =
+        {
+          <View style={{ marginVertical: 30 }}>
+            <Loading size={25} color="blue" />
+          </View>
+        }
       </View>
     </ScreenWrapper>
   );
@@ -107,8 +114,8 @@ const styles = StyleSheet.create({
   },
 
   avatarImage: {
-    height: height_percentage(10.3),
-    width: height_percentage(10.3),
+    height: height_percentage(6.3),
+    width: height_percentage(6.3),
     //borderRadius: theme.radius.sm,
     borderCurve: "continuous",
     borderColor: theme.colors.gray,
