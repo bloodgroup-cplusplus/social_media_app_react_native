@@ -196,6 +196,22 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "12",
+    english: "Birds",
+    bhutia: "",
+    pronunciation: "",
+    imageLink: birds,
+    data: [
+      {
+        english: "Yellow Bird",
+        bhutia: "maf",
+        pronunciation: "buoe",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1734933261/birds/yellow_bird_hearja.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;
