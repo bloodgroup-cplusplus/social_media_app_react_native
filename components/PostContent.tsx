@@ -4,6 +4,7 @@ import { height_percentage } from "@/helpers/common";
 import { useAudioPlayer } from "expo-audio";
 import { theme } from "@/constants/theme";
 const volume_icon = require("@/assets/icons/Volume.svg");
+const copy_icon = require("@/assets/icons/Copy.svg");
 interface DataProps {
   english: string;
   bhutia: string;
@@ -43,17 +44,27 @@ const PostContent: React.FC<PostContentProps> = ({
     <>
       {data_array?.map((item) => (
         <View style={[styles.container, hasShadow && shadowStyles]}>
+          <Text style={styles.username}>{item?.english}</Text>
+          <Text style={styles.username}>{item?.bhutia}</Text>
+          <Text style={styles.postTime}>{item?.pronunciation}</Text>
+          <Pressable onPress={() => {}}>
+            <Image
+              source={copy_icon}
+              style={{
+                alignContent: "flex-start",
+                alignSelf: "flex-start",
+              }}
+            />
+          </Pressable>
+          <Pressable onPress={() => {}}>
+            <Image
+              source={volume_icon}
+              style={{ alignContent: "flex-start", alignSelf: "flex-start" }}
+            />
+          </Pressable>
           <View style={styles.header}>
             <View style={styles.userInfo}>
-              <View style={{ gap: 2 }}>
-                <Text style={styles.username}>
-                  {item?.english} ( {item?.bhutia} ་)
-                </Text>
-                <Text style={styles.postTime}>{item?.pronunciation}</Text>
-                <Pressable onPress={() => {}}>
-                  <Image source={volume_icon} />
-                </Pressable>
-              </View>
+              <View style={{ gap: 0 }}></View>
             </View>
           </View>
         </View>
@@ -89,8 +100,8 @@ const styles = StyleSheet.create({
     fontSize: height_percentage(2.7),
     color: theme.colors.textDark,
     fontWeight: "bold",
-    alignContent: "center",
-    textAlign: "center",
+    alignContent: "flex-start",
+    textAlign: "left",
   },
   postTime: {
     fontSize: height_percentage(2.2),
@@ -119,5 +130,9 @@ const styles = StyleSheet.create({
     marginLeft: 5,
     flexDirection: "row",
     alignItems: "center",
+  },
+  volume: {
+    alignContent: "center",
+    flexDirection: "row",
   },
 });
