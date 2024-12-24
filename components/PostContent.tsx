@@ -1,8 +1,9 @@
-import { View, Text, StyleSheet, Image, Pressable } from "react-native";
-import React from "react";
+import { View, Text, StyleSheet, Image, Pressable, Alert } from "react-native";
+import React, { useEffect, useState } from "react";
 import { height_percentage } from "@/helpers/common";
-import { useAudioPlayer } from "expo-audio";
 import { theme } from "@/constants/theme";
+import * as Clipboard from "expo-clipboard";
+import { Audio } from "expo-av";
 const volume_icon = require("@/assets/icons/Volume.svg");
 const copy_icon = require("@/assets/icons/Copy.svg");
 interface DataProps {
@@ -29,8 +30,24 @@ const PostContent: React.FC<PostContentProps> = ({
   item,
   hasShadow,
 }: PostContentProps) => {
-  const player = useAudioPlayer();
   const data_array: Array<DataProps> | undefined = item?.data;
+  const [sound, setSound] = useState<Audio.Sound | null>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const playAudio = async (source: string) => {
+    const { sound } = await Audio.Sound.createAsync({
+      uri: source,
+    });
+    setSound(sound);
+    await sound.playAsync();
+  };
+  useEffect(() => {
+    return sound
+      ? () => {
+          sound.unloadAsync();
+        }
+      : undefined;
+  }, [sound]);
+
   const shadowStyles = {
     shadowOffset: {
       width: 0,
@@ -40,6 +57,10 @@ const PostContent: React.FC<PostContentProps> = ({
     shadowRadius: 6,
     elevation: 1,
   };
+  async function copyToClipboard(text: string) {
+    await Clipboard.setStringAsync(text);
+    Alert.alert("Bhutia Word Copied To Clipboard");
+  }
   return (
     <>
       {data_array?.map((item) => (
@@ -47,7 +68,7 @@ const PostContent: React.FC<PostContentProps> = ({
           <Text style={styles.username}>{item?.english}</Text>
           <Text style={styles.username}>{item?.bhutia}</Text>
           <Text style={styles.postTime}>{item?.pronunciation}</Text>
-          <Pressable onPress={() => {}}>
+          <Pressable onPress={() => copyToClipboard(item.bhutia)}>
             <Image
               source={copy_icon}
               style={{
@@ -56,7 +77,11 @@ const PostContent: React.FC<PostContentProps> = ({
               }}
             />
           </Pressable>
-          <Pressable onPress={() => {}}>
+          <Pressable
+            onPress={() => {
+              playAudio(item?.audiolink);
+            }}
+          >
             <Image
               source={volume_icon}
               style={{ alignContent: "flex-start", alignSelf: "flex-start" }}
