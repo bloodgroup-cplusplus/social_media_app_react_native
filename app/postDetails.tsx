@@ -1,35 +1,42 @@
-import { StyleSheet, Text, View, ScrollView } from "react-native";
+import { StyleSheet, Text, View, ScrollView, FlatList } from "react-native";
 
 import React, { useEffect, useState } from "react";
-import { useLocalSearchParams } from "expo-router";
+import { router, useLocalSearchParams } from "expo-router";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import PostCard from "@/components/PostCard";
+import PostContent from "@/components/PostContent";
 import { useRouter } from "expo-router";
 import LanguageData from "@/constants/languagedata";
+import Loading from "@/components/Loading";
+import { routeToScreen } from "expo-router/build/useScreens";
 
 const PostDetails: React.FC = () => {
   const { postId } = useLocalSearchParams();
-  console.log("got post id", postId);
-  const [post, setPost] = useState(null);
-  const router = useRouter();
-  const [startLoading, setStartLoading] = useState(true);
-
-  useEffect(() => {
-    getPostDetails();
-  }, []);
-
-  const getPostDetails = async () => {};
   return (
     <View style={styles.container}>
       <ScrollView
         showsVerticalScrollIndicator={false}
         contentContainerStyle={styles.list}
       >
-        <PostCard
-          item={LanguageData.find((item) => item.id == postId)}
-          router={router}
-          hasShadow={false}
+        <FlatList
+          data={LanguageData}
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={styles.listStyle}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={({ item }) =>
+            item.id === postId ? (
+              <>
+                <PostCard item={item} router={router} hasShadow={true} />
+                <PostContent item={item} hasShadow={true} />
+              </>
+            ) : null
+          }
+          ListFooterComponent={
+            <View style={{ marginVertical: 30 }}>
+              <Loading size={25} color="skyblue" />
+            </View>
+          }
         />
       </ScrollView>
     </View>
@@ -77,5 +84,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     transform: [{ scale: 1.3 }],
+  },
+  listStyle: {
+    paddingTop: 20,
+    paddingHorizontal: width_percentage(4),
+  },
+
+  postBody: {
+    marginLeft: 5,
+  },
+  content: {
+    gap: 10,
   },
 });
