@@ -1,9 +1,9 @@
-import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
+import { View, Text, StyleSheet, Image, Pressable } from "react-native";
 import React from "react";
-import { router } from "expo-router";
-import { height_percentage, width_percentage } from "@/helpers/common";
+import { height_percentage } from "@/helpers/common";
+import { useAudioPlayer } from "expo-audio";
 import { theme } from "@/constants/theme";
-import { Image } from "expo-image";
+const volume_icon = require("@/assets/icons/Volume.svg");
 interface DataProps {
   english: string;
   bhutia: string;
@@ -28,6 +28,7 @@ const PostContent: React.FC<PostContentProps> = ({
   item,
   hasShadow,
 }: PostContentProps) => {
+  const player = useAudioPlayer();
   const data_array: Array<DataProps> | undefined = item?.data;
   const shadowStyles = {
     shadowOffset: {
@@ -38,7 +39,6 @@ const PostContent: React.FC<PostContentProps> = ({
     shadowRadius: 6,
     elevation: 1,
   };
-  const openPostDetails = () => {};
   return (
     <>
       {data_array?.map((item) => (
@@ -50,6 +50,9 @@ const PostContent: React.FC<PostContentProps> = ({
                   {item?.english} ( {item?.bhutia} ་)
                 </Text>
                 <Text style={styles.postTime}>{item?.pronunciation}</Text>
+                <Pressable onPress={() => {}}>
+                  <Image source={volume_icon} />
+                </Pressable>
               </View>
             </View>
           </View>

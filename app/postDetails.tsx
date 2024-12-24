@@ -1,15 +1,12 @@
-import { StyleSheet, Text, View, ScrollView, FlatList } from "react-native";
-
-import React, { useEffect, useState } from "react";
+import { StyleSheet, View, ScrollView, FlatList } from "react-native";
+import React from "react";
 import { router, useLocalSearchParams } from "expo-router";
 import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import PostCard from "@/components/PostCard";
 import PostContent from "@/components/PostContent";
-import { useRouter } from "expo-router";
 import LanguageData from "@/constants/languagedata";
 import Loading from "@/components/Loading";
-import { routeToScreen } from "expo-router/build/useScreens";
 
 const PostDetails: React.FC = () => {
   const { postId } = useLocalSearchParams();
