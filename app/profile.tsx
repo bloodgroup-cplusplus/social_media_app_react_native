@@ -1,4 +1,11 @@
-import { FlatList, StyleSheet, Text, View, ScrollView } from "react-native";
+import {
+  FlatList,
+  StyleSheet,
+  Text,
+  View,
+  ScrollView,
+  Pressable,
+} from "react-native";
 import React, { useEffect } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
 import { height_percentage, width_percentage } from "@/helpers/common";
@@ -7,7 +14,7 @@ import Icon from "@/assets/icons";
 import Input from "@/components/Input";
 import { useState } from "react";
 import { Image } from "expo-image";
-import { router } from "expo-router";
+import { useRouter } from "expo-router";
 import PostCard from "@/components/PostCard";
 import Loading from "@/components/Loading";
 import LanguageData from "@/constants/languagedata";
@@ -15,6 +22,7 @@ import LanguageData from "@/constants/languagedata";
 const Home = () => {
   const [search, setSearch] = useState("");
   const logo = require("@/assets/images/bkyt_logo.png");
+  const router = useRouter();
   useEffect(() => {
     getPosts();
   }, []);
@@ -37,7 +45,16 @@ const Home = () => {
           contentContainerStyle={styles.listStyle}
           keyExtractor={(item) => item.id.toString()}
           renderItem={({ item }) => (
-            <PostCard item={item} router={router} hasShadow={true} />
+            <Pressable
+              onPress={() => {
+                router.push({
+                  pathname: "/postDetails",
+                  params: { postId: item.id.toString() },
+                });
+              }}
+            >
+              <PostCard item={item} router={router} hasShadow={true} />
+            </Pressable>
           )}
           ListFooterComponent={
             <View style={{ marginVertical: 30 }}>

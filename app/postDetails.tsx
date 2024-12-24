@@ -6,6 +6,7 @@ import { height_percentage, width_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import PostCard from "@/components/PostCard";
 import { useRouter } from "expo-router";
+import LanguageData from "@/constants/languagedata";
 
 const PostDetails: React.FC = () => {
   const { postId } = useLocalSearchParams();
@@ -25,7 +26,11 @@ const PostDetails: React.FC = () => {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={styles.list}
       >
-        <PostCard item={post} router={router} hasShadow={false} />
+        <PostCard
+          item={LanguageData.find((item) => item.id == postId)}
+          router={router}
+          hasShadow={false}
+        />
       </ScrollView>
     </View>
   );
