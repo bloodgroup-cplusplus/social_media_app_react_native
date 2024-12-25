@@ -4,8 +4,8 @@ import { height_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import * as Clipboard from "expo-clipboard";
 import { Audio } from "expo-av";
-const volume_icon = require("@/assets/icons/Volume.svg");
-const copy_icon = require("@/assets/icons/Copy.svg");
+const volume_icon = require("@/assets/icons/volume.svg");
+const copy_icon = require("@/assets/icons/copy.svg");
 interface DataProps {
   key: string;
   english: string;
