@@ -4,8 +4,8 @@ import { height_percentage } from "@/helpers/common";
 import { theme } from "@/constants/theme";
 import * as Clipboard from "expo-clipboard";
 import { Audio } from "expo-av";
-const volume_icon = require("@/assets/icons/volume.svg");
-const copy_icon = require("@/assets/icons/copy.svg");
+const volume_icon = require("@/assets/icons/volume.png");
+const copy_icon = require("@/assets/icons/copy.png");
 interface DataProps {
   key: string;
   english: string;
@@ -75,10 +75,13 @@ const PostContent: React.FC<PostContentProps> = ({
           <Pressable onPress={() => copyToClipboard(item.bhutia)}>
             <Image
               source={copy_icon}
-              style={{
-                alignContent: "flex-start",
-                alignSelf: "flex-start",
-              }}
+              style={[
+                {
+                  alignContent: "flex-start",
+                  alignSelf: "flex-start",
+                },
+                styles.avatarImage,
+              ]}
             />
           </Pressable>
           <Pressable
@@ -88,18 +91,16 @@ const PostContent: React.FC<PostContentProps> = ({
           >
             <Image
               source={volume_icon}
-              style={{
-                alignContent: "flex-start",
-                alignSelf: "flex-start",
-                opacity: 1,
-              }}
+              style={[
+                {
+                  alignContent: "flex-start",
+                  alignSelf: "flex-start",
+                  opacity: 1,
+                },
+                styles.avatarImage,
+              ]}
             />
           </Pressable>
-          <View style={styles.header}>
-            <View style={styles.userInfo}>
-              <View style={{ gap: 0 }}></View>
-            </View>
-          </View>
         </View>
       ))}
     </>
@@ -167,5 +168,13 @@ const styles = StyleSheet.create({
   volume: {
     alignContent: "center",
     flexDirection: "row",
+  },
+  avatarImage: {
+    height: height_percentage(5.3),
+    width: height_percentage(5.3),
+    //borderRadius: theme.radius.sm,
+    borderCurve: "continuous",
+    borderColor: theme.colors.gray,
+    //borderWidth: 3,
   },
 });
