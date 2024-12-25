@@ -12,30 +12,30 @@ const PostDetails: React.FC = () => {
   const { postId } = useLocalSearchParams();
   return (
     <View style={styles.container}>
-      <ScrollView
+      {/*<ScrollView
         showsVerticalScrollIndicator={false}
         contentContainerStyle={styles.list}
-      >
-        <FlatList
-          data={LanguageData}
-          showsVerticalScrollIndicator={false}
-          contentContainerStyle={styles.listStyle}
-          keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) =>
-            item.id === postId ? (
-              <>
-                <PostCard item={item} router={router} hasShadow={true} />
-                <PostContent item={item} hasShadow={true} />
-              </>
-            ) : null
-          }
-          ListFooterComponent={
-            <View style={{ marginVertical: 30 }}>
-              <Loading size={25} color="skyblue" />
-            </View>
-          }
-        />
-      </ScrollView>
+      >*/}
+      <FlatList
+        data={LanguageData}
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={styles.listStyle}
+        keyExtractor={(item) => item.id.toString()}
+        renderItem={({ item }) =>
+          item.id === postId ? (
+            <>
+              <PostCard item={item} router={router} hasShadow={true} />
+              <PostContent item={item} hasShadow={true} />
+            </>
+          ) : null
+        }
+        ListFooterComponent={
+          <View style={{ marginVertical: 30 }}>
+            <Loading size={25} color="skyblue" />
+          </View>
+        }
+      />
+      {/*</ScrollView>*/}
     </View>
   );
 };

@@ -7,6 +7,7 @@ import { Audio } from "expo-av";
 const volume_icon = require("@/assets/icons/Volume.svg");
 const copy_icon = require("@/assets/icons/Copy.svg");
 interface DataProps {
+  key: string;
   english: string;
   bhutia: string;
   pronunciation: string;
@@ -64,7 +65,10 @@ const PostContent: React.FC<PostContentProps> = ({
   return (
     <>
       {data_array?.map((item) => (
-        <View style={[styles.container, hasShadow && shadowStyles]}>
+        <View
+          key={item.key}
+          style={[styles.container, hasShadow && shadowStyles]}
+        >
           <Text style={styles.username}>{item?.english}</Text>
           <Text style={styles.username}>{item?.bhutia}</Text>
           <Text style={styles.postTime}>{item?.pronunciation}</Text>
@@ -84,7 +88,11 @@ const PostContent: React.FC<PostContentProps> = ({
           >
             <Image
               source={volume_icon}
-              style={{ alignContent: "flex-start", alignSelf: "flex-start" }}
+              style={{
+                alignContent: "flex-start",
+                alignSelf: "flex-start",
+                opacity: 1,
+              }}
             />
           </Pressable>
           <View style={styles.header}>
