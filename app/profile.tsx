@@ -5,6 +5,7 @@ import {
   View,
   ScrollView,
   Pressable,
+  Alert,
 } from "react-native";
 import React, { useEffect } from "react";
 import ScreenWrapper from "@/components/ScreenWrapper";
@@ -18,15 +19,67 @@ import { useRouter } from "expo-router";
 import PostCard from "@/components/PostCard";
 import Loading from "@/components/Loading";
 import LanguageData from "@/constants/languagedata";
+import { useMemo } from "react";
+import * as Clipboard from "expo-clipboard";
+import { Audio } from "expo-av";
+const copy_icon = require("@/assets/images/copy.png");
+const volume_icon = require("@/assets/images/volume.png");
+interface DataProps {
+  key: string;
+  english: string;
+  bhutia: string;
+  pronunciation: string;
+  audiolink: string;
+}
 
 const Home = () => {
   const [search, setSearch] = useState("");
+  const [sound, setSound] = useState<Audio.Sound | null>(null);
   const logo = require("@/assets/images/bkyt_logo.png");
+  const filteredRows = useMemo(() => {
+    const rows: Array<DataProps> = [];
+    const query = search.toLowerCase();
+    for (const item of LanguageData) {
+      for (const values of item.data) {
+        var english_search_index = item.english.toLowerCase().search(query);
+        var bhutia_search_index = item.bhutia.toLowerCase().search(query);
+        if (english_search_index !== -1 || bhutia_search_index !== -1) {
+          rows.push(values);
+        }
+      }
+    }
+    return rows.sort((a, b) => Number(a.key) - Number(b.key));
+  }, [search]);
   const router = useRouter();
+  const hasShadow = true;
+  const shadowStyles = {
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.06,
+    shadowRadius: 6,
+    elevation: 1,
+  };
+  async function copyToClipboard(text: string) {
+    await Clipboard.setStringAsync(text);
+    Alert.alert("Bhutia Word Copied To Clipboard");
+  }
+
+  const playAudio = async (source: string) => {
+    const { sound } = await Audio.Sound.createAsync({
+      uri: source,
+    });
+    setSound(sound);
+    await sound.playAsync();
+  };
   useEffect(() => {
-    getPosts();
-  }, []);
-  const getPosts = async () => {};
+    return sound
+      ? () => {
+          sound.unloadAsync();
+        }
+      : undefined;
+  }, [sound]);
   return (
     <ScreenWrapper bg={"white"}>
       {/*header*/}
@@ -38,31 +91,78 @@ const Home = () => {
           onChangeText={(value: string) => setSearch(value)}
         />
       </View>
-      <View>
-        <FlatList
-          data={LanguageData}
-          showsVerticalScrollIndicator={false}
-          contentContainerStyle={styles.listStyle}
-          keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => (
-            <Pressable
-              onPress={() => {
-                router.push({
-                  pathname: "/postDetails",
-                  params: { postId: item.id.toString() },
-                });
-              }}
+      if(filteredRows.length?)
+      {
+        <>
+          {filteredRows?.map((item) => (
+            <View
+              key={item.key}
+              style={[styles.container, hasShadow && shadowStyles]}
             >
-              <PostCard item={item} router={router} hasShadow={true} />
-            </Pressable>
-          )}
-          ListFooterComponent={
-            <View style={{ marginVertical: 30 }}>
-              <Loading size={25} color="skyblue" />
+              <Text style={styles.username}>{item?.english}</Text>
+              <Text style={styles.username}>{item?.bhutia}</Text>
+              <Text style={styles.postTime}>{item?.pronunciation}</Text>
+              <Pressable onPress={() => copyToClipboard(item.bhutia)}>
+                <Image
+                  source={copy_icon}
+                  style={[
+                    {
+                      alignContent: "flex-start",
+                      alignSelf: "flex-start",
+                    },
+                    styles.avatarImage,
+                  ]}
+                />
+              </Pressable>
+              <Pressable
+                onPress={() => {
+                  playAudio(item?.audiolink);
+                }}
+              >
+                <Image
+                  source={volume_icon}
+                  style={[
+                    {
+                      alignContent: "flex-start",
+                      alignSelf: "flex-start",
+                      opacity: 1,
+                    },
+                    styles.avatarImage,
+                  ]}
+                />
+              </Pressable>
             </View>
-          }
-        />
-      </View>
+          ))}
+        </>
+      }
+      else
+      {
+        <View>
+          <FlatList
+            data={LanguageData}
+            showsVerticalScrollIndicator={false}
+            contentContainerStyle={styles.listStyle}
+            keyExtractor={(item) => item.id.toString()}
+            renderItem={({ item }) => (
+              <Pressable
+                onPress={() => {
+                  router.push({
+                    pathname: "/postDetails",
+                    params: { postId: item.id.toString() },
+                  });
+                }}
+              >
+                <PostCard item={item} router={router} hasShadow={true} />
+              </Pressable>
+            )}
+            ListFooterComponent={
+              <View style={{ marginVertical: 30 }}>
+                <Loading size={25} color="skyblue" />
+              </View>
+            }
+          />
+        </View>
+      }
     </ScreenWrapper>
   );
 };
@@ -121,6 +221,19 @@ const styles = StyleSheet.create({
   pillText: {
     color: "white",
     fontSize: height_percentage(1.2),
+    fontWeight: "600",
+  },
+  username: {
+    fontSize: height_percentage(2.7),
+    color: theme.colors.textDark,
+    fontWeight: "bold",
+    alignContent: "flex-start",
+    textAlign: "left",
+  },
+  postTime: {
+    fontSize: height_percentage(2.2),
+    color: theme.colors.textLight,
+    fontStyle: "italic",
     fontWeight: "600",
   },
 });
