@@ -43,7 +43,7 @@ const Home = () => {
     const query: string = search.toLowerCase();
     for (const item of Data) {
       var english_search_index = item.english.toLowerCase().startsWith(query);
-      var bhutia_search_index = item.bhutia.toLowerCase().search(query);
+      var bhutia_search_index = item.bhutia.toLowerCase().startsWith(query);
       if (english_search_index || bhutia_search_index) {
         //|| bhutia_search_index !== -1) {
         rows.push(item);
