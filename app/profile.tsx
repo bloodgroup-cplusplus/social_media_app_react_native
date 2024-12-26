@@ -38,12 +38,14 @@ const Home = () => {
   const [sound, setSound] = useState<Audio.Sound | null>(null);
   const logo = require("@/assets/images/bkyt_logo.png");
   const filteredRows = useMemo(() => {
-    const rows: Array<DataProps> = [];
-    const query = search.toLowerCase();
+    if (!search.trim()) return [];
+    const rows: DataProps[] = Array<DataProps>(0);
+    const query: string = search.toLowerCase();
     for (const item of Data) {
-      var english_search_index = item.english.toLowerCase().search(query);
-      var bhutia_search_index = item.bhutia.toLowerCase().search(query);
-      if (english_search_index !== -1 || bhutia_search_index !== -1) {
+      var english_search_index = item.english.toLowerCase().startsWith(query);
+      //var bhutia_search_index = item.bhutia.toLowerCase().search(query);
+      if (english_search_index) {
+        //|| bhutia_search_index !== -1) {
         rows.push(item);
       }
     }
@@ -90,9 +92,9 @@ const Home = () => {
           onChangeText={(value: string) => setSearch(value)}
         />
       </View>
-      {/*{filteredRows.length ? (
+      {filteredRows.length ? (
         <>
-          {filteredRows?.map((item) => (
+          {filteredRows.slice(0, 6).map((item) => (
             <View
               key={item.key}
               style={[styles.container, hasShadow && shadowStyles]}
@@ -132,38 +134,33 @@ const Home = () => {
             </View>
           ))}
         </>
-      ) :*/}
-      {
-        //(
-      }
-      <View>
-        <FlatList
-          data={LanguageData}
-          showsVerticalScrollIndicator={false}
-          contentContainerStyle={styles.listStyle}
-          keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => (
-            <Pressable
-              onPress={() => {
-                router.push({
-                  pathname: "/postDetails",
-                  params: { postId: item.id.toString() },
-                });
-              }}
-            >
-              <PostCard item={item} router={router} hasShadow={true} />
-            </Pressable>
-          )}
-          ListFooterComponent={
-            <View style={{ marginVertical: 30 }}>
-              <Loading size={25} color="skyblue" />
-            </View>
-          }
-        />
-      </View>
-      {
-        // )}
-      }
+      ) : (
+        <View>
+          <FlatList
+            data={LanguageData}
+            showsVerticalScrollIndicator={false}
+            contentContainerStyle={styles.listStyle}
+            keyExtractor={(item) => item.id.toString()}
+            renderItem={({ item }) => (
+              <Pressable
+                onPress={() => {
+                  router.push({
+                    pathname: "/postDetails",
+                    params: { postId: item.id.toString() },
+                  });
+                }}
+              >
+                <PostCard item={item} router={router} hasShadow={true} />
+              </Pressable>
+            )}
+            ListFooterComponent={
+              <View style={{ marginVertical: 30 }}>
+                <Loading size={25} color="skyblue" />
+              </View>
+            }
+          />
+        </View>
+      )}
     </ScreenWrapper>
   );
 };
