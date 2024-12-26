@@ -19,11 +19,12 @@ import { useRouter } from "expo-router";
 import PostCard from "@/components/PostCard";
 import Loading from "@/components/Loading";
 import LanguageData from "@/constants/languagedata";
+import Data from "@/constants/data";
 import { useMemo } from "react";
 import * as Clipboard from "expo-clipboard";
 import { Audio } from "expo-av";
-const copy_icon = require("@/assets/images/copy.png");
-const volume_icon = require("@/assets/images/volume.png");
+const copy_icon = require("@/assets/icons/copy.png");
+const volume_icon = require("@/assets/icons/volume.png");
 interface DataProps {
   key: string;
   english: string;
@@ -39,13 +40,11 @@ const Home = () => {
   const filteredRows = useMemo(() => {
     const rows: Array<DataProps> = [];
     const query = search.toLowerCase();
-    for (const item of LanguageData) {
-      for (const values of item.data) {
-        var english_search_index = item.english.toLowerCase().search(query);
-        var bhutia_search_index = item.bhutia.toLowerCase().search(query);
-        if (english_search_index !== -1 || bhutia_search_index !== -1) {
-          rows.push(values);
-        }
+    for (const item of Data) {
+      var english_search_index = item.english.toLowerCase().search(query);
+      var bhutia_search_index = item.bhutia.toLowerCase().search(query);
+      if (english_search_index !== -1 || bhutia_search_index !== -1) {
+        rows.push(item);
       }
     }
     return rows.sort((a, b) => Number(a.key) - Number(b.key));
@@ -91,8 +90,7 @@ const Home = () => {
           onChangeText={(value: string) => setSearch(value)}
         />
       </View>
-      if(filteredRows.length?)
-      {
+      {/*{filteredRows.length ? (
         <>
           {filteredRows?.map((item) => (
             <View
@@ -134,34 +132,37 @@ const Home = () => {
             </View>
           ))}
         </>
-      }
-      else
+      ) :*/}
       {
-        <View>
-          <FlatList
-            data={LanguageData}
-            showsVerticalScrollIndicator={false}
-            contentContainerStyle={styles.listStyle}
-            keyExtractor={(item) => item.id.toString()}
-            renderItem={({ item }) => (
-              <Pressable
-                onPress={() => {
-                  router.push({
-                    pathname: "/postDetails",
-                    params: { postId: item.id.toString() },
-                  });
-                }}
-              >
-                <PostCard item={item} router={router} hasShadow={true} />
-              </Pressable>
-            )}
-            ListFooterComponent={
-              <View style={{ marginVertical: 30 }}>
-                <Loading size={25} color="skyblue" />
-              </View>
-            }
-          />
-        </View>
+        //(
+      }
+      <View>
+        <FlatList
+          data={LanguageData}
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={styles.listStyle}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={({ item }) => (
+            <Pressable
+              onPress={() => {
+                router.push({
+                  pathname: "/postDetails",
+                  params: { postId: item.id.toString() },
+                });
+              }}
+            >
+              <PostCard item={item} router={router} hasShadow={true} />
+            </Pressable>
+          )}
+          ListFooterComponent={
+            <View style={{ marginVertical: 30 }}>
+              <Loading size={25} color="skyblue" />
+            </View>
+          }
+        />
+      </View>
+      {
+        // )}
       }
     </ScreenWrapper>
   );
