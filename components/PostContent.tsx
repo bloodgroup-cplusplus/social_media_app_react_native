@@ -69,38 +69,42 @@ const PostContent: React.FC<PostContentProps> = ({
           key={item.key}
           style={[styles.container, hasShadow && shadowStyles]}
         >
-          <Text style={styles.username}>{item?.english}</Text>
+          <View style={styles.row}>
+            <Text style={styles.username}>{item?.english}</Text>
+            <Pressable onPress={() => copyToClipboard(item.bhutia)}>
+              <Image
+                source={copy_icon}
+                style={[
+                  {
+                    alignContent: "flex-start",
+                    alignSelf: "flex-start",
+                  },
+                  styles.avatarImage,
+                ]}
+              />
+            </Pressable>
+          </View>
           <Text style={styles.username}>{item?.bhutia}</Text>
-          <Text style={styles.postTime}>{item?.pronunciation}</Text>
-          <Pressable onPress={() => copyToClipboard(item.bhutia)}>
-            <Image
-              source={copy_icon}
-              style={[
-                {
-                  alignContent: "flex-start",
-                  alignSelf: "flex-start",
-                },
-                styles.avatarImage,
-              ]}
-            />
-          </Pressable>
-          <Pressable
-            onPress={() => {
-              playAudio(item?.audiolink);
-            }}
-          >
-            <Image
-              source={volume_icon}
-              style={[
-                {
-                  alignContent: "flex-start",
-                  alignSelf: "flex-start",
-                  opacity: 1,
-                },
-                styles.avatarImage,
-              ]}
-            />
-          </Pressable>
+          <View style={styles.row}>
+            <Text style={styles.postTime}>{item?.pronunciation}</Text>
+            <Pressable
+              onPress={() => {
+                playAudio(item?.audiolink);
+              }}
+            >
+              <Image
+                source={volume_icon}
+                style={[
+                  {
+                    alignContent: "flex-start",
+                    alignSelf: "flex-start",
+                    opacity: 1,
+                  },
+                  styles.avatarImage,
+                ]}
+              />
+            </Pressable>
+          </View>
         </View>
       ))}
     </>
@@ -143,6 +147,12 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
     fontWeight: "600",
   },
+  row: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    marginBottom: 5,
+  },
   content: {
     gap: 10,
   },
@@ -170,8 +180,8 @@ const styles = StyleSheet.create({
     flexDirection: "row",
   },
   avatarImage: {
-    height: height_percentage(5.3),
-    width: height_percentage(5.3),
+    height: height_percentage(3.3),
+    width: height_percentage(3.3),
     //borderRadius: theme.radius.sm,
     borderCurve: "continuous",
     borderColor: theme.colors.gray,
