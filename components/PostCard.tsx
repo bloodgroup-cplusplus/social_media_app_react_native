@@ -25,7 +25,6 @@ const PostCard: React.FC<PostCardProps> = ({
     shadowRadius: 6,
     elevation: 1,
   };
-  const openPostDetails = () => {};
   return (
     <>
       <View style={[styles.container, hasShadow && shadowStyles]}>
