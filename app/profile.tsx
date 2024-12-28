@@ -95,47 +95,53 @@ const Home = () => {
       {filteredRows.length ? (
         <>
           {filteredRows.slice(0, 6).map((item) => (
-            <View
-              key={item.key}
-              style={[styles.container, hasShadow && shadowStyles]}
-            >
-              <View style={styles.row}>
-                <Text style={styles.username}>{item?.english}</Text>
-                <Pressable onPress={() => copyToClipboard(item.bhutia)}>
-                  <Image
-                    source={copy_icon}
-                    style={[
-                      {
-                        alignContent: "flex-start",
-                        alignSelf: "flex-start",
-                      },
-                      styles.avatarImage,
-                    ]}
-                  />
-                </Pressable>
+            <>
+              <View style={styles.container}>
+                <ScrollView>
+                  <View
+                    key={item.key}
+                    style={[styles.smallcontainer, hasShadow && shadowStyles]}
+                  >
+                    <View style={styles.row}>
+                      <Text style={styles.username}>{item?.english}</Text>
+                      <Pressable onPress={() => copyToClipboard(item.bhutia)}>
+                        <Image
+                          source={copy_icon}
+                          style={[
+                            {
+                              alignContent: "flex-start",
+                              alignSelf: "flex-start",
+                            },
+                            styles.avatarImage,
+                          ]}
+                        />
+                      </Pressable>
+                    </View>
+                    <Text style={styles.username}>{item?.bhutia}</Text>
+                    <View style={styles.row}>
+                      <Text style={styles.postTime}>{item?.pronunciation}</Text>
+                      <Pressable
+                        onPress={() => {
+                          playAudio(item?.audiolink);
+                        }}
+                      >
+                        <Image
+                          source={volume_icon}
+                          style={[
+                            {
+                              alignContent: "flex-start",
+                              alignSelf: "flex-start",
+                              opacity: 1,
+                            },
+                            styles.avatarImage,
+                          ]}
+                        />
+                      </Pressable>
+                    </View>
+                  </View>
+                </ScrollView>
               </View>
-              <Text style={styles.username}>{item?.bhutia}</Text>
-              <View style={styles.row}>
-                <Text style={styles.postTime}>{item?.pronunciation}</Text>
-                <Pressable
-                  onPress={() => {
-                    playAudio(item?.audiolink);
-                  }}
-                >
-                  <Image
-                    source={volume_icon}
-                    style={[
-                      {
-                        alignContent: "flex-start",
-                        alignSelf: "flex-start",
-                        opacity: 1,
-                      },
-                      styles.avatarImage,
-                    ]}
-                  />
-                </Pressable>
-              </View>
-            </View>
+            </>
           ))}
         </>
       ) : (
@@ -172,7 +178,12 @@ export default Home;
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 2,
+    backgroundColor: "white",
+    paddingVertical: width_percentage(6),
+  },
+  smallcontainer: {
+    flex: 2,
   },
   header: {
     flexDirection: "row",
