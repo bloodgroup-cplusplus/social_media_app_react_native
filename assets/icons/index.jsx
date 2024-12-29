@@ -3,6 +3,7 @@ import React from "react";
 import Search from "./Search";
 import { theme } from "../../constants/theme";
 import ArrowLeft from "./ArrowLeft";
+import Home from "./Home";
 
 const icons = {
   home: Home,
