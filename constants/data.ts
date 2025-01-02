@@ -417,359 +417,359 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "51",
+    key: "52",
     english: "Ben",
     bhutia: "འབེན།",
     pronunciation: "ben",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802408/places/ben_qqylhx.mp4",
   },
   {
-    key: "52",
+    key: "53",
     english: "Chungthang",
     bhutia: "བཙུན་ཐང།",
     pronunciation: "tsun-thang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802410/places/chungthang_ol1pyv.mp4",
   },
   {
-    key: "53",
+    key: "54",
     english: "Chomgo",
     bhutia: "མཚོ་མགོ།",
     pronunciation: "tso-mgo",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802410/places/chomgo_qgjxfu.mp4",
   },
   {
-    key: "54",
+    key: "55",
     english: "Dechenling",
     bhutia: "ལྕགས་གུང་།",
     pronunciation: "dechen ling",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802411/places/dechenling_w4eh6u.mp4",
   },
   {
-    key: "55",
+    key: "56",
     english: "Deorali",
     bhutia: "འདེབས་ར་གླིང་།",
     pronunciation: "deb-ra ling",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802411/places/deorali_haycb5.mp4",
   },
   {
-    key: "56",
+    key: "57",
     english: "Doling",
     bhutia: "རྡོ་གླིང་།",
     pronunciation: "do-ling",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802413/places/doling_adcx5v.mp4",
   },
   {
-    key: "57",
+    key: "58",
     english: "Dzongu",
     bhutia: "རྗོང་མགོ།",
     pronunciation: "dzong-mgo",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802414/places/dzongu_n8k40n.mp4",
   },
   {
-    key: "58",
+    key: "59",
     english: "Dikchu",
     bhutia: "སྒྲིག་ཆུ།",
     pronunciation: "sdrig-chu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802412/places/dikchu_rns5it.mp4",
   },
   {
-    key: "59",
+    key: "60",
     english: "Dolung",
     bhutia: "དོ་ལུང།",
     pronunciation: "do-lung",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802414/places/dolung_rt3rzh.mp4",
   },
   {
-    key: "60",
+    key: "61",
     english: "Enchey",
     bhutia: "དབེན་ཅན།",
     pronunciation: "onen-chen",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802415/places/enchey_pmljsx.mp4",
   },
   {
-    key: "61",
+    key: "62",
     english: "Guru dogmar",
     bhutia: "གུ་རུ་གདོང་དམར།",
     pronunciation: "guru-dong-mar",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802417/places/gurudogmar_xrxn28.mp4",
   },
   {
-    key: "62",
+    key: "63",
     english: "Gangtok",
     bhutia: "སྒང་ཏོག་ ཡང་ན་ སྒང་ཐོག།",
     pronunciation: "gang-tog / gang-thog",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802416/places/gangtok_bos5xt.mp4",
   },
   {
-    key: "63",
+    key: "64",
     english: "Gyalshing",
     bhutia: "རྒྱལ་ཞིང་།",
     pronunciation: "gyal-shing",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802417/places/gyalshing_ldexpw.mp4",
   },
   {
-    key: "64",
+    key: "65",
     english: "Jorethang",
     bhutia: "འབྱོར་ཐང་།",
     pronunciation: "jor-thang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802418/places/jorethang_tyrocc.mp4",
   },
   {
-    key: "65",
+    key: "66",
     english: "Kewsing",
     bhutia: "གྱོ་ཞིང།",
     pronunciation: "gyo-shing",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802419/places/kewsing_qhpclu.mp4",
   },
   {
-    key: "66",
+    key: "67",
     english: "Khachodpalri",
     bhutia: "མཁའ་སྤྱོད་དཔལ་རི།",
     pronunciation: "kha-chod-palri",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802421/places/khachodpalri_pxpxmd.mp4",
   },
   {
-    key: "67",
+    key: "68",
     english: "Kabi",
     bhutia: "ག་བི།",
     pronunciation: "ga-bhi",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802419/places/kabi_e0hfp2.mp4",
   },
   {
-    key: "68",
+    key: "69",
     english: "Lachen",
     bhutia: "ལ་ཆེན།",
     pronunciation: "la-chen",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802421/places/lachen_l6ijeu.mp4",
   },
   {
-    key: "69",
+    key: "70",
     english: "Lachung",
     bhutia: "ལ་ཆུང་།",
     pronunciation: "la-chung",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802422/places/lachung_xob03f.mp4",
   },
   {
-    key: "70",
+    key: "71",
     english: "Machang",
     bhutia: "མོ་མཚོ།",
     pronunciation: "mo-cho",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802423/places/machang_wvcpok.mp4",
   },
   {
-    key: "71",
+    key: "72",
     english: "Mangan",
     bhutia: "མ་མགོན།",
     pronunciation: "ma-mgon",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802424/places/mangan_ax7kn2.mp4",
   },
   {
-    key: "72",
+    key: "73",
     english: "Martam",
     bhutia: "མར་གཏམ་།",
     pronunciation: "mar-tam",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802424/places/martam_kfzfbu.mp4",
   },
   {
-    key: "73",
+    key: "74",
     english: "Namchi",
     bhutia: "རྣམ་རྩེ་།",
     pronunciation: "nam-tse",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802425/places/namchi_dfxspo.mp4",
   },
   {
-    key: "74",
+    key: "75",
     english: "Nathula",
     bhutia: "སྣ་ཐོས་ལ་།",
     pronunciation: "na-thos la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802426/places/nathula_dsyqir.mp4",
   },
   {
-    key: "75",
+    key: "76",
     english: "Phensang",
     bhutia: "ཕན་བཟང་།",
     pronunciation: "phen-sang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802428/places/phensang_i5yyvn.mp4",
   },
   {
-    key: "76",
+    key: "77",
     english: "Phodong",
     bhutia: "ཕོ་གདོང་།",
     pronunciation: "pho-dong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802428/places/pho-dong_fxxou6.mp4",
   },
   {
-    key: "77",
+    key: "78",
     english: "Pakyong",
     bhutia: "དཔའ་སྐྱོངས།",
     pronunciation: "pa-kyong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802427/places/pakyong_hfudnf.mp4",
   },
   {
-    key: "78",
+    key: "79",
     english: "Pelling",
     bhutia: "པད་གླིང་།",
     pronunciation: "ped-ling",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802427/places/pelling_cg8ere.mp4",
   },
   {
-    key: "79",
+    key: "80",
     english: "Rinchengpong",
     bhutia: "རིན་ཆེན་སྤུངས་།",
     pronunciation: "rin-chen-pong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802431/places/rin-chen-pong_awqxz2.mp4",
   },
   {
-    key: "80",
+    key: "81",
     english: "Ravong",
     bhutia: "ར་བོང་།",
     pronunciation: "ravong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802430/places/ravong_g016tz.mp4",
   },
   {
-    key: "81",
+    key: "82",
     english: "Rigon",
     bhutia: "རི་མགོན་།",
     pronunciation: "ri-mgon",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802431/places/rigon_isus0v.mp4",
   },
   {
-    key: "82",
+    key: "83",
     english: "Rongpo",
     bhutia: "རིང་ཕུ་།",
     pronunciation: "rong-phu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802429/places/rangpo_lnyzfw.mp4",
   },
   {
-    key: "83",
+    key: "84",
     english: "Singtham",
     bhutia: "ཤིང་གཏམ་།",
     pronunciation: "shing-tam",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802434/places/singtham_evwgqa.mp4",
   },
   {
-    key: "84",
+    key: "85",
     english: "Sangmo",
     bhutia: "བསང་མོ་།",
     pronunciation: "sang-mo",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802433/places/sangmo_p1ngb2.mp4",
   },
   {
-    key: "85",
+    key: "86",
     english: "Sang",
     bhutia: "བསང་།",
     pronunciation: "sang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802432/places/sang_dxrnyy.mp4",
   },
   {
-    key: "86",
+    key: "87",
     english: "Soreng",
     bhutia: "ཟར་ཡོང་།",
     pronunciation: "zhar-yong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802435/places/soreng_ajmekr.mp4",
   },
   {
-    key: "87",
+    key: "88",
     english: "Sichey",
     bhutia: "ཚེར་ཅག་སྒང་།",
     pronunciation: "tser-chag gang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802433/places/sichey_c8grqh.mp4",
   },
   {
-    key: "88",
+    key: "89",
     english: "Tashiding",
     bhutia: "བཀྲ་ཤིས་སྡིངས་།",
     pronunciation: "tashi-ding",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802437/places/tashiding_r2uuqv.mp4",
   },
   {
-    key: "89",
+    key: "90",
     english: "Tadong",
     bhutia: "རྟ་གདོང་།",
     pronunciation: "ta-dong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802435/places/tadong_b2phnk.mp4",
   },
   {
-    key: "90",
+    key: "91",
     english: "Tathangchen",
     bhutia: "རྟ་ཐང་ཅན་།",
     pronunciation: "ta-thang chen",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802438/places/tathangchen_yazpvd.mp4",
   },
   {
-    key: "91",
+    key: "92",
     english: "Tsuglagkhang",
     bhutia: "གཙུག་ལག་ཁང་།",
     pronunciation: "tsug-lag khang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802439/places/tsuglagkhang_nwdlws.mp4",
   },
   {
-    key: "92",
+    key: "93",
     english: "Tarku",
     bhutia: "དར་ཁུ་།",
     pronunciation: "dar-khu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802436/places/tarku_cep7mv.mp4",
   },
   {
-    key: "93",
+    key: "94",
     english: "Yangang",
     bhutia: "གཡང་སྒང་།",
     pronunciation: "yang-gang",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802439/places/yangang_xuygyu.mp4",
   },
   {
-    key: "94",
+    key: "95",
     english: "Yuksam",
     bhutia: "ཡུག་བསམ་།",
     pronunciation: "yug-sam",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802440/places/yuksam_kqspwo.mp4",
   },
   {
-    key: "95",
+    key: "96",
     english: "Amulet",
     bhutia: "གའུ།",
     pronunciation: "gau",
@@ -777,7 +777,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "96",
+    key: "97",
     english: "Bhutia woman dress",
     bhutia: "མོ་རྒྱན།དཀར་དན།",
     pronunciation: "mo-gyen/karden",
@@ -785,7 +785,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "97",
+    key: "98",
     english: "Bhutia Traditional Apron Used By Woman",
     bhutia: "པང་གདན།",
     pronunciation: "pangden",
@@ -793,7 +793,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "98",
+    key: "99",
     english: "Bhutia Male Dress",
     bhutia: "ཐ་ར།",
     pronunciation: "thara",
@@ -801,7 +801,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "99",
+    key: "100",
     english: "Bhutia Male Hat",
     bhutia: "ཐོ་རིལ་ ཞྭ་མོ།སྤོབ་རི་ ཞྭ་མོ།",
     pronunciation: "thuri shampo / popri shamo",
@@ -809,7 +809,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "100",
+    key: "101",
     english: "Bhutia Female Hat",
     bhutia: "ཟི་ལིང་ ། ཀུན་དགའ་ ཞྭ་མོ།",
     pronunciation: "zi-ling shamo / kunga shamo",
@@ -817,7 +817,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "101",
+    key: "102",
     english: "Bhutia Traditional Dress",
     bhutia: "གོས།",
     pronunciation: "gkos",
@@ -825,7 +825,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "102",
+    key: "103",
     english: "Female Scarf used during marriages",
     bhutia: "ཁ་ཊི།",
     pronunciation: "khati",
@@ -833,7 +833,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "103",
+    key: "104",
     english: "Male ceremonial scarf",
     bhutia: "ཁ་མ།",
     pronunciation: "khama",
@@ -841,7 +841,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "104",
+    key: "105",
     english: "Pyjama / Pant",
     bhutia: "རྒྱ་དོར།",
     pronunciation: "gyador",
@@ -849,7 +849,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "105",
+    key: "106",
     english: "Pearl Garland",
     bhutia: "མུ་ཏེག་ ཕ༹ྱེང་བ་།",
     pronunciation: "mutik phyem-bu",
@@ -857,7 +857,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "106",
+    key: "107",
     english: "Red Coral / Coral ",
     bhutia: "བ༹ྱུར།",
     pronunciation: "bhyur",
@@ -865,7 +865,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "107",
+    key: "108",
     english: "Shirt",
     bhutia: "འོན་དར་ཛི།",
     pronunciation: "hon-dar-tsi",
@@ -873,7 +873,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "108",
+    key: "109",
     english: "Shoes",
     bhutia: "ཞབས་ལྷམ།",
     pronunciation: "shap lham",
@@ -881,7 +881,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "109",
+    key: "110",
     english: "White cotton jeans",
     bhutia: "ག་ད།མོ་སྐེད།",
     pronunciation: "ga-da/mo-kyet",
@@ -889,7 +889,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "110",
+    key: "111",
     english: "Bhutia new year or harvest festival of the sikkimese bhutias",
     bhutia: "ལོ་སྲུང།",
     pronunciation: "losoong",
@@ -897,7 +897,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "111",
+    key: "112",
     english: "Great Miraculous Prayer Festival",
     bhutia: "ཆོ་འཕྲུལ་ དུས་ཆེན།",
     pronunciation: "cho trul duechen",
@@ -905,7 +905,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "112",
+    key: "113",
     english: "General Healing Ceremony",
     bhutia: "སྤྱི་རིམ།",
     pronunciation: "chi-rim",
@@ -913,7 +913,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "113",
+    key: "114",
     english: "Guru Drakmar Ceremony",
     bhutia: "གུ་རུ་ དྲག་དམར།",
     pronunciation: "guru drak-mar",
@@ -921,7 +921,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "114",
+    key: "115",
     english:
       "Month of Vaisakha. A triple blessed occassion of birth, enlightenment and pari nirvana of buddha shakyamuni",
     bhutia: "ས་ག་ཟླ་བོ།",
@@ -930,7 +930,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "115",
+    key: "116",
     english: "Offering of the 8th Lunar Date or Taras Day",
     bhutia: "འདེབས་ར་གླིང་།",
     pronunciation: "band-da",
@@ -938,7 +938,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "116",
+    key: "117",
     english: "Offering of the tenth lunar date or guru Rinpoche's birthday",
     bhutia: "ཚེས་བཅུ།",
     pronunciation: "tse-chu",
@@ -947,7 +947,7 @@ const Data: Array<DataProps> = [
   },
 
   {
-    key: "117",
+    key: "118",
     english:
       "Offering of the 15th Lunar Date or Green Tara's and Medicine Buddha's Day  ",
     bhutia: "ཚེས་པ་བཅུ་ལྔ།",
@@ -956,7 +956,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "118",
+    key: "119",
     english: "Offering of the 25th Lunar Date or Dakini's Day",
     bhutia: "ཉེར་ལྔ།",
     pronunciation: "nyer-nga",
@@ -964,7 +964,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "119",
+    key: "120",
     english: "Offering of 29th Lunar Date",
     bhutia: "ཉེར་དགུ།",
     pronunciation: "nyer-ga",
@@ -972,7 +972,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "120",
+    key: "121",
     english: "Offering of the 30th Lunar Date or Buddha Shakyamuni's Day",
     bhutia: "གནམ་གང།",
     pronunciation: "nyer-gu",
@@ -981,7 +981,7 @@ const Data: Array<DataProps> = [
   },
 
   {
-    key: "121",
+    key: "122",
     english: "Tibetan New Year",
     bhutia: "ལོ་གསར།",
     pronunciation: "losar",
@@ -989,7 +989,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "122",
+    key: "123",
     english:
       "The fourth of the sixth month on which Lord Buddha delivered his first sermon at Sarnath",
     bhutia: "དྲུག་པོ་ཚེས་ བཞི། ཆོས་འཁོར་ དུས་ཆེན།",
@@ -998,7 +998,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "123",
+    key: "124",
     english: "The Buddha's Descent from heaven",
     bhutia: "ལྷ་འབབས་ དུས་ཆེན།",
     pronunciation: "lha-bab duechen",
@@ -1006,7 +1006,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "124",
+    key: "125",
     english: "Worship of the witness deities",
     bhutia: "དཔང་ལྷ་གསོལ།",
     pronunciation: "khang-chen dzod-nga",
@@ -1014,7 +1014,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "125",
+    key: "126",
     english: "Apple",
     bhutia: "ཀུ་ཤུ།",
     pronunciation: "kushu",
@@ -1022,7 +1022,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "126",
+    key: "127",
     english: "Apricot",
     bhutia: "མངའ་རིས་ཁམ་བུ།།",
     pronunciation: "nga-ri kham-bu",
@@ -1030,7 +1030,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "127",
+    key: "128",
     english: "Avocado",
     bhutia: "སྤོམ་སི།",
     pronunciation: "phom-si",
@@ -1038,7 +1038,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "128",
+    key: "129",
     english: "Banana",
     bhutia: "སཀྱེས་སྡོང།",
     pronunciation: "kae-dhong",
@@ -1046,7 +1046,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "129",
+    key: "130",
     english: "Balsam Pear",
     bhutia: "ཁག་ཏིག།",
     pronunciation: "khag-tig",
@@ -1054,7 +1054,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "130",
+    key: "131",
     english: "Coconut",
     bhutia: "ཀོ་ཀོ་འཇམ།",
     pronunciation: "ko-ko jam",
@@ -1062,7 +1062,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "131",
+    key: "132",
     english: "Local Cherry",
     bhutia: "ཁམ་སྐྱིད་ རྡོག་མ།",
     pronunciation: "kham-ki dhog-ma",
@@ -1070,7 +1070,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "132",
+    key: "133",
     english: "Fig",
     bhutia: "སྐྱེ་ལྡང་རྡོང་མ།",
     pronunciation: "kae-dhang dhog-ma",
@@ -1078,7 +1078,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "133",
+    key: "134",
     english: "Guava",
     bhutia: "བེབས་སི།",
     pronunciation: "bheb-sa / bal-si / am-ba",
@@ -1086,7 +1086,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "134",
+    key: "135",
     english: "Grapes",
     bhutia: "རྒུན་འབྲུམ།",
     pronunciation: "gyun-drumm",
@@ -1094,7 +1094,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "135",
+    key: "136",
     english: "Groundnut",
     bhutia: "སོ་སྐྱེས།",
     pronunciation: "so-kay",
@@ -1102,7 +1102,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "136",
+    key: "137",
     english: "Chesnut",
     bhutia: "སོ་སྐྱེས།།",
     pronunciation: "so-kay",
@@ -1110,7 +1110,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "137",
+    key: "138",
     english: "Haw",
     bhutia: "སྐྱུ་རུ་ར།",
     pronunciation: "kyu-ru-ra",
@@ -1118,7 +1118,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "138",
+    key: "139",
     english: "Jackfruit",
     bhutia: "མར་ཤེ།",
     pronunciation: "mar-she",
@@ -1126,7 +1126,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "139",
+    key: "140",
     english: "Lime",
     bhutia: "སྐྱུར་འབྲས།",
     pronunciation: "kyur-drae",
@@ -1134,7 +1134,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "140",
+    key: "141",
     english: "Lemon",
     bhutia: "འབེས་པེ།",
     pronunciation: "bis-pae",
@@ -1142,7 +1142,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "141",
+    key: "142",
     english: "Mango",
     bhutia: "ཨམྲ་བི།",
     pronunciation: "amm-bhi",
@@ -1150,7 +1150,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "142",
+    key: "143",
     english: "Orange",
     bhutia: "ཚ་ལུམ།",
     pronunciation: "tsa-lhum",
@@ -1158,7 +1158,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "143",
+    key: "144",
     english: "Pomegranate",
     bhutia: "སེའུ་འབྲས།",
     pronunciation: "sewu-drae",
@@ -1166,7 +1166,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "144",
+    key: "145",
     english: "Peach",
     bhutia: "ཁམ་བུ།",
     pronunciation: "kham-bu",
@@ -1174,7 +1174,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "145",
+    key: "146",
     english: "Pear",
     bhutia: "ལི།",
     pronunciation: "li",
@@ -1182,7 +1182,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "146",
+    key: "147",
     english: "Pineapple",
     bhutia: "སྦར།",
     pronunciation: "bar",
@@ -1190,7 +1190,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "147",
+    key: "148",
     english: "Rasberry",
     bhutia: "ཚེར་ལུམ།",
     pronunciation: "tser-lum",
@@ -1198,7 +1198,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "148",
+    key: "149",
     english: "Strawberry",
     bhutia: "འབྲི་ཏ་ས་འཛིན།",
     pronunciation: "drita sa-zin",
@@ -1206,7 +1206,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "149",
+    key: "150",
     english: "Sugarcane",
     bhutia: "གུར་ཤིང་།",
     pronunciation: "gur-shing",
@@ -1214,7 +1214,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "150",
+    key: "151",
     english: "Walnut",
     bhutia: "སྟར་ཁ།",
     pronunciation: "thar-ka",
@@ -1222,7 +1222,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "151",
+    key: "152",
     english: "Watermelon",
     bhutia: "བསིལ་འབྲས།",
     pronunciation: "sil-drae",
@@ -1230,7 +1230,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "152",
+    key: "153",
     english: "Boiled pork meat",
     bhutia: "ཕག་ཤ་ རྒྱ་རི།",
     pronunciation: "phag-sha gya-ri",
@@ -1238,7 +1238,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "153",
+    key: "154",
     english: "Boiled beef meat",
     bhutia: "གླང་ཤ་རྒྱ་རི།",
     pronunciation: "lang-sha gya-ri",
@@ -1246,7 +1246,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "154",
+    key: "155",
     english: "A butter and cheese mixed dish",
     bhutia: "མར་ཁུ།",
     pronunciation: "mar-khu",
@@ -1254,7 +1254,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "155",
+    key: "156",
     english: "Cheese Pickle",
     bhutia: "ཕྱུ་ཨ་ཀར།",
     pronunciation: "chu-akar",
@@ -1262,7 +1262,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "156",
+    key: "157",
     english: "Cheese broth",
     bhutia: "ཕྱུ་ལྟོ་ ཁུ།",
     pronunciation: "chu-to-ku",
@@ -1270,7 +1270,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "157",
+    key: "158",
     english: "Heads meat",
     bhutia: "མགོ་ཤ།",
     pronunciation: "mgo-sha",
@@ -1278,7 +1278,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "158",
+    key: "159",
     english: "Legs Meat",
     bhutia: "རྐང་ཅུང།",
     pronunciation: "kang-chung",
@@ -1286,7 +1286,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "159",
+    key: "160",
     english: "Lhopos traditional cookies made of rice floor",
     bhutia: "བཞེས་རོ།",
     pronunciation: "bzae-ro",
@@ -1294,7 +1294,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "160",
+    key: "161",
     english: "Lhopos traditional snack made of rice floor",
     bhutia: "ཁ་ཟས།",
     pronunciation: "kha-zae",
@@ -1302,7 +1302,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "161",
+    key: "162",
     english: "Veg roll",
     bhutia: "ཁུ་སྒྲིལ།",
     pronunciation: "khu-dri",
@@ -1310,7 +1310,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "162",
+    key: "163",
     english: "Mixed Veg rice",
     bhutia: "ཚོད་ཉོག།",
     pronunciation: "tsod-nyog",
@@ -1318,7 +1318,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "163",
+    key: "164",
     english: "Millet chapati",
     bhutia: "མིན་ལྕ་ཁུ།",
     pronunciation: "min-chang khu",
@@ -1326,12 +1326,147 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
   {
-    key: "164",
+    key: "165",
     english: "Nettle Broth",
     bhutia: "ཟོ་ཅག་ཚོདམ་ ཡང་ན་ ཟྭོ་ཚོད།",
     pronunciation: "so-chag",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+
+  {
+    key: "166",
+    english: "January",
+    bhutia: "ཟླ་བོ་ དང་པོ།",
+    pronunciation: "dha-o dhang-po",
+    audiolink: "",
+  },
+  {
+    key: "167",
+    english: "February",
+    bhutia: "ཟླ་བོ་ གཉིས་པོ།",
+    pronunciation: "dha-o nyi-po",
+    audiolink: "",
+  },
+  {
+    key: "168",
+    english: "March",
+    bhutia: "ཟླ་བོ་ གསུམ་པོ།",
+    pronunciation: "dha-o sum-po",
+    audiolink: "",
+  },
+  {
+    key: "169",
+    english: "April",
+    bhutia: "ཟླ་བོ་ བཞི་པོ།",
+    pronunciation: "dha-o zi-po",
+    audiolink: "",
+  },
+  {
+    key: "170",
+    english: "May",
+    bhutia: "ཟླ་བོ་ ལྔ་པོ།",
+    pronunciation: "dha-o nga-po",
+    audiolink: "",
+  },
+  {
+    key: "171",
+    english: "June",
+    bhutia: "ཟླ་བོ་ དྲུག་པོ།",
+    pronunciation: "dha-o drug-po",
+    audiolink: "",
+  },
+  {
+    key: "172",
+    english: "July",
+    bhutia: "ཟླ་བོ་ བདུན་པོ།",
+    pronunciation: "dha-o dun-po",
+    audiolink: "",
+  },
+  {
+    key: "173",
+    english: "August",
+    bhutia: "ཟླ་བོ་ བརྒྱོད་པོ།",
+    pronunciation: "dha-o gyad-po",
+    audiolink: "",
+  },
+  {
+    key: "174",
+    english: "September",
+    bhutia: "ཟླ་བོ་ དགུ་པོ།",
+    pronunciation: "dha-o gu-po",
+    audiolink: "",
+  },
+  {
+    key: "175",
+    english: "October",
+    bhutia: "ཟླ་བོ་ བཅུ་པོ།",
+    pronunciation: "dha-o chu-po",
+    audiolink: "",
+  },
+  {
+    key: "176",
+    english: "November",
+    bhutia: "ཟླ་བོ་ བཅུ་གཅིག་པོ།",
+    pronunciation: "dha-o chu-chig-po",
+    audiolink: "",
+  },
+
+  {
+    key: "177",
+    english: "December",
+    bhutia: "ཟླ་བོ་ བཅུ་གཉིས་པོ།",
+    pronunciation: "dha-o chu-nyi-po",
+    audiolink: "",
+  },
+  {
+    key: "178",
+    english: "Sunday",
+    bhutia: "གཟའ་ ཉི་མ།",
+    pronunciation: "za-ni-ma",
+    audiolink: "",
+  },
+  {
+    key: "179",
+    english: "Monday",
+    bhutia: "གཟའ་ ཟླ་བོ།",
+    pronunciation: "za-da-o",
+    audiolink: "",
+  },
+  {
+    key: "180",
+    english: "Tuesday",
+    bhutia: "གཟའ་ མིག་དམར།",
+    pronunciation: "za-mig-mar",
+    audiolink: "",
+  },
+  {
+    key: "181",
+    english: "Wednesday",
+    bhutia: "གཟའ་ ལྷག་ཀོ།",
+    pronunciation: "za-lhag-ko",
+    audiolink: "",
+  },
+  {
+    key: "182",
+    english: "Thursday",
+    bhutia: "གཟའ་ ཕུར་པོ།",
+    pronunciation: "za-phur-po",
+    audiolink: "",
+  },
+  {
+    key: "183",
+    english: "Friday",
+    bhutia: "གཟའ་ པསངས།",
+    pronunciation: "za-pha-sang",
+    audiolink: "",
+  },
+  {
+    key: "184",
+    english: "Saturday",
+    bhutia: "གཟའ་ སྤེན་པོ།",
+    pronunciation: "za-pen-po",
+    audiolink: "",
   },
 ];
 export default Data;
