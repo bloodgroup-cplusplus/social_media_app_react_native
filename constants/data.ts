@@ -1229,5 +1229,109 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
+  {
+    key: "152",
+    english: "Boiled pork meat",
+    bhutia: "ཕག་ཤ་ རྒྱ་རི།",
+    pronunciation: "phag-sha gya-ri",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "153",
+    english: "Boiled beef meat",
+    bhutia: "གླང་ཤ་རྒྱ་རི།",
+    pronunciation: "lang-sha gya-ri",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "154",
+    english: "A butter and cheese mixed dish",
+    bhutia: "མར་ཁུ།",
+    pronunciation: "mar-khu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "155",
+    english: "Cheese Pickle",
+    bhutia: "ཕྱུ་ཨ་ཀར།",
+    pronunciation: "chu-akar",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "156",
+    english: "Cheese broth",
+    bhutia: "ཕྱུ་ལྟོ་ ཁུ།",
+    pronunciation: "chu-to-ku",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "157",
+    english: "Heads meat",
+    bhutia: "མགོ་ཤ།",
+    pronunciation: "mgo-sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "158",
+    english: "Legs Meat",
+    bhutia: "རྐང་ཅུང།",
+    pronunciation: "kang-chung",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "159",
+    english: "Lhopos traditional cookies made of rice floor",
+    bhutia: "བཞེས་རོ།",
+    pronunciation: "bzae-ro",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "160",
+    english: "Lhopos traditional snack made of rice floor",
+    bhutia: "ཁ་ཟས།",
+    pronunciation: "kha-zae",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "161",
+    english: "Veg roll",
+    bhutia: "ཁུ་སྒྲིལ།",
+    pronunciation: "khu-dri",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "162",
+    english: "Mixed Veg rice",
+    bhutia: "ཚོད་ཉོག།",
+    pronunciation: "tsod-nyog",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "163",
+    english: "Millet chapati",
+    bhutia: "མིན་ལྕ་ཁུ།",
+    pronunciation: "min-chang khu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "164",
+    english: "Nettle Broth",
+    bhutia: "ཟོ་ཅག་ཚོདམ་ ཡང་ན་ ཟྭོ་ཚོད།",
+    pronunciation: "so-chag",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
 ];
 export default Data;
