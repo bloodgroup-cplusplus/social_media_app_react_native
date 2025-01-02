@@ -215,5 +215,678 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
+  {
+    key: "27",
+    english: "Bean",
+    bhutia: "ཏིག་བི།",
+    pronunciation: "ti-bi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "28",
+    english: "Brinjal",
+    bhutia: "རྡོ་ལོམ།",
+    pronunciation: "dho-lom",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "29",
+    english: "Cabbage",
+    bhutia: "need to rewrite this",
+    pronunciation: "dab-tsod",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "30",
+    english: "Carrot",
+    bhutia: "ལ་ཕུག་ གསེརབ།",
+    pronunciation: "la-phug serb",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "31",
+    english: "Cauliflower",
+    bhutia: "མེ་ཏོག་ ཚོདམ།",
+    pronunciation: "me-tok tsom",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "32",
+    english: "Chilli",
+    bhutia: "ཨ་ཀར།",
+    pronunciation: "a-kar",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "33",
+    english: "Coriander",
+    bhutia: "འུ་ཟི།",
+    pronunciation: "hud-zi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "34",
+    english: "Cucumber",
+    bhutia: "ཀུ་མུད།",
+    pronunciation: "ku-mud",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "35",
+    english: "Lady Finger",
+    bhutia: "མཛུབ་ཚོད།",
+    pronunciation: "dzub-tsod",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "36",
+    english: "Fern",
+    bhutia: "དཀྱིས་ ཚོད།",
+    pronunciation: "ke-tsod",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+
+  {
+    key: "37",
+    english: "Ginger",
+    bhutia: "སྒ།",
+    pronunciation: "ga",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "38",
+    english: "Garlic",
+    bhutia: "སྒོག་ཀོ།",
+    pronunciation: "ku-mud",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "39",
+    english: "Spices",
+    bhutia: "སྨན་ སྣ།",
+    pronunciation: "men-na",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "40",
+    english: "Mushroom",
+    bhutia: "ཤ་མོ།",
+    pronunciation: "sha-mo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "41",
+    english: "Mustard",
+    bhutia: "གཡུང་དཀར།",
+    pronunciation: "yung-kar",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "42",
+    english: "Nettle",
+    bhutia: "ཟོ་ཅག།",
+    pronunciation: "sho-chag",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "43",
+    english: "Onion",
+    bhutia: "ཨོ་ཙོང་།",
+    pronunciation: "o tsong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "44",
+    english: "Potato",
+    bhutia: "སྐྱེའུ། ཨ་ལུས་ ཀེ་བོ།",
+    pronunciation: "kyu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "45",
+    english: "Pumpkin",
+    bhutia: "ཡང་གུད།",
+    pronunciation: "yang-gud",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "46",
+    english: "Radish",
+    bhutia: "ལ་ཕུག།",
+    pronunciation: "la-phug",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "47",
+    english: "Shoot",
+    bhutia: "གདོང།",
+    pronunciation: "dhong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "48",
+    english: "Soyabean",
+    bhutia: "རྡོ་སྲནམ།",
+    pronunciation: "dho-sem",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "49",
+    english: "Spinach",
+    bhutia: "གཡུང་ཚོད།",
+    pronunciation: "yung-tsod",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "50",
+    english: "Squash",
+    bhutia: "ག་དུ།",
+    pronunciation: "ga-du",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "51",
+    english: "Tomato",
+    bhutia: "འབེན་རྡ།",
+    pronunciation: "band-da",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "51",
+    english: "Ben",
+    bhutia: "འབེན།",
+    pronunciation: "ben",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "52",
+    english: "Chungthang",
+    bhutia: "བཙུན་ཐང།",
+    pronunciation: "tsun-thang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "53",
+    english: "Chomgo",
+    bhutia: "མཚོ་མགོ།",
+    pronunciation: "tso-mgo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "54",
+    english: "Dechenling",
+    bhutia: "ལྕགས་གུང་།",
+    pronunciation: "dechen ling",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "55",
+    english: "Deorali",
+    bhutia: "འདེབས་ར་གླིང་།",
+    pronunciation: "deb-ra ling",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "56",
+    english: "Doling",
+    bhutia: "རྡོ་གླིང་།",
+    pronunciation: "do-ling",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "57",
+    english: "Dzongu",
+    bhutia: "རྗོང་མགོ།",
+    pronunciation: "dzong-mgo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "58",
+    english: "Dikchu",
+    bhutia: "སྒྲིག་ཆུ།",
+    pronunciation: "sdrig-chu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "59",
+    english: "Dolung",
+    bhutia: "དོ་ལུང།",
+    pronunciation: "do-lung",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "60",
+    english: "Enchey",
+    bhutia: "དབེན་ཅན།",
+    pronunciation: "onen-chen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "61",
+    english: "Guru dogmar",
+    bhutia: "གུ་རུ་གདོང་དམར།",
+    pronunciation: "guru-dong-mar",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "62",
+    english: "Gangtok",
+    bhutia: "སྒང་ཏོག་ ཡང་ན་ སྒང་ཐོག།",
+    pronunciation: "gang-tog / gang-thog",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "63",
+    english: "Gyalshing",
+    bhutia: "རྒྱལ་ཞིང་།",
+    pronunciation: "gyal-shing",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "64",
+    english: "Jorethang",
+    bhutia: "འབྱོར་ཐང་།",
+    pronunciation: "jor-thang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "65",
+    english: "Kewsing",
+    bhutia: "གྱོ་ཞིང།",
+    pronunciation: "gyo-shing",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "66",
+    english: "Khachodpalri",
+    bhutia: "མཁའ་སྤྱོད་དཔལ་རི།",
+    pronunciation: "kha-chod-palri",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "67",
+    english: "Kabi",
+    bhutia: "ག་བི།",
+    pronunciation: "ga-bhi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "68",
+    english: "Lachen",
+    bhutia: "ལ་ཆེན།",
+    pronunciation: "la-chen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "69",
+    english: "Lachung",
+    bhutia: "ལ་ཆུང་།",
+    pronunciation: "la-chung",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "70",
+    english: "Machang",
+    bhutia: "མོ་མཚོ།",
+    pronunciation: "mo-cho",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "71",
+    english: "Mangan",
+    bhutia: "མ་མགོན།",
+    pronunciation: "ma-mgon",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "72",
+    english: "Martam",
+    bhutia: "མར་གཏམ་།",
+    pronunciation: "mar-tam",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "73",
+    english: "Namchi",
+    bhutia: "རྣམ་རྩེ་།",
+    pronunciation: "nam-tse",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "74",
+    english: "Nathula",
+    bhutia: "སྣ་ཐོས་ལ་།",
+    pronunciation: "na-thos la",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "75",
+    english: "Phensang",
+    bhutia: "ཕན་བཟང་།",
+    pronunciation: "phen-sang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "76",
+    english: "Phodong",
+    bhutia: "ཕོ་གདོང་།",
+    pronunciation: "pho-dong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "77",
+    english: "Pakyong",
+    bhutia: "དཔའ་སྐྱོངས།",
+    pronunciation: "pa-kyong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "78",
+    english: "Pelling",
+    bhutia: "པད་གླིང་།",
+    pronunciation: "ped-ling",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "79",
+    english: "Rinchengpong",
+    bhutia: "རིན་ཆེན་སྤུངས་།",
+    pronunciation: "rin-chen-pong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "80",
+    english: "Ravong",
+    bhutia: "ར་བོང་།",
+    pronunciation: "ravong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "81",
+    english: "Rigon",
+    bhutia: "རི་མགོན་།",
+    pronunciation: "ri-mgon",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "82",
+    english: "Rongpo",
+    bhutia: "རིང་ཕུ་།",
+    pronunciation: "rong-phu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "83",
+    english: "Singtham",
+    bhutia: "ཤིང་གཏམ་།",
+    pronunciation: "shing-tam",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "84",
+    english: "Sangmo",
+    bhutia: "བསང་མོ་།",
+    pronunciation: "sang-mo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "85",
+    english: "Sang",
+    bhutia: "བསང་།",
+    pronunciation: "sang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "86",
+    english: "Soreng",
+    bhutia: "ཟར་ཡོང་།",
+    pronunciation: "zhar-yong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "87",
+    english: "Sichey",
+    bhutia: "ཚེར་ཅག་སྒང་།",
+    pronunciation: "tser-chag gang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "88",
+    english: "Tashiding",
+    bhutia: "བཀྲ་ཤིས་སྡིངས་།",
+    pronunciation: "tashi-ding",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "89",
+    english: "Tadong",
+    bhutia: "རྟ་གདོང་།",
+    pronunciation: "ta-dong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "90",
+    english: "Tathangchen",
+    bhutia: "རྟ་ཐང་ཅན་།",
+    pronunciation: "ta-thang chen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "91",
+    english: "Tsuglagkhang",
+    bhutia: "གཙུག་ལག་ཁང་།",
+    pronunciation: "tsug-lag khang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "92",
+    english: "Tarku",
+    bhutia: "དར་ཁུ་།",
+    pronunciation: "dar-khu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "93",
+    english: "Yangang",
+    bhutia: "གཡང་སྒང་།",
+    pronunciation: "yang-gang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "94",
+    english: "Yuksam",
+    bhutia: "ཡུག་བསམ་།",
+    pronunciation: "yug-sam",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "95",
+    english: "Amulet",
+    bhutia: "གའུ།",
+    pronunciation: "gau",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "96",
+    english: "Bhutia woman dress",
+    bhutia: "མོ་རྒྱན།དཀར་དན།",
+    pronunciation: "mo-gyen/karden",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "97",
+    english: "Bhutia Traditional Apron Used By Woman",
+    bhutia: "པང་གདན།",
+    pronunciation: "pangden",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "98",
+    english: "Bhutia Male Dress",
+    bhutia: "ཐ་ར།",
+    pronunciation: "thara",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "99",
+    english: "Bhutia Male Hat",
+    bhutia: "ཐོ་རིལ་ ཞྭ་མོ།སྤོབ་རི་ ཞྭ་མོ།",
+    pronunciation: "thuri shampo / popri shamo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "100",
+    english: "Bhutia Female Hat",
+    bhutia: "ཟི་ལིང་ ། ཀུན་དགའ་ ཞྭ་མོ།",
+    pronunciation: "zi-ling shamo / kunga shamo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "101",
+    english: "Bhutia Traditional Dress",
+    bhutia: "གོས།",
+    pronunciation: "gkos",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "102",
+    english: "Female Scarf used during marriages",
+    bhutia: "ཁ་ཊི།",
+    pronunciation: "khati",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "103",
+    english: "Male ceremonial scarf",
+    bhutia: "ཁ་མ།",
+    pronunciation: "khama",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "104",
+    english: "Pyjama / Pant",
+    bhutia: "རྒྱ་དོར།",
+    pronunciation: "gyador",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "105",
+    english: "Pearl Garland",
+    bhutia: "མུ་ཏེག་ ཕ༹ྱེང་བ་།",
+    pronunciation: "mutik phyem-bu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "106",
+    english: "Red Coral / Coral ",
+    bhutia: "བ༹ྱུར།",
+    pronunciation: "bhyur",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "107",
+    english: "Shirt",
+    bhutia: "འོན་དར་ཛི།",
+    pronunciation: "hon-dar-tsi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "108",
+    english: "Shoes",
+    bhutia: "ཞབས་ལྷམ།",
+    pronunciation: "shap lham",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
+  {
+    key: "109",
+    english: "White cotton jeans",
+    bhutia: "ག་ད།མོ་སྐེད།",
+    pronunciation: "ga-da/mo-kyet",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+  },
 ];
 export default Data;
