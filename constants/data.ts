@@ -1748,7 +1748,8 @@ const Data: Array<DataProps> = [
     english: "Millet",
     pronunciation: "min-chag",
     bhutia: "མིན་ལྕག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/millet_csqu6o.mp4",
   },
   {
     key: "224",
@@ -1776,21 +1777,24 @@ const Data: Array<DataProps> = [
     english: "Sesame",
     pronunciation: "til",
     bhutia: "ཏིལ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/sesame_h6tvfz.mp4",
   },
   {
     key: "228",
     english: "Soyabean",
     pronunciation: "do-sem",
     bhutia: "རྡོ་སྲནམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/soya-bean_d0qc25.mp4",
   },
   {
     key: "229",
     english: "Wheat",
     pronunciation: "gyo",
     bhutia: "གྱོ།འབྱཱའོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/wheat_jjruvt.mp4",
   },
   {
     key: "230",
