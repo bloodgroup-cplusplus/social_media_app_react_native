@@ -487,6 +487,367 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "3",
+    english: "Places",
+    bhutia: "place",
+    pronunciation: "places",
+    imageLink: places,
+    data: [
+      {
+        key: "52",
+        english: "Ben",
+        bhutia: "འབེན།",
+        pronunciation: "ben",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802408/places/ben_qqylhx.mp4",
+      },
+      {
+        key: "53",
+        english: "Chungthang",
+        bhutia: "བཙུན་ཐང།",
+        pronunciation: "tsun-thang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802410/places/chungthang_ol1pyv.mp4",
+      },
+      {
+        key: "54",
+        english: "Chomgo",
+        bhutia: "མཚོ་མགོ།",
+        pronunciation: "tso-mgo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802410/places/chomgo_qgjxfu.mp4",
+      },
+      {
+        key: "55",
+        english: "Dechenling",
+        bhutia: "ལྕགས་གུང་།",
+        pronunciation: "dechen ling",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802411/places/dechenling_w4eh6u.mp4",
+      },
+      {
+        key: "56",
+        english: "Deorali",
+        bhutia: "འདེབས་ར་གླིང་།",
+        pronunciation: "deb-ra ling",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802411/places/deorali_haycb5.mp4",
+      },
+      {
+        key: "57",
+        english: "Doling",
+        bhutia: "རྡོ་གླིང་།",
+        pronunciation: "do-ling",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802413/places/doling_adcx5v.mp4",
+      },
+      {
+        key: "58",
+        english: "Dzongu",
+        bhutia: "རྗོང་མགོ།",
+        pronunciation: "dzong-mgo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802414/places/dzongu_n8k40n.mp4",
+      },
+      {
+        key: "59",
+        english: "Dikchu",
+        bhutia: "སྒྲིག་ཆུ།",
+        pronunciation: "sdrig-chu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802412/places/dikchu_rns5it.mp4",
+      },
+      {
+        key: "60",
+        english: "Dolung",
+        bhutia: "དོ་ལུང།",
+        pronunciation: "do-lung",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802414/places/dolung_rt3rzh.mp4",
+      },
+      {
+        key: "61",
+        english: "Enchey",
+        bhutia: "དབེན་ཅན།",
+        pronunciation: "onen-chen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802415/places/enchey_pmljsx.mp4",
+      },
+      {
+        key: "62",
+        english: "Guru dogmar",
+        bhutia: "གུ་རུ་གདོང་དམར།",
+        pronunciation: "guru-dong-mar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802417/places/gurudogmar_xrxn28.mp4",
+      },
+      {
+        key: "63",
+        english: "Gangtok",
+        bhutia: "སྒང་ཏོག་ ཡང་ན་ སྒང་ཐོག།",
+        pronunciation: "gang-tog / gang-thog",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802416/places/gangtok_bos5xt.mp4",
+      },
+      {
+        key: "64",
+        english: "Gyalshing",
+        bhutia: "རྒྱལ་ཞིང་།",
+        pronunciation: "gyal-shing",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802417/places/gyalshing_ldexpw.mp4",
+      },
+      {
+        key: "65",
+        english: "Jorethang",
+        bhutia: "འབྱོར་ཐང་།",
+        pronunciation: "jor-thang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802418/places/jorethang_tyrocc.mp4",
+      },
+      {
+        key: "66",
+        english: "Kewsing",
+        bhutia: "གྱོ་ཞིང།",
+        pronunciation: "gyo-shing",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802419/places/kewsing_qhpclu.mp4",
+      },
+      {
+        key: "67",
+        english: "Khachodpalri",
+        bhutia: "མཁའ་སྤྱོད་དཔལ་རི།",
+        pronunciation: "kha-chod-palri",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802421/places/khachodpalri_pxpxmd.mp4",
+      },
+      {
+        key: "68",
+        english: "Kabi",
+        bhutia: "ག་བི།",
+        pronunciation: "ga-bhi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802419/places/kabi_e0hfp2.mp4",
+      },
+      {
+        key: "69",
+        english: "Lachen",
+        bhutia: "ལ་ཆེན།",
+        pronunciation: "la-chen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802421/places/lachen_l6ijeu.mp4",
+      },
+      {
+        key: "70",
+        english: "Lachung",
+        bhutia: "ལ་ཆུང་།",
+        pronunciation: "la-chung",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802422/places/lachung_xob03f.mp4",
+      },
+      {
+        key: "71",
+        english: "Machang",
+        bhutia: "མོ་མཚོ།",
+        pronunciation: "mo-cho",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802423/places/machang_wvcpok.mp4",
+      },
+      {
+        key: "72",
+        english: "Mangan",
+        bhutia: "མ་མགོན།",
+        pronunciation: "ma-mgon",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802424/places/mangan_ax7kn2.mp4",
+      },
+      {
+        key: "73",
+        english: "Martam",
+        bhutia: "མར་གཏམ་།",
+        pronunciation: "mar-tam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802424/places/martam_kfzfbu.mp4",
+      },
+      {
+        key: "74",
+        english: "Namchi",
+        bhutia: "རྣམ་རྩེ་།",
+        pronunciation: "nam-tse",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802425/places/namchi_dfxspo.mp4",
+      },
+      {
+        key: "75",
+        english: "Nathula",
+        bhutia: "སྣ་ཐོས་ལ་།",
+        pronunciation: "na-thos la",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802426/places/nathula_dsyqir.mp4",
+      },
+      {
+        key: "76",
+        english: "Phensang",
+        bhutia: "ཕན་བཟང་།",
+        pronunciation: "phen-sang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802428/places/phensang_i5yyvn.mp4",
+      },
+      {
+        key: "77",
+        english: "Phodong",
+        bhutia: "ཕོ་གདོང་།",
+        pronunciation: "pho-dong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802428/places/pho-dong_fxxou6.mp4",
+      },
+      {
+        key: "78",
+        english: "Pakyong",
+        bhutia: "དཔའ་སྐྱོངས།",
+        pronunciation: "pa-kyong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802427/places/pakyong_hfudnf.mp4",
+      },
+      {
+        key: "79",
+        english: "Pelling",
+        bhutia: "པད་གླིང་།",
+        pronunciation: "ped-ling",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802427/places/pelling_cg8ere.mp4",
+      },
+      {
+        key: "80",
+        english: "Rinchengpong",
+        bhutia: "རིན་ཆེན་སྤུངས་།",
+        pronunciation: "rin-chen-pong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802431/places/rin-chen-pong_awqxz2.mp4",
+      },
+      {
+        key: "81",
+        english: "Ravong",
+        bhutia: "ར་བོང་།",
+        pronunciation: "ravong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802430/places/ravong_g016tz.mp4",
+      },
+      {
+        key: "82",
+        english: "Rigon",
+        bhutia: "རི་མགོན་།",
+        pronunciation: "ri-mgon",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802431/places/rigon_isus0v.mp4",
+      },
+      {
+        key: "83",
+        english: "Rongpo",
+        bhutia: "རིང་ཕུ་།",
+        pronunciation: "rong-phu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802429/places/rangpo_lnyzfw.mp4",
+      },
+      {
+        key: "84",
+        english: "Singtham",
+        bhutia: "ཤིང་གཏམ་།",
+        pronunciation: "shing-tam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802434/places/singtham_evwgqa.mp4",
+      },
+      {
+        key: "85",
+        english: "Sangmo",
+        bhutia: "བསང་མོ་།",
+        pronunciation: "sang-mo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802433/places/sangmo_p1ngb2.mp4",
+      },
+      {
+        key: "86",
+        english: "Sang",
+        bhutia: "བསང་།",
+        pronunciation: "sang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802432/places/sang_dxrnyy.mp4",
+      },
+      {
+        key: "87",
+        english: "Soreng",
+        bhutia: "ཟར་ཡོང་།",
+        pronunciation: "zhar-yong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802435/places/soreng_ajmekr.mp4",
+      },
+      {
+        key: "88",
+        english: "Sichey",
+        bhutia: "ཚེར་ཅག་སྒང་།",
+        pronunciation: "tser-chag gang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802433/places/sichey_c8grqh.mp4",
+      },
+      {
+        key: "89",
+        english: "Tashiding",
+        bhutia: "བཀྲ་ཤིས་སྡིངས་།",
+        pronunciation: "tashi-ding",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802437/places/tashiding_r2uuqv.mp4",
+      },
+      {
+        key: "90",
+        english: "Tadong",
+        bhutia: "རྟ་གདོང་།",
+        pronunciation: "ta-dong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802435/places/tadong_b2phnk.mp4",
+      },
+      {
+        key: "91",
+        english: "Tathangchen",
+        bhutia: "རྟ་ཐང་ཅན་།",
+        pronunciation: "ta-thang chen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802438/places/tathangchen_yazpvd.mp4",
+      },
+      {
+        key: "92",
+        english: "Tsuglagkhang",
+        bhutia: "གཙུག་ལག་ཁང་།",
+        pronunciation: "tsug-lag khang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802439/places/tsuglagkhang_nwdlws.mp4",
+      },
+      {
+        key: "93",
+        english: "Tarku",
+        bhutia: "དར་ཁུ་།",
+        pronunciation: "dar-khu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802436/places/tarku_cep7mv.mp4",
+      },
+      {
+        key: "94",
+        english: "Yangang",
+        bhutia: "གཡང་སྒང་།",
+        pronunciation: "yang-gang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802439/places/yangang_xuygyu.mp4",
+      },
+      {
+        key: "95",
+        english: "Yuksam",
+        bhutia: "ཡུག་བསམ་།",
+        pronunciation: "yug-sam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802440/places/yuksam_kqspwo.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;

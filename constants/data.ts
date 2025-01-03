@@ -1019,7 +1019,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཀུ་ཤུ།",
     pronunciation: "kushu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/apple_szlrld.mp4",
   },
   {
     key: "127",
@@ -1027,7 +1027,7 @@ const Data: Array<DataProps> = [
     bhutia: "མངའ་རིས་ཁམ་བུ།།",
     pronunciation: "nga-ri kham-bu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/apricot_uwpmww.mp4",
   },
   {
     key: "128",
@@ -1035,7 +1035,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྤོམ་སི།",
     pronunciation: "phom-si",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891932/fruits/avocado_fvha2z.mp4",
   },
   {
     key: "129",
@@ -1043,7 +1043,7 @@ const Data: Array<DataProps> = [
     bhutia: "སཀྱེས་སྡོང།",
     pronunciation: "kae-dhong",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/banana_jhbh53.mp4",
   },
   {
     key: "130",
@@ -1051,7 +1051,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁག་ཏིག།",
     pronunciation: "khag-tig",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802352/vegetables/balsam_pear_zgn5kp.mp4",
   },
   {
     key: "131",
@@ -1059,7 +1059,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཀོ་ཀོ་འཇམ།",
     pronunciation: "ko-ko jam",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891932/fruits/coconut_ysu5qo.mp4",
   },
   {
     key: "132",
@@ -1067,7 +1067,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁམ་སྐྱིད་ རྡོག་མ།",
     pronunciation: "kham-ki dhog-ma",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891939/fruits/local_cherry_bzz4za.mp4",
   },
   {
     key: "133",
@@ -1075,7 +1075,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྐྱེ་ལྡང་རྡོང་མ།",
     pronunciation: "kae-dhang dhog-ma",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891933/fruits/fig_rwzgmb.mp4",
   },
   {
     key: "134",
@@ -1083,7 +1083,7 @@ const Data: Array<DataProps> = [
     bhutia: "བེབས་སི།",
     pronunciation: "bheb-sa / bal-si / am-ba",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891935/fruits/guava_rxaoel.mp4",
   },
   {
     key: "135",
@@ -1091,7 +1091,7 @@ const Data: Array<DataProps> = [
     bhutia: "རྒུན་འབྲུམ།",
     pronunciation: "gyun-drumm",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/grapes_jdxlyy.mp4",
   },
   {
     key: "136",
@@ -1099,7 +1099,7 @@ const Data: Array<DataProps> = [
     bhutia: "སོ་སྐྱེས།",
     pronunciation: "so-kay",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/groundnut_and_chestnut_kkdd2j.mp4",
   },
   {
     key: "137",
@@ -1107,7 +1107,7 @@ const Data: Array<DataProps> = [
     bhutia: "སོ་སྐྱེས།།",
     pronunciation: "so-kay",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/groundnut_and_chestnut_kkdd2j.mp4",
   },
   {
     key: "138",
@@ -1115,7 +1115,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྐྱུ་རུ་ར།",
     pronunciation: "kyu-ru-ra",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891936/fruits/haw_npkx3s.mp4",
   },
   {
     key: "139",
@@ -1123,7 +1123,7 @@ const Data: Array<DataProps> = [
     bhutia: "མར་ཤེ།",
     pronunciation: "mar-she",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891937/fruits/jackfruit_dvovwk.mp4",
   },
   {
     key: "140",
@@ -1131,7 +1131,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྐྱུར་འབྲས།",
     pronunciation: "kyur-drae",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891938/fruits/lime_fa6caz.mp4",
   },
   {
     key: "141",
@@ -1139,7 +1139,7 @@ const Data: Array<DataProps> = [
     bhutia: "འབེས་པེ།",
     pronunciation: "bis-pae",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891938/fruits/lemon_ficirn.mp4",
   },
   {
     key: "142",
@@ -1147,7 +1147,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཨམྲ་བི།",
     pronunciation: "amm-bhi",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891939/fruits/mango_xyrm3w.mp4",
   },
   {
     key: "143",
@@ -1155,7 +1155,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཚ་ལུམ།",
     pronunciation: "tsa-lhum",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891940/fruits/orangefruit_w5jbnb.mp4",
   },
   {
     key: "144",
@@ -1163,7 +1163,7 @@ const Data: Array<DataProps> = [
     bhutia: "སེའུ་འབྲས།",
     pronunciation: "sewu-drae",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891942/fruits/pomegrante_w7ycqb.mp4",
   },
   {
     key: "145",
@@ -1171,7 +1171,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁམ་བུ།",
     pronunciation: "kham-bu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891940/fruits/peach_ki3dwt.mp4",
   },
   {
     key: "146",
@@ -1179,7 +1179,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལི།",
     pronunciation: "li",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891941/fruits/pear_yogfsx.mp4",
   },
   {
     key: "147",
@@ -1187,7 +1187,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྦར།",
     pronunciation: "bar",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891941/fruits/pineapple_mvra5u.mp4",
   },
   {
     key: "148",
@@ -1195,7 +1195,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཚེར་ལུམ།",
     pronunciation: "tser-lum",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891943/fruits/rasberry_qbmsln.mp4",
   },
   {
     key: "149",
@@ -1203,7 +1203,7 @@ const Data: Array<DataProps> = [
     bhutia: "འབྲི་ཏ་ས་འཛིན།",
     pronunciation: "drita sa-zin",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891943/fruits/strawberry_j2uurb.mp4",
   },
   {
     key: "150",
@@ -1211,7 +1211,7 @@ const Data: Array<DataProps> = [
     bhutia: "གུར་ཤིང་།",
     pronunciation: "gur-shing",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891944/fruits/sugarcane_ywkkz6.mp4",
   },
   {
     key: "151",
@@ -1219,7 +1219,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྟར་ཁ།",
     pronunciation: "thar-ka",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891944/fruits/walnut_wf2zhn.mp4",
   },
   {
     key: "152",
@@ -1227,8 +1227,9 @@ const Data: Array<DataProps> = [
     bhutia: "བསིལ་འབྲས།",
     pronunciation: "sil-drae",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891945/fruits/watermelon_ft6y9h.mp4",
   },
+  /*
   {
     key: "153",
     english: "Boiled pork meat",
@@ -1333,83 +1334,95 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
   },
+  */
 
   {
     key: "166",
     english: "January",
     bhutia: "ཟླ་བོ་ དང་པོ།",
     pronunciation: "dha-o dhang-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802892/months/january_rvpoyk.mp4",
   },
   {
     key: "167",
     english: "February",
     bhutia: "ཟླ་བོ་ གཉིས་པོ།",
     pronunciation: "dha-o nyi-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802891/months/feburary_u6gifk.mp4",
   },
   {
     key: "168",
     english: "March",
     bhutia: "ཟླ་བོ་ གསུམ་པོ།",
     pronunciation: "dha-o sum-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802895/months/march_f7v4rb.mp4",
   },
   {
     key: "169",
     english: "April",
     bhutia: "ཟླ་བོ་ བཞི་པོ།",
     pronunciation: "dha-o zi-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802888/months/april_lgywc2.mp4",
   },
   {
     key: "170",
     english: "May",
     bhutia: "ཟླ་བོ་ ལྔ་པོ།",
     pronunciation: "dha-o nga-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802896/months/may_f9a79e.mp4",
   },
   {
     key: "171",
     english: "June",
     bhutia: "ཟླ་བོ་ དྲུག་པོ།",
     pronunciation: "dha-o drug-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802894/months/june_s0dvv0.mp4",
   },
   {
     key: "172",
     english: "July",
     bhutia: "ཟླ་བོ་ བདུན་པོ།",
     pronunciation: "dha-o dun-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802893/months/july_duuggr.mp4",
   },
   {
     key: "173",
     english: "August",
     bhutia: "ཟླ་བོ་ བརྒྱོད་པོ།",
     pronunciation: "dha-o gyad-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802889/months/august_dczbiu.mp4",
   },
   {
     key: "174",
     english: "September",
     bhutia: "ཟླ་བོ་ དགུ་པོ།",
     pronunciation: "dha-o gu-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802900/months/september_uprhyw.mp4",
   },
   {
     key: "175",
     english: "October",
     bhutia: "ཟླ་བོ་ བཅུ་པོ།",
     pronunciation: "dha-o chu-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802899/months/october_rzbndq.mp4",
   },
   {
     key: "176",
     english: "November",
     bhutia: "ཟླ་བོ་ བཅུ་གཅིག་པོ།",
     pronunciation: "dha-o chu-chig-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802898/months/november_laty0t.mp4",
   },
 
   {
@@ -1417,133 +1430,152 @@ const Data: Array<DataProps> = [
     english: "December",
     bhutia: "ཟླ་བོ་ བཅུ་གཉིས་པོ།",
     pronunciation: "dha-o chu-nyi-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802890/months/december_x8um0j.mp4",
   },
   {
     key: "178",
     english: "Sunday",
     bhutia: "གཟའ་ ཉི་མ།",
     pronunciation: "za-ni-ma",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802815/Days/sunday_e32cpk.mp4",
   },
   {
     key: "179",
     english: "Monday",
     bhutia: "གཟའ་ ཟླ་བོ།",
     pronunciation: "za-da-o",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802813/Days/monday_ogjphw.mp4",
   },
   {
     key: "180",
     english: "Tuesday",
     bhutia: "གཟའ་ མིག་དམར།",
     pronunciation: "za-mig-mar",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802817/Days/tuesday_fede1n.mp4",
   },
   {
     key: "181",
     english: "Wednesday",
     bhutia: "གཟའ་ ལྷག་ཀོ།",
     pronunciation: "za-lhag-ko",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802819/Days/wednesday_b2vfns.mp4",
   },
   {
     key: "182",
     english: "Thursday",
     bhutia: "གཟའ་ ཕུར་པོ།",
     pronunciation: "za-phur-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802816/Days/thursday_qtj4z7.mp4",
   },
   {
     key: "183",
     english: "Friday",
     bhutia: "གཟའ་ པསངས།",
     pronunciation: "za-pha-sang",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802812/Days/friday_io5uma.mp4",
   },
   {
     key: "184",
     english: "Saturday",
     bhutia: "གཟའ་ སྤེན་པོ།",
     pronunciation: "za-pen-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802814/Days/saturday_ujqhdt.mp4",
   },
   {
     key: "185",
     english: "Grandfather",
     bhutia: "ཨ་ཇོ།",
     pronunciation: "ajo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804825/family/grandfather_kg6jde.mp4",
   },
   {
     key: "186",
     english: "Grandmother",
     bhutia: "ཨ་ཉོ།",
     pronunciation: "anyo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804820/family/grandmother_hu89gy.mp4",
   },
   {
     key: "187",
     english: "Father",
     bhutia: "ཨ་པོ།",
     pronunciation: "apo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804800/family/father_py5a04.mp4",
   },
   {
     key: "188",
     english: "Mother",
     bhutia: "ཨ་མ།",
     pronunciation: "ama",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804814/family/mother_bqkkiu.mp4",
   },
   {
     key: "189",
     english: "Father in law",
     bhutia: "གྱོ་པོ།",
     pronunciation: "gyob-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804791/family/father_in_law_pxonp6.mp4",
   },
   {
     key: "190",
     english: "Mother in law",
     bhutia: "གྱོ་མོ།",
     pronunciation: "gyob-mo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/mother_in_law_irksdo.mp4",
   },
   {
     key: "191",
     english: "Son",
     bhutia: "བུ།",
     pronunciation: "bhu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804836/family/son_dqlcyp.mp4",
   },
   {
     key: "192",
     english: "Daughter",
     bhutia: "བུ་མོ།",
     pronunciation: "bhu-mo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804758/family/daughter_hsioz5.mp4",
   },
   {
     key: "193",
     english: "Uncle (paternal)",
     bhutia: "ཨ་ཁུ།",
     pronunciation: "akhu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/paternal_uncle_efyvud.mp4",
   },
   {
     key: "194",
     english: "Uncle (maternal)",
     bhutia: "ཨ་ཞང།",
     pronunciation: "azang",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804799/family/maternal_uncle_nb0vpm.mp4",
   },
   {
     key: "195",
     english: "Aunt (maternal)",
     bhutia: "ཨམ་ཆུང།",
     pronunciation: "am-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804762/family/aunty_maternal_qwcevb.mp4",
   },
 
   {
@@ -1558,35 +1590,40 @@ const Data: Array<DataProps> = [
     english: "Elder sister",
     bhutia: "ཨ་ཞི།",
     pronunciation: "a-zhi",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804855/family/elder_sister_s8nsj6.mp4",
   },
   {
     key: "198",
     english: "Younger brother",
     bhutia: "སྤུན་ལོ།",
     pronunciation: "pun-lo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804851/family/younger-brother_qvn07i.mp4",
   },
   {
     key: "199",
     english: "Aunt (paternal)",
     bhutia: "ཨ་ཉེ།",
     pronunciation: "aney",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804759/family/aunty_e0wusx.mp4",
   },
   {
     key: "200",
     english: "Younger sister ",
     bhutia: "བུ་སྲིངམ།",
     pronunciation: "bhu-srim",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804857/family/younger-sister_k6vehm.mp4",
   },
   {
     key: "201",
     english: "Son in law",
     bhutia: "མག་ཀོ།",
     pronunciation: "mag-ko",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/son_in_law_jd4cep.mp4",
   },
 
   {
@@ -1594,64 +1631,74 @@ const Data: Array<DataProps> = [
     english: "Daughter in law",
     bhutia: "ནམ་མོ།",
     pronunciation: "nam-mo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804783/family/daughter_in_law_msfxoz.mp4",
   },
   {
     key: "203",
     english: "Sister in law",
     bhutia: "སྙིདམ།",
     pronunciation: "nyidm",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804835/family/sister_in_law_r0xbxt.mp4",
   },
   {
     key: "204",
     english: "Brother in law",
     bhutia: "སྐིད་པོ།",
     pronunciation: "kyid-po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804759/family/kyid-po_apin0d.mp4",
   },
   {
     key: "205",
     english: "Younger brother",
     bhutia: "ཕ་མིང།",
     pronunciation: "pha-ming",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804855/family/younger_brother_xj0ymn.mp4",
   },
   {
     key: "206",
     english: "Step-brother",
     bhutia: "བུ་ཡཱ།",
     pronunciation: "bu-ya",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/step_brother_xmfomq.mp4",
   },
   {
     key: "206",
     english: "Step-sister",
     bhutia: "བུམ་ཡཱ།",
     pronunciation: "bum-ya",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804850/family/step_sister_fl8qak.mp4",
   },
   {
     key: "207",
     english: "Nephew",
     bhutia: "ཚ་ཕྱུག།",
     pronunciation: "tsa-phyug",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804830/family/nephew_sgrzsj.mp4",
   },
   {
     key: "208",
     english: "Niece",
     bhutia: "ཚམ།",
     pronunciation: "tsam",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/neice_prxlmr.mp4",
   },
   {
     key: "209",
     english: "Great grandson and daugther",
     bhutia: "ཡང་ཕྱུག།",
     pronunciation: "yang-phyug",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/great_grand_son_and_daughter_tafkcx.mp4",
   },
+  /*
   {
     key: "210",
     english: "Beef",
@@ -1729,19 +1776,23 @@ const Data: Array<DataProps> = [
     pronunciation: "yak-sha",
     audiolink: "",
   },
+  */
+
   {
     key: "221",
     english: "Barley",
     pronunciation: "ney",
     bhutia: "ནས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/barley_dbgb66.mp4",
   },
   {
     key: "222",
     english: "Lentils",
     pronunciation: "sen-chung",
     bhutia: "སྲན་ཆུང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/lentils_fk9yxu.mp4",
   },
   {
     key: "223",
@@ -1756,21 +1807,24 @@ const Data: Array<DataProps> = [
     english: "Maize",
     pronunciation: "ken-tsong",
     bhutia: "ཀེན་ཙོང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/maize_pfzssn.mp4",
   },
   {
     key: "225",
     english: "Paddy",
     pronunciation: "rad / bya",
     bhutia: "རད། སྦྱ༹ག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/paddy_xzkpdo.mp4",
   },
   {
     key: "226",
     english: "Rice",
     pronunciation: "chum",
     bhutia: "ཆུམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/rice_jxk2dr.mp4",
   },
   {
     key: "227",
@@ -1801,8 +1855,10 @@ const Data: Array<DataProps> = [
     english: "Dal",
     pronunciation: "dal",
     bhutia: "རྡྰལ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/dal_d8u5kj.mp4",
   },
+  /*
   {
     key: "231",
     english: "Head",
@@ -2013,6 +2069,6 @@ const Data: Array<DataProps> = [
     bhutia: "རྐང་མཐིལ།",
     pronunciation: "khang-thil",
     audiolink: "",
-  },
+  },*/
 ];
 export default Data;
