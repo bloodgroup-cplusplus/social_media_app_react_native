@@ -1,5 +1,6 @@
 const birds = require("@/assets/images/birds.jpg");
 const colors = require("@/assets/images/colors_.jpg");
+const grains = require("@/assets/images/grains.jpg");
 const drinks = require("@/assets/images/drinks_.jpg");
 const days = require("@/assets/images/days.jpg");
 const family = require("@/assets/images/family_.jpg");
@@ -1931,6 +1932,95 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "khang-chen dzod-nga",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+    ],
+  },
+  {
+    id: "12",
+    english: "Grains",
+    pronunciation: "dru",
+    bhutia: "འབྲུ་",
+    imageLink: grains,
+    data: [
+      {
+        key: "222",
+        english: "Barley",
+        pronunciation: "ney",
+        bhutia: "ནས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/barley_dbgb66.mp4",
+      },
+      {
+        key: "223",
+        english: "Lentils",
+        pronunciation: "sen-chung",
+        bhutia: "སྲན་ཆུང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/lentils_fk9yxu.mp4",
+      },
+      {
+        key: "224",
+        english: "Millet",
+        pronunciation: "min-chag",
+        bhutia: "མིན་ལྕག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/millet_csqu6o.mp4",
+      },
+      {
+        key: "225",
+        english: "Maize",
+        pronunciation: "ken-tsong",
+        bhutia: "ཀེན་ཙོང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/maize_pfzssn.mp4",
+      },
+      {
+        key: "226",
+        english: "Paddy",
+        pronunciation: "rad / bya",
+        bhutia: "རད། སྦྱ༹ག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/paddy_xzkpdo.mp4",
+      },
+      {
+        key: "227",
+        english: "Rice",
+        pronunciation: "chum",
+        bhutia: "ཆུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/rice_jxk2dr.mp4",
+      },
+      {
+        key: "228",
+        english: "Sesame",
+        pronunciation: "til",
+        bhutia: "ཏིལ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/sesame_h6tvfz.mp4",
+      },
+      {
+        key: "229",
+        english: "Soyabean",
+        pronunciation: "do-sem",
+        bhutia: "རྡོ་སྲནམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/soya-bean_d0qc25.mp4",
+      },
+      {
+        key: "230",
+        english: "Wheat",
+        pronunciation: "gyo",
+        bhutia: "གྱོ།འབྱཱའོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/wheat_jjruvt.mp4",
+      },
+      {
+        key: "231",
+        english: "Dal",
+        pronunciation: "dal",
+        bhutia: "རྡྰལ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/dal_d8u5kj.mp4",
       },
     ],
   },
