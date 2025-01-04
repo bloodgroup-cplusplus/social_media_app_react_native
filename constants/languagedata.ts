@@ -2,7 +2,7 @@ const birds = require("@/assets/images/birds.jpg");
 const colors = require("@/assets/images/colors_.jpg");
 const drinks = require("@/assets/images/drinks_.jpg");
 const days = require("@/assets/images/days.jpg");
-const family = require("@/assets/images/family.jpg");
+const family = require("@/assets/images/family_.jpg");
 const fruits = require("@/assets/images/fruits.jpg");
 const vegetables = require("@/assets/images/vegetables.jpg");
 const flowers = require("@/assets/images/flowers.jpg");
@@ -489,9 +489,9 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "3",
-    english: "Places",
-    bhutia: "place",
-    pronunciation: "places",
+    english: "Place",
+    bhutia: "ལུང་པོ་",
+    pronunciation: "lung-po",
     imageLink: places,
     data: [
       {
@@ -851,8 +851,8 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "4",
     english: "Vegetables",
-    pronunciation: "vegetables",
-    bhutia: "vegetables",
+    pronunciation: "tshom",
+    bhutia: "ཚོདམ་",
     imageLink: vegetables,
     data: [
       {
