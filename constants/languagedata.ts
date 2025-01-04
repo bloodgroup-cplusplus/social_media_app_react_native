@@ -1359,8 +1359,8 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "8",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཁྱིམ་ཚང",
+    pronunciation: "khyim-chang",
     english: "Family",
     imageLink: family,
     data: [
@@ -1572,6 +1572,365 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "yang-phyug",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/great_grand_son_and_daughter_tafkcx.mp4",
+      },
+    ],
+  },
+  {
+    id: "10",
+    bhutia: "འབྲས་བུ་",
+    pronunciation: "dresbu",
+    english: "Fruits",
+    imageLink: fruits,
+    data: [
+      {
+        key: "126",
+        english: "Apple",
+        bhutia: "ཀུ་ཤུ།",
+        pronunciation: "kushu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/apple_szlrld.mp4",
+      },
+      {
+        key: "127",
+        english: "Apricot",
+        bhutia: "མངའ་རིས་ཁམ་བུ།།",
+        pronunciation: "nga-ri kham-bu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/apricot_uwpmww.mp4",
+      },
+      {
+        key: "128",
+        english: "Avocado",
+        bhutia: "སྤོམ་སི།",
+        pronunciation: "phom-si",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891932/fruits/avocado_fvha2z.mp4",
+      },
+      {
+        key: "129",
+        english: "Banana",
+        bhutia: "སཀྱེས་སྡོང།",
+        pronunciation: "kae-dhong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/banana_jhbh53.mp4",
+      },
+      {
+        key: "130",
+        english: "Balsam Pear",
+        bhutia: "ཁག་ཏིག།",
+        pronunciation: "khag-tig",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802352/vegetables/balsam_pear_zgn5kp.mp4",
+      },
+      {
+        key: "131",
+        english: "Coconut",
+        bhutia: "ཀོ་ཀོ་འཇམ།",
+        pronunciation: "ko-ko jam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891932/fruits/coconut_ysu5qo.mp4",
+      },
+      {
+        key: "132",
+        english: "Local Cherry",
+        bhutia: "ཁམ་སྐྱིད་ རྡོག་མ།",
+        pronunciation: "kham-ki dhog-ma",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891939/fruits/local_cherry_bzz4za.mp4",
+      },
+      {
+        key: "133",
+        english: "Fig",
+        bhutia: "སྐྱེ་ལྡང་རྡོང་མ།",
+        pronunciation: "kae-dhang dhog-ma",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891933/fruits/fig_rwzgmb.mp4",
+      },
+      {
+        key: "134",
+        english: "Guava",
+        bhutia: "བེབས་སི།",
+        pronunciation: "bheb-sa / bal-si / am-ba",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891935/fruits/guava_rxaoel.mp4",
+      },
+      {
+        key: "135",
+        english: "Grapes",
+        bhutia: "རྒུན་འབྲུམ།",
+        pronunciation: "gyun-drumm",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/grapes_jdxlyy.mp4",
+      },
+      {
+        key: "136",
+        english: "Groundnut",
+        bhutia: "སོ་སྐྱེས།",
+        pronunciation: "so-kay",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/groundnut_and_chestnut_kkdd2j.mp4",
+      },
+      {
+        key: "137",
+        english: "Chesnut",
+        bhutia: "སོ་སྐྱེས།།",
+        pronunciation: "so-kay",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891934/fruits/groundnut_and_chestnut_kkdd2j.mp4",
+      },
+      {
+        key: "138",
+        english: "Haw",
+        bhutia: "སྐྱུ་རུ་ར།",
+        pronunciation: "kyu-ru-ra",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891936/fruits/haw_npkx3s.mp4",
+      },
+      {
+        key: "139",
+        english: "Jackfruit",
+        bhutia: "མར་ཤེ།",
+        pronunciation: "mar-she",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891937/fruits/jackfruit_dvovwk.mp4",
+      },
+      {
+        key: "140",
+        english: "Lime",
+        bhutia: "སྐྱུར་འབྲས།",
+        pronunciation: "kyur-drae",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891938/fruits/lime_fa6caz.mp4",
+      },
+      {
+        key: "141",
+        english: "Lemon",
+        bhutia: "འབེས་པེ།",
+        pronunciation: "bis-pae",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891938/fruits/lemon_ficirn.mp4",
+      },
+      {
+        key: "142",
+        english: "Mango",
+        bhutia: "ཨམྲ་བི།",
+        pronunciation: "amm-bhi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891939/fruits/mango_xyrm3w.mp4",
+      },
+      {
+        key: "143",
+        english: "Orange",
+        bhutia: "ཚ་ལུམ།",
+        pronunciation: "tsa-lhum",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891940/fruits/orangefruit_w5jbnb.mp4",
+      },
+      {
+        key: "144",
+        english: "Pomegranate",
+        bhutia: "སེའུ་འབྲས།",
+        pronunciation: "sewu-drae",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891942/fruits/pomegrante_w7ycqb.mp4",
+      },
+      {
+        key: "145",
+        english: "Peach",
+        bhutia: "ཁམ་བུ།",
+        pronunciation: "kham-bu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891940/fruits/peach_ki3dwt.mp4",
+      },
+      {
+        key: "146",
+        english: "Pear",
+        bhutia: "ལི།",
+        pronunciation: "li",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891941/fruits/pear_yogfsx.mp4",
+      },
+      {
+        key: "147",
+        english: "Pineapple",
+        bhutia: "སྦར།",
+        pronunciation: "bar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891941/fruits/pineapple_mvra5u.mp4",
+      },
+      {
+        key: "148",
+        english: "Rasberry",
+        bhutia: "ཚེར་ལུམ།",
+        pronunciation: "tser-lum",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891943/fruits/rasberry_qbmsln.mp4",
+      },
+      {
+        key: "149",
+        english: "Strawberry",
+        bhutia: "འབྲི་ཏ་ས་འཛིན།",
+        pronunciation: "drita sa-zin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891943/fruits/strawberry_j2uurb.mp4",
+      },
+      {
+        key: "150",
+        english: "Sugarcane",
+        bhutia: "གུར་ཤིང་།",
+        pronunciation: "gur-shing",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891944/fruits/sugarcane_ywkkz6.mp4",
+      },
+      {
+        key: "151",
+        english: "Walnut",
+        bhutia: "སྟར་ཁ།",
+        pronunciation: "thar-ka",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891944/fruits/walnut_wf2zhn.mp4",
+      },
+      {
+        key: "152",
+        english: "Watermelon",
+        bhutia: "བསིལ་འབྲས།",
+        pronunciation: "sil-drae",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891945/fruits/watermelon_ft6y9h.mp4",
+      },
+    ],
+  },
+  {
+    id: "11",
+    bhutia: "དུས་ཆེན་",
+    pronunciation: "dhue-chen",
+    english: "Festivals",
+    imageLink: festivals,
+    data: [
+      {
+        key: "111",
+        english: "Bhutia new year or harvest festival of the sikkimese bhutias",
+        bhutia: "ལོ་སྲུང།",
+        pronunciation: "losoong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "112",
+        english: "Great Miraculous Prayer Festival",
+        bhutia: "ཆོ་འཕྲུལ་ དུས་ཆེན།",
+        pronunciation: "cho trul duechen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "113",
+        english: "General Healing Ceremony",
+        bhutia: "སྤྱི་རིམ།",
+        pronunciation: "chi-rim",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "114",
+        english: "Guru Drakmar Ceremony",
+        bhutia: "གུ་རུ་ དྲག་དམར།",
+        pronunciation: "guru drak-mar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "115",
+        english:
+          "Month of Vaisakha. A triple blessed occassion of birth, enlightenment and pari nirvana of buddha shakyamuni",
+        bhutia: "ས་ག་ཟླ་བོ།",
+        pronunciation: "sa-ga do-wo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "116",
+        english: "Offering of the 8th Lunar Date or Taras Day",
+        bhutia: "འདེབས་ར་གླིང་།",
+        pronunciation: "band-da",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "117",
+        english: "Offering of the tenth lunar date or guru Rinpoche's birthday",
+        bhutia: "ཚེས་བཅུ།",
+        pronunciation: "tse-chu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+
+      {
+        key: "118",
+        english:
+          "Offering of the 15th Lunar Date or Green Tara's and Medicine Buddha's Day  ",
+        bhutia: "ཚེས་པ་བཅུ་ལྔ།",
+        pronunciation: "tsepa cho nga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "119",
+        english: "Offering of the 25th Lunar Date or Dakini's Day",
+        bhutia: "ཉེར་ལྔ།",
+        pronunciation: "nyer-nga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "120",
+        english: "Offering of 29th Lunar Date",
+        bhutia: "ཉེར་དགུ།",
+        pronunciation: "nyer-ga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "121",
+        english: "Offering of the 30th Lunar Date or Buddha Shakyamuni's Day",
+        bhutia: "གནམ་གང།",
+        pronunciation: "nyer-gu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+
+      {
+        key: "122",
+        english: "Tibetan New Year",
+        bhutia: "ལོ་གསར།",
+        pronunciation: "losar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "123",
+        english:
+          "The fourth of the sixth month on which Lord Buddha delivered his first sermon at Sarnath",
+        bhutia: "དྲུག་པོ་ཚེས་ བཞི། ཆོས་འཁོར་ དུས་ཆེན།",
+        pronunciation: "drugpa tsezhi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "124",
+        english: "The Buddha's Descent from heaven",
+        bhutia: "ལྷ་འབབས་ དུས་ཆེན།",
+        pronunciation: "lha-bab duechen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      },
+      {
+        key: "125",
+        english: "Worship of the witness deities",
+        bhutia: "དཔང་ལྷ་གསོལ།",
+        pronunciation: "khang-chen dzod-nga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
       },
     ],
   },
