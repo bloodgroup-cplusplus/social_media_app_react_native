@@ -1057,6 +1057,135 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "6",
+    bhutia: "ཆ་ལུགས་",
+    pronunciation: "chya-lug",
+    english: "Dress",
+    imageLink: attire,
+    data: [
+      {
+        key: "96",
+        english: "Amulet",
+        bhutia: "གའུ།",
+        pronunciation: "gau",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/amulet_be220i.mp4",
+      },
+      {
+        key: "97",
+        english: "Bhutia woman dress",
+        bhutia: "མོ་རྒྱན།དཀར་དན།",
+        pronunciation: "mo-gyen/karden",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891467/cultural%20attire/bhutia_woman_dress_wavp2s.mp4",
+      },
+      {
+        key: "98",
+        english: "Bhutia Traditional Apron Used By Woman",
+        bhutia: "པང་གདན།",
+        pronunciation: "pangden",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_traditional_apron_used_by_woman_tt9neb.mp4",
+      },
+      {
+        key: "99",
+        english: "Bhutia Male Dress",
+        bhutia: "ཐ་ར།",
+        pronunciation: "thara",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_male_dress_rajrmz.mp4",
+      },
+      {
+        key: "100",
+        english: "Bhutia Male Hat",
+        bhutia: "ཐོ་རིལ་ ཞྭ་མོ།སྤོབ་རི་ ཞྭ་མོ།",
+        pronunciation: "thuri shampo / popri shamo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_male_hat_cyyyb9.mp4",
+      },
+      {
+        key: "101",
+        english: "Bhutia Female Hat",
+        bhutia: "ཟི་ལིང་ ། ཀུན་དགའ་ ཞྭ་མོ།",
+        pronunciation: "zi-ling shamo / kunga shamo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_female_hat_smpkpe.mp4",
+      },
+      {
+        key: "102",
+        english: "Bhutia Traditional Dress",
+        bhutia: "གོས།",
+        pronunciation: "gkos",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_traditional_dress_ghfyet.mp4",
+      },
+      {
+        key: "103",
+        english: "Female Scarf used during marriages",
+        bhutia: "ཁ་ཊི།",
+        pronunciation: "khati",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891468/cultural%20attire/female_scarf_used_during_marraiges_n3e7zu.mp4",
+      },
+      {
+        key: "104",
+        english: "Male ceremonial scarf",
+        bhutia: "ཁ་མ།",
+        pronunciation: "khama",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891469/cultural%20attire/male_ceremonial_scarf_eq6c6d.mp4",
+      },
+      {
+        key: "105",
+        english: "Pyjama / Pant",
+        bhutia: "རྒྱ་དོར།",
+        pronunciation: "gyador",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891470/cultural%20attire/pyjama_or_pant_c7gzyl.mp4",
+      },
+      {
+        key: "106",
+        english: "Pearl Garland",
+        bhutia: "མུ་ཏེག་ ཕ༹ྱེང་བ་།",
+        pronunciation: "mutik phyem-bu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891469/cultural%20attire/pearl_garland_m0egtx.mp4",
+      },
+      {
+        key: "107",
+        english: "Red Coral / Coral ",
+        bhutia: "བ༹ྱུར།",
+        pronunciation: "bhyur",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891470/cultural%20attire/red_coral_or_coral_lso9rx.mp4",
+      },
+      {
+        key: "108",
+        english: "Shirt",
+        bhutia: "འོན་དར་ཛི།",
+        pronunciation: "hon-dar-tsi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shirt_jhrso3.mp4",
+      },
+      {
+        key: "109",
+        english: "Shoes",
+        bhutia: "ཞབས་ལྷམ།",
+        pronunciation: "shap lham",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shoes_jvtbl3.mp4",
+      },
+      {
+        key: "110",
+        english: "White cotton jeans",
+        bhutia: "ག་ད།མོ་སྐེད།",
+        pronunciation: "ga-da/mo-kyet",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shoes_jvtbl3.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;
