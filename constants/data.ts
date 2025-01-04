@@ -773,7 +773,7 @@ const Data: Array<DataProps> = [
     bhutia: "གའུ།",
     pronunciation: "gau",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/amulet_be220i.mp4",
   },
   {
     key: "97",
@@ -781,7 +781,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་རྒྱན།དཀར་དན།",
     pronunciation: "mo-gyen/karden",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891467/cultural%20attire/bhutia_woman_dress_wavp2s.mp4",
   },
   {
     key: "98",
@@ -789,7 +789,7 @@ const Data: Array<DataProps> = [
     bhutia: "པང་གདན།",
     pronunciation: "pangden",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_traditional_apron_used_by_woman_tt9neb.mp4",
   },
   {
     key: "99",
@@ -797,7 +797,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཐ་ར།",
     pronunciation: "thara",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_male_dress_rajrmz.mp4",
   },
   {
     key: "100",
@@ -805,7 +805,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཐོ་རིལ་ ཞྭ་མོ།སྤོབ་རི་ ཞྭ་མོ།",
     pronunciation: "thuri shampo / popri shamo",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_male_hat_cyyyb9.mp4",
   },
   {
     key: "101",
@@ -813,7 +813,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཟི་ལིང་ ། ཀུན་དགའ་ ཞྭ་མོ།",
     pronunciation: "zi-ling shamo / kunga shamo",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_female_hat_smpkpe.mp4",
   },
   {
     key: "102",
@@ -821,7 +821,7 @@ const Data: Array<DataProps> = [
     bhutia: "གོས།",
     pronunciation: "gkos",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891466/cultural%20attire/bhutia_traditional_dress_ghfyet.mp4",
   },
   {
     key: "103",
@@ -829,7 +829,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁ་ཊི།",
     pronunciation: "khati",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891468/cultural%20attire/female_scarf_used_during_marraiges_n3e7zu.mp4",
   },
   {
     key: "104",
@@ -837,7 +837,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁ་མ།",
     pronunciation: "khama",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891469/cultural%20attire/male_ceremonial_scarf_eq6c6d.mp4",
   },
   {
     key: "105",
@@ -845,7 +845,7 @@ const Data: Array<DataProps> = [
     bhutia: "རྒྱ་དོར།",
     pronunciation: "gyador",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891470/cultural%20attire/pyjama_or_pant_c7gzyl.mp4",
   },
   {
     key: "106",
@@ -853,7 +853,7 @@ const Data: Array<DataProps> = [
     bhutia: "མུ་ཏེག་ ཕ༹ྱེང་བ་།",
     pronunciation: "mutik phyem-bu",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891469/cultural%20attire/pearl_garland_m0egtx.mp4",
   },
   {
     key: "107",
@@ -861,7 +861,7 @@ const Data: Array<DataProps> = [
     bhutia: "བ༹ྱུར།",
     pronunciation: "bhyur",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891470/cultural%20attire/red_coral_or_coral_lso9rx.mp4",
   },
   {
     key: "108",
@@ -869,7 +869,7 @@ const Data: Array<DataProps> = [
     bhutia: "འོན་དར་ཛི།",
     pronunciation: "hon-dar-tsi",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shirt_jhrso3.mp4",
   },
   {
     key: "109",
@@ -877,7 +877,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཞབས་ལྷམ།",
     pronunciation: "shap lham",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shoes_jvtbl3.mp4",
   },
   {
     key: "110",
@@ -885,7 +885,7 @@ const Data: Array<DataProps> = [
     bhutia: "ག་ད།མོ་སྐེད།",
     pronunciation: "ga-da/mo-kyet",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shoes_jvtbl3.mp4",
   },
   {
     key: "111",
