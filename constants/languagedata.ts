@@ -848,6 +848,215 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "4",
+    english: "Vegetables",
+    pronunciation: "vegetables",
+    bhutia: "vegetables",
+    imageLink: vegetables,
+    data: [
+      {
+        key: "27",
+        english: "Bean",
+        bhutia: "ཏིག་བི།",
+        pronunciation: "ti-bi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802352/vegetables/bean_yabmba.mp4",
+      },
+      {
+        key: "28",
+        english: "Brinjal",
+        bhutia: "རྡོ་ལོམ།",
+        pronunciation: "dho-lom",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802351/vegetables/brinjal_ou2i8p.mp4",
+      },
+      {
+        key: "29",
+        english: "Cabbage",
+        bhutia: "need to rewrite this",
+        pronunciation: "dab-tsod",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802351/vegetables/cabbage_u2ca4r.mp4",
+      },
+      {
+        key: "30",
+        english: "Carrot",
+        bhutia: "ལ་ཕུག་ གསེརབ།",
+        pronunciation: "la-phug serb",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802351/vegetables/carrot_gawttm.mp4",
+      },
+      {
+        key: "31",
+        english: "Cauliflower",
+        bhutia: "མེ་ཏོག་ ཚོདམ།",
+        pronunciation: "me-tok tsom",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802350/vegetables/cauliflower_kecoiq.mp4",
+      },
+      {
+        key: "32",
+        english: "Chilli",
+        bhutia: "ཨ་ཀར།",
+        pronunciation: "a-kar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802350/vegetables/chillie_tpc0zt.mp4",
+      },
+      {
+        key: "33",
+        english: "Coriander",
+        bhutia: "འུ་ཟི།",
+        pronunciation: "hud-zi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802350/vegetables/coriander_nwvqit.mp4",
+      },
+      {
+        key: "34",
+        english: "Cucumber",
+        bhutia: "ཀུ་མུད།",
+        pronunciation: "ku-mud",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802350/vegetables/cucumbers_dk9vxr.mp4",
+      },
+      {
+        key: "35",
+        english: "Lady Finger",
+        bhutia: "མཛུབ་ཚོད།",
+        pronunciation: "dzub-tsod",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802349/vegetables/dzub-tsod_a9gnsc.mp4",
+      },
+      {
+        key: "36",
+        english: "Fern",
+        bhutia: "དཀྱིས་ ཚོད།",
+        pronunciation: "ke-tsod",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802349/vegetables/fern_wnfep6.mp4",
+      },
+
+      {
+        key: "37",
+        english: "Ginger",
+        bhutia: "སྒ།",
+        pronunciation: "ga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802349/vegetables/ginger_rafiwz.mp4",
+      },
+      {
+        key: "38",
+        english: "Garlic",
+        bhutia: "སྒོག་ཀོ།",
+        pronunciation: "ku-mud",
+        audiolink: "",
+      },
+      {
+        key: "39",
+        english: "Spices",
+        bhutia: "སྨན་ སྣ།",
+        pronunciation: "men-na",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802348/vegetables/men-na_fpgh2p.mp4",
+      },
+      {
+        key: "40",
+        english: "Mushroom",
+        bhutia: "ཤ་མོ།",
+        pronunciation: "sha-mo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802348/vegetables/mushroom_qgomom.mp4",
+      },
+      {
+        key: "41",
+        english: "Mustard",
+        bhutia: "གཡུང་དཀར།",
+        pronunciation: "yung-kar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802346/vegetables/mustard_mzfij0.mp4",
+      },
+      {
+        key: "42",
+        english: "Nettle",
+        bhutia: "ཟོ་ཅག།",
+        pronunciation: "sho-chag",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802346/vegetables/nettle_iomgmb.mp4",
+      },
+      {
+        key: "43",
+        english: "Onion",
+        bhutia: "ཨོ་ཙོང་།",
+        pronunciation: "o tsong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/onion_c1mdge.mp4",
+      },
+      {
+        key: "44",
+        english: "Potato",
+        bhutia: "སྐྱེའུ། ཨ་ལུས་ ཀེ་བོ།",
+        pronunciation: "kyu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802346/vegetables/potato_p6wdne.mp4",
+      },
+      {
+        key: "45",
+        english: "Pumpkin",
+        bhutia: "ཡང་གུད།",
+        pronunciation: "yang-gud",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/pumpkin_zvels2.mp4",
+      },
+      {
+        key: "46",
+        english: "Radish",
+        bhutia: "ལ་ཕུག།",
+        pronunciation: "la-phug",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/radish_jwhvus.mp4",
+      },
+      {
+        key: "47",
+        english: "Shoot",
+        bhutia: "གདོང།",
+        pronunciation: "dhong",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802344/vegetables/shoot_snd9xt.mp4",
+      },
+      {
+        key: "48",
+        english: "Soyabean",
+        bhutia: "རྡོ་སྲནམ།",
+        pronunciation: "dho-sem",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/soyabean_q8agal.mp4",
+      },
+      {
+        key: "49",
+        english: "Spinach",
+        bhutia: "གཡུང་ཚོད།",
+        pronunciation: "yung-tsod",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/spinach_en8vww.mp4",
+      },
+      {
+        key: "50",
+        english: "Squash",
+        bhutia: "ག་དུ།",
+        pronunciation: "ga-du",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802345/vegetables/squash_fpb1iy.mp4",
+      },
+      {
+        key: "51",
+        english: "Tomato",
+        bhutia: "འབེན་རྡ།",
+        pronunciation: "band-da",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802344/vegetables/tomato_oqkiy1.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;
