@@ -11,7 +11,7 @@ const meat = require("@/assets/images/meat.jpg");
 const mountain = require("@/assets/images/mountain.jpg");
 const medical = require("@/assets/images/medical terms.jpg");
 const fooditems = require("@/assets/images/fooditems.jpg");
-const attire = require("@/assets/images/attire.png");
+const attire = require("@/assets/images/attire_.jpg");
 const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
@@ -1253,9 +1253,9 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "7",
-    english: "Months",
+    english: "Month",
     pronunciation: "dha-o",
-    bhutia: "",
+    bhutia: "ཧོཪ་ཟླ་",
     imageLink: months,
     data: [
       {
@@ -1354,6 +1354,224 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "dha-o chu-nyi-po",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735802890/months/december_x8um0j.mp4",
+      },
+    ],
+  },
+  {
+    id: "8",
+    bhutia: "",
+    pronunciation: "",
+    english: "Family",
+    imageLink: family,
+    data: [
+      {
+        key: "185",
+        english: "Grandfather",
+        bhutia: "ཨ་ཇོ།",
+        pronunciation: "ajo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804825/family/grandfather_kg6jde.mp4",
+      },
+      {
+        key: "186",
+        english: "Grandmother",
+        bhutia: "ཨ་ཉོ།",
+        pronunciation: "anyo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804820/family/grandmother_hu89gy.mp4",
+      },
+      {
+        key: "187",
+        english: "Father",
+        bhutia: "ཨ་པོ།",
+        pronunciation: "apo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804800/family/father_py5a04.mp4",
+      },
+      {
+        key: "188",
+        english: "Mother",
+        bhutia: "ཨ་མ།",
+        pronunciation: "ama",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804814/family/mother_bqkkiu.mp4",
+      },
+      {
+        key: "189",
+        english: "Father in law",
+        bhutia: "གྱོ་པོ།",
+        pronunciation: "gyob-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804791/family/father_in_law_pxonp6.mp4",
+      },
+      {
+        key: "190",
+        english: "Mother in law",
+        bhutia: "གྱོ་མོ།",
+        pronunciation: "gyob-mo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/mother_in_law_irksdo.mp4",
+      },
+      {
+        key: "191",
+        english: "Son",
+        bhutia: "བུ།",
+        pronunciation: "bhu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804836/family/son_dqlcyp.mp4",
+      },
+      {
+        key: "192",
+        english: "Daughter",
+        bhutia: "བུ་མོ།",
+        pronunciation: "bhu-mo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804758/family/daughter_hsioz5.mp4",
+      },
+      {
+        key: "193",
+        english: "Uncle (paternal)",
+        bhutia: "ཨ་ཁུ།",
+        pronunciation: "akhu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/paternal_uncle_efyvud.mp4",
+      },
+      {
+        key: "194",
+        english: "Uncle (maternal)",
+        bhutia: "ཨ་ཞང།",
+        pronunciation: "azang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804799/family/maternal_uncle_nb0vpm.mp4",
+      },
+      {
+        key: "195",
+        english: "Aunt (maternal)",
+        bhutia: "ཨམ་ཆུང།",
+        pronunciation: "am-chung",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804762/family/aunty_maternal_qwcevb.mp4",
+      },
+
+      {
+        key: "196",
+        english: "Elder brother",
+        bhutia: "ཨ་ཅུ།",
+        pronunciation: "a-chu",
+        audiolink: "",
+      },
+      {
+        key: "197",
+        english: "Elder sister",
+        bhutia: "ཨ་ཞི།",
+        pronunciation: "a-zhi",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804855/family/elder_sister_s8nsj6.mp4",
+      },
+      {
+        key: "198",
+        english: "Younger brother",
+        bhutia: "སྤུན་ལོ།",
+        pronunciation: "pun-lo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804851/family/younger-brother_qvn07i.mp4",
+      },
+      {
+        key: "199",
+        english: "Aunt (paternal)",
+        bhutia: "ཨ་ཉེ།",
+        pronunciation: "aney",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804759/family/aunty_e0wusx.mp4",
+      },
+      {
+        key: "200",
+        english: "Younger sister ",
+        bhutia: "བུ་སྲིངམ།",
+        pronunciation: "bhu-srim",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804857/family/younger-sister_k6vehm.mp4",
+      },
+      {
+        key: "201",
+        english: "Son in law",
+        bhutia: "མག་ཀོ།",
+        pronunciation: "mag-ko",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/son_in_law_jd4cep.mp4",
+      },
+
+      {
+        key: "202",
+        english: "Daughter in law",
+        bhutia: "ནམ་མོ།",
+        pronunciation: "nam-mo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804783/family/daughter_in_law_msfxoz.mp4",
+      },
+      {
+        key: "203",
+        english: "Sister in law",
+        bhutia: "སྙིདམ།",
+        pronunciation: "nyidm",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804835/family/sister_in_law_r0xbxt.mp4",
+      },
+      {
+        key: "204",
+        english: "Brother in law",
+        bhutia: "སྐིད་པོ།",
+        pronunciation: "kyid-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804759/family/kyid-po_apin0d.mp4",
+      },
+      {
+        key: "205",
+        english: "Younger brother",
+        bhutia: "ཕ་མིང།",
+        pronunciation: "pha-ming",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804855/family/younger_brother_xj0ymn.mp4",
+      },
+      {
+        key: "206",
+        english: "Step-brother",
+        bhutia: "བུ་ཡཱ།",
+        pronunciation: "bu-ya",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804839/family/step_brother_xmfomq.mp4",
+      },
+      {
+        key: "206",
+        english: "Step-sister",
+        bhutia: "བུམ་ཡཱ།",
+        pronunciation: "bum-ya",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804850/family/step_sister_fl8qak.mp4",
+      },
+      {
+        key: "207",
+        english: "Nephew",
+        bhutia: "ཚ་ཕྱུག།",
+        pronunciation: "tsa-phyug",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804830/family/nephew_sgrzsj.mp4",
+      },
+      {
+        key: "208",
+        english: "Niece",
+        bhutia: "ཚམ།",
+        pronunciation: "tsam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/neice_prxlmr.mp4",
+      },
+      {
+        key: "209",
+        english: "Great grandson and daugther",
+        bhutia: "ཡང་ཕྱུག།",
+        pronunciation: "yang-phyug",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/great_grand_son_and_daughter_tafkcx.mp4",
       },
     ],
   },
