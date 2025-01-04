@@ -11,7 +11,7 @@ const meat = require("@/assets/images/meat.jpg");
 const mountain = require("@/assets/images/mountain.jpg");
 const medical = require("@/assets/images/medical terms.jpg");
 const fooditems = require("@/assets/images/fooditems.jpg");
-const attire = require("@/assets/images/attire_.jpg");
+const attire = require("@/assets/images/attire.png");
 const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
@@ -1058,7 +1058,7 @@ const LanguageData: Array<TopicsProps> = [
     ],
   },
   {
-    id: "6",
+    id: "5",
     bhutia: "ཆ་ལུགས་",
     pronunciation: "chya-lug",
     english: "Dress",
@@ -1183,6 +1183,177 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "ga-da/mo-kyet",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735891472/cultural%20attire/shoes_jvtbl3.mp4",
+      },
+    ],
+  },
+  {
+    id: "6",
+    bhutia: "བདུན་ཕྲག་",
+    pronunciation: "dun-thak",
+    english: "WeekDays",
+    imageLink: days,
+    data: [
+      {
+        key: "178",
+        english: "Sunday",
+        bhutia: "གཟའ་ ཉི་མ།",
+        pronunciation: "za-ni-ma",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802815/Days/sunday_e32cpk.mp4",
+      },
+      {
+        key: "179",
+        english: "Monday",
+        bhutia: "གཟའ་ ཟླ་བོ།",
+        pronunciation: "za-da-o",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802813/Days/monday_ogjphw.mp4",
+      },
+      {
+        key: "180",
+        english: "Tuesday",
+        bhutia: "གཟའ་ མིག་དམར།",
+        pronunciation: "za-mig-mar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802817/Days/tuesday_fede1n.mp4",
+      },
+      {
+        key: "181",
+        english: "Wednesday",
+        bhutia: "གཟའ་ ལྷག་ཀོ།",
+        pronunciation: "za-lhag-ko",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802819/Days/wednesday_b2vfns.mp4",
+      },
+      {
+        key: "182",
+        english: "Thursday",
+        bhutia: "གཟའ་ ཕུར་པོ།",
+        pronunciation: "za-phur-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802816/Days/thursday_qtj4z7.mp4",
+      },
+      {
+        key: "183",
+        english: "Friday",
+        bhutia: "གཟའ་ པསངས།",
+        pronunciation: "za-pha-sang",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802812/Days/friday_io5uma.mp4",
+      },
+      {
+        key: "184",
+        english: "Saturday",
+        bhutia: "གཟའ་ སྤེན་པོ།",
+        pronunciation: "za-pen-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802814/Days/saturday_ujqhdt.mp4",
+      },
+    ],
+  },
+  {
+    id: "7",
+    english: "Months",
+    pronunciation: "dha-o",
+    bhutia: "",
+    imageLink: months,
+    data: [
+      {
+        key: "166",
+        english: "January",
+        bhutia: "ཟླ་བོ་ དང་པོ།",
+        pronunciation: "dha-o dhang-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802892/months/january_rvpoyk.mp4",
+      },
+      {
+        key: "167",
+        english: "February",
+        bhutia: "ཟླ་བོ་ གཉིས་པོ།",
+        pronunciation: "dha-o nyi-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802891/months/feburary_u6gifk.mp4",
+      },
+      {
+        key: "168",
+        english: "March",
+        bhutia: "ཟླ་བོ་ གསུམ་པོ།",
+        pronunciation: "dha-o sum-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802895/months/march_f7v4rb.mp4",
+      },
+      {
+        key: "169",
+        english: "April",
+        bhutia: "ཟླ་བོ་ བཞི་པོ།",
+        pronunciation: "dha-o zi-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802888/months/april_lgywc2.mp4",
+      },
+      {
+        key: "170",
+        english: "May",
+        bhutia: "ཟླ་བོ་ ལྔ་པོ།",
+        pronunciation: "dha-o nga-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802896/months/may_f9a79e.mp4",
+      },
+      {
+        key: "171",
+        english: "June",
+        bhutia: "ཟླ་བོ་ དྲུག་པོ།",
+        pronunciation: "dha-o drug-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802894/months/june_s0dvv0.mp4",
+      },
+      {
+        key: "172",
+        english: "July",
+        bhutia: "ཟླ་བོ་ བདུན་པོ།",
+        pronunciation: "dha-o dun-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802893/months/july_duuggr.mp4",
+      },
+      {
+        key: "173",
+        english: "August",
+        bhutia: "ཟླ་བོ་ བརྒྱོད་པོ།",
+        pronunciation: "dha-o gyad-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802889/months/august_dczbiu.mp4",
+      },
+      {
+        key: "174",
+        english: "September",
+        bhutia: "ཟླ་བོ་ དགུ་པོ།",
+        pronunciation: "dha-o gu-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802900/months/september_uprhyw.mp4",
+      },
+      {
+        key: "175",
+        english: "October",
+        bhutia: "ཟླ་བོ་ བཅུ་པོ།",
+        pronunciation: "dha-o chu-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802899/months/october_rzbndq.mp4",
+      },
+      {
+        key: "176",
+        english: "November",
+        bhutia: "ཟླ་བོ་ བཅུ་གཅིག་པོ།",
+        pronunciation: "dha-o chu-chig-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802898/months/november_laty0t.mp4",
+      },
+
+      {
+        key: "177",
+        english: "December",
+        bhutia: "ཟླ་བོ་ བཅུ་གཉིས་པོ།",
+        pronunciation: "dha-o chu-nyi-po",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802890/months/december_x8um0j.mp4",
       },
     ],
   },
