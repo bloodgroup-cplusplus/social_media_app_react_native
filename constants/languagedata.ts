@@ -37,7 +37,7 @@ interface TopicsProps {
 const LanguageData: Array<TopicsProps> = [
   {
     id: "1",
-    english: "Color",
+    english: "Colors",
     bhutia: "ཧོཪ་ཟླ་",
     pronunciation: "horda",
     imageLink: colors,
@@ -263,7 +263,7 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "3",
-    english: "Place",
+    english: "Places",
     bhutia: "ལུང་པོ་",
     pronunciation: "lung-po",
     imageLink: places,
@@ -1027,7 +1027,7 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "7",
-    english: "Month",
+    english: "Months",
     pronunciation: "dha-o",
     bhutia: "ཧོཪ་ཟླ་",
     imageLink: months,
