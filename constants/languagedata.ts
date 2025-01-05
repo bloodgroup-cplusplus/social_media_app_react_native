@@ -17,6 +17,7 @@ const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
 const planets = require("@/assets/images/planets.jpg");
+const digits = require("@/assets/images/bhutia_digits.png");
 
 interface DataProps {
   key: string;
@@ -34,234 +35,6 @@ interface TopicsProps {
   data: Array<DataProps>;
 }
 const LanguageData: Array<TopicsProps> = [
-  /*{
-    id: "1",
-    english: "Customes",
-    bhutia: "ཆ་ལུགས་",
-    pronunciation: "chya-lug",
-    imageLink: attire,
-    data: [
-      {
-        english: "chad",
-        bhutia: "leb",
-        pronunciation: "bal",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "2",
-    english: "Food",
-    bhutia: "ཟན་",
-    pronunciation: "zaen",
-    imageLink: fooditems,
-    data: [
-      {
-        english: "red",
-        bhutia: "lal",
-        pronunciation: "lala",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "3",
-    english: "Drinks",
-    bhutia: "མཆོད་",
-    pronunciation: "chhoth",
-    imageLink: drinks,
-    data: [
-      {
-        english: "drinks",
-        bhutia: "piyo",
-        pronunciation: "bind",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "4",
-    english: "Meat",
-    bhutia: "ཤ་",
-    pronunciation: "sha",
-    imageLink: meat,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "5",
-    english: "Mountains",
-    bhutia: "གངས་ཆེན་",
-    pronunciation: "gangchen",
-    imageLink: mountain,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "6",
-    english: "Places",
-    bhutia: "ལུང་པོ་",
-    pronunciation: "lungpo",
-    imageLink: places,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "7",
-    english: "Festivals",
-    bhutia: "དུས་ཆེན་",
-    pronunciation: "dhue chen",
-    imageLink: festivals,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  
-  {
-    id: "9",
-    english: "Fruits",
-    bhutia: "འབྲས་བུ་",
-    pronunciation: "dresbu",
-    imageLink: fruits,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "10",
-    english: "Departments",
-    bhutia: "ལེ་ལག་",
-    pronunciation: "lelag",
-    imageLink: departments,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "11",
-    english: "Days",
-    bhutia: "བདུན་ཕྲག་",
-    pronunciation: "dun-thak",
-    imageLink: days,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "12",
-    english: "Birds",
-    bhutia: "བྱ༹་",
-    pronunciation: "bya",
-    imageLink: birds,
-    data: [
-      {
-        english: "Yellow Bird",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1734933261/birds/yellow_bird_hearja.mp4",
-      },
-    ],
-  },
-  {
-    id: "13",
-    english: "Vegetables",
-    bhutia: "ཚོདམ་",
-    pronunciation: "tshom",
-    imageLink: vegetables,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "14",
-    english: "Medical Terms",
-    bhutia: "བཤག་བཅོས་ ཐ་སྙད་",
-    pronunciation: " shagchos tha-nyath",
-    imageLink: medical,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "15",
-    english: "Planets",
-    bhutia: "གཟའ་",
-    pronunciation: "zaa",
-    imageLink: planets,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  {
-    id: "16",
-    english: "Months",
-    bhutia: "ཧོཪ་ཟླ་",
-    pronunciation: "horda",
-    imageLink: months,
-    data: [
-      {
-        english: "fam",
-        bhutia: "maf",
-        pronunciation: "buoe",
-        audiolink: "",
-      },
-    ],
-  },
-  */
   {
     id: "1",
     english: "Color",
@@ -2021,6 +1794,299 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "རྡྰལ།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/dal_d8u5kj.mp4",
+      },
+    ],
+  },
+  {
+    id: "13",
+    bhutia: "གྲངས་ཁ་",
+    pronunciation: "drang-kha",
+    english: "Numbers",
+    imageLink: digits,
+    data: [
+      {
+        key: "263",
+        english: "0",
+        pronunciation: "lekhar",
+        bhutia: "ལེས་ཁོར།",
+        audiolink: "",
+      },
+      {
+        key: "264",
+        english: "1",
+        pronunciation: "chig",
+        bhutia: "གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802641/numbers/one_w38ajt.mp4",
+      },
+      {
+        key: "265",
+        english: "2",
+        pronunciation: "nyi",
+        bhutia: "གཉིས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802643/numbers/two_bdvadv.mp4",
+      },
+      {
+        key: "266",
+        english: "3",
+        pronunciation: "sum",
+        bhutia: "གསུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802642/numbers/three_wrimcq.mp4",
+      },
+      {
+        key: "267",
+        english: "4",
+        pronunciation: "zi",
+        bhutia: "བཞི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802639/numbers/four_ovlwzv.mp4",
+      },
+      {
+        key: "268",
+        english: "5",
+        pronunciation: "nga",
+        bhutia: "ལྔ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802637/numbers/five_urzevh.mp4",
+      },
+      {
+        key: "269",
+        english: "6",
+        pronunciation: "drug",
+        bhutia: "དྲུག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802609/numbers/6_wtwvdr.mp4",
+      },
+      {
+        key: "270",
+        english: "7",
+        pronunciation: "dun",
+        bhutia: "བདུན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802610/numbers/7_nwtqug.mp4",
+      },
+
+      {
+        key: "271",
+        english: "8",
+        pronunciation: "gyad",
+        bhutia: "བརྒྱད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802610/numbers/8_uhbrru.mp4",
+      },
+
+      {
+        key: "272",
+        english: "9",
+        pronunciation: "gu",
+        bhutia: "དགུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802640/numbers/nine_dtryks.mp4",
+      },
+      {
+        key: "273",
+        english: "10",
+        pronunciation: "chu",
+        bhutia: "བཅུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802611/numbers/10_eg4ncy.mp4",
+      },
+
+      {
+        key: "274",
+        english: "11",
+        pronunciation: "chug-chig",
+        bhutia: "བཅུ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802615/numbers/11_napoct.mp4",
+      },
+
+      {
+        key: "275",
+        english: "20",
+        pronunciation: "nyi-shu",
+        bhutia: "ཉི་ཤུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802616/numbers/20_uxzenr.mp4",
+      },
+      {
+        key: "276",
+        english: "21",
+        pronunciation: "nyi-shu tsa-chig",
+        bhutia: "ཉི་ཤུ་ རྩ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802616/numbers/21_p0jbjo.mp4",
+      },
+      {
+        key: "277",
+        english: "30",
+        pronunciation: "sum-chu",
+        bhutia: "སུམ་བཅུ།།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802617/numbers/30_ikejmx.mp4",
+      },
+      {
+        key: "278",
+        english: "31",
+        pronunciation: "sum-chu so-chig",
+        bhutia: "སུམ་ཅུ་སོ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802618/numbers/31_yrkpt5.mp4",
+      },
+      {
+        key: "279",
+        english: "40",
+        pronunciation: "zi-chu",
+        bhutia: "བཞི་བཅུ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802619/numbers/40_ofmekg.mp4",
+      },
+      {
+        key: "280",
+        english: "41",
+        pronunciation: "zi-chu ze-chig",
+        bhutia: "བཞི་བཅུ་ཞེ་ གཅིག",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802620/numbers/41_sm6dzc.mp4",
+      },
+
+      {
+        key: "281",
+        english: "50",
+        pronunciation: "nga-chu",
+        bhutia: "ལྔ་བཅུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802621/numbers/50_j6n05v.mp4",
+      },
+      {
+        key: "282",
+        english: "51",
+        pronunciation: "nga-chu nga-chig",
+        bhutia: "ལྔ་བཅུ་ལྔ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802622/numbers/51_c1ijot.mp4",
+      },
+      {
+        key: "283",
+        english: "60",
+        pronunciation: "drug-chu",
+        bhutia: "དྲུག་བཅུ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802623/numbers/60_wlypy7.mp4",
+      },
+      {
+        key: "284",
+        english: "61",
+        pronunciation: "drug-chu re-chig",
+        bhutia: "དྲུག་བཅུ་རེ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802624/numbers/61_oa2gvw.mp4",
+      },
+      {
+        key: "285",
+        english: "70",
+        pronunciation: "dun-chu",
+        bhutia: "བདུན་བཅུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802625/numbers/70_mjsqkv.mp4",
+      },
+      {
+        key: "286",
+        english: "71",
+        pronunciation: "dun-chu don-chig",
+        bhutia: "བདུན་བཅུ་ དོན་ གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802626/numbers/71_idsgeg.mp4",
+      },
+      {
+        key: "287",
+        english: "80",
+        pronunciation: "gyad-chu",
+        bhutia: "བརྒྱད་བཅུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802627/numbers/80_k02t6o.mp4",
+      },
+      {
+        key: "288",
+        english: "81",
+        pronunciation: "gyad-chu gya-chig",
+        bhutia: "བརྒྱད་བཅུ་གྱ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802628/numbers/81_ix7rjx.mp4",
+      },
+      {
+        key: "289",
+        english: "90",
+        pronunciation: "gu-chu",
+        bhutia: "དགུ་བཅུ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802629/numbers/90_bpiv6a.mp4",
+      },
+      {
+        key: "290",
+        english: "91",
+        pronunciation: "gu-chu go-chig",
+        bhutia: "དགུ་བཅུ་གོ་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802630/numbers/91_ol5znm.mp4",
+      },
+      {
+        key: "291",
+        english: "100",
+        pronunciation: "gya",
+        bhutia: "བརྒྱ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802632/numbers/100_w5zror.mp4",
+      },
+      {
+        key: "292",
+        english: "1000",
+        pronunciation: "tong",
+        bhutia: "སྟོང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802636/numbers/1000_osmldj.mp4",
+      },
+      {
+        key: "293",
+        english: "10000",
+        pronunciation: "tri-chig",
+        bhutia: "ཁྲི་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802613/numbers/10k_uuq6ed.mp4",
+      },
+      {
+        key: "294",
+        english: "Lakh",
+        pronunciation: "bum",
+        bhutia: "འབུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802633/numbers/100k_yxztvc.mp4",
+      },
+      {
+        key: "295",
+        english: "Million",
+        pronunciation: "bum-chu",
+        bhutia: "འབུམ་བཅུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1M_pttlda.mp4",
+      },
+      {
+        key: "296",
+        english: "Ten Million",
+        pronunciation: "ze-wa",
+        bhutia: "བྱི་བ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802614/numbers/10m_drfuw9.mp4",
+      },
+      {
+        key: "297",
+        english: "Billion",
+        pronunciation: "sa-ya",
+        bhutia: "ས་ཡ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
       },
     ],
   },
