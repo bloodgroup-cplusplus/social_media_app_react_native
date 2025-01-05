@@ -2367,7 +2367,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nag-bom",
     bhutia: "ནགས་འབོམ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933227/birds/a_kind_of_laughing_thrush_hinpjf.mp4",
   },
   {
     key: "299",
@@ -2375,7 +2375,7 @@ const Data: Array<DataProps> = [
     pronunciation: "sisi mgo-nag / sisi dro-tem",
     bhutia: "སི་སི་ མགོ་ནག/སི་སི་ བྲོ་ཏེམ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933230/birds/blackheaded_sibia_jdj8is.mp4",
   },
   {
     key: "300",
@@ -2383,7 +2383,7 @@ const Data: Array<DataProps> = [
     pronunciation: "gur-pedm",
     bhutia: "གུར་པདམ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933228/birds/barred_cuckoo_dove_p3c2xl.mp4",
   },
   {
     key: "301",
@@ -2391,7 +2391,7 @@ const Data: Array<DataProps> = [
     pronunciation: "zhem",
     bhutia: "ཟེསམ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933230/birds/blood_pheasant_h1zqfm.mp4",
   },
   {
     key: "302",
@@ -2399,7 +2399,7 @@ const Data: Array<DataProps> = [
     pronunciation: "jae-chum",
     bhutia: "ཇེ་ཅུམ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933229/birds/black_drongo_fkygvp.mp4",
   },
   {
     key: "303",
@@ -2407,7 +2407,7 @@ const Data: Array<DataProps> = [
     pronunciation: "omo-bap",
     bhutia: "ཨོ་མོ་སྦས།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933255/birds/the_crimson_horned_pheasant_j1tdn0.mp4",
   },
   {
     key: "304",
@@ -2415,259 +2415,295 @@ const Data: Array<DataProps> = [
     pronunciation: "bhya-fo",
     bhutia: "བྱ༹་ཕོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802608/numbers/1B_alzh6g.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933231/birds/cock_m8kgve.mp4",
   },
   {
     key: "305",
     english: "Crane",
     pronunciation: "trung-trung/gimo ting-ting",
     bhutia: "ཁྲུང་ཁྲུང།སྒི་མོ་ ཏིང་ཏིང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933233/birds/crane_fxlo70.mp4",
   },
   {
     key: "306",
     english: "Crow",
     pronunciation: "o-lag",
     bhutia: "ཨོ་ལག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933233/birds/crow_huve0s.mp4",
   },
   {
     key: "307",
     english: "Cuckoo",
     pronunciation: "khyu-zug",
     bhutia: "ཁྱུ་བྱུག",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933234/birds/cuckoo_vuodse.mp4",
   },
   {
     key: "308",
     english: "Dove",
     pronunciation: "byab-tu-lhu",
     bhutia: "བྱ༹བ་ཏུ་ལུ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933235/birds/dove_xp926k.mp4",
   },
   {
     key: "309",
     english: "Duck",
     pronunciation: "ba-tag",
     bhutia: "བ་ཏག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933236/birds/duck_bgu5zf.mp4",
   },
   {
     key: "310",
     english: "Eagle",
     pronunciation: "hos/heu",
     bhutia: "ཡོས།ཧེའུ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933236/birds/eagle_rd8agv.mp4",
   },
   {
     key: "311",
     english: "Fork tailed bird",
     pronunciation: "chu-bya leg-kar",
     bhutia: "ཆུ་བྱ༹་ལེགས་དཀར།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933237/birds/fork_tailed_bird_ihdx6m.mp4",
   },
   {
     key: "312",
     english: "Goose/swan",
     pronunciation: "nang-po",
     bhutia: "ངང་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933238/birds/goose_swan_qyxggn.mp4",
   },
   {
     key: "313",
     english: "Green Billed Malkohad",
     pronunciation: "sang-kum",
     bhutia: "གསང་ཀུམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933252/birds/sang-kum_c4tvv0.mp4",
   },
   {
     key: "314",
     english: "Great Barbet",
     pronunciation: "hu-nyum",
     bhutia: "ཧུ་ཉུམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933239/birds/great_barbet_kznl6h.mp4",
   },
   {
     key: "315",
     english: "Himalayan Whitercrested Laughing Thrush",
     pronunciation: "ga-rem mgo-kar",
     bhutia: "ག་རེམ་མགོ་དཀར།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933241/birds/Himalayan_whitercrested_laughing_thrush_quzvqj.mp4",
   },
   {
     key: "316",
     english: "Hen",
     pronunciation: "byam",
     bhutia: "བྱ༹མ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933240/birds/hen_y96s7k.mp4",
   },
   {
     key: "317",
     english: "Khasia Hills Cuckoo",
     pronunciation: "bya akku",
     bhutia: "བྱ༹་ཨ་ཁུ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933243/birds/khasia_hills_cuckoo_qdzh3f.mp4",
   },
   {
     key: "320",
     english: "Kingfisher",
     pronunciation: "ny-zin gyal-mo",
     bhutia: "ཉ་འཛིན་ རྒྱལ་མོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933243/birds/kingfisher_vw4bnh.mp4",
   },
   {
     key: "321",
     english: "Kiwi",
     pronunciation: "chen-bya",
     bhutia: "བྱ༹་ཀའི་ཝི།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933245/birds/kiwi_mxgl0o.mp4",
   },
   {
     key: "322",
     english: "Kaliz Pheasant",
     pronunciation: "gi-ris",
     bhutia: "གི་རིས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933242/birds/kaliz_pheasant_biuvgl.mp4",
   },
   {
     key: "323",
     english: "The Moonal Pheasant",
     pronunciation: "cham-dong/bye-dang",
     bhutia: "ཆམས་གདོང།བྱེ༹་མདངས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933256/birds/the_moonal_pheasant_j4wmsx.mp4",
   },
   {
     key: "324",
     english: "Treepie",
     pronunciation: "ko-le",
     bhutia: "ཀོ་ལེ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933258/birds/treepie_fbmwvf.mp4",
   },
   {
     key: "325",
     english: "Nightingale",
     pronunciation: "ka-la pin-ka",
     bhutia: "ཀ་ལ་པིང་ཀ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933246/birds/nightingale_tfrgte.mp4",
   },
   {
     key: "326",
     english: "Necklaced Laughing Thrush",
     pronunciation: "byang-karm",
     bhutia: "བྱ༹ང་དཀརམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933245/birds/necklaced_laughing_thrush_mcpzx7.mp4",
   },
   {
     key: "327",
     english: "Ostrich",
     pronunciation: "nga-mong",
     bhutia: "རྔ་ མོང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933246/birds/ostrich_ckckfy.mp4",
   },
   {
     key: "328",
     english: "Owl",
     pronunciation: "din-pom",
     bhutia: "དིང་པོམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933247/birds/owl_abmqpo.mp4",
   },
   {
     key: "329",
     english: "Penguin",
     pronunciation: "khyag-rom bya",
     bhutia: "ཁྱག་རུམ་ བྱ༹།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933249/birds/penguin_p3orof.mp4",
   },
   {
     key: "330",
     english: "Parrot",
     pronunciation: "ne-tso",
     bhutia: "ནེ་ཙོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933248/birds/parrot_hficdm.mp4",
   },
   {
     key: "331",
     english: "Plumbeous Redstart",
     pronunciation: "chu-bya nag-gi",
     bhutia: "ཆུ་བྱ༹་ ནག་གི།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933251/birds/plumbeous_redstart_pqbleg.mp4",
   },
   {
     key: "332",
     english: "Pigeon",
     pronunciation: "pug-ron",
     bhutia: "ཕུག་རིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933250/birds/pigeon_wsjx7t.mp4",
   },
   {
     key: "333",
     english: "Satyr Tragopan",
     pronunciation: "bhab",
     bhutia: "རྦབ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933253/birds/satyr_trgopan_vdjbtr.mp4",
   },
   {
     key: "334",
     english: "Peacock",
     pronunciation: "ma-jya",
     bhutia: "རྨ་བྱ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933249/birds/peacock_dsr7ly.mp4",
   },
   {
     key: "335",
     english: "Red Jungle Fowl",
     pronunciation: "k-len bya",
     bhutia: "ཀེས་ལེན་བྱ༹།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933252/birds/red_jungle_fowl_kieyec.mp4",
   },
   {
     key: "336",
     english: "Sparrow",
     pronunciation: "chag-jesm/chag-bya",
     bhutia: "ལྕགས་མཛེམས།ལྕགས་བྱ༹།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933254/birds/sparrow_bh1c8e.mp4",
   },
   {
     key: "337",
     english: "The Snow Partridge",
     pronunciation: "lerwa",
     bhutia: "ལེར་ཝ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933257/birds/the_snow_partridge_myn9yp.mp4",
   },
   {
     key: "338",
-    english: "The Sikkim SnowCock",
+    english: "The Sikkimese SnowCock",
     pronunciation: "hrak-pa/gong-mo",
     bhutia: "ཧྲག་པ་།གོང་མོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933256/birds/the_Sikkimese_snow_cock_lxhlyy.mp4",
   },
   {
     key: "339",
     english: "Vulture",
     pronunciation: "bya-rgod",
     bhutia: "བྱ༹་རྒོད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933259/birds/vulture_iqjomr.mp4",
   },
   {
     key: "340",
     english: "Woodpecker",
     pronunciation: "shing-trom",
     bhutia: "ཤིང་ཀྲོགམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933260/birds/woodpecker_zee7oj.mp4",
   },
   {
     key: "341",
     english: "Woodcock",
     pronunciation: "lab-ri bya-pho",
     bhutia: "ལབ་རི་ བྱ༹་ཕོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933260/birds/woodcock_xdlqjk.mp4",
   },
   {
     key: "342",
     english: "Yellow Bird",
     pronunciation: "bya-serb",
     bhutia: "བྱ༹་སེརབ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1734933261/birds/yellow_bird_hearja.mp4",
   },
 ];
 
