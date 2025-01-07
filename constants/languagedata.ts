@@ -1587,7 +1587,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ལོ་སྲུང།",
         pronunciation: "losoong",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972676/festivals/bhutia_or_lhopos_new_year_or_harvest_festival_of_the_Sikkimesebhutias_yt3bvn.mp4",
       },
       {
         key: "112",
@@ -1595,7 +1595,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ཆོ་འཕྲུལ་ དུས་ཆེན།",
         pronunciation: "cho trul duechen",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/great_miraculous_prayer_festival_zzrapu.mp4",
       },
       {
         key: "113",
@@ -1603,7 +1603,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "སྤྱི་རིམ།",
         pronunciation: "chi-rim",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/general_healing_ceremony_fpsjpv.mp4",
       },
       {
         key: "114",
@@ -1611,7 +1611,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "གུ་རུ་ དྲག་དམར།",
         pronunciation: "guru drak-mar",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/guru_drakmar_ceremony_jx5bja.mp4",
       },
       {
         key: "115",
@@ -1620,7 +1620,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ས་ག་ཟླ་བོ།",
         pronunciation: "sa-ga do-wo",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736136309/festivals/month_of_vaisakha_a_triple_blessed_occasion_of_birth_enlightenment_and_pari_nirvana_of_buddha_shakyamuni_eykntk.mp4",
       },
       {
         key: "116",
@@ -1628,7 +1628,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "འདེབས་ར་གླིང་།",
         pronunciation: "band-da",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/offering_of_the_8th_lunar_date_or_taras_day_jwaluh.mp4",
       },
       {
         key: "117",
@@ -1636,7 +1636,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ཚེས་བཅུ།",
         pronunciation: "tse-chu",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972678/festivals/offering_of_the_tenth_lunar_date_or_guru_rinpoches_birthday_ehtapt.mp4",
       },
 
       {
@@ -1646,7 +1646,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ཚེས་པ་བཅུ་ལྔ།",
         pronunciation: "tsepa cho nga",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972679/festivals/offerings_of_the_15th_lunar_date_or_green_taras_and_medicine_buddhas_day_pbxrt0.mp4",
       },
       {
         key: "119",
@@ -1654,7 +1654,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ཉེར་ལྔ།",
         pronunciation: "nyer-nga",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/offering_of_25th_lunar_date_or_dakinis_day_goxrqb.mp4",
       },
       {
         key: "120",
@@ -1662,7 +1662,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ཉེར་དགུ།",
         pronunciation: "nyer-ga",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/offering_of_29th_lunar_date_ixuwwl.mp4",
       },
       {
         key: "121",
@@ -1670,7 +1670,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "གནམ་གང།",
         pronunciation: "nyer-gu",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/offering_of_30th_lunar_date_or_buddh_shakyamunis_day_zm2edo.mp4",
       },
 
       {
@@ -1679,7 +1679,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ལོ་གསར།",
         pronunciation: "losar",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972681/festivals/Tibetan_new_year_cn7qen.mp4",
       },
       {
         key: "123",
@@ -1688,7 +1688,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "དྲུག་པོ་ཚེས་ བཞི། ཆོས་འཁོར་ དུས་ཆེན།",
         pronunciation: "drugpa tsezhi",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972681/festivals/the_fourth_of_the_sixth_month_on_which_lord_buddha_delivered_his_first_sermon_at_sarnath_kg5zpl.mp4",
       },
       {
         key: "124",
@@ -1696,7 +1696,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ལྷ་འབབས་ དུས་ཆེན།",
         pronunciation: "lha-bab duechen",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972681/festivals/the_buddhas_descent_from_heaven_yqu81v.mp4",
       },
       {
         key: "125",
@@ -1704,7 +1704,7 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "དཔང་ལྷ་གསོལ།",
         pronunciation: "khang-chen dzod-nga",
         audiolink:
-          "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735972681/festivals/worship_of_the_witness_deities_ekxcvc.mp4",
       },
     ],
   },
