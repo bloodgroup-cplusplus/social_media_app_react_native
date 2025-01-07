@@ -17,7 +17,7 @@ const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
 const planets = require("@/assets/images/planets.jpg");
-const digits = require("@/assets/images/bhutia_digits.png");
+const digits = require("@/assets/images/bhutia_digits.jpg");
 
 interface DataProps {
   key: string;
