@@ -2443,6 +2443,23 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "15",
+    bhutia: "ལེ་ལག་",
+    pronunciation: "le lag",
+    english: "Departments",
+    imageLink: departments,
+    data: [
+      {
+        key: "343",
+        english: "Women and Child Development Department",
+        bhutia: "བུམ་ དང་ བོ་ཙོའི་ ཡར་སྲེད་ ལྲེ་ལག ",
+        pronunciation: "phum to phormi yargay le lag",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/women_and_child_development_department_nkjco8.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;
