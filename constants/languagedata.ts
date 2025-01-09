@@ -2460,6 +2460,87 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
+  {
+    id: "16",
+    english: "Drinks",
+    bhutia: "མཆོད་",
+    pronunciation: "chhoth",
+    imageLink: drinks,
+    data: [
+      {
+        key: "400",
+        english: "Drink/Alcholic Beverages",
+        pronunciation: "chang a-rag",
+        bhutia: "ཆང་ ཨ་རག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/drink_or_alcholic_beverages_omj89t.mp4",
+      },
+      {
+        key: "401",
+        english: "Beer",
+        pronunciation: "bi-yer",
+        bhutia: "སྦི་ཡར།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/beer_dbcdxx.mp4",
+      },
+      {
+        key: "402",
+        english: "Black Tea / Plain Tea",
+        pronunciation: "ja-dang",
+        bhutia: "ཇ་ཐང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/black_and_plain_tea_b42nns.mp4",
+      },
+      {
+        key: "403",
+        english: "Coffee",
+        pronunciation: "tsig-ja",
+        bhutia: "ཚིག་ཇ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/coffee_lxnsfo.mp4",
+      },
+      {
+        key: "404",
+        english: "Juice",
+        pronunciation: "thog kha / dras-khu",
+        bhutia: "འབྲས་ཁུ་  ཐོག་ཁག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/juice_mq5hds.mp4",
+      },
+      {
+        key: "405",
+        english: "Mineral Water",
+        pronunciation: "smen-chu",
+        bhutia: "སྨན་ཆུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395783/drinks/mineral_water_jams8g.mp4",
+      },
+      {
+        key: "406",
+        english: "Milk Tea",
+        pronunciation: "om-ja",
+        bhutia: "འོ་ཇ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395783/drinks/milk_tea_ltyy8l.mp4",
+      },
+      {
+        key: "407",
+        english: "Tea Leaves",
+        pronunciation: "ja-fi/ja-ril",
+        bhutia: "ཇ་རིལ་།ཇ་ཕི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395783/drinks/tea_leaves_jshz4y.mp4",
+      },
+      {
+        key: "408",
+        english: "Butter Tea / Tibetan Tea",
+        pronunciation: "su-ja",
+        bhutia: "སྲུབ་ཇ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      },
+    ],
+  },
 ];
 
 export default LanguageData;
