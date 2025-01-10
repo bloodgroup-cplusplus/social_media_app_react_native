@@ -2544,8 +2544,8 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "17",
-    bhutia: "ལས་ཚན་",
-    pronunciation: "lea-tshen",
+    bhutia: "ལས་ཁུངས་ ལས་ཚན་",
+    pronunciation: "lea-khungs lea-tshen",
     english: " Office Designation",
     imageLink: designation,
     data: [],
