@@ -2787,6 +2787,240 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
   },
+  {
+    key: "409",
+    english: "Agriculture Minister",
+    pronunciation: "shing-lae lon-po",
+    bhutia: "ཞིང་ལས་ བློན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "410",
+    english: "Additional Secretary",
+    pronunciation: "nen-tab drung-che",
+    bhutia: "སྣམ་བཏབ་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "411",
+    english: "Additional Director",
+    pronunciation: "nen-tab kod-pon",
+    bhutia: "སྣམ་བཏབ་ བཀོད་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "412",
+    english: "Assistant Director",
+    pronunciation: "lae-drog kod-pon",
+    bhutia: "ལས་གྲོགས་ བཀོད་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "413",
+    english: "Assistant Education Officer",
+    bhutia: "ལས་དྲོགས་ ཤེས་རིག་ ལས་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+    pronunciation: "lae-drog she-rig lae-pon",
+  },
+  {
+    key: "414",
+    english: "Advocate",
+    pronunciation: "zhu-tsab po",
+    bhutia: "ཞུ་ཚབ་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "415",
+    english: "Chief judge",
+    pronunciation: "trim-pon tso-o",
+    bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "416",
+    english: "Chief Minister",
+    pronunciation: "tso-chi lon-po",
+    bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "417",
+    english: "Chief Secretary",
+    pronunciation: "drung-che tso-o",
+    bhutia: "དྲུང་ཆེ་ གཙོ་བོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "418",
+    english: "Culture Minister",
+    pronunciation: "rig-zung lon-po",
+    bhutia: "རིགས་གཞུང་  བློན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+
+  {
+    key: "419",
+    english: "Chairman",
+    pronunciation: "tri-dag",
+    bhutia: "ཁྲི་བདག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "420",
+    english: "Councillor",
+    pronunciation: "trom-dag",
+    bhutia: "ཁྲོམ་བདག་།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "421",
+    english: "Defence and Foreign Minister",
+    pronunciation: "phi dang drag poi de-srung lon-po",
+    bhutia: "ཕྱི༹་ དང་ དྲག་པོའི་ བདེ་སྲུང་ བླེན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "422",
+    english: "Deputy Secretary",
+    pronunciation: "tsab-kod rung-che",
+    bhutia: "ཚབ་བསྐོས་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4,",
+  },
+  {
+    key: "423",
+    english: "Director",
+    pronunciation: "kod-pon",
+    bhutia: "བཀད་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "424",
+    english: "Education Secretary",
+    pronunciation: "she-rig drung-che",
+    bhutia: "ཤེས་རིག་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "425",
+    english: "Education Minister",
+    pronunciation: "she-rig lon-po",
+    bhutia: "ཤེས་རིག་ བླེན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "426",
+    english: "Finance Minister",
+    pronunciation: "pal-jor lon-po",
+    bhutia: "དཔལ་འབྱོར་ བླེན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "427",
+    english: "Forest and Wildlife Minister",
+    pronunciation: "dong-gyn dang ri-dag sem-chen srung-kyop lon-po",
+    bhutia: "སྡོང་རྒྱན་ དང་ རི་དྭགས་ སེམས་ཅན་  སྲུང་སྐྱོབས་ བློན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "428",
+    english: "Finance Secretary",
+    pronunciation: "pal-jor drung-che",
+    bhutia: "དཔལ་འབྱོར་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "429",
+    english: "Governor",
+    pronunciation: "srid-kyong chen-po",
+    bhutia: "སྲིད་སྐྱོང་ ཆེན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "430",
+    english: "Home Minister",
+    pronunciation: "nang-srid long-po",
+    bhutia: "ནང་སྲིད་ བློན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "431",
+    english: "Health Minister",
+    pronunciation: "throt-ten lon-po",
+    bhutia: "འཕྲོད་བརྟེན་ བློན་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "432",
+    english: "Health Secretary",
+    pronunciation: "throt-tren drung-che",
+    bhutia: "འཕྲོད་རྟེན་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "433",
+    english: "Justice",
+    pronunciation: "trim/drang-den",
+    bhutia: "ཁྲིམས། དྲང་བདེན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "434",
+    english: "Joint Secretary",
+    pronunciation: "zung-dral drung-che",
+    bhutia: "ཟུང་འབྲེལ་ དྲུང་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "435",
+    english: "Joint Director",
+    pronunciation: "zung-drel kod-pon",
+    bhutia: "ཟུང་འབྲེལ་ བཀོད་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+
+  {
+    key: "436",
+    english: "Judge",
+    pronunciation: "trim-pon",
+    bhutia: "ཁྲིམས་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
+  {
+    key: "437",
+    english: "Monarchy",
+    pronunciation: "gyal-po ring-lug",
+    bhutia: "རྒྱལ་པོའི་ རིང་ལུགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+  },
 ];
 
 export default Data;

@@ -18,6 +18,7 @@ const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
 const planets = require("@/assets/images/planets.jpg");
 const digits = require("@/assets/images/bhutia_digits.jpg");
+const designation = require("@/assets/images/designation.jpg");
 
 interface DataProps {
   key: string;
@@ -2540,6 +2541,14 @@ const LanguageData: Array<TopicsProps> = [
           "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
       },
     ],
+  },
+  {
+    id: "17",
+    bhutia: "ལས་ཚན་",
+    pronunciation: "lea-tshen",
+    english: "Designation",
+    imageLink: designation,
+    data: [],
   },
 ];
 
