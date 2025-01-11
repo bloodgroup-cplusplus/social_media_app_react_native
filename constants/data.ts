@@ -2714,6 +2714,29 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/women_and_child_development_department_nkjco8.mp4",
   },
+  {
+    key: "344",
+    english: "Agriculture Department",
+    bhutia: "སོ་ནམ་ གཡོག་ལས་ ལྲེ་ལག ",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "345",
+    english: "Animal Husbandary and Livestock Department",
+    bhutia: "སྲེམས་ཅན་ གསོ་སོངས་ ལྲེ་ལག",
+    pronunciation: "simchen shok kyong le lag",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/animal_husbandary_and_livestock_department_qvrg0x.mp4",
+  },
+  {
+    key: "346",
+    english: "Building and Housing Department",
+    bhutia: "ཁིམ་མའི་ ལྲེ་ལག ",
+    pronunciation: "khim may le lag",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/building_and_housing_department_uwr0lr.mp4",
+  },
 
   {
     key: "400",
