@@ -3228,6 +3228,56 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
   },
+  {
+    key: "461",
+    english: "What is your name?",
+    bhutia:
+      "ལྷན་རྒྱས་ཀྱི་ མཚན་ལོ་ གན་ཞུ་བོ་ གནང་བདོ་ ལགས? ཡང་ན་ རང་གི་ མིང་གན་བོ?",
+    pronunciation:
+      "lhen gya ki tsen lo gan zhu bo nang do la ? / rang-gi ming gan-bo?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892377/conversation/what_is_your_name_chsgvs.mp4",
+  },
+  {
+    key: "461",
+    english: "My name is Thupten",
+    bhutia: "ངའི་མིང་ ཐུབ་བསྟན་ ཨིན་ལགས།",
+    pronunciation: "ngai ming thupten in la.",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892309/conversation/my_name_is_thupten_ju9jj1.mp4",
+  },
+  {
+    key: "462",
+    english: "How are you ?",
+    pronunciation: "ku-zug zang bo, lhen gya ga tem yod la?",
+    bhutia: "སྐུ་གཟུགས་ བཟང་བོ། ལྷན་རྒྱས་ ག་ལྟེམ་ ཡོད་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892262/conversation/how_are_you_cean45.mp4",
+  },
+  {
+    key: "463",
+    english: "I am fine thank you",
+    pronunciation: "la lem yod la thug je che",
+    bhutia: "ལ་ ལེགམ་ ཡོད་ ལགས། ཐུགས་རྗེ་ ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892273/conversation/i_am_fine_thank_you_vwi9fy.mp4",
+  },
+  {
+    key: "464",
+    english: "Where are you from ?",
+    pronunciation: "ga zug po nang khen bo la?",
+    bhutia: "ག་བཞུགས་པོ་ གནང་མཁན་བོ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892390/conversation/where_are_you_from_htw2sm.mp4",
+  },
+  {
+    key: "465",
+    english: "I am from Bhutan",
+    pronunciation: "(nga druk lae in la",
+    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892273/conversation/I_am_from_bhutan_ja4zeq.mp4",
+  },
 ];
 
 export default Data;
