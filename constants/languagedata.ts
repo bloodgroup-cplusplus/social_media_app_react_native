@@ -2559,7 +2559,7 @@ const LanguageData: Array<TopicsProps> = [
     imageLink: conversations,
     data: [
       {
-        key: "461",
+        key: "460",
         english: "What is your name?",
         bhutia:
           "ལྷན་རྒྱས་ཀྱི་ མཚན་ལོ་ གན་ཞུ་བོ་ གནང་བདོ་ ལགས? ཡང་ན་ རང་གི་ མིང་གན་བོ?",
@@ -2603,8 +2603,8 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "465",
         english: "I am from Bhutan",
-        pronunciation: "(nga druk lae in la",
-        bhutia: "",
+        pronunciation: "nga druk lae in la",
+        bhutia: "ང་ འབྲུག་ལས་ ཨིན་ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892273/conversation/I_am_from_bhutan_ja4zeq.mp4",
       },
