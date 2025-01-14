@@ -19,6 +19,7 @@ const departments = require("@/assets/images/departments.jpg");
 const planets = require("@/assets/images/planets.jpg");
 const digits = require("@/assets/images/bhutia_digits.jpg");
 const designation = require("@/assets/images/designation.jpg");
+const conversations = require("@/assets/images/conversation_again.jpg");
 
 interface DataProps {
   key: string;
@@ -2548,6 +2549,14 @@ const LanguageData: Array<TopicsProps> = [
     pronunciation: "lea-khungs lea-tshen",
     english: " Office Designation",
     imageLink: designation,
+    data: [],
+  },
+  {
+    id: "31",
+    bhutia: "གཏམ་",
+    pronunciation: "tam",
+    english: "Conversation",
+    imageLink: conversations,
     data: [],
   },
 ];
