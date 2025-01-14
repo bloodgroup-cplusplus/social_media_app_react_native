@@ -3278,6 +3278,199 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892273/conversation/I_am_from_bhutan_ja4zeq.mp4",
   },
+  {
+    key: "466",
+    english: "How old are you ?",
+    pronunciation: "lhen gya gon lo ga tsod zhes po nang do",
+    bhutia: "ལྷན་རྒྱས་ དགུང་ལོ་ ག་ཚོད་ བཞེས་པོ་ གནང་བདོ?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892268/conversation/how_old_are_you_ku4kvl.mp4",
+  },
+  {
+    key: "467",
+    english: "I am sixteen years old",
+    pronunciation: "nga lo chu-drug in la",
+    bhutia: "ང་ ལོ་བཙུ་དྲུག་ ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892270/conversation/i_am_16_years_old_ptthyw.mp4",
+  },
+  {
+    key: "468",
+    english: "What is your job?",
+    pronunciation: "lhen gya chag lae gan nang do la ?",
+    bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ གན་གནང་ བདོ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892377/conversation/what_is_your_job_flyv4r.mp4",
+  },
+  {
+    key: "469",
+    english: "I am a teacher",
+    pronunciation: "nga lopen in la",
+    bhutia: "ང་ སློབ་དཔོན་ ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892270/conversation/i_am_a_teacher_knsbvh.mp4",
+  },
+  {
+    key: "470",
+    english: "What is your phone number",
+    pronunciation: "lhen gya ki shal par ang gyang ga tsod bo-la?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཞལ་བར་ ཨང་གྱངས་ ག་ཚད་ འབོ་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892378/conversation/what_is_your_phone_number_h6qp91.mp4",
+  },
+  {
+    key: "471",
+    english: "It is  900296667",
+    pronunciation: "Di gu led kor nyi nyi gu drug gsum dang bdun in",
+    bhutia: "འདི་ ༩༠༠༢༩༦༦༦༧ ཨིན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892378/conversation/what_is_your_phone_number_h6qp91.mp4",
+  },
+  {
+    key: "472",
+    english: "Where are you now?",
+    pronunciation: "Lhen gya da to ga zud dod yod",
+    bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ ག་བཞུགས་སྡོད་ཡོད?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892393/conversation/where_are_you_now_yptcr9.mp4",
+  },
+  {
+    key: "473",
+    english: "I am in Sikkim",
+    pronunciation: "Nga da ta denjong lo yad la ",
+    bhutia: "ང་ ད་ལྟ་ འབྲས་ལྫོངས་ལོ་ ཡོད་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892277/conversation/i_am_in_sikkim_u154cq.mp4",
+  },
+  {
+    key: "474",
+    english: "How is your mother",
+    pronunciation: "Amla ku zug lem yod ka la ?",
+    bhutia: "ཨམ་ལགས་ སྐུ་གཟུགས་ ལེགམ་ ཡོད་ཀ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892263/conversation/how_is_your_mother_qldnbu.mp4",
+  },
+  {
+    key: "475",
+    english: "She is very well, thank you",
+    pronunciation: "la leb lem yod thug je che",
+    bhutia: "ལགས་ ལེབ་ལེགམ་ ཡོད། ཐུགས་རྗེ་ཆེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892325/conversation/she_is_very_well_thank_you_wd9rls.mp4",
+  },
+  {
+    key: "476",
+    english: "Where is your school",
+    pronunciation: "lhen gys ki lop dra yod-po la?",
+    bhutia: "ལྷོན་རྒྱས་ཀྱི་ སློབ་གྲྭ་ ག་ཡོད་པོ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892399/conversation/where_is_your_school_eg98je.mp4",
+  },
+  {
+    key: "477",
+    english: "It's in the centre of the town",
+    pronunciation: "ngae ki lop dra di trom gi bu na yod la",
+    bhutia: "ངེ་ཀི་ སློབ་གྲྭ་འདི་ ཁྲོམ་གྱི་ དབུས་ན་ ཡོད་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892304/conversation/it_s_in_centre_of_the_town_zhswgd.mp4",
+  },
+  {
+    key: "478",
+    english: "Where do you live?",
+    pronunciation: "lehn gya ga zup po nang do ?",
+    bhutia: "ལྷན་རྒྱས་ ག་བཞུགས་པོ་ གནང་བདོ?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892394/conversation/where_do_you_live_i9eebd.mp4",
+  },
+  {
+    key: "479",
+    english: "I live in a rented house",
+    pronunciation: "nga khim-lha tab ti dod yod la ",
+    bhutia: "ང་ ཁྱིམ་གླ་ བཏབ་ཏི་ སྡོད་ཡོད་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892296/conversation/i_live_in_rented_house_uuggwj.mp4",
+  },
+  {
+    key: "480",
+    english: "Where do you work?",
+    pronunciation: "lhen gya chag lae ga nang do?",
+    bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ ག་ན་ གནང་བདོ?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892395/conversation/where_do_you_work_kkit19.mp4",
+  },
+  {
+    key: "481",
+    english: "I work in a radio station",
+    pronunciation: "nga lung trin khang nang yog kyap to in la.",
+    bhutia: " ང་ རླུང་འཕྲིན་ཁང་ ནང་ གཡོག་རྐྱབས་ཏོ་ ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892300/conversation/i_work_at_a_radio_station_gpstxh.mp4",
+  },
+  {
+    key: "482",
+    english: "What are your names ?",
+    pronunciation: "lhen gya tsui taen gan gan in nam ?",
+    bhutia: "ལྷན་རྒྱས་ཙུའི་ མཚན་གན་གན་ ཨིན་ནམ?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892341/conversation/what_are_your_names_iwivsc.mp4",
+  },
+  {
+    key: "483",
+    english: "Our names are Tshering, Sonam and Dorjee",
+    pronunciation: "nga chai ming tsu Tshering, Sodnam dang Dorje in la.",
+    bhutia: "ང་ཅའི་ མིང་ཙུ་ ཚེ་རིང་ ,བསོད་ནམས་ དང་ རྡོ་རྗེ་ ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892317/conversation/our_names_are_Tshering_sonam_and_dorjee_himo5r.mp4",
+  },
+  {
+    key: "484",
+    english: "What sports do you like ?",
+    pronunciation: "lhen gya tsedm ga di-lo gaa la ?",
+    bhutia: "ལྷན་རྒྱས་ རྩེདམ་ ག་འདི་ལོ་ དགའ་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892379/conversation/what_sports_do_you_like_zdtt0n.mp4",
+  },
+  {
+    key: "485",
+    english: "I like football and volleyball",
+    pronunciation: "nga kang-tsed po-ling dang lag-tsed po-li ga la",
+    bhutia: "ང་ རྐང་རྩེད་ པོ་ལོ་ དང་ ལག་རྩེད་ པོ་ལོ་ དགའ་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892292/conversation/i_like_football_and_volleyball_ydj02y.mp4",
+  },
+  {
+    key: "486",
+    english: "What drink do you like ?",
+    pronunciation: "lhen gay gan chod gos no la ?",
+    bhutia: "ལྷན་རྒྱས་ གན་མཚོད་དགོས་ མནོ་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892368/conversation/what_drink_do_you_like_mgnfh3.mp4",
+  },
+  {
+    key: "487",
+    english: "I like coffee",
+    pronunciation: "nga ko phi (tsig-ja) ga la",
+    bhutia: "ང་ ཀོ་ཕི་  ༼   ཚིག་ཇ།༽   དགའ་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892291/conversation/I_like_coffee_v82hth.mp4",
+  },
+  {
+    key: "488",
+    english: "How many languages do you speak ?",
+    pronunciation: "lhen gay ki khed rig ga tsod khen bo nang la ",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྐད་རིགས་ ག་ཚོད་ མཁན་བོ་ གནང་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892264/conversation/how_many_languages_do_you_speak_hu1mw3.mp4",
+  },
+  {
+    key: "489",
+    english: "I can speak three languages : Bhutia English and Nepali",
+    pronunciation: "nga khed rig sum she la lho khed dang in ji dang ne pa li",
+    bhutia:
+      "ངས་ སྐད་རིགས་ གསུམ་ ཤེས་ལགས། ལྷོ་སྐད། དབྱིན་ཇི་ དང ནེ་པ་ལི་ ཡང་ན ཕྱུག་སྐད།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892280/conversation/i_can_speak_three_languages_bhutia_English_and_nepali_br9nmw.mp4",
+  },
 ];
 
 export default Data;
