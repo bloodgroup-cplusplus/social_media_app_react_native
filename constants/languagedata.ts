@@ -2802,6 +2802,105 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892280/conversation/i_can_speak_three_languages_bhutia_English_and_nepali_br9nmw.mp4",
       },
+      {
+        key: "490",
+        english: "Do you speak english?",
+        pronunciation: "Lhen gay in ji kyapo nang ga la",
+        bhutia: "ལྷན་རྒྱས་ དབྱིན་ཇི་ རྐྱབསཔོ་ གནང་ག་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892247/conversation/do_you_speak_english_bsildy.mp4",
+      },
+      {
+        key: "491",
+        english: "Yes I do ",
+        pronunciation: "la kyap to yin la",
+        bhutia: "ལགས་ རྐྱབས་ཏོ་ ཨིན་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892404/conversation/yes_i_do_b7bfrl.mp4",
+      },
+      {
+        key: "492",
+        english: "Do you have a German Car?",
+        pronunciation: "Lhen gay tsa jor-mon chib khor yod ka la",
+        bhutia: "ལྷན་རྒྱས་རྩར་ ཇོར་མོན་ ཆིབས་འཁོར་ ཡོད་ཀ་ ལགས?",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892245/conversation/do_you_have_a_german_car_fftllg.mp4",
+      },
+      {
+        key: "493",
+        english: "No, I don't . I have an Indian car",
+        pronunciation: "Med la . nga lo Indian khorlo yod la . ",
+        bhutia: "མེད་ལགས། ང་ལོ་ ཨིན་ཌིན་ ༼  རྒ་གར་༽   འཁོར་ལོ་ ཡོད་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892313/conversation/no_i_have_an_Indian_car_xmokyc.mp4",
+      },
+      {
+        key: "494",
+        english: "Do you drink Sikkimese beer ?",
+        pronunciation: "Lhen gay drejong ki chang chod po nang ga ?",
+        bhutia: "ལྷན་རྒྱས་ འབྲས་ལྗོངས་ཀྱི་ ཆང་ མཆོད་པོ་ གནང་ག?",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892241/conversation/do_you_drink_Sikkimese_beer_cgxud8.mp4",
+      },
+      {
+        key: "495",
+        english: "Yes I do ",
+        pronunciation: "la kyap to yin la",
+        bhutia: "ལགས་ རྐྱབས་ཏོ་ ཨིན་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892404/conversation/yes_i_do_b7bfrl.mp4",
+      },
+      {
+        key: "496",
+        english: "No I don't",
+        pronunciation: "Men la. thung bo med la",
+        bhutia: "མན་ལགས། འཐུང་བོ་ མེད་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892312/conversation/no_i_don_t_chzyxy.mp4",
+      },
+      {
+        key: "497",
+        english: "How much is the Bhutia dictionary",
+        pronunciation: "Lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
+        bhutia: "ལྷན་རྒྱས་ ཚིག་མཛོད་ ཆེན་མོ་ འདི་ རིན་གོང་ ག་ཚོད་བོ་ ལགས?",
+        audiolink: "",
+      },
+      {
+        key: "498",
+        english: "It's 100 Rs per book",
+        pronunciation: "chig lo gya thampa in la",
+        bhutia: "གཅིག་ལོ་ བརྒྱ་ཐམས་པ་ ཨིན་ལགས། ",
+        audiolink: "",
+      },
+      {
+        key: "499",
+        english: "What time is it, please?",
+        pronunciation: "chu tsod gat tsod bo la ?",
+        bhutia: "ཆུ་ཚོད་ ག་ཚོད་བོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "500",
+        english: "Its nine o' clock",
+        pronunciation: "chud tsod gu bay la",
+        bhutia: "ཆུ་ཚོད་ དགུ་སྦད་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "501",
+        english: "What time do you go to school ?",
+        pronunciation:
+          "Lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
+        bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་  ལགས?",
+        audiolink: "",
+      },
+      {
+        key: "502",
+        english: "I go to school at 8:30",
+        pronunciation: "nga chu tsod gyad dang phyad lo gyu do in la",
+        bhutia: "ང་ ཆུ་ཚོད་ བརྒྱད་ དང་ ཕྱེ༹ད་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས?",
+        audiolink: "",
+      },
     ],
   },
 ];
