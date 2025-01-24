@@ -2805,7 +2805,7 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "490",
         english: "Do you speak english?",
-        pronunciation: "Lhen gay in ji kyapo nang ga la",
+        pronunciation: "lhen gay in ji kyapo nang ga la",
         bhutia: "ལྷན་རྒྱས་ དབྱིན་ཇི་ རྐྱབསཔོ་ གནང་ག་ ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892247/conversation/do_you_speak_english_bsildy.mp4",
@@ -2821,7 +2821,7 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "492",
         english: "Do you have a German Car?",
-        pronunciation: "Lhen gay tsa jor-mon chib khor yod ka la",
+        pronunciation: "lhen gay tsa jor-mon chib khor yod ka la",
         bhutia: "ལྷན་རྒྱས་རྩར་ ཇོར་མོན་ ཆིབས་འཁོར་ ཡོད་ཀ་ ལགས?",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892245/conversation/do_you_have_a_german_car_fftllg.mp4",
@@ -2829,7 +2829,7 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "493",
         english: "No, I don't . I have an Indian car",
-        pronunciation: "Med la . nga lo Indian khorlo yod la . ",
+        pronunciation: "med la . nga lo Indian khorlo yod la . ",
         bhutia: "མེད་ལགས། ང་ལོ་ ཨིན་ཌིན་ ༼  རྒ་གར་༽   འཁོར་ལོ་ ཡོད་ ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892313/conversation/no_i_have_an_Indian_car_xmokyc.mp4",
@@ -2837,7 +2837,7 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "494",
         english: "Do you drink Sikkimese beer ?",
-        pronunciation: "Lhen gay drejong ki chang chod po nang ga ?",
+        pronunciation: "lhen gay drejong ki chang chod po nang ga ?",
         bhutia: "ལྷན་རྒྱས་ འབྲས་ལྗོངས་ཀྱི་ ཆང་ མཆོད་པོ་ གནང་ག?",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892241/conversation/do_you_drink_Sikkimese_beer_cgxud8.mp4",
@@ -2853,15 +2853,16 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "496",
         english: "No I don't",
-        pronunciation: "Men la. thung bo med la",
+        pronunciation: "men la. thung bo med la",
         bhutia: "མན་ལགས། འཐུང་བོ་ མེད་ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892312/conversation/no_i_don_t_chzyxy.mp4",
       },
+      /*
       {
         key: "497",
         english: "How much is the Bhutia dictionary",
-        pronunciation: "Lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
+        pronunciation: "lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
         bhutia: "ལྷན་རྒྱས་ ཚིག་མཛོད་ ཆེན་མོ་ འདི་ རིན་གོང་ ག་ཚོད་བོ་ ལགས?",
         audiolink: "",
       },
@@ -2890,7 +2891,7 @@ const LanguageData: Array<TopicsProps> = [
         key: "501",
         english: "What time do you go to school ?",
         pronunciation:
-          "Lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
+          "lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
         bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་  ལགས?",
         audiolink: "",
       },
@@ -2901,6 +2902,92 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ང་ ཆུ་ཚོད་ བརྒྱད་ དང་ ཕྱེ༹ད་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས?",
         audiolink: "",
       },
+      {
+        key: "503",
+        english: "What time do you get up",
+        pronunciation: "lhen gay chu tsod ga tsod lo ya zhang po nang do la?",
+        bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཡ་ བཞེངས་པོ་ གནང་བདོ་ ལགས?",
+        audiolink: "",
+      },
+      {
+        key: "504",
+        english: "I get up at six o' clock",
+        pronunciation: "nga chu tsod drug lo lang to in la",
+        bhutia: "ང་ ཆུ་ཚོད་ དྲུག་ལོ་ ལོང་ཏོ་  ཨིན་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "505",
+        english: "What time do you have breakfast?",
+        pronunciation:
+          "lhen gay chu tsod ga tsod lo dro pai dro zha shae po nang do la",
+        bhutia:
+          "ལྷན་རྒྱས་  ཆུ་ཚོད་ ག་ཚོད་ལོ་ དྲོ་པའི་ དྲོ་ཟ་ བཞེས་པོ་ གནང་དོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "506",
+        english: "I have breakfast at seven o' clock",
+        pronunciation: "nga chu tsod dun lo dro pai dro zha zha do in la",
+        bhutia: "ང་ ཆུ་ཚོད་ བདུན་ ལོ་ དྲོ་པའི་ དྲོ་ཟ་ ཟ་བདོ་ ཨིན་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "507",
+        english: "Do you like tea?",
+        pronunciation: "lhen gay sol jag a gaa?",
+        bhutia: "ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།",
+        audiolink: "",
+      },
+      {
+        key: "508",
+        english: "Yes, I do",
+        pronunciation: "la,gaa la",
+        bhutia: "ལགས། དགའ་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "509",
+        english: "Do you go to school by bus?",
+        pronunciation: "lhen gay lop dra lo khor chen na zon do la ?",
+        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ འཁོར་ཆེན་ ན་ བྱོན་དོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "510",
+        english: "No, I don't I go by taxi",
+        pronunciation: "men la. nga lha khor chung chung na gyu do in la",
+        bhutia: "མན་ལགས། ང་ གླ་འཁོར་ ཆུང་ཆུང་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "511",
+        english: "Do you hage a dog?",
+        pronunciation: "lhen gay lo kyi yod k la?",
+        bhutia: "ལྷན་རྒྱས་ལོ་ ཁྱི་ ཡོད་ཀ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "512",
+        english: "Yes I do",
+        pronunciation: "la.yod la",
+        bhutia: "ལགས་ ཡོད་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "513",
+        english: "Do you get up early?",
+        pronunciation: "lhen gay dro pa ma la shang to la ?",
+        bhutia: "ལྷན་རྒྱད་ དྲོ་པ་ མ་ལགས་ བཞེངས་ཏོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "514",
+        english: "Yes I do ",
+        pronunciation: "la in la",
+        bhutia: "ལགས། ཨིན་ལགས།",
+        audiolink: "",
+      },*/
     ],
   },
 ];
