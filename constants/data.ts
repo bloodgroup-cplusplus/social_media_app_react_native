@@ -3527,170 +3527,192 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892312/conversation/no_i_don_t_chzyxy.mp4",
   },
-  /*
-      {
-        key: "497",
-        english: "How much is the Bhutia dictionary",
-        pronunciation: "lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
-        bhutia: "ལྷན་རྒྱས་ ཚིག་མཛོད་ ཆེན་མོ་ འདི་ རིན་གོང་ ག་ཚོད་བོ་ ལགས?",
-        audiolink: "",
-      },
-      {
-        key: "498",
-        english: "It's 100 Rs per book",
-        pronunciation: "chig lo gya thampa in la",
-        bhutia: "གཅིག་ལོ་ བརྒྱ་ཐམས་པ་ ཨིན་ལགས། ",
-        audiolink: "",
-      },
-      {
-        key: "499",
-        english: "What time is it, please?",
-        pronunciation: "chu tsod gat tsod bo la ?",
-        bhutia: "ཆུ་ཚོད་ ག་ཚོད་བོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "500",
-        english: "Its nine o' clock",
-        pronunciation: "chud tsod gu bay la",
-        bhutia: "ཆུ་ཚོད་ དགུ་སྦད་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "501",
-        english: "What time do you go to school ?",
-        pronunciation:
-          "lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
-        bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་  ལགས?",
-        audiolink: "",
-      },
-      {
-        key: "502",
-        english: "I go to school at 8:30",
-        pronunciation: "nga chu tsod gyad dang phyad lo gyu do in la",
-        bhutia: "ང་ ཆུ་ཚོད་ བརྒྱད་ དང་ ཕྱེ༹ད་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས?",
-        audiolink: "",
-      },
-      {
-        key: "503",
-        english: "What time do you get up",
-        pronunciation: "lhen gay chu tsod ga tsod lo ya zhang po nang do la?",
-        bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཡ་ བཞེངས་པོ་ གནང་བདོ་ ལགས?",
-        audiolink: "",
-      },
-      {
-        key: "504",
-        english: "I get up at six o' clock",
-        pronunciation: "nga chu tsod drug lo lang to in la",
-        bhutia: "ང་ ཆུ་ཚོད་ དྲུག་ལོ་ ལོང་ཏོ་  ཨིན་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "505",
-        english: "What time do you have breakfast?",
-        pronunciation:
-          "lhen gay chu tsod ga tsod lo dro pai dro zha shae po nang do la",
-        bhutia:
-          "ལྷན་རྒྱས་  ཆུ་ཚོད་ ག་ཚོད་ལོ་ དྲོ་པའི་ དྲོ་ཟ་ བཞེས་པོ་ གནང་དོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "506",
-        english: "I have breakfast at seven o' clock",
-        pronunciation: "nga chu tsod dun lo dro pai dro zha zha do in la",
-        bhutia: "ང་ ཆུ་ཚོད་ བདུན་ ལོ་ དྲོ་པའི་ དྲོ་ཟ་ ཟ་བདོ་ ཨིན་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "507",
-        english: "Do you like tea?",
-        pronunciation: "lhen gay sol jag a gaa?",
-        bhutia: "ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།",
-        audiolink: "",
-      },
-      {
-        key: "508",
-        english: "Yes, I do",
-        pronunciation: "la,gaa la",
-        bhutia: "ལགས། དགའ་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "509",
-        english: "Do you go to school by bus?",
-        pronunciation: "lhen gay lop dra lo khor chen na zon do la ?",
-        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ འཁོར་ཆེན་ ན་ བྱོན་དོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "510",
-        english: "No, I don't I go by taxi",
-        pronunciation: "men la. nga lha khor chung chung na gyu do in la",
-        bhutia: "མན་ལགས། ང་ གླ་འཁོར་ ཆུང་ཆུང་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "511",
-        english: "Do you hage a dog?",
-        pronunciation: "lhen gay lo kyi yod k la?",
-        bhutia: "ལྷན་རྒྱས་ལོ་ ཁྱི་ ཡོད་ཀ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "512",
-        english: "Yes I do",
-        pronunciation: "la.yod la",
-        bhutia: "ལགས་ ཡོད་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "513",
-        english: "Do you get up early?",
-        pronunciation: "lhen gay dro pa ma la shang to la ?",
-        bhutia: "ལྷན་རྒྱད་ དྲོ་པ་ མ་ལགས་ བཞེངས་ཏོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "514",
-        english: "Yes I do ",
-        pronunciation: "la in la",
-        bhutia: "ལགས། ཨིན་ལགས།",
-        audiolink: "",
-      },*/
+
+  {
+    key: "497",
+    english: "How much is the Bhutia dictionary",
+    pronunciation: "lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
+    bhutia: "ལྷན་རྒྱས་ ཚིག་མཛོད་ ཆེན་མོ་ འདི་ རིན་གོང་ ག་ཚོད་བོ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892266/conversation/how_much_is_the_bhutia_dictionary_aglotu.mp4",
+  },
+  {
+    key: "498",
+    english: "It's 100 Rs per book",
+    pronunciation: "chig lo gya thampa in la",
+    bhutia: "གཅིག་ལོ་ བརྒྱ་ཐམས་པ་ ཨིན་ལགས། ",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892303/conversation/it_s_100_rs_per_book_rit2as.mp4",
+  },
+  {
+    key: "499",
+    english: "What time is it, please?",
+    pronunciation: "chu tsod gat tsod bo la ?",
+    bhutia: "ཆུ་ཚོད་ ག་ཚོད་བོ་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892386/conversation/what_time_is_it_please_qsfa4z.mp4",
+  },
+  {
+    key: "500",
+    english: "It is nine o' clock",
+    pronunciation: "chud tsod gu bay la",
+    bhutia: "ཆུ་ཚོད་ དགུ་སྦད་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892302/conversation/its_9_o_clock_bq8jle.mp4",
+  },
+  {
+    key: "501",
+    english: "What time do you go to school ?",
+    pronunciation: "lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
+    bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་  ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892383/conversation/what_time_do_you_go_to_school_thowus.mp4",
+  },
+  {
+    key: "502",
+    english: "I go to school at 8:30",
+    pronunciation: "nga chu tsod gyad dang phyad lo gyu do in la",
+    bhutia: "ང་ ཆུ་ཚོད་ བརྒྱད་ དང་ ཕྱེ༹ད་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892286/conversation/i_go_to_school_at_8_30_es5fqm.mp4",
+  },
+  {
+    key: "503",
+    english: "What time do you get up",
+    pronunciation: "lhen gay chu tsod ga tsod lo ya zhang po nang do la?",
+    bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཡ་ བཞེངས་པོ་ གནང་བདོ་ ལགས?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892380/conversation/what_time_do_you_get_up_y0m23j.mp4",
+  },
+  {
+    key: "504",
+    english: "I get up at six o' clock",
+    pronunciation: "nga chu tsod drug lo lang to in la",
+    bhutia: "ང་ ཆུ་ཚོད་ དྲུག་ལོ་ ལོང་ཏོ་  ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892283/conversation/i_get_up_at_6_o_clock_ouqlbq.mp4",
+  },
+  {
+    key: "505",
+    english: "What time do you have breakfast?",
+    pronunciation:
+      "lhen gay chu tsod ga tsod lo dro pai dro zha shae po nang do la",
+    bhutia:
+      "ལྷན་རྒྱས་  ཆུ་ཚོད་ ག་ཚོད་ལོ་ དྲོ་པའི་ དྲོ་ཟ་ བཞེས་པོ་ གནང་དོ་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892384/conversation/what_time_do_you_have_your_breakfast_vvymji.mp4",
+  },
+  {
+    key: "506",
+    english: "I have breakfast at seven o' clock",
+    pronunciation: "nga chu tsod dun lo dro pai dro zha zha do in la",
+    bhutia: "ང་ ཆུ་ཚོད་ བདུན་ ལོ་ དྲོ་པའི་ དྲོ་ཟ་ ཟ་བདོ་ ཨིན་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892289/conversation/i_have_breakfast_at_seven_o_clock_wpll9m.mp4",
+  },
+  {
+    key: "507",
+    english: "Do you like tea?",
+    pronunciation: "lhen gay sol jag a gaa?",
+    bhutia: "ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892245/conversation/do_you_like_tea_upt3yj.mp4",
+  },
+  {
+    key: "508",
+    english: "Yes, I do",
+    pronunciation: "la,gaa la",
+    bhutia: "ལགས། དགའ་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892403/conversation/yes_i_do_like_tea_kqbqay.mp4",
+  },
+  {
+    key: "509",
+    english: "Do you go to school by bus?",
+    pronunciation: "lhen gay lop dra lo khor chen na zon do la ?",
+    bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ འཁོར་ཆེན་ ན་ བྱོན་དོ་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892243/conversation/do_you_go_to_school_by_bus_o5tgo9.mp4",
+  },
+  {
+    key: "510",
+    english: "No, I don't I go by taxi",
+    pronunciation: "men la. nga lha khor chung chung na gyu do in la",
+    bhutia: "མན་ལགས། ང་ གླ་འཁོར་ ཆུང་ཆུང་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892310/conversation/no_i_don_t_i_go_by_taxi_puoboq.mp4",
+  },
+  {
+    key: "511",
+    english: "Do you hage a dog?",
+    pronunciation: "lhen gay lo kyi yod k la?",
+    bhutia: "ལྷན་རྒྱས་ལོ་ ཁྱི་ ཡོད་ཀ་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892244/conversation/do_you_have_a_dog_u52fhw.mp4",
+  },
+  {
+    key: "512",
+    english: "Yes I do",
+    pronunciation: "la.yod la",
+    bhutia: "ལགས་ ཡོད་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892404/conversation/yes_i_do_b7bfrl.mp4",
+  },
+  {
+    key: "513",
+    english: "Do you get up early?",
+    pronunciation: "lhen gay dro pa ma la shang to la ?",
+    bhutia: "ལྷན་རྒྱད་ དྲོ་པ་ མ་ལགས་ བཞེངས་ཏོ་ ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892242/conversation/do_you_get_up_early_ofg0vi.mp4",
+  },
+  {
+    key: "514",
+    english: "Yes I do ",
+    pronunciation: "la in la",
+    bhutia: "ལགས། ཨིན་ལགས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892404/conversation/yes_i_do_b7bfrl.mp4",
+  },
   {
     key: "515",
     english: "What day is it today?",
     pronunciation: "da ring za gan bo la ?",
     bhutia: "ད་རིང་ གཟའ་ གན་འབོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892342/conversation/what_day_is_it_today_xjnqt0.mp4",
   },
   {
     key: "516",
     english: "Today is Monday",
     pronunciation: "da ring za dha o in la",
     bhutia: "ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892336/conversation/today_is_monday_gt51bu.mp4",
   },
   {
     key: "517",
     english: "What day is it tomorrow?",
     pronunciation: "tho rang za gan bo la ?",
     bhutia: "ཐོ་རང་ གཟའ་ གན་བོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892343/conversation/what_day_is_tomorrow_o00tws.mp4",
   },
   {
     key: "518",
     english: "Tomorrow is Tuesday",
     pronunciation: "tho rang za mig mar in la",
     bhutia: "ཐོ་རང་ གཟའ་ དམིག་མར་ ཨིན་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892337/conversation/tomorrow_is_tuesday_tgrhne.mp4",
   },
   {
     key: "519",
     english: "What days do you go to school?",
     pronunciation: "lhen gay lop dra lo za ga di na zon bo nang do la",
     bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ གཟའ་ ག་འདི་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892345/conversation/what_days_do_you_go_to_school_blhgfr.mp4",
   },
   {
     key: "520",
@@ -3699,118 +3721,135 @@ const Data: Array<DataProps> = [
       "nga za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
     bhutia:
       "ང་ གཟའ་ ཟླ་བོ་ དམིག་མར་ ལྷག་ཀོ་ ཕུར་བུ་ དང་ སྤ་སངས་ལོ་  རྒྱུ་བདོ་ ཨིན་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892316/conversation/on_Monday_Tuesday_Wednesday_thursday_and_Friday_ci2zpf.mp4",
   },
   {
     key: "521",
     english: "What days are the weekends",
     pronunciation: "za ga di di dun thrag gi zug bo la ",
     bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ ཕྲག་གི་ མཇུག་བོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892344/conversation/what_days_are_the_weekends_os28v6.mp4",
   },
   {
     key: "522",
     english: "It's on Saturday",
     pronunciation: "za pempo in la",
     bhutia: "གཟའ་ སྤེན་པོ་ ཨིན་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892306/conversation/its_on_saturday_zt24aa.mp4",
   },
   {
     key: "523",
     english: "What days do you like?",
     pronunciation: "lhen gay za ga di gaa la?",
     bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ དགའ་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892346/conversation/what_days_do_you_like_r5evq0.mp4",
   },
   {
     key: "524",
     english: "I like Monday and Friday",
     pronunciation: "nga za dha o dang pa sang gaa la",
     bhutia: "ང་ གཟའ་ ཟླ་བོ་ དང་ སྤ་སངས་  དགའ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892293/conversation/i_like_Monday_and_Friday_mxn6pu.mp4",
   },
   {
     key: "525",
     english: "What days you do not like",
     pronunciation: "lhen gay za ga di min gaa la",
     bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ མིན་དགའ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892367/conversation/what_days_do_you_not_like_qxptyh.mp4",
   },
   {
     key: "526",
     english: "I don't like Wednesday and Saturday",
     pronunciation: "nga za lhag ko dang pen po min gaa la",
     bhutia: "ང་ གཟའ་ ལྷག་ཀོ་ དང་ སྤེན་པོ་ མིན་དགའ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892282/conversation/i_dont_like_Wednesday_and_saturday_u3bbcy.mp4",
   },
   {
     key: "527",
     english: "When do you have Bhutia Subject",
     pronunciation: "lho yig lop tsen nam yod-po la",
     bhutia: "ལྷོ་ཡིག་ སློབ་ཚན་ ནམ་ཡོད་པོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892389/conversation/when_do_you_have_bhutia_subjects_tjewce.mp4",
   },
   {
     key: "528",
     english: "We have Bhutia subject on Tuesday",
     pronunciation: "nga chag lo lho yig lop tsen za mig mar na yod la",
     bhutia: "ང་ཅག་ལོ་ ལྷོ་ཡིག་ སློབ་ཚན་ གཟའ་དམིག་མར་ན་ ཡོད་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892340/conversation/we_have_bhutia_subjects_on_tuesday_nyikpj.mp4",
   },
   {
     key: "529",
     english: "Where are you going",
     pronunciation: "lhen gay go zon bo nang do la",
     bhutia: "ལྷན་རྒྱས་ ག་ བྱོན་བོ་ གནང་དོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892391/conversation/where_are_you_going_fyovr2.mp4",
   },
   {
     key: "530",
     english: "I am going to the market",
     pronunciation: "nga trom lo gyu do in la",
     bhutia: "ང་ ཁྲོམ་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892276/conversation/i_am_going_to_market_oom580.mp4",
   },
   {
     key: "531",
     english: "What is this?",
     pronunciation: "di gan bo la ?",
     bhutia: "འདི་ གན་ འབོ་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892371/conversation/what_is_this_vqa6fx.mp4",
   },
   {
     key: "532",
     english: "This is a pen",
     pronunciation: "di myu gu in la",
     bhutia: "འདི་ སྨྱུ་གུ་ ཨིན་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892335/conversation/this_is_a_pen_mdpaq7.mp4",
   },
   {
     key: "533",
     english: "Where is Sikkim",
     pronunciation: "drejong ga -nang yod-po la",
     bhutia: "འབྲས་ལྗོངས་ ག་ན་ ཡོད་པོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892396/conversation/where_is_sikkim_o44azf.mp4",
   },
   {
     key: "534",
     english: "It's in India",
     pronunciation: "di gya gar nang sha yod la",
     bhutia: "འདི་ རྒྱ་གར་ ནང་ཤ་ ཡོད་ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892305/conversation/its_in_india_xiveqt.mp4",
   },
   {
     key: "535",
     english: "What is your address?",
     pronunciation: "lhen gay ki kha jang gan-bo la ?",
     bhutia: "ལྷན་རྒྱས་ ཀྱི་ ཁ་བྱང་ གན་འབོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892372/conversation/what_is_your_address_j98ebn.mp4",
   },
   {
     key: "536",
     english: "Gaylshing in West Sikkim",
     pronunciation: "ngae ki kha jang gyalshing in la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892251/conversation/gyalshing_in_west_sikkim_k4ftrg.mp4",
     bhutia: "ངེ་ཀི་ ཁ་བྱང་ རྒྱལ་ཞིང་ ཨིན་ལགས།",
   },
   {
@@ -3818,21 +3857,24 @@ const Data: Array<DataProps> = [
     english: "Do you play football?",
     pronunciation: "len gay khang tsed po lo tsed bo nang ga la?",
     bhutia: "ལྷན་རྒྱས་ རྐང་རྩེད་ པོ་ལོ་ རྩེད་བོ་ གནང་ག་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892246/conversation/do_you_play_football_jikjsn.mp4",
   },
   {
     key: "538",
     english: "Yes I play football",
     pronunciation: "ngae tsed do in la",
     bhutia: "ང་ རྩེད་དོ་ ཨིན་ ལགས",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892405/conversation/yes_i_play_football_tin3x3.mp4",
   },
   {
     key: "539",
     english: "Where is Tshering from?",
     pronunciation: "tshering ga zug po nang khen bo la?",
     bhutia: "ཚེ་རིང་ ག་ བཞུགས་པོ་ གནང་མཁན་འབོ་ ལགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892398/conversation/where_is_Tshering_from_dnqjht.mp4",
   },
   {
     key: "540",
@@ -3940,6 +3982,48 @@ const Data: Array<DataProps> = [
     pronunciation: "lhen gay nam zon bo nang bo la ",
     bhutia: "ལྷན་རྒྱས་ ནམ་བྱོན་བོ་གནང་བོ་ལགས།",
     audiolink: "",
+  },
+  {
+    key: "555",
+    english: " I came yesterday",
+    pronunciation: "nga dhang hong bo in la",
+    bhutia: "ང་ མདང་ འོང་བོ་ ཨིན་ལགས།",
+    audiolink: "",
+  },
+  {
+    key: "556",
+    english: "Where are you going",
+    pronunciation: "lhen gay ga na zon bo nang do la",
+    bhutia: "ལྷན་རྒྱས་ ག་ན་ བྱོན་བོ་ གནང་དོ་ ལགས།",
+    audiolink: "",
+  },
+  {
+    key: "557",
+    english: "I am going to the Monastery",
+    pronunciation: "nga gon pa gyu-do in la",
+    bhutia: "ང་ དགོན་པ་ རྒྱུ་བདོ་ ཨིན་ ལགས།",
+    audiolink: "",
+  },
+  {
+    key: "558",
+    english: "For how long are you going?",
+    audiolink: "",
+    bhutia: "ལྷན་རྒྱས་ ཉིན་ ག་ ཚོད་ ཀྱི་ དོན་ལོ་  བྱོན་བོ་ གནང་བདོ་ ལགས།",
+    pronunciation: "lhen gay nying ga tsod ki don lo zon bo nang do la",
+  },
+  {
+    key: "559",
+    english: "For two days",
+    audiolink: "",
+    bhutia: "ཉིན་ གཉིས་ཀྱི་ དོན་ལོ་ ཨིན ་ལགས།",
+    pronunciation: "nyin nyi ki do lo in la",
+  },
+  {
+    key: "560",
+    english: "Bye Bye",
+    audiolink: "",
+    bhutia: "ག་ལུས་ཏེ་ བྱོན་བོ་ གནང་ལགས",
+    pronunciation: "",
   },
 ];
 
