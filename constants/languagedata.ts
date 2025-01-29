@@ -2988,6 +2988,64 @@ const LanguageData: Array<TopicsProps> = [
         bhutia: "ལགས། ཨིན་ལགས།",
         audiolink: "",
       },*/
+      {
+        key: "515",
+        english: "What day is it today?",
+        pronunciation: "da ring za gan bo la ?",
+        bhutia: "ད་རིང་ གཟའ་ གན་འབོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "516",
+        english: "Today is Monday",
+        pronunciation: "da ring za dha o in la",
+        bhutia: "ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "517",
+        english: "What day is it tomorrow?",
+        pronunciation: "tho rang za gan bo la ?",
+        bhutia: "ཐོ་རང་ གཟའ་ གན་བོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "518",
+        english: "Tomorrow is Tuesday",
+        pronunciation: "tho rang za mig mar in la",
+        bhutia: "ཐོ་རང་ གཟའ་ དམིག་མར་ ཨིན་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "519",
+        english: "What days do you go to school?",
+        pronunciation: "lhen gay lop dra lo za ga di na zon bo nang do la",
+        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ གཟའ་ ག་འདི་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "520",
+        english: "On Monday, Tuesday, Wednesday, Thursday and Friday",
+        pronunciation:
+          "nga za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
+        bhutia:
+          "ང་ གཟའ་ ཟླ་བོ་ དམིག་མར་ ལྷག་ཀོ་ ཕུར་བུ་ དང་ སྤ་སངས་ལོ་  རྒྱུ་བདོ་ ཨིན་ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "521",
+        english: "What days are the weekends",
+        pronunciation: "za ga di di dun thrag gi zug bo la ",
+        bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ ཕྲག་གི་ མཇུག་བོ་ ལགས།",
+        audiolink: "",
+      },
+      {
+        key: "522",
+        english: "It's on Saturday",
+        pronunciation: "za pempo in la",
+        bhutia: "གཟའ་ སྤེན་པོ་ ཨིན་ ལགས།",
+        audiolink: "",
+      },
     ],
   },
 ];
