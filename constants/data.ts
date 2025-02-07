@@ -4046,6 +4046,95 @@ const Data: Array<DataProps> = [
     bhutia: "ག་ལུས་ཏེ་ བྱོན་བོ་ གནང་ལགས",
     pronunciation: "khali thea chenbo na",
   },
+
+  {
+    key: "561",
+    english: "Beef",
+    bhutia: "གླང་ཤ།",
+    pronunciation: "lang-sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021101/meat%20items/beef_dprzbh.mp3",
+  },
+  {
+    key: "562",
+    english: "Buffalo Meat",
+    bhutia: "མ་ཧེ་ཤ།",
+    pronunciation: "ma-he sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021082/meat%20items/buffalo_meat_bgf3jt.mp3",
+  },
+  {
+    key: "563",
+    english: "Chicken",
+    pronunciation: "bya-sha",
+    bhutia: "བྱ༹་ཤ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021083/meat%20items/chicken_milssc.mp3",
+  },
+  {
+    key: "564",
+    english: "Dry Meat",
+    pronunciation: "sha-kam",
+    bhutia: "ཤ་སྐམ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021084/meat%20items/dry_meat_cmzq9m.mp3",
+  },
+  {
+    key: "565",
+    english: "Fish",
+    pronunciation: "nya-sha",
+    bhutia: "ཉ་ཤ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021080/meat%20items/fish_meat_hzvouw.mp3",
+  },
+  {
+    key: "567",
+    english: "Grilled Meat",
+    pronunciation: "sha-seg-seg ko",
+    bhutia: "ཤ་བསྲེགས་བསྲེགས་ཀོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021081/meat%20items/grilled_meat_gvfbst.mp3",
+  },
+  {
+    key: "568",
+    english: "Liver (meat)",
+    pronunciation: "chin-po",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021081/meat%20items/liver_irnvo0.mp3",
+    bhutia: "མཆིན་པོ།",
+  },
+  {
+    key: "569",
+    english: "Mutton",
+    pronunciation: "ra-sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021074/meat%20items/mutton_visuar.mp3",
+    bhutia: "ར་ཤ།",
+  },
+  {
+    key: "570",
+    english: "Pork",
+    pronunciation: "pag-sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021075/meat%20items/pork_czgvod.mp3",
+    bhutia: "ཕག་ཤ།",
+  },
+  {
+    key: "571",
+    english: "Sausage",
+    pronunciation: "gyu-ma",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021074/meat%20items/sausage_qnjire.mp3",
+    bhutia: "རྒྱུ་མ།",
+  },
+  {
+    key: "572",
+    english: "Yak (meat)",
+    pronunciation: "yak-sha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021073/meat%20items/yak_hjvht0.mp3",
+    bhutia: "གཡག་ཤ།",
+  },
 ];
 
 export default Data;
