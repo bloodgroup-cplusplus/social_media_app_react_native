@@ -4135,6 +4135,190 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1737021073/meat%20items/yak_hjvht0.mp3",
     bhutia: "གཡག་ཤ།",
   },
+  {
+    key: "573",
+    english: "General (military general)",
+    pronunciation: "dà-pön",
+    bhutia: "ད་པོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020473/military/general_vcxilv.mp3",
+  },
+  {
+    key: "574",
+    english: "Colonel",
+    pronunciation: "ru-pön",
+    bhutia: "རུ་དཔོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020477/military/colonel_ddw9ls.mp3",
+  },
+  {
+    key: "575",
+    english: "Major (army major)",
+    pronunciation: "gyá -pön",
+    bhutia: "རྒྱ་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020472/military/major_sulljf.mp3",
+  },
+  {
+    key: "576",
+    english: "Captain (army captain)",
+    pronunciation: "ding-pön",
+    bhutia: "དིང་པོན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020478/military/captain_qqsjql.mp3",
+  },
+  {
+    key: "577",
+    english: "A soldier ",
+    pronunciation: "mák-mi",
+    bhutia: "དམག་མི",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020492/military/a_soldier_ulyxir.mp3",
+  },
+  {
+    key: "578",
+    english: "Army",
+    pronunciation: "mák-pung",
+    bhutia: "དམག་དཔུང་",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020490/military/army_gqojsz.mp3",
+  },
+  {
+    key: "579",
+    english: "Regiment",
+    pronunciation: "mák-ts'o",
+    bhutia: "དམག་ཙོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020471/military/regiment_jcbilh.mp3",
+  },
+  {
+    key: "580",
+    english: "Battalion",
+    pronunciation: "ru-ná",
+    bhutia: "རུ་ན",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020486/military/battalion_sphefo.wav",
+  },
+  {
+    key: "581",
+    english: "Company (military term)",
+    pronunciation: "ding-ts'o",
+    bhutia: "དིང་ཚོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020476/military/company_qxy9kf.mp3",
+  },
+  {
+    key: "582",
+    english: "War",
+    pronunciation: "mák-t'áb",
+    bhutia: "དམག",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020469/military/war_ehn6db.mp3",
+  },
+  {
+    key: "583",
+    english: "The enemy",
+    pronunciation: "kyá-pung",
+    bhutia: "ཀྱ་པུང༌།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020470/military/the_enemy_e38tg6.mp3",
+  },
+  {
+    key: "584",
+    english: "An engagement (military term)",
+    bhutia: "ཐབ་མོ།",
+    pronunciation: "táb-mo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020490/military/an_engagement_yrwtwt.mp3",
+  },
+  {
+    key: "585",
+    english: "Re-inforcements",
+    bhutia: "པུང་ནོན།",
+    pronunciation: "pung-nön",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020470/military/reinforcements_uumbzc.mp3",
+  },
+  {
+    key: "586",
+    english: "Ditto",
+    bhutia: "མཀ་ཙོ་ནོན་མ།",
+    pronunciation: "mák-ts'o nön-ma",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020475/military/ditto_i8zpoo.mp3",
+  },
+  {
+    key: "587",
+    english: "Earthworks",
+    bhutia: "ཏ་བ་ར།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020474/military/earthworks_or_intrenchments_usyj0a.mp3",
+    pronunciation: "t'áb-rá",
+  },
+  {
+    key: "588",
+    english: "Intrenchments",
+    bhutia: "ཏ་བ་ར།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020474/military/earthworks_or_intrenchments_usyj0a.mp3",
+    pronunciation: "t'áb-rá",
+  },
+  {
+    key: "589",
+    english: "To fight",
+    bhutia: "འཐབ་འཛིང་།",
+    pronunciation: "mák t'áb-she",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020469/military/to_fight_naknsk.mp3",
+  },
+  {
+    key: "590",
+    english: "To retreat",
+    bhutia: "སྐྱབས་ལོག་པྱ་ཤེ།",
+    pronunciation: "kyáp-lok p'yá-she",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020469/military/to_retreat_sgezwh.mp3",
+  },
+  {
+    key: "591",
+    english: "A cannon ",
+    bhutia: "ཙམ་ཕུར་ཡང་ན་གཡོག།",
+    pronunciation: "ts'ámpur or gyok",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020495/military/a_cannon_jcxyqu.mp3",
+  },
+  {
+    key: "592",
+    english: "A rifle",
+    bhutia: "མེ་མདའ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020493/military/a_rifle_bvjq77.mp3",
+    pronunciation: "mindá",
+  },
+  {
+    key: "593",
+    english: "To fire (military term)",
+    bhutia: "སྐྱབས་ཤེ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020468/military/to_fire_fp7lqy.mp3",
+    pronunciation: "kyap-she",
+  },
+  {
+    key: "594",
+    english: "Are firing",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020490/military/are_firing_iwh0gg.mp3",
+    pronunciation: "kyáp-du' yin",
+    bhutia: "སྐྱབས་དུ་ཡིན།",
+  },
+  {
+    key: "595",
+    english: "Will fire",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737020469/military/will_fire_mlcrjl.mp3",
+    pronunciation: "kyáp-she 'in",
+    bhutia: "སྐྱབས་ཤེ་ཡིན།",
+  },
 ];
 
 export default Data;
