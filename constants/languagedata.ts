@@ -20,6 +20,7 @@ const planets = require("@/assets/images/planets.jpg");
 const digits = require("@/assets/images/bhutia_digits.jpg");
 const designation = require("@/assets/images/designation.jpg");
 const conversations = require("@/assets/images/conversation_again.jpg");
+const tones = require("@/assets/images/tones.jpg");
 
 interface DataProps {
   key: string;
@@ -37,6 +38,257 @@ interface TopicsProps {
   data: Array<DataProps>;
 }
 const LanguageData: Array<TopicsProps> = [
+  {
+    id: "0",
+    english: "Tones",
+    bhutia: "ཚིག་གདངས་",
+    pronunciation: "tsiggangs",
+    imageLink: tones,
+    data: [
+      {
+        key: "1",
+        pronunciation:
+          "Plosives- sound that 'pop' out of mouth like 'p' in 'pop'",
+        english: "p",
+        bhutia: "པ",
+        audiolink: "",
+      },
+      {
+        key: "2",
+        pronunciation: "'t' as in stop ",
+        english: "t",
+        bhutia: "ཏ",
+        audiolink: "",
+      },
+      {
+        key: "3",
+        pronunciation: "'k' as in skill",
+        english: "k",
+        bhutia: "ཀ",
+        audiolink: "",
+      },
+      {
+        key: "4",
+        pronunciation: "'pʰ' as in pin",
+        english: "pʰ",
+        bhutia: "ཕ",
+        audiolink: "",
+      },
+      {
+        key: "5",
+        pronunciation: "'tʰ' as in top",
+        english: "tʰ",
+        bhutia: "ཐ",
+        audiolink: "",
+      },
+      {
+        key: "6",
+        pronunciation: "'kʰ' as in kite",
+        english: "kʰ",
+        bhutia: "ཁ",
+        audiolink: "",
+      },
+      {
+        key: "7",
+        pronunciation: "'b' as in bat",
+        english: "b",
+        bhutia: "བ",
+        audiolink: "",
+      },
+      {
+        key: "8",
+        pronunciation: " 'd' as in dog",
+        english: "d",
+        bhutia: "ད",
+        audiolink: "",
+      },
+      {
+        key: "9",
+        pronunciation: "'g' as in go",
+        english: "g",
+        bhutia: "ག",
+        audiolink: "",
+      },
+      {
+        key: "10",
+        pronunciation:
+          "Affricates - like plosive but end like a hiss 'ts' as in cats",
+        english: "ts",
+        bhutia: "ཙ",
+        audiolink: "",
+      },
+      {
+        key: "11",
+        pronunciation: "'tɕ' as in cheese",
+        english: "tɕ",
+        bhutia: "ཅ",
+        audiolink: "",
+      },
+      {
+        key: "12",
+        pronunciation: "'tsʰ' as in hats off",
+        english: "tsʰ",
+        bhutia: "ཚ",
+        audiolink: "",
+      },
+      {
+        key: "13",
+        pronunciation: "'tɕʰ' as in choose",
+        english: "tɕʰ",
+        bhutia: "ཆ",
+        audiolink: "",
+      },
+      {
+        key: "14",
+        pronunciation: "'dz' as in kids",
+        english: "dz",
+        bhutia: "ཛ",
+        audiolink: "",
+      },
+      {
+        key: "15",
+        pronunciation: "'dʑ' as in jeep",
+        english: "dʑ",
+        bhutia: "ཇ",
+        audiolink: "",
+      },
+      {
+        key: "16",
+        pronunciation:
+          "fricatives- don't stop airflow completely but seqeeze it through mouth like s in 'snake'",
+        english: "s",
+        bhutia: "ས",
+        audiolink: "",
+      },
+      {
+        key: "17",
+        pronunciation: "'ɕ' as in she",
+        english: "ɕ",
+        bhutia: "ཤ",
+        audiolink: "",
+      },
+      {
+        key: "18",
+        pronunciation: "'z' as in zebra",
+        english: "z",
+        bhutia: "ཟ",
+        audiolink: "",
+      },
+      {
+        key: "19",
+        pronunciation: "'ʑ' as in genre",
+        english: "ʑ",
+        bhutia: "ཞ",
+        audiolink: "",
+      },
+      {
+        key: "20",
+        pronunciation:
+          "Nasals- these sounds come out through nose instead of mouth like 'm' in moon",
+        english: "m",
+        bhutia: "མ",
+        audiolink: "",
+      },
+      {
+        key: "21",
+        pronunciation: "'n' as in net",
+        english: "n",
+        bhutia: "ན",
+        audiolink: "",
+      },
+      {
+        key: "22",
+        pronunciation: "'ɲ' as in onion",
+        english: "ɲ",
+        bhutia: "ཉ",
+        audiolink: "",
+      },
+      {
+        key: "23",
+        pronunciation: "'ŋ' as in sing",
+        english: "ŋ",
+        bhutia: "ང",
+        audiolink: "",
+      },
+      {
+        key: "24",
+        pronunciation: "laterals - like 'l' in light",
+        english: "l",
+        bhutia: "ལ",
+        audiolink: "",
+      },
+      {
+        key: "25",
+        pronunciation: "rhotics - like  'r' in red",
+        english: "r",
+        bhutia: "ར",
+        audiolink: "",
+      },
+      {
+        key: "26",
+        pronunciation: "central approximants gliding sounds like 'y' in yes",
+        english: "y",
+        bhutia: "ཡ",
+        audiolink: "",
+      },
+      {
+        key: "27",
+        pronunciation: "Vowels- 'i' like bee",
+        english: "i",
+        bhutia: "ཨི",
+        audiolink: "",
+      },
+      {
+        key: "28",
+        pronunciation: "like 'e' in bet",
+        english: "e",
+        bhutia: "ཨེ",
+        audiolink: "",
+      },
+      {
+        key: "29",
+        pronunciation: " like 'ɛ' like bear",
+        audiolink: "",
+        bhutia: "ཨེའི",
+        english: "ɛ",
+      },
+      {
+        key: "30",
+        pronunciation: " like 'a' like car",
+        audiolink: "",
+        bhutia: "ཨ",
+        english: "a",
+      },
+      {
+        key: "31",
+        pronunciation: "like 'o' like go",
+        audiolink: "",
+        bhutia: "ཨོ",
+        english: "o",
+      },
+      {
+        key: "32",
+        pronunciation: "like 'u' in blue",
+        audiolink: "",
+        bhutia: "ཨུ",
+        english: "u",
+      },
+      {
+        key: "33",
+        pronunciation: "like bird (British)",
+        audiolink: "",
+        bhutia: "ཨོའི",
+        english: "ø",
+      },
+      {
+        key: "34",
+        pronunciation: "like about",
+        bhutia: "ཨའི",
+        english: "ɐ",
+        audiolink: "",
+      },
+    ],
+  },
   {
     id: "1",
     english: "Colors",
