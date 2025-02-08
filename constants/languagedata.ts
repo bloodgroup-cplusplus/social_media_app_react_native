@@ -21,7 +21,7 @@ const digits = require("@/assets/images/bhutia_digits.jpg");
 const designation = require("@/assets/images/designation.jpg");
 const conversations = require("@/assets/images/conversation_again.jpg");
 const tones = require("@/assets/images/tones.jpg");
-const military = require("@/assets/images/military");
+const military = require("@/assets/images/military.jpg");
 
 interface DataProps {
   key: string;
