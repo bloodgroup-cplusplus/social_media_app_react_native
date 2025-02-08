@@ -1278,6 +1278,104 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735802814/Days/saturday_ujqhdt.mp4",
       },
+      {
+        key: "515",
+        english: "What day is it today?",
+        pronunciation: "da ring za gan bo la ?",
+        bhutia: "ད་རིང་ གཟའ་ གན་འབོ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892342/conversation/what_day_is_it_today_xjnqt0.mp4",
+      },
+      {
+        key: "516",
+        english: "Today is Monday",
+        pronunciation: "da ring za dha o in la",
+        bhutia: "ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892336/conversation/today_is_monday_gt51bu.mp4",
+      },
+      {
+        key: "517",
+        english: "What day is it tomorrow?",
+        pronunciation: "tho rang za gan bo la ?",
+        bhutia: "ཐོ་རང་ གཟའ་ གན་བོ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892343/conversation/what_day_is_tomorrow_o00tws.mp4",
+      },
+      {
+        key: "518",
+        english: "Tomorrow is Tuesday",
+        pronunciation: "tho rang za mig mar in la",
+        bhutia: "ཐོ་རང་ གཟའ་ དམིག་མར་ ཨིན་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892337/conversation/tomorrow_is_tuesday_tgrhne.mp4",
+      },
+      {
+        key: "519",
+        english: "What days do you go to school?",
+        pronunciation: "lhen gay lop dra lo za ga di na zon bo nang do la",
+        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ གཟའ་ ག་འདི་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892345/conversation/what_days_do_you_go_to_school_blhgfr.mp4",
+      },
+      {
+        key: "520",
+        english: "On Monday, Tuesday, Wednesday, Thursday and Friday",
+        pronunciation:
+          "nga za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
+        bhutia:
+          "ང་ གཟའ་ ཟླ་བོ་ དམིག་མར་ ལྷག་ཀོ་ ཕུར་བུ་ དང་ སྤ་སངས་ལོ་  རྒྱུ་བདོ་ ཨིན་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892316/conversation/on_Monday_Tuesday_Wednesday_thursday_and_Friday_ci2zpf.mp4",
+      },
+      {
+        key: "521",
+        english: "What days are the weekends",
+        pronunciation: "za ga di di dun thrag gi zug bo la ",
+        bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ ཕྲག་གི་ མཇུག་བོ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892344/conversation/what_days_are_the_weekends_os28v6.mp4",
+      },
+      {
+        key: "522",
+        english: "It's on Saturday",
+        pronunciation: "za pempo in la",
+        bhutia: "གཟའ་ སྤེན་པོ་ ཨིན་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892306/conversation/its_on_saturday_zt24aa.mp4",
+      },
+      {
+        key: "523",
+        english: "What days do you like?",
+        pronunciation: "lhen gay za ga di gaa la?",
+        bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ དགའ་ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892346/conversation/what_days_do_you_like_r5evq0.mp4",
+      },
+      {
+        key: "524",
+        english: "I like Monday and Friday",
+        pronunciation: "nga za dha o dang pa sang gaa la",
+        bhutia: "ང་ གཟའ་ ཟླ་བོ་ དང་ སྤ་སངས་  དགའ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892293/conversation/i_like_Monday_and_Friday_mxn6pu.mp4",
+      },
+      {
+        key: "525",
+        english: "What days you do not like",
+        pronunciation: "lhen gay za ga di min gaa la",
+        bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ མིན་དགའ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892367/conversation/what_days_do_you_not_like_qxptyh.mp4",
+      },
+      {
+        key: "526",
+        english: "I don't like Wednesday and Saturday",
+        pronunciation: "nga za lhag ko dang pen po min gaa la",
+        bhutia: "ང་ གཟའ་ ལྷག་ཀོ་ དང་ སྤེན་པོ་ མིན་དགའ་ ལགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892282/conversation/i_dont_like_Wednesday_and_saturday_u3bbcy.mp4",
+      },
     ],
   },
   {
@@ -2713,6 +2811,412 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/women_and_child_development_department_nkjco8.mp4",
       },
+
+      {
+        key: "344",
+        english: "Agriculture Department",
+        bhutia: "སོ་ནམ་ གཡོག་ལས་ ལྲེ་ལག ",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/agricultural_department_ybrk0z.mp4",
+      },
+      {
+        key: "345",
+        english: "Animal Husbandary and Livestock Department",
+        bhutia: "སྲེམས་ཅན་ གསོ་སོངས་ ལྲེ་ལག",
+        pronunciation: "simchen shok kyong le lag",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/animal_husbandary_and_livestock_department_qvrg0x.mp4",
+      },
+      {
+        key: "346",
+        english: "Building and Housing Department",
+        bhutia: "ཁིམ་མའི་ ལྲེ་ལག ",
+        pronunciation: "khim may le lag",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/building_and_housing_department_uwr0lr.mp4",
+      },
+      {
+        key: "347",
+        english: "Civil Supplies and Consumer Affairs Department",
+        bhutia:
+          "ཟོག་རིགས་ བགོ་བཀྲམ་ དང་ ཉྲེར་སོད་ གཟིགས་ཞིབ་ ལྲེ་ལག / མི་སྲེར་ ཉོ་ཚོང་ དང་ བགོ་བཀྲམ་ ལྲེ་ལག ",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/civil_supplies_and_consumer_affair_department_qixkhe.mp4",
+      },
+      {
+        key: "348",
+        english: "Cooperative Department",
+        bhutia: "མཉམ་འབྲེལ་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/cooperative_department_ye8rso.mp4",
+      },
+      {
+        key: "349",
+        english: "Commerce and Industries",
+        bhutia: "ཚོང་ དང་ བཟོ་གྲྭ་ ལྲེ་ལག ",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/commerce_and_industry_department_u4mgpy.mp4",
+      },
+      {
+        key: "350",
+        english: "Cultural Affair and Heritage Department",
+        bhutia: "རིག་གཞུང་ དང་ རིང་ཤུལ་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/cultural_affairs_and_heritage_department_ggkyg3.mp4",
+      },
+      {
+        key: "351",
+        english: "Development Planning Department",
+        bhutia: "འཆར་བཀོད་ ཡར་རྒྱས་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/development_planning_department_trwctn.mp4",
+      },
+      {
+        key: "352",
+        english: "Ecclesiastical Department",
+        bhutia: "དགོན་གནས་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/eccelesietical_department_nuggcs.mp4",
+      },
+      {
+        key: "353",
+        english: "Education Department",
+        bhutia: "ཤྲེས་རིག་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/education_department_p6wgyu.mp4",
+      },
+      {
+        key: "354",
+        english: "Election Department",
+        bhutia: "འོས་ཤོག་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/election_department_jyxasl.mp4",
+      },
+      {
+        key: "355",
+        english: "Excise Department",
+        bhutia: "ཐོན་ཟོག་ ནང་ཁལ་ ལྲེ་ལག / ཆང་རག་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/excise_department_kzy5st.mp4",
+      },
+      {
+        key: "356",
+        english: "Finance Department",
+        bhutia: "དཔལ་འབོར་ ལྲེ་ལག དངུལ་རིས་ ལྲེ་ལག",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/finance_department_jw1vqp.mp4",
+      },
+      {
+        key: "357",
+        english: "Food and Civil Supplies Department",
+        pronunciation: "",
+        bhutia:
+          "མི་དམངས་ཟ་ཆས་ འགོ་བཀྲམ་ ལྲེ་ལག /མི་དམངས་ཟས་འབྲུ བགོ་བཀྲམ་ ལྲེ་ལག",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/food_and_civil_supply_department_n6gspa.mp4",
+      },
+      {
+        key: "358",
+        english: "Food Security and Agricultural Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/food_security_and_agricultural_department_muzx3h.mp4",
+        bhutia: "ཟས་ཆ་ཟོན་སོར་ དང་ ཞིང་གཡོག་ ལྲེ་ལག ",
+      },
+      {
+        key: "359",
+        english: "Forest Environment and Wildlife Management Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/forest_environment_and_wildlife_management_department_c8lfwx.mp4",
+        bhutia: "སོང་རྒན་ མཐའ་འཁོར་ དང་ རི་དྭགས་ བལྟ་ལྟོས་ ལྲེ་ལག",
+      },
+      {
+        key: "360",
+        english: "Mines and Geology Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/mines_and_geology_department_xlqgvt.mp4",
+        bhutia: "ས་གཏྲེར་ དང་ ས་གཤིས་ ལྲེ་ལག /ས་གཏྲེར་ ལྲེ་ལག",
+      },
+      {
+        key: "361",
+        english: "Health and Family welfare Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/health_and_family_walfare_department_uft5yz.mp4",
+        bhutia: "འཕོས་བསྲེན་ དང་ བཟའ་ཚང་ བདྲེ་དོན་ ལྲེ་ལག",
+      },
+      {
+        key: "362",
+        english: "Horticulture and cash crops Department",
+        pronunciation: "",
+        audiolink: "",
+        bhutia:
+          "རི་ཚོད་ དང་ ཚོང་སྒྱུར་ ལོ་ཐོག་ ལྲེ་ལག/ རི་ཚོད་ དང་ ལོ་ཐོག་ ལྲེ་ལག",
+      },
+      {
+        key: "363",
+        english: "Home Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/home_department_zdo2r7.mp4",
+        bhutia: "ནང་སིད་ ལྲེ་ལག",
+      },
+      {
+        key: "364",
+        english: "Information and Public Relation Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/ipr_department_q5eo4u.mp4",
+        bhutia:
+          "བརྡ་ལན་ དང་ མི་སྲེར་ འབྲེལ་ལམ་ ལྲེ་ལག/ སྙན་གསྲེས་ དང་ མི་སྲེར་ འབྲེལ་བ་ ལྲེ་ལག",
+      },
+      {
+        key: "365",
+        english: "Information Technology Department",
+        pronunciation: "",
+        audiolink: "",
+        bhutia:
+          "བརྡ་ལན་ དང་ འཁྲུལ་ཆས་ ལྲེ་ལག / སྙན་གསྲེས་ཟོས་ཆས་ རིག་རལ་ ལྲེ་ལག",
+      },
+      {
+        key: "366",
+        english: "Irrigation Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/irrigation_department_wtpk79.mp4",
+        bhutia: "ཞིང་ཆུ་ འདྲན་གཡོག་ ལྲེ་ལག",
+      },
+      {
+        key: "367",
+        english: "Irrigation and Flood Control Department",
+        pronunciation:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/irrigation_department_wtpk79.mp4",
+        audiolink: "",
+        bhutia: "ཞིང་ཆུ་ དང་ ཆུ་རུད་ བཀག་ཐབས་ ལྲེ་ལག",
+      },
+      {
+        key: "368",
+        english: "Labour Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/labour_department_dembog.mp4",
+        bhutia: "ངལ་རོལ་ ལྲེ་ལག / གླ་གཡོག་ ལྲེ་ལག",
+      },
+      {
+        key: "369",
+        english: "Land Revenue and Disaster Management Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/land_revenue_and_disaster_management_l9otlt.mp4",
+        bhutia:
+          "ས་ཁལ་ དང་ རྲེན་ངན་ བལྟ་ལྟོག་ ལྲེ་ལག / ས་ཁལ་ དང་ རྲེན་ངན་ འཛིན་སོང་ ལྲེ་ལག",
+      },
+      {
+        key: "370",
+        english: "Law Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/law_department_dplvlw.mp4",
+        bhutia: "ཁིམས་ལུགས་ ལྲེ་ལག",
+      },
+      {
+        key: "371",
+        english: "Mines, Mineral and Geology Department",
+        pronunciation: "",
+        audiolink: "",
+        bhutia: "གཏྲེར་རྫས་ དང་ ས་གཤིས་ ལྲེ་ལག",
+      },
+      {
+        key: "372",
+        english: "Motor Vehicle Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739011085/Departments/motor_vehicle_department_nrb2gf.mp4",
+        bhutia: "འཕྲུལ་འཁོར་ ལྲེ་ལག",
+      },
+      {
+        key: "373",
+        english: "Planning and Development Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/planning_and_development_department_mgoiqu.mp4",
+        bhutia: "འཆར་བཀོད་ དང་ ཡར་སྲེད་ ལྲེ་ལག ཡར་རྒྱས",
+      },
+      {
+        key: "374",
+        english: "Police Department / Sikkim Police",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/police_department_cihhg3.mp4",
+        bhutia: "ཁིམས་སྲུང་ ལྲེ་ལག པུ་ལི་སི་ ལྲེ་ལག",
+      },
+      {
+        key: "375",
+        english: "Power and Energy Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/power_and_energy_department_cinc9y.mp4",
+        bhutia: "གློག་ཤུགས་ ལྲེ་ལག",
+      },
+      {
+        key: "376",
+        english: "Printing and Stationary Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/printing_and_stationary_department_pyucbk.mp4",
+        bhutia: "ཚག་སྤར་ དང་ ཡིག་ཆས་ ལྲེ་ལག",
+      },
+      {
+        key: "377",
+        english: "Public Health Engineering and Water Security",
+        pronunciation: "",
+        audiolink: "",
+        bhutia: "མི་སྲེར་ འཕོས་བསྲེན་ དང་ འཐུང་ཆུ་ བཟོ་སོབས་ ལྲེ་ལག ",
+      },
+      {
+        key: "378",
+        english: "Public Work Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/pwd_a2yfqz.mp4",
+        bhutia: "མི་སྲེར་ གཡོག་འགན་ ལྲེ་ལག",
+      },
+      {
+        key: "379",
+        english: "Revenue and Expenditure Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/revenue_and_expenditure_department_guoukt.mp4",
+        bhutia: "བབས་ཡོངས་ དང་ཟས་སོང་ ལྲེ་ལག / ཡོངས་བབས་ དང་ཟས་སོང་ ལྲེ་ལག",
+      },
+      {
+        key: "380",
+        english: "Roads and Bridges Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/road_and_bridges_department_fx0wsd.mp4",
+        bhutia: "ལམ་ དང་ཟམ་པའི་ ལྲེ་ལག",
+      },
+      {
+        key: "381",
+        english: "Rural Management and Development Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/rmdd_wxdnpb.mp4",
+        bhutia:
+          "གོང་གསྲེབ་ འཛིན་སོང་ ཡར་རྒྱས་ ལྲེ་ལག / གོང་གསྲེབ་ ལྟ་ལྟོག་ ཡར་རྒྱས་ ལྲེ་ལག",
+      },
+      {
+        key: "382",
+        english: "Science and Technology Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/science_and_technology_department_l45k9r.mp4",
+        bhutia: "ཚན་རིག་ དང་ འཁྲུལ་ཆས་ ལྲེ་ལག",
+      },
+      {
+        key: "383",
+        english: "Social Welfare Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/social_walfare_department_dytvyp.mp4",
+        bhutia: "སི་ཚོགས་ བདྲེ་དོན་ ལྲེ་ལག",
+      },
+      {
+        key: "384",
+        english: "Sports and Youths Affairs",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/sports_and_youth_affairs_p5da6e.mp4",
+        bhutia: "རྲེདམ་ དང་ གཞོན་འབྲེལ་ ལྲེ་ལག",
+      },
+      {
+        key: "385",
+        english: "Tourism and Civil Aviation Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/tourism_and_civil_aviation_department_r8gfac.mp4",
+        bhutia: "འགྲུལ་བསོར་ དང་ མི་སྲེར་ སྲེལ་ལྲེན་ གནམ་གྲུའི་ ལྲེ་ལག",
+      },
+      {
+        key: "386",
+        english: "Transport Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/transport_department_d1whvq.mp4",
+        bhutia: "སྲེལ་ལྲེན་ ལྲེ་ལག",
+      },
+      {
+        key: "387",
+        english: "Urban Development and Housing Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/udhd_ju110q.mp4",
+        bhutia: "ཚོང་འདུས་ ཡར་རྒྱས་ དང་ ཁིམ་མའི་ ལྲེ་ལག",
+      },
+      {
+        key: "388",
+        english: "Vigilance Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/vigilance_department_eyunjb.mp4",
+        bhutia: "ལོག་ཆད་ ལྲེ་ལག",
+      },
+      {
+        key: "389",
+        english: "Women and Child Development Department",
+        pronunciation: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/women_and_child_development_department_nkjco8.mp4",
+        bhutia: "བུམ་ དང་ བོ་ཙོའི་ ཡར་སྲེད་ ལྲེ་ལག",
+      },
+      {
+        key: "390",
+        english: "State Pollution Control Board",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/state_pollution_control_board_sw816i.mp4",
+        bhutia:
+          "མངའ་སྲེའི་ བཙོག་སིབ་ ཚོད་འཛིན་ སྲེ། མངའ་སྲེ་ བཙོག་སིབ་ བཀག་སྲེ།",
+        pronunciation: "",
+      },
+      {
+        key: "391",
+        english: "Bio-medical Waste Management",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/biomedical_waste_management_ifoyjy.mp4",
+        bhutia:
+          "ཁོ་མྲེད་ སྨན་བཅོས་ གད་སྙིག་ བཏང་སྲེ། / སྨན་ཆས་ མཁོ་མྲེད་ འགྱུར་བཅོས་ བཏང་སྲེ།",
+        pronunciation: "",
+      },
+      {
+        key: "392",
+        english: "Central Bureau of Investigation",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/cbi_nro31z.mp4",
+        bhutia: "དབུས་ ཞིབ་དཔྱད་ ལྲེ་ལག",
+        pronunciation: "",
+      },
+      {
+        key: "393",
+        english: "Parliamentary Affairs",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/parliamentary_affairs_wmcg67.mp4",
+        bhutia: "ཁིམས་དོན་ གོས་ཚོགས།",
+        pronunciation: "",
+      },
     ],
   },
   {
@@ -2897,28 +3401,32 @@ const LanguageData: Array<TopicsProps> = [
         english: "Boiled beef meat",
         bhutia: "གླང་ཤ་རྒྱ་རི།",
         pronunciation: "lang-sha gya-ri",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737021101/meat%20items/boiled_beef_meat_vzqrwx.mp3",
       },
       {
         key: "123452",
         english: "Boiled pork meat",
         bhutia: "ཕག་ཤ་ རྒྱ་རི།",
         pronunciation: "phag-sha gya-ri",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737021099/meat%20items/boiled_pork_meat_a4ilj8.mp3",
       },
       {
         key: "123453",
         english: "Heads meat",
         bhutia: "མགོ་ཤ།",
         pronunciation: "mgo-sha",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737021080/meat%20items/heads_meat_nxlbfh.mp3",
       },
       {
         key: "123454",
         english: "Legs meat",
         bhutia: "རྐང་ཅུང།",
         pronunciation: "kang-chung",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737021075/meat%20items/legs_meat_affmsv.mp3",
       },
       {
         key: "123455",
@@ -3568,9 +4076,9 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "20",
-    bhutia: "traditional Sikkimese food",
+    bhutia: "Traditional Sikkimese food",
     pronunciation: "need to write this ",
-    english: "Traditional Sikkimese Food",
+    english: "bhutia",
     imageLink: fooditems,
     data: [
       {
@@ -4056,34 +4564,38 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892312/conversation/no_i_don_t_chzyxy.mp4",
       },
-      /*
+
       {
         key: "497",
         english: "How much is the Bhutia dictionary",
         pronunciation: "lho yig tsig zod chen mo di rin-gon ga tsod bo la?",
         bhutia: "ལྷན་རྒྱས་ ཚིག་མཛོད་ ཆེན་མོ་ འདི་ རིན་གོང་ ག་ཚོད་བོ་ ལགས?",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892266/conversation/how_much_is_the_bhutia_dictionary_aglotu.mp4",
       },
       {
         key: "498",
         english: "It's 100 Rs per book",
         pronunciation: "chig lo gya thampa in la",
         bhutia: "གཅིག་ལོ་ བརྒྱ་ཐམས་པ་ ཨིན་ལགས། ",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892303/conversation/it_s_100_rs_per_book_rit2as.mp4",
       },
       {
         key: "499",
         english: "What time is it, please?",
         pronunciation: "chu tsod gat tsod bo la ?",
         bhutia: "ཆུ་ཚོད་ ག་ཚོད་བོ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892386/conversation/what_time_is_it_please_qsfa4z.mp4",
       },
       {
         key: "500",
         english: "Its nine o' clock",
         pronunciation: "chud tsod gu bay la",
         bhutia: "ཆུ་ཚོད་ དགུ་སྦད་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892302/conversation/its_9_o_clock_bq8jle.mp4",
       },
       {
         key: "501",
@@ -4091,28 +4603,32 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation:
           "lhen gay chu tsod ga tsod lo lop dra zon bo nang do la ?",
         bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་  ལགས?",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892383/conversation/what_time_do_you_go_to_school_thowus.mp4",
       },
       {
         key: "502",
         english: "I go to school at 8:30",
         pronunciation: "nga chu tsod gyad dang phyad lo gyu do in la",
         bhutia: "ང་ ཆུ་ཚོད་ བརྒྱད་ དང་ ཕྱེ༹ད་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས?",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892286/conversation/i_go_to_school_at_8_30_es5fqm.mp4",
       },
       {
         key: "503",
         english: "What time do you get up",
         pronunciation: "lhen gay chu tsod ga tsod lo ya zhang po nang do la?",
         bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཡ་ བཞེངས་པོ་ གནང་བདོ་ ལགས?",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892380/conversation/what_time_do_you_get_up_y0m23j.mp4",
       },
       {
         key: "504",
         english: "I get up at six o' clock",
         pronunciation: "nga chu tsod drug lo lang to in la",
         bhutia: "ང་ ཆུ་ཚོད་ དྲུག་ལོ་ ལོང་ཏོ་  ཨིན་ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892283/conversation/i_get_up_at_6_o_clock_ouqlbq.mp4",
       },
       {
         key: "505",
@@ -4121,156 +4637,80 @@ const LanguageData: Array<TopicsProps> = [
           "lhen gay chu tsod ga tsod lo dro pai dro zha shae po nang do la",
         bhutia:
           "ལྷན་རྒྱས་  ཆུ་ཚོད་ ག་ཚོད་ལོ་ དྲོ་པའི་ དྲོ་ཟ་ བཞེས་པོ་ གནང་དོ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892384/conversation/what_time_do_you_have_your_breakfast_vvymji.mp4",
       },
       {
         key: "506",
         english: "I have breakfast at seven o' clock",
         pronunciation: "nga chu tsod dun lo dro pai dro zha zha do in la",
         bhutia: "ང་ ཆུ་ཚོད་ བདུན་ ལོ་ དྲོ་པའི་ དྲོ་ཟ་ ཟ་བདོ་ ཨིན་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892289/conversation/i_have_breakfast_at_seven_o_clock_wpll9m.mp4",
       },
       {
         key: "507",
         english: "Do you like tea?",
         pronunciation: "lhen gay sol jag a gaa?",
         bhutia: "ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892245/conversation/do_you_like_tea_upt3yj.mp4",
       },
       {
         key: "508",
         english: "Yes, I do",
         pronunciation: "la,gaa la",
         bhutia: "ལགས། དགའ་ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892403/conversation/yes_i_do_like_tea_kqbqay.mp4",
       },
       {
         key: "509",
         english: "Do you go to school by bus?",
         pronunciation: "lhen gay lop dra lo khor chen na zon do la ?",
         bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ འཁོར་ཆེན་ ན་ བྱོན་དོ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892243/conversation/do_you_go_to_school_by_bus_o5tgo9.mp4",
       },
       {
         key: "510",
         english: "No, I don't I go by taxi",
         pronunciation: "men la. nga lha khor chung chung na gyu do in la",
         bhutia: "མན་ལགས། ང་ གླ་འཁོར་ ཆུང་ཆུང་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892310/conversation/no_i_don_t_i_go_by_taxi_puoboq.mp4",
       },
       {
         key: "511",
         english: "Do you hage a dog?",
         pronunciation: "lhen gay lo kyi yod k la?",
         bhutia: "ལྷན་རྒྱས་ལོ་ ཁྱི་ ཡོད་ཀ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892244/conversation/do_you_have_a_dog_u52fhw.mp4",
       },
       {
         key: "512",
         english: "Yes I do",
         pronunciation: "la.yod la",
         bhutia: "ལགས་ ཡོད་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892402/conversation/yes_i_do_have_a_dog_klgbln.mp4",
       },
       {
         key: "513",
         english: "Do you get up early?",
         pronunciation: "lhen gay dro pa ma la shang to la ?",
         bhutia: "ལྷན་རྒྱད་ དྲོ་པ་ མ་ལགས་ བཞེངས་ཏོ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892242/conversation/do_you_get_up_early_ofg0vi.mp4",
       },
       {
         key: "514",
         english: "Yes I do ",
         pronunciation: "la in la",
         bhutia: "ལགས། ཨིན་ལགས།",
-        audiolink: "",
-      },*/
-      {
-        key: "515",
-        english: "What day is it today?",
-        pronunciation: "da ring za gan bo la ?",
-        bhutia: "ད་རིང་ གཟའ་ གན་འབོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "516",
-        english: "Today is Monday",
-        pronunciation: "da ring za dha o in la",
-        bhutia: "ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "517",
-        english: "What day is it tomorrow?",
-        pronunciation: "tho rang za gan bo la ?",
-        bhutia: "ཐོ་རང་ གཟའ་ གན་བོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "518",
-        english: "Tomorrow is Tuesday",
-        pronunciation: "tho rang za mig mar in la",
-        bhutia: "ཐོ་རང་ གཟའ་ དམིག་མར་ ཨིན་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "519",
-        english: "What days do you go to school?",
-        pronunciation: "lhen gay lop dra lo za ga di na zon bo nang do la",
-        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ གཟའ་ ག་འདི་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "520",
-        english: "On Monday, Tuesday, Wednesday, Thursday and Friday",
-        pronunciation:
-          "nga za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
-        bhutia:
-          "ང་ གཟའ་ ཟླ་བོ་ དམིག་མར་ ལྷག་ཀོ་ ཕུར་བུ་ དང་ སྤ་སངས་ལོ་  རྒྱུ་བདོ་ ཨིན་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "521",
-        english: "What days are the weekends",
-        pronunciation: "za ga di di dun thrag gi zug bo la ",
-        bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ ཕྲག་གི་ མཇུག་བོ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "522",
-        english: "It's on Saturday",
-        pronunciation: "za pempo in la",
-        bhutia: "གཟའ་ སྤེན་པོ་ ཨིན་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "523",
-        english: "What days do you like?",
-        pronunciation: "lhen gay za ga di gaa la?",
-        bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ དགའ་ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "524",
-        english: "I like Monday and Friday",
-        pronunciation: "nga za dha o dang pa sang gaa la",
-        bhutia: "ང་ གཟའ་ ཟླ་བོ་ དང་ སྤ་སངས་  དགའ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "525",
-        english: "What days you do not like",
-        pronunciation: "lhen gay za ga di min gaa la",
-        bhutia: "ལྷན་རྒྱས་ གཟའ་ ག་འདི་ མིན་དགའ་ ལགས།",
-        audiolink: "",
-      },
-      {
-        key: "526",
-        english: "I don't like Wednesday and Saturday",
-        pronunciation: "nga za lhag ko dang pen po min gaa la",
-        bhutia: "ང་ གཟའ་ ལྷག་ཀོ་ དང་ སྤེན་པོ་ མིན་དགའ་ ལགས།",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1735892401/conversation/yes_i_do_get_up_early_ux6bna.mp4",
       },
     ],
   },
