@@ -5531,175 +5531,249 @@ const Data: Array<DataProps> = [
     english: "Buddha",
     pronunciation: "sangay",
     bhutia: "སངས་རྒྱས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030648/Mythology/buddha_ejujyf.mp3",
   },
   {
     key: "751",
     english: "Dharma",
     pronunciation: "chhoe",
     bhutia: "ཆོས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030652/Mythology/dharma_swydv9.mp3",
   },
   {
     key: "752",
     english: "Sangha",
     pronunciation: "gayduen",
     bhutia: "དགོ་འདུན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030891/Mythology/sangha_iowuim.mp3",
   },
   {
     key: "753",
     english: "Avalokitesvara",
     pronunciation: "chenrayzig",
     bhutia: "སྤྱན་རས་གཟིགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030647/Mythology/avalokitesvara_fjsypr.mp3",
   },
   {
     key: "754",
     english: "Monjushri",
     pronunciation: "jampalyang/jampayang/jamyang",
     bhutia: "འཇམ་དཔལ་དབྱངས།/འཇམ་པའི་དབྱངས།/འཇམ་དབྱངས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030890/Mythology/monjushri_kufb9s.mp3",
   },
   {
     key: "755",
     english: "Vajra Pani",
     pronunciation: "chhagnag dorjee/chhagdor",
     bhutia: "ཕྱག་ནག་རྡོར་ཇེ།/ཕྱག་རྡོར།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/vajra_pani_fvhqfn.mp3",
   },
   {
     key: "756",
     english: "Tara",
     pronunciation: "dolma",
     bhutia: "སྒྲོལ་མ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030897/Mythology/tara_qvxdxa.mp3",
   },
   {
     key: "757",
     english: "Aparimitav",
     pronunciation: "tsipameth",
     bhutia: "ཚེ་དཔག་མེད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/aparimitav_bfffov.mp3",
   },
   {
     key: "758",
     english: "Dev",
     pronunciation: "lha",
     bhutia: "ལྷ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030652/Mythology/dev_lqwxvu.mp3",
   },
   {
     key: "759",
     english: "Asura",
     pronunciation: "lhamain",
     bhutia: "ལྷ་མ་ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030647/Mythology/asura_wq3egd.mp3",
   },
   {
     key: "760",
     english: "Demon",
     pronunciation: "lhamin",
     bhutia: "ལྷ་མིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030648/Mythology/demon_bsvtn9.mp3",
   },
   {
     key: "761",
     english: "Hell",
     pronunciation: "ngyalwa",
     bhutia: "དམྱལ་བ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030653/Mythology/hell_ptvhws.mp3",
   },
   {
     key: "762",
     english: "Spirit",
     pronunciation: "hidhaag",
     bhutia: "ཡི་དྭགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030896/Mythology/spirit_ykfqud.mp3",
   },
   {
     key: "763",
     english: "Preth",
     pronunciation: "hidhaag",
     bhutia: "ཡི་དྭགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030896/Mythology/spirit_ykfqud.mp3",
   },
   {
     key: "764",
     english: "Poshu",
     pronunciation: "dhuedro",
     bhutia: "དུད་འགྲོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/animals__v6eh8q.mp3",
   },
   {
     key: "765",
     english: "Demon",
     pronunciation: "sinpo",
     bhutia: "སྲིན་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030648/Mythology/demon_bsvtn9.mp3",
   },
   {
     key: "767",
     english: "Yaksha",
     pronunciation: "gnoejin",
     bhutia: "གནོད་སྤྱོན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/yaksha_or_demi_qzmd8h.mp3",
   },
   {
     key: "768",
     english: "Demi",
     pronunciation: "gnoejin",
     bhutia: "གནོད་སྤྱོན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/yaksha_or_demi_qzmd8h.mp3",
   },
   {
     key: "769",
     english: "Vidyadhara",
     pronunciation: "rigzin",
     bhutia: "རིག་འཛིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/vidhyadhara_tkrcy3.mp3",
   },
   {
     key: "770",
     english: "Rudra",
     pronunciation: "dragpo",
     bhutia: "དྲག་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030891/Mythology/Rudra_shiva_d8dezf.mp3",
   },
   {
     key: "771",
     english: "Shiva",
     pronunciation: "dragpo",
     bhutia: "དྲག་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030891/Mythology/Rudra_shiva_d8dezf.mp3",
   },
   {
     key: "772",
     english: "Mahadev",
     pronunciation: "lhachhen",
     bhutia: "ལྷ་ཆེན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030890/Mythology/mahadev_mcnhus.mp3",
   },
   {
     key: "773",
     english: "Brahma",
     pronunciation: "tshangpa",
     bhutia: "ཚངས་པ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030647/Mythology/brahma_rmqlqc.mp3",
   },
   {
     key: "774",
     english: "Vishnu",
     pronunciation: "khyabju",
     bhutia: "ཁྱབ་འཇུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030646/Mythology/vishnu_z0d796.mp3",
   },
   {
     key: "775",
     english: "Shiva",
     pronunciation: "wangchhuk",
     bhutia: "དབང་ཕྱུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030892/Mythology/shiva__ggnnxs.mp3",
+  },
+
+  {
+    key: "776",
+    english: "Indra",
+    pronunciation: "gyajin",
+    bhutia: "བརྒྱ་བྱིན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030653/Mythology/indra_b8g6jl.mp3",
+  },
+  {
+    key: "777",
+    english: "Basundara",
+    pronunciation: "norgyenmo",
+    bhutia: "ནོར་རྒྱུན་མོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030647/Mythology/basundara_hnjmh4.mp3",
+  },
+  {
+    key: "778",
+    english: "Kuvera",
+    pronunciation: "zambalha",
+    bhutia: "ཛམ་བྷ་ལྷ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030697/Mythology/kuvera__dpsjpp.mp3",
+  },
+  {
+    key: "779",
+    english: "Kuvera",
+    pronunciation: "zamlha",
+    bhutia: "ཛམ་ལྷ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030654/Mythology/kuvera_iwts6b.mp3",
+  },
+  {
+    key: "780",
+    english: "Ganapati or Ganesh",
+    pronunciation: "tshgdaag",
+    bhutia: "ཚོགས་བདག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030652/Mythology/dharmapal_mfqmqm.mp3",
+  },
+  {
+    key: "781",
+    english: "Dharmapal",
+    pronunciation: "chhoekyong",
+    bhutia: "ཆོས་སྐྱོང།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739030652/Mythology/dharmapal_mfqmqm.mp3",
   },
 ];
 
