@@ -2811,6 +2811,7 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1737021101/meat%20items/beef_dprzbh.mp3",
       },
+
       {
         key: "562",
         english: "Buffalo Meat",
@@ -2890,6 +2891,58 @@ const LanguageData: Array<TopicsProps> = [
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1737021073/meat%20items/yak_hjvht0.mp3",
         bhutia: "གཡག་ཤ།",
+      },
+      {
+        key: "123451",
+        english: "Boiled beef meat",
+        bhutia: "གླང་ཤ་རྒྱ་རི།",
+        pronunciation: "lang-sha gya-ri",
+        audiolink: "",
+      },
+      {
+        key: "123452",
+        english: "Boiled pork meat",
+        bhutia: "ཕག་ཤ་ རྒྱ་རི།",
+        pronunciation: "phag-sha gya-ri",
+        audiolink: "",
+      },
+      {
+        key: "123453",
+        english: "Heads meat",
+        bhutia: "མགོ་ཤ།",
+        pronunciation: "mgo-sha",
+        audiolink: "",
+      },
+      {
+        key: "123454",
+        english: "Legs meat",
+        bhutia: "རྐང་ཅུང།",
+        pronunciation: "kang-chung",
+        audiolink: "",
+      },
+      {
+        key: "123455",
+        english: "A dish prepared of animal entrails",
+        bhutia: "ནང་ཐུག།",
+        pronunciation: "nang-thug",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022165/sikkimese%20dishes/a_dish_prepared_of_animal_entrails_tci4x8.mp3",
+      },
+      {
+        key: "123456",
+        english:
+          "A dish prepared from beef entrails that are hanged on a stick",
+        bhutia: "རྩང་རྒྱུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022166/sikkimese%20dishes/a_dish_prepared_from_beef_entrails_that_are_hanged_in_a_stick_kr7wgp.mp3",
+        pronunciation: "tsang-gyu",
+      },
+      {
+        key: "123457",
+        english: "A traditional boiled snack prepared from beef's stomatch ",
+        pronunciation: "thrum-zi",
+        bhutia: "གྲུམ་ཟི།",
+        audiolink: "",
       },
     ],
   },
