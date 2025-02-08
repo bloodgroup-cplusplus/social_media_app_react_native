@@ -2797,274 +2797,321 @@ const Data: Array<DataProps> = [
   {
     key: "354",
     english: "Election Department",
-    bhutia: "",
+    bhutia: "འོས་ཤོག་ ལྲེ་ལག",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/election_department_jyxasl.mp4",
   },
   {
     key: "355",
     english: "Excise Department",
-    bhutia: "",
+    bhutia: "ཐོན་ཟོག་ ནང་ཁལ་ ལྲེ་ལག / ཆང་རག་ ལྲེ་ལག",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/excise_department_kzy5st.mp4",
   },
   {
     key: "356",
     english: "Finance Department",
-    bhutia: "",
+    bhutia: "དཔལ་འབོར་ ལྲེ་ལག དངུལ་རིས་ ལྲེ་ལག",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/finance_department_jw1vqp.mp4",
   },
   {
     key: "357",
     english: "Food and Civil Supplies Department",
     pronunciation: "",
-    bhutia: "",
-    audiolink: "",
+    bhutia: "མི་དམངས་ཟ་ཆས་ འགོ་བཀྲམ་ ལྲེ་ལག /མི་དམངས་ཟས་འབྲུ བགོ་བཀྲམ་ ལྲེ་ལག",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/food_and_civil_supply_department_n6gspa.mp4",
   },
   {
     key: "358",
     english: "Food Security and Agricultural Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249125/Departments/food_security_and_agricultural_department_muzx3h.mp4",
+    bhutia: "ཟས་ཆ་ཟོན་སོར་ དང་ ཞིང་གཡོག་ ལྲེ་ལག ",
   },
   {
     key: "359",
     english: "Forest Environment and Wildlife Management Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/forest_environment_and_wildlife_management_department_c8lfwx.mp4",
+    bhutia: "སོང་རྒན་ མཐའ་འཁོར་ དང་ རི་དྭགས་ བལྟ་ལྟོས་ ལྲེ་ལག",
   },
   {
     key: "360",
     english: "Mines and Geology Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/mines_and_geology_department_xlqgvt.mp4",
+    bhutia: "ས་གཏྲེར་ དང་ ས་གཤིས་ ལྲེ་ལག /ས་གཏྲེར་ ལྲེ་ལག",
   },
   {
     key: "361",
     english: "Health and Family welfare Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/health_and_family_walfare_department_uft5yz.mp4",
+    bhutia: "འཕོས་བསྲེན་ དང་ བཟའ་ཚང་ བདྲེ་དོན་ ལྲེ་ལག",
   },
   {
     key: "362",
     english: "Horticulture and cash crops Department",
     pronunciation: "",
     audiolink: "",
-    bhutia: "",
+    bhutia: "རི་ཚོད་ དང་ ཚོང་སྒྱུར་ ལོ་ཐོག་ ལྲེ་ལག/ རི་ཚོད་ དང་ ལོ་ཐོག་ ལྲེ་ལག",
   },
   {
     key: "363",
     english: "Home Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/home_department_zdo2r7.mp4",
+    bhutia: "ནང་སིད་ ལྲེ་ལག",
   },
   {
     key: "364",
     english: "Information and Public Relation Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249126/Departments/ipr_department_q5eo4u.mp4",
+    bhutia:
+      "བརྡ་ལན་ དང་ མི་སྲེར་ འབྲེལ་ལམ་ ལྲེ་ལག/ སྙན་གསྲེས་ དང་ མི་སྲེར་ འབྲེལ་བ་ ལྲེ་ལག",
   },
   {
     key: "365",
     english: "Information Technology Department",
     pronunciation: "",
     audiolink: "",
-    bhutia: "",
+    bhutia: "བརྡ་ལན་ དང་ འཁྲུལ་ཆས་ ལྲེ་ལག / སྙན་གསྲེས་ཟོས་ཆས་ རིག་རལ་ ལྲེ་ལག",
   },
   {
     key: "366",
     english: "Irrigation Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/irrigation_department_wtpk79.mp4",
+    bhutia: "ཞིང་ཆུ་ འདྲན་གཡོག་ ལྲེ་ལག",
   },
   {
     key: "367",
     english: "Irrigation and Flood Control Department",
-    pronunciation: "",
+    pronunciation:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/irrigation_department_wtpk79.mp4",
     audiolink: "",
-    bhutia: "",
+    bhutia: "ཞིང་ཆུ་ དང་ ཆུ་རུད་ བཀག་ཐབས་ ལྲེ་ལག",
   },
   {
     key: "368",
     english: "Labour Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/labour_department_dembog.mp4",
+    bhutia: "ངལ་རོལ་ ལྲེ་ལག / གླ་གཡོག་ ལྲེ་ལག",
   },
   {
     key: "369",
     english: "Land Revenue and Disaster Management Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/land_revenue_and_disaster_management_l9otlt.mp4",
+    bhutia:
+      "ས་ཁལ་ དང་ རྲེན་ངན་ བལྟ་ལྟོག་ ལྲེ་ལག / ས་ཁལ་ དང་ རྲེན་ངན་ འཛིན་སོང་ ལྲེ་ལག",
   },
   {
     key: "370",
     english: "Law Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249127/Departments/law_department_dplvlw.mp4",
+    bhutia: "ཁིམས་ལུགས་ ལྲེ་ལག",
   },
   {
     key: "371",
     english: "Mines, Mineral and Geology Department",
     pronunciation: "",
     audiolink: "",
-    bhutia: "",
+    bhutia: "གཏྲེར་རྫས་ དང་ ས་གཤིས་ ལྲེ་ལག",
   },
   {
     key: "372",
     english: "Motor Vehicle Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739011085/Departments/motor_vehicle_department_nrb2gf.mp4",
+    bhutia: "འཕྲུལ་འཁོར་ ལྲེ་ལག",
   },
   {
     key: "373",
     english: "Planning and Development Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/planning_and_development_department_mgoiqu.mp4",
+    bhutia: "འཆར་བཀོད་ དང་ ཡར་སྲེད་ ལྲེ་ལག ཡར་རྒྱས",
   },
   {
     key: "374",
     english: "Police Department / Sikkim Police",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/police_department_cihhg3.mp4",
+    bhutia: "ཁིམས་སྲུང་ ལྲེ་ལག པུ་ལི་སི་ ལྲེ་ལག",
   },
   {
     key: "375",
     english: "Power and Energy Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/power_and_energy_department_cinc9y.mp4",
+    bhutia: "གློག་ཤུགས་ ལྲེ་ལག",
   },
   {
     key: "376",
     english: "Printing and Stationary Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/printing_and_stationary_department_pyucbk.mp4",
+    bhutia: "ཚག་སྤར་ དང་ ཡིག་ཆས་ ལྲེ་ལག",
   },
   {
     key: "377",
     english: "Public Health Engineering and Water Security",
     pronunciation: "",
     audiolink: "",
-    bhutia: "",
+    bhutia: "མི་སྲེར་ འཕོས་བསྲེན་ དང་ འཐུང་ཆུ་ བཟོ་སོབས་ ལྲེ་ལག ",
   },
   {
     key: "378",
     english: "Public Work Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/pwd_a2yfqz.mp4",
+    bhutia: "མི་སྲེར་ གཡོག་འགན་ ལྲེ་ལག",
   },
   {
     key: "379",
     english: "Revenue and Expenditure Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/revenue_and_expenditure_department_guoukt.mp4",
+    bhutia: "བབས་ཡོངས་ དང་ཟས་སོང་ ལྲེ་ལག / ཡོངས་བབས་ དང་ཟས་སོང་ ལྲེ་ལག",
   },
   {
     key: "380",
     english: "Roads and Bridges Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/road_and_bridges_department_fx0wsd.mp4",
+    bhutia: "ལམ་ དང་ཟམ་པའི་ ལྲེ་ལག",
   },
   {
     key: "381",
     english: "Rural Management and Development Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/rmdd_wxdnpb.mp4",
+    bhutia:
+      "གོང་གསྲེབ་ འཛིན་སོང་ ཡར་རྒྱས་ ལྲེ་ལག / གོང་གསྲེབ་ ལྟ་ལྟོག་ ཡར་རྒྱས་ ལྲེ་ལག",
   },
   {
     key: "382",
     english: "Science and Technology Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249129/Departments/science_and_technology_department_l45k9r.mp4",
+    bhutia: "ཚན་རིག་ དང་ འཁྲུལ་ཆས་ ལྲེ་ལག",
   },
   {
     key: "383",
     english: "Social Welfare Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/social_walfare_department_dytvyp.mp4",
+    bhutia: "སི་ཚོགས་ བདྲེ་དོན་ ལྲེ་ལག",
   },
   {
     key: "384",
     english: "Sports and Youths Affairs",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/sports_and_youth_affairs_p5da6e.mp4",
+    bhutia: "རྲེདམ་ དང་ གཞོན་འབྲེལ་ ལྲེ་ལག",
   },
   {
     key: "385",
     english: "Tourism and Civil Aviation Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/tourism_and_civil_aviation_department_r8gfac.mp4",
+    bhutia: "འགྲུལ་བསོར་ དང་ མི་སྲེར་ སྲེལ་ལྲེན་ གནམ་གྲུའི་ ལྲེ་ལག",
   },
   {
     key: "386",
     english: "Transport Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/transport_department_d1whvq.mp4",
+    bhutia: "སྲེལ་ལྲེན་ ལྲེ་ལག",
   },
   {
     key: "387",
     english: "Urban Development and Housing Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/udhd_ju110q.mp4",
+    bhutia: "ཚོང་འདུས་ ཡར་རྒྱས་ དང་ ཁིམ་མའི་ ལྲེ་ལག",
   },
   {
     key: "388",
     english: "Vigilance Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/vigilance_department_eyunjb.mp4",
+    bhutia: "ལོག་ཆད་ ལྲེ་ལག",
   },
   {
     key: "389",
     english: "Women and Child Development Department",
     pronunciation: "",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249131/Departments/women_and_child_development_department_nkjco8.mp4",
+    bhutia: "བུམ་ དང་ བོ་ཙོའི་ ཡར་སྲེད་ ལྲེ་ལག",
   },
   {
     key: "390",
     english: "State Pollution Control Board",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249130/Departments/state_pollution_control_board_sw816i.mp4",
+    bhutia: "མངའ་སྲེའི་ བཙོག་སིབ་ ཚོད་འཛིན་ སྲེ། མངའ་སྲེ་ བཙོག་སིབ་ བཀག་སྲེ།",
     pronunciation: "",
   },
   {
     key: "391",
     english: "Bio-medical Waste Management",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249123/Departments/biomedical_waste_management_ifoyjy.mp4",
+    bhutia:
+      "ཁོ་མྲེད་ སྨན་བཅོས་ གད་སྙིག་ བཏང་སྲེ། / སྨན་ཆས་ མཁོ་མྲེད་ འགྱུར་བཅོས་ བཏང་སྲེ།",
     pronunciation: "",
   },
   {
     key: "392",
     english: "Central Bureau of Investigation",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249124/Departments/cbi_nro31z.mp4",
+    bhutia: "དབུས་ ཞིབ་དཔྱད་ ལྲེ་ལག",
+    pronunciation: "",
+  },
+  {
+    key: "393",
+    english: "Parliamentary Affairs",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1736249128/Departments/parliamentary_affairs_wmcg67.mp4",
+    bhutia: "ཁིམས་དོན་ གོས་ཚོགས།",
     pronunciation: "",
   },
 
