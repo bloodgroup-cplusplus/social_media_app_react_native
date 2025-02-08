@@ -2899,7 +2899,426 @@ const LanguageData: Array<TopicsProps> = [
     pronunciation: "lea-khungs lea-tshen",
     english: " Office Designation",
     imageLink: designation,
-    data: [],
+    data: [
+      {
+        key: "409",
+        english: "Agriculture Minister",
+        pronunciation: "shing-lae lon-po",
+        bhutia: "ཞིང་ལས་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/agriculture_minister_j0b47r.mp3",
+      },
+      {
+        key: "410",
+        english: "Additional Secretary",
+        pronunciation: "nen-tab drung-che",
+        bhutia: "སྣམ་བཏབ་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016539/designation/additional_secretary_krc1xa.mp3",
+      },
+      {
+        key: "411",
+        english: "Additional Director",
+        pronunciation: "nen-tab kod-pon",
+        bhutia: "སྣམ་བཏབ་ བཀོད་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016539/designation/additional_director_zx91xz.mp3",
+      },
+      {
+        key: "412",
+        english: "Assistant Director",
+        pronunciation: "lae-drog kod-pon",
+        bhutia: "ལས་གྲོགས་ བཀོད་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/assistant_director_dsua7q.mp3",
+      },
+      {
+        key: "413",
+        english: "Assistant Education Officer",
+        bhutia: "ལས་དྲོགས་ ཤེས་རིག་ ལས་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/aeo_lcnjuf.mp3",
+        pronunciation: "lae-drog she-rig lae-pon",
+      },
+      {
+        key: "414",
+        english: "Advocate",
+        pronunciation: "zhu-tsab po",
+        bhutia: "ཞུ་ཚབ་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/advocate_ifpxsa.mp3",
+      },
+      {
+        key: "415",
+        english: "Chief judge",
+        pronunciation: "trim-pon tso-o",
+        bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chief_judge_sjnwti.mp3",
+      },
+      {
+        key: "416",
+        english: "Chief Minister",
+        pronunciation: "tso-chi lon-po",
+        bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chief_minister_wzjjdl.mp3",
+      },
+      {
+        key: "417",
+        english: "Chief Secretary",
+        pronunciation: "drung-che tso-o",
+        bhutia: "དྲུང་ཆེ་ གཙོ་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016536/designation/chief_secretary_tf3ewl.mp3",
+      },
+      {
+        key: "418",
+        english: "Culture Minister",
+        pronunciation: "rig-zung lon-po",
+        bhutia: "རིགས་གཞུང་  བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/culture_minister_fy2xwk.mp3",
+      },
+
+      {
+        key: "419",
+        english: "Chairman",
+        pronunciation: "tri-dag",
+        bhutia: "ཁྲི་བདག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chairman_crcjy7.mp3",
+      },
+      {
+        key: "420",
+        english: "Councillor",
+        pronunciation: "trom-dag",
+        bhutia: "ཁྲོམ་བདག་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/councillor_zwp9gq.mp3",
+      },
+      {
+        key: "421",
+        english: "Defence and Foreign Minister",
+        pronunciation: "phi dang drag poi de-srung lon-po",
+        bhutia: "ཕྱི༹་ དང་ དྲག་པོའི་ བདེ་སྲུང་ བླེན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/defence_and_foreign_minister_jvph4f.mp3",
+      },
+      {
+        key: "422",
+        english: "Deputy Secretary",
+        pronunciation: "tsab-kod rung-che",
+        bhutia: "ཚབ་བསྐོས་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/deputy_secretary_j3v4ow.mp3",
+      },
+      {
+        key: "423",
+        english: "Director",
+        pronunciation: "kod-pon",
+        bhutia: "བཀད་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/director_dxdfrv.mp3",
+      },
+      {
+        key: "424",
+        english: "Education Secretary",
+        pronunciation: "she-rig drung-che",
+        bhutia: "ཤེས་རིག་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/education_secretary_onsmde.mp3",
+      },
+      {
+        key: "425",
+        english: "Education Minister",
+        pronunciation: "she-rig lon-po",
+        bhutia: "ཤེས་རིག་ བླེན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/education_minister_xbiqn2.mp3",
+      },
+      {
+        key: "426",
+        english: "Finance Minister",
+        pronunciation: "pal-jor lon-po",
+        bhutia: "དཔལ་འབྱོར་ བླེན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/finance_minister_ezabci.mp3",
+      },
+      {
+        key: "427",
+        english: "Forest and Wildlife Minister",
+        pronunciation: "dong-gyn dang ri-dag sem-chen srung-kyop lon-po",
+        bhutia: "སྡོང་རྒྱན་ དང་ རི་དྭགས་ སེམས་ཅན་  སྲུང་སྐྱོབས་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/forest_and_wildlife_minister_eyhocv.mp3",
+      },
+      {
+        key: "428",
+        english: "Finance Secretary",
+        pronunciation: "pal-jor drung-che",
+        bhutia: "དཔལ་འབྱོར་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/finance_secretary_ebicfl.mp3",
+      },
+      {
+        key: "429",
+        english: "Governor",
+        pronunciation: "srid-kyong chen-po",
+        bhutia: "སྲིད་སྐྱོང་ ཆེན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/governor_okoplh.mp3",
+      },
+      {
+        key: "430",
+        english: "Home Minister",
+        pronunciation: "nang-srid long-po",
+        bhutia: "ནང་སྲིད་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/home_minister_oep4gr.mp3",
+      },
+      {
+        key: "431",
+        english: "Health Minister",
+        pronunciation: "throt-ten lon-po",
+        bhutia: "འཕྲོད་བརྟེན་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016531/designation/health_minister_qtjpos.mp3",
+      },
+      {
+        key: "432",
+        english: "Health Secretary",
+        pronunciation: "throt-tren drung-che",
+        bhutia: "འཕྲོད་རྟེན་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/health_secretary_pgayrv.mp3",
+      },
+      {
+        key: "433",
+        english: "Justice",
+        pronunciation: "trim/drang-den",
+        bhutia: "ཁྲིམས། དྲང་བདེན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/justice_x7xju1.mp3",
+      },
+      {
+        key: "434",
+        english: "Joint Secretary",
+        pronunciation: "zung-dral drung-che",
+        bhutia: "ཟུང་འབྲེལ་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/joint_secretary_jg2ckv.mp3",
+      },
+      {
+        key: "435",
+        english: "Joint Director",
+        pronunciation: "zung-drel kod-pon",
+        bhutia: "ཟུང་འབྲེལ་ བཀོད་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/joint_director_hblxxk.mp3",
+      },
+
+      {
+        key: "436",
+        english: "Judge",
+        pronunciation: "trim-pon",
+        bhutia: "ཁྲིམས་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/judge_sonvlm.mp3",
+      },
+      {
+        key: "437",
+        english: "Monarchy",
+        pronunciation: "gyal-po ring-lug",
+        bhutia: "རྒྱལ་པོའི་ རིང་ལུགས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/monarchy_ttibge.mp3",
+      },
+      {
+        key: "438",
+        english: "Member of Parliament",
+        pronunciation: "gos-tsog thu-mi",
+        bhutia: "གྱོས་ཚོགས་ འཐུས་མི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/member_of_parliament_d8hw1c.mp3",
+      },
+      {
+        key: "439",
+        english: "Minister",
+        pronunciation: "lon-po",
+        bhutia: "བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/minister_by1dg1.mp3",
+      },
+      {
+        key: "440",
+        english: "Member of Legislative Assembly",
+        pronunciation: "thue-mi",
+        bhutia: "འཐུས་མི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/mla_zkdplq.mp3",
+      },
+      {
+        key: "441",
+        english: "Mayor",
+        pronunciation: "trom-pon",
+        bhutia: "ཁྲོམ་དཔོན། ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016528/designation/mayor_puilq1.mp3",
+      },
+      {
+        key: "442",
+        english: "Deputy Mayor",
+        pronunciation: "tsab-kod trom-pon",
+        bhutia: "ཚབ་བཀོད་ ཁྲོམ་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/deputy_mayor_l9eqob.mp3",
+      },
+      {
+        key: "443",
+        english: "Office Superintendent",
+        pronunciation: "lae-khung dodam-po",
+        bhutia: "ལས་ཁུང་ དོ་དམ་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/office_superintendent_s8oncp.mp3",
+      },
+      {
+        key: "444",
+        english: "President",
+        pronunciation: "srid-zin",
+        bhutia: "སྲིད་འཛིན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016523/designation/president_kluvqi.mp3",
+      },
+      {
+        key: "445",
+        english: "Prime Minister",
+        pronunciation: "srid-kyong lon-po",
+        bhutia: "སྲིད་སྐྱོང་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016522/designation/prime_minister_qn1d9p.mp3",
+      },
+      {
+        key: "446",
+        english: "Politician",
+        pronunciation: "srid-jyus po",
+        bhutia: "སྲིད་བྱུས་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016523/designation/politician_rvsd0n.mp3",
+      },
+      {
+        key: "447",
+        english: "Power Minister",
+        pronunciation: "log-shug lon-po",
+        bhutia: "གློག་ཤུགས་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016524/designation/power_minister_nj6stb.mp3",
+      },
+      {
+        key: "448",
+        english: "Panchayat",
+        pronunciation: "pang-mi",
+        bhutia: "དཔང་མི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016525/designation/panchayat_y8mceo.mp3",
+      },
+      {
+        key: "449",
+        english: "Principal Director",
+        pronunciation: "gong-chi kod-pon",
+        bhutia: "གོང་སྤྱི་ བཀོད་དཔོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016520/designation/principal_director_oeavpr.mp3",
+      },
+      {
+        key: "450",
+        english: "Railway Minister",
+        pronunciation: "me-khor lon-po",
+        bhutia: "མེ་འཁོར་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016519/designation/railway_minister_hzif3z.mp3",
+      },
+      {
+        key: "451",
+        english: "Sports Minister",
+        pronunciation: "tsed-rigs lon-po",
+        bhutia: "རྩེད་རིགས་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016542/designation/sports_minister_yyko4p.mp3",
+      },
+      {
+        key: "452",
+        english: "Speaker",
+        pronunciation: "gyo-tsog lon-po",
+        bhutia: "གྱོས་ཚོགས་ བློན་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/speaker_d1spcb.mp3",
+      },
+      {
+        key: "453",
+        english: "Secretary",
+        pronunciation: "drung-che",
+        bhutia: "དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016518/designation/secretary_nfkmgp.mp3",
+      },
+      {
+        key: "454",
+        english: "Special Secretary",
+        pronunciation: "mig-sal drung-che",
+        bhutia: "དམིགས་བསལ་ དྲུང་ཆེན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/special_secretary_bu2eby.mp3",
+      },
+      {
+        key: "455",
+        english: "Sovereign",
+        pronunciation: "nga-wang",
+        bhutia: "མངའ་དབང་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016517/designation/sovereign_wtcqqh.mp3",
+      },
+      {
+        key: "456",
+        english: "Vice President",
+        pronunciation: "srid-zin zhon-bo",
+        bhutia: "སྲིད་འཛིན་ གཞོན་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016516/designation/vice_president_auyg9b.mp3",
+      },
+      {
+        key: "457",
+        english: "Under Secretary",
+        pronunciation: "nga-hog drung-che",
+        bhutia: "མངའ་འོག་ དྲུང་ཆེ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016731/designation/under_secretary_mrrpqc.mp3",
+      },
+      {
+        key: "458",
+        english: "Writer",
+        bhutia: "དྲུང་ཡིག།",
+        pronunciation: "drung-yig",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016474/designation/writer_or_clerk_nsbns3.mp3",
+      },
+      {
+        key: "459",
+        english: "Clerk",
+        bhutia: "དྲུང་ཡིག།",
+        pronunciation: "drung-yig",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016474/designation/writer_or_clerk_nsbns3.mp3",
+      },
+      {
+        key: "460",
+        english: "Zilla Adakshya",
+        bhutia: "རྫོང་བདག།",
+        pronunciation: "dzong-dag",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737016731/designation/zilla_adkashya_dwg6xh.mp3",
+      },
+    ],
   },
   {
     id: "19",
@@ -2910,7 +3329,7 @@ const LanguageData: Array<TopicsProps> = [
     data: [
       {
         key: "573",
-        english: "General (military general)",
+        english: "General",
         pronunciation: "dà-pön",
         bhutia: "ད་པོན།",
         audiolink:
@@ -2926,7 +3345,7 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "575",
-        english: "Major (army major)",
+        english: "Major",
         pronunciation: "gyá -pön",
         bhutia: "རྒྱ་པོ།",
         audiolink:
@@ -2934,7 +3353,7 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "576",
-        english: "Captain (army captain)",
+        english: "Captain ",
         pronunciation: "ding-pön",
         bhutia: "དིང་པོན།",
         audiolink:
@@ -2974,7 +3393,7 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "581",
-        english: "Company (military term)",
+        english: "Company",
         pronunciation: "ding-ts'o",
         bhutia: "དིང་ཚོ།",
         audiolink:
@@ -2998,7 +3417,7 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "584",
-        english: "An engagement (military term)",
+        english: "An engagement",
         bhutia: "ཐབ་མོ།",
         pronunciation: "táb-mo",
         audiolink:
@@ -3070,7 +3489,7 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "593",
-        english: "To fire (military term)",
+        english: "To fire",
         bhutia: "སྐྱབས་ཤེ།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1737020468/military/to_fire_fp7lqy.mp3",

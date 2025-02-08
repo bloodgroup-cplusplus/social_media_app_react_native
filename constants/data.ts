@@ -2816,7 +2816,7 @@ const Data: Array<DataProps> = [
     pronunciation: "shing-lae lon-po",
     bhutia: "ཞིང་ལས་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/agriculture_minister_j0b47r.mp3",
   },
   {
     key: "410",
@@ -2824,7 +2824,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nen-tab drung-che",
     bhutia: "སྣམ་བཏབ་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016539/designation/additional_secretary_krc1xa.mp3",
   },
   {
     key: "411",
@@ -2832,7 +2832,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nen-tab kod-pon",
     bhutia: "སྣམ་བཏབ་ བཀོད་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016539/designation/additional_director_zx91xz.mp3",
   },
   {
     key: "412",
@@ -2840,14 +2840,14 @@ const Data: Array<DataProps> = [
     pronunciation: "lae-drog kod-pon",
     bhutia: "ལས་གྲོགས་ བཀོད་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/assistant_director_dsua7q.mp3",
   },
   {
     key: "413",
     english: "Assistant Education Officer",
     bhutia: "ལས་དྲོགས་ ཤེས་རིག་ ལས་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/aeo_lcnjuf.mp3",
     pronunciation: "lae-drog she-rig lae-pon",
   },
   {
@@ -2856,7 +2856,7 @@ const Data: Array<DataProps> = [
     pronunciation: "zhu-tsab po",
     bhutia: "ཞུ་ཚབ་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016538/designation/advocate_ifpxsa.mp3",
   },
   {
     key: "415",
@@ -2864,7 +2864,7 @@ const Data: Array<DataProps> = [
     pronunciation: "trim-pon tso-o",
     bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chief_judge_sjnwti.mp3",
   },
   {
     key: "416",
@@ -2872,7 +2872,7 @@ const Data: Array<DataProps> = [
     pronunciation: "tso-chi lon-po",
     bhutia: "ཁྲིམས་དཔོན་ གཙོ་བོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chief_minister_wzjjdl.mp3",
   },
   {
     key: "417",
@@ -2880,7 +2880,7 @@ const Data: Array<DataProps> = [
     pronunciation: "drung-che tso-o",
     bhutia: "དྲུང་ཆེ་ གཙོ་བོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016536/designation/chief_secretary_tf3ewl.mp3",
   },
   {
     key: "418",
@@ -2888,7 +2888,7 @@ const Data: Array<DataProps> = [
     pronunciation: "rig-zung lon-po",
     bhutia: "རིགས་གཞུང་  བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/culture_minister_fy2xwk.mp3",
   },
 
   {
@@ -2897,7 +2897,7 @@ const Data: Array<DataProps> = [
     pronunciation: "tri-dag",
     bhutia: "ཁྲི་བདག།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016537/designation/chairman_crcjy7.mp3",
   },
   {
     key: "420",
@@ -2905,7 +2905,7 @@ const Data: Array<DataProps> = [
     pronunciation: "trom-dag",
     bhutia: "ཁྲོམ་བདག་།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/councillor_zwp9gq.mp3",
   },
   {
     key: "421",
@@ -2913,7 +2913,7 @@ const Data: Array<DataProps> = [
     pronunciation: "phi dang drag poi de-srung lon-po",
     bhutia: "ཕྱི༹་ དང་ དྲག་པོའི་ བདེ་སྲུང་ བླེན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/defence_and_foreign_minister_jvph4f.mp3",
   },
   {
     key: "422",
@@ -2921,7 +2921,7 @@ const Data: Array<DataProps> = [
     pronunciation: "tsab-kod rung-che",
     bhutia: "ཚབ་བསྐོས་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4,",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/deputy_secretary_j3v4ow.mp3",
   },
   {
     key: "423",
@@ -2929,7 +2929,7 @@ const Data: Array<DataProps> = [
     pronunciation: "kod-pon",
     bhutia: "བཀད་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/director_dxdfrv.mp3",
   },
   {
     key: "424",
@@ -2937,7 +2937,7 @@ const Data: Array<DataProps> = [
     pronunciation: "she-rig drung-che",
     bhutia: "ཤེས་རིག་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/education_secretary_onsmde.mp3",
   },
   {
     key: "425",
@@ -2945,7 +2945,7 @@ const Data: Array<DataProps> = [
     pronunciation: "she-rig lon-po",
     bhutia: "ཤེས་རིག་ བླེན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016534/designation/education_minister_xbiqn2.mp3",
   },
   {
     key: "426",
@@ -2953,7 +2953,7 @@ const Data: Array<DataProps> = [
     pronunciation: "pal-jor lon-po",
     bhutia: "དཔལ་འབྱོར་ བླེན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/finance_minister_ezabci.mp3",
   },
   {
     key: "427",
@@ -2961,7 +2961,7 @@ const Data: Array<DataProps> = [
     pronunciation: "dong-gyn dang ri-dag sem-chen srung-kyop lon-po",
     bhutia: "སྡོང་རྒྱན་ དང་ རི་དྭགས་ སེམས་ཅན་  སྲུང་སྐྱོབས་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/forest_and_wildlife_minister_eyhocv.mp3",
   },
   {
     key: "428",
@@ -2969,7 +2969,7 @@ const Data: Array<DataProps> = [
     pronunciation: "pal-jor drung-che",
     bhutia: "དཔལ་འབྱོར་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/finance_secretary_ebicfl.mp3",
   },
   {
     key: "429",
@@ -2977,7 +2977,7 @@ const Data: Array<DataProps> = [
     pronunciation: "srid-kyong chen-po",
     bhutia: "སྲིད་སྐྱོང་ ཆེན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016532/designation/governor_okoplh.mp3",
   },
   {
     key: "430",
@@ -2985,7 +2985,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nang-srid long-po",
     bhutia: "ནང་སྲིད་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/home_minister_oep4gr.mp3",
   },
   {
     key: "431",
@@ -2993,7 +2993,7 @@ const Data: Array<DataProps> = [
     pronunciation: "throt-ten lon-po",
     bhutia: "འཕྲོད་བརྟེན་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016531/designation/health_minister_qtjpos.mp3",
   },
   {
     key: "432",
@@ -3001,7 +3001,7 @@ const Data: Array<DataProps> = [
     pronunciation: "throt-tren drung-che",
     bhutia: "འཕྲོད་རྟེན་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/health_secretary_pgayrv.mp3",
   },
   {
     key: "433",
@@ -3009,7 +3009,7 @@ const Data: Array<DataProps> = [
     pronunciation: "trim/drang-den",
     bhutia: "ཁྲིམས། དྲང་བདེན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/justice_x7xju1.mp3",
   },
   {
     key: "434",
@@ -3017,7 +3017,7 @@ const Data: Array<DataProps> = [
     pronunciation: "zung-dral drung-che",
     bhutia: "ཟུང་འབྲེལ་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/joint_secretary_jg2ckv.mp3",
   },
   {
     key: "435",
@@ -3025,7 +3025,7 @@ const Data: Array<DataProps> = [
     pronunciation: "zung-drel kod-pon",
     bhutia: "ཟུང་འབྲེལ་ བཀོད་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016530/designation/joint_director_hblxxk.mp3",
   },
 
   {
@@ -3034,7 +3034,7 @@ const Data: Array<DataProps> = [
     pronunciation: "trim-pon",
     bhutia: "ཁྲིམས་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016529/designation/judge_sonvlm.mp3",
   },
   {
     key: "437",
@@ -3042,7 +3042,7 @@ const Data: Array<DataProps> = [
     pronunciation: "gyal-po ring-lug",
     bhutia: "རྒྱལ་པོའི་ རིང་ལུགས།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/monarchy_ttibge.mp3",
   },
   {
     key: "438",
@@ -3050,7 +3050,7 @@ const Data: Array<DataProps> = [
     pronunciation: "gos-tsog thu-mi",
     bhutia: "གྱོས་ཚོགས་ འཐུས་མི།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/member_of_parliament_d8hw1c.mp3",
   },
   {
     key: "439",
@@ -3058,7 +3058,7 @@ const Data: Array<DataProps> = [
     pronunciation: "lon-po",
     bhutia: "བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/minister_by1dg1.mp3",
   },
   {
     key: "440",
@@ -3066,7 +3066,7 @@ const Data: Array<DataProps> = [
     pronunciation: "thue-mi",
     bhutia: "འཐུས་མི།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/mla_zkdplq.mp3",
   },
   {
     key: "441",
@@ -3074,7 +3074,7 @@ const Data: Array<DataProps> = [
     pronunciation: "trom-pon",
     bhutia: "ཁྲོམ་དཔོན། ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016528/designation/mayor_puilq1.mp3",
   },
   {
     key: "442",
@@ -3082,7 +3082,7 @@ const Data: Array<DataProps> = [
     pronunciation: "tsab-kod trom-pon",
     bhutia: "ཚབ་བཀོད་ ཁྲོམ་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016535/designation/deputy_mayor_l9eqob.mp3",
   },
   {
     key: "443",
@@ -3090,7 +3090,7 @@ const Data: Array<DataProps> = [
     pronunciation: "lae-khung dodam-po",
     bhutia: "ལས་ཁུང་ དོ་དམ་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016526/designation/office_superintendent_s8oncp.mp3",
   },
   {
     key: "444",
@@ -3098,7 +3098,7 @@ const Data: Array<DataProps> = [
     pronunciation: "srid-zin",
     bhutia: "སྲིད་འཛིན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016523/designation/president_kluvqi.mp3",
   },
   {
     key: "445",
@@ -3106,7 +3106,7 @@ const Data: Array<DataProps> = [
     pronunciation: "srid-kyong lon-po",
     bhutia: "སྲིད་སྐྱོང་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016522/designation/prime_minister_qn1d9p.mp3",
   },
   {
     key: "446",
@@ -3114,7 +3114,7 @@ const Data: Array<DataProps> = [
     pronunciation: "srid-jyus po",
     bhutia: "སྲིད་བྱུས་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016523/designation/politician_rvsd0n.mp3",
   },
   {
     key: "447",
@@ -3122,7 +3122,7 @@ const Data: Array<DataProps> = [
     pronunciation: "log-shug lon-po",
     bhutia: "གློག་ཤུགས་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016524/designation/power_minister_nj6stb.mp3",
   },
   {
     key: "448",
@@ -3130,7 +3130,7 @@ const Data: Array<DataProps> = [
     pronunciation: "pang-mi",
     bhutia: "དཔང་མི།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016525/designation/panchayat_y8mceo.mp3",
   },
   {
     key: "449",
@@ -3138,7 +3138,7 @@ const Data: Array<DataProps> = [
     pronunciation: "gong-chi kod-pon",
     bhutia: "གོང་སྤྱི་ བཀོད་དཔོན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016520/designation/principal_director_oeavpr.mp3",
   },
   {
     key: "450",
@@ -3146,7 +3146,7 @@ const Data: Array<DataProps> = [
     pronunciation: "me-khor lon-po",
     bhutia: "མེ་འཁོར་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016519/designation/railway_minister_hzif3z.mp3",
   },
   {
     key: "451",
@@ -3154,7 +3154,7 @@ const Data: Array<DataProps> = [
     pronunciation: "tsed-rigs lon-po",
     bhutia: "རྩེད་རིགས་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016542/designation/sports_minister_yyko4p.mp3",
   },
   {
     key: "452",
@@ -3162,7 +3162,7 @@ const Data: Array<DataProps> = [
     pronunciation: "gyo-tsog lon-po",
     bhutia: "གྱོས་ཚོགས་ བློན་པོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016527/designation/speaker_d1spcb.mp3",
   },
   {
     key: "453",
@@ -3170,7 +3170,7 @@ const Data: Array<DataProps> = [
     pronunciation: "drung-che",
     bhutia: "དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016518/designation/secretary_nfkmgp.mp3",
   },
   {
     key: "454",
@@ -3178,7 +3178,7 @@ const Data: Array<DataProps> = [
     pronunciation: "mig-sal drung-che",
     bhutia: "དམིགས་བསལ་ དྲུང་ཆེན།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016533/designation/special_secretary_bu2eby.mp3",
   },
   {
     key: "455",
@@ -3186,7 +3186,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nga-wang",
     bhutia: "མངའ་དབང་།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016517/designation/sovereign_wtcqqh.mp3",
   },
   {
     key: "456",
@@ -3194,7 +3194,7 @@ const Data: Array<DataProps> = [
     pronunciation: "srid-zin zhon-bo",
     bhutia: "སྲིད་འཛིན་ གཞོན་བོ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016516/designation/vice_president_auyg9b.mp3",
   },
   {
     key: "457",
@@ -3202,7 +3202,7 @@ const Data: Array<DataProps> = [
     pronunciation: "nga-hog drung-che",
     bhutia: "མངའ་འོག་ དྲུང་ཆེ།",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016731/designation/under_secretary_mrrpqc.mp3",
   },
   {
     key: "458",
@@ -3210,7 +3210,7 @@ const Data: Array<DataProps> = [
     bhutia: "དྲུང་ཡིག།",
     pronunciation: "drung-yig",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016474/designation/writer_or_clerk_nsbns3.mp3",
   },
   {
     key: "459",
@@ -3218,7 +3218,7 @@ const Data: Array<DataProps> = [
     bhutia: "དྲུང་ཡིག།",
     pronunciation: "drung-yig",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016474/designation/writer_or_clerk_nsbns3.mp3",
   },
   {
     key: "460",
@@ -3226,7 +3226,7 @@ const Data: Array<DataProps> = [
     bhutia: "རྫོང་བདག།",
     pronunciation: "dzong-dag",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1736395782/drinks/butter_tea_Tibetan_tea_x7vlg5.mp4",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737016731/designation/zilla_adkashya_dwg6xh.mp3",
   },
   {
     key: "461",
