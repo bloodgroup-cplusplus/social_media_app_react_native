@@ -3514,6 +3514,189 @@ const LanguageData: Array<TopicsProps> = [
     ],
   },
   {
+    id: "20",
+    bhutia: "traditional Sikkimese food",
+    pronunciation: "need to write this ",
+    english: "Traditional Sikkimese Food",
+    imageLink: fooditems,
+    data: [
+      {
+        key: "123456780",
+        english: "A butter and cheese mixed dish",
+        pronunciation: "mar-khu",
+        bhutia: "མར་ཁུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022168/sikkimese%20dishes/a_butter_and_cheese_mixed_dish_sdatwk.mp3",
+      },
+      {
+        key: "123456781",
+        english: "Cheese pickle",
+        pronunciation: "chu-akar",
+        bhutia: "ཕྱུ་ཨ་ཀར།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022195/sikkimese%20dishes/cheese_pickle_tn23vp.mp4",
+      },
+      {
+        key: "123456782",
+        english: "Cheese broth",
+        pronunciation: "chu-to-ku",
+        bhutia: "ཕྱུ་ལྟོ་ ཁུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022160/sikkimese%20dishes/cheese_broth_os6s7q.mp3",
+      },
+      {
+        key: "1234567893",
+        english: " Lhopos traditional cookies made of rice floor",
+        pronunciation: "bzae-ro",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022196/sikkimese%20dishes/Lhopos_traditional_cookies_made_of_rice_flour_ei6s2b.mp4",
+        bhutia: "བཞེས་རོ།",
+      },
+      {
+        key: "1234567894",
+        english: "Lhopos traditional snack made of rice floor",
+        pronunciation: "kha-zae",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022197/sikkimese%20dishes/lhopos_traditional_snack_made_of_rice_floor_k4uvip.mp4",
+        bhutia: "ཁ་ཟས།",
+      },
+      {
+        key: "1234567895",
+        english: "Lhopos veg roll",
+        pronunciation: "khu-dri",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022198/sikkimese%20dishes/lhopos_veg_roll_xyzc9f.mp4",
+        bhutia: "ཁུ་སྒྲིལ།",
+      },
+      {
+        key: "1234567896",
+        english: "Mixed Veg rice",
+        pronunciation: "tsod-nyog",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022201/sikkimese%20dishes/mixed_veg_rice_dlnuou.mp4",
+        bhutia: "ཚོད་ཉོག།",
+      },
+      {
+        key: "1234567897",
+        english: "Millet chapati",
+        pronunciation: "min-chag khu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022199/sikkimese%20dishes/millet_chapati_w6eda2.mp4",
+        bhutia: "མིན་ལྕ་ཁུ།",
+      },
+      {
+        key: "1234567898",
+        english: "Nettle broth",
+        pronunciation: "so-chag",
+        bhutia: "ཟོ་ཅག་ཚོདམ་ ཡང་ན་ ཟྭོ་ཚོད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022203/sikkimese%20dishes/nettle_broth_osjfvx.mp4",
+      },
+      {
+        key: "1234567899",
+        english: "Rice thukpa or gruel made from rice",
+        bhutia: "ཕྱི་ཐུག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022203/sikkimese%20dishes/rice_thukpa_or_gruel_made_from_rice_zlzrs9.mp4",
+        pronunciation: "phi-thug",
+      },
+      {
+        key: "12345678990",
+        english: "Wheat porridge ",
+        pronunciation: "gu-thug",
+        audiolink: "",
+        bhutia: "དགུ་ཐུག།",
+      },
+      {
+        key: "12345678991",
+        english: "Rotten Cheese",
+        pronunciation: "chu-rul",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022209/sikkimese%20dishes/rotten_cheese_tif4cm.mp4",
+        bhutia: "ཕྱུ་རིལ།",
+      },
+      {
+        key: "12345678992",
+        english: "Rice",
+        pronunciation: "so-wo/shal-lag/tho/zam",
+        bhutia: "གསོལ་བོ་ ཞལ་ལག་ ལྟོ།ཟམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022206/sikkimese%20dishes/rice_gyiqrx.mp4",
+      },
+      {
+        key: "12345678993",
+        english: "Fermented soya-bean used as broth",
+        pronunciation: "bang-rul",
+        bhutia: "བང་རུལ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022164/sikkimese%20dishes/fermented_soya-bean_used_as_broth_hmrhaq.mp3",
+      },
+      {
+        key: "12345678994",
+        english: "Roasted barley flour",
+        pronunciation: "tsampo",
+        bhutia: "ཕྱི༹་རྩམ།རྩམ་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022207/sikkimese%20dishes/roasted_barley_flour_t3c0qj.mp4",
+      },
+      {
+        key: "12345678995",
+        english: "Shoots of bamboo",
+        pronunciation: "dong",
+        bhutia: "གདོང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022209/sikkimese%20dishes/shoots_of_bamboo_n1sdjb.mp4",
+      },
+      {
+        key: "12345678996",
+        english: "A fermented bamboo shoot eaten with rice",
+        pronunciation: "rog kyu",
+        bhutia: "རོག་སྐྱུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022164/sikkimese%20dishes/a_fermented_bamboo_shoots_eaten_with_rice_aujjid.mp3",
+      },
+      {
+        key: "12345678997",
+        english: "Tsampa Rice",
+        pronunciation: "drem-to",
+        bhutia: "བྲེམ་ལྟོ།",
+        audiolink: "",
+      },
+      {
+        key: "12345678998",
+        english: "Traditional snack made from wheat flour",
+        pronunciation: "lhem",
+        bhutia: "ལྷེམ།",
+        audiolink: "",
+      },
+
+      {
+        key: "12345678999",
+        english: "Traditional cookies made of maize",
+        pronunciation: "cha-dung",
+        bhutia: "བཅག་རྡུང།",
+        audiolink: "",
+      },
+      {
+        key: "123456789990",
+        english: "A large cookie made of wheat",
+        pronunciation: "bong-boi nam-chogg",
+        bhutia: "བོང་བུའི་ རྣམ་ཅོག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022163/sikkimese%20dishes/a_large_cooke_made_of_wheat_kg9nh4.mp3",
+      },
+      {
+        key: "123456789991",
+        english: "Chapati made of buck wheat",
+        pronunciation: "byo khu",
+        bhutia: "བྱྰོའོ་ཁུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1737022161/sikkimese%20dishes/chapati_made_of_buck_wheat_l0xwuh.mp3",
+      },
+    ],
+  },
+
+  {
     id: "31",
     bhutia: "གཏམ་",
     pronunciation: "tam",
