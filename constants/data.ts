@@ -6225,14 +6225,16 @@ const Data: Array<DataProps> = [
   {
     key: "838",
     english: "Shooting pain in half portion of body",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080174/at%20the%20hospital/having_shooting_pain_in_half_portion_of_body_nssdf3.mp3",
     pronunciation: "zu phyeth zedi",
     bhutia: "གཟུགས་ཕྱེད་ གཟེར་སྡི།",
   },
   {
     key: "839",
     english: "Shooting pain in half portion of head",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080173/at%20the%20hospital/having_shooting_pain_in_half_portion_of_head_wokngx.mp3",
     pronunciation: "go phyeth zedi",
     bhutia: "མགོ་ ཕྱེད་ གཟེར་དི།",
   },
@@ -6247,77 +6249,88 @@ const Data: Array<DataProps> = [
     key: "841",
     english: "Shooting in limbs",
     pronunciation: "kaang laag zedi",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080174/at%20the%20hospital/having_shooting_in_limbs_ntgil6.mp3",
     bhutia: "རྐང་ལག་ གཟེར་སྡི།",
   },
   {
     key: "842",
     english: "Eye pain",
     pronunciation: "mikdho nati",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080198/at%20the%20hospital/suffering_from_eye_pain_phn9h4.mp3",
     bhutia: "མིག་རྡོག་ ན་སྟི།",
   },
   {
     key: "843",
     english: "Suffering from toothache",
     pronunciation: "so suk kyapti",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080192/at%20the%20hospital/suffering_from_toothache_fqhe0a.mp3",
     bhutia: "སོ་ཟུག་ རྐྱབས་སྟི།",
   },
   {
     key: "844",
     english: "Having dry throat",
     pronunciation: "kyom khomti",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080179/at%20the%20hospital/having_dry_throat_nqyaa5.mp3",
     bhutia: "རྐོདམ་ ཁོམ་སྟི།",
   },
   {
     key: "845",
     english: "Body itch",
     pronunciation: "zu yati",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739085211/at%20the%20hospital/body_itch_gvedfw.mp3",
     bhutia: "གཟུཁས་ གཡའ་སྟི།",
   },
   {
     key: "846",
     english: "Half portion of the body is paralyzed",
     pronunciation: "zu phyeth pashyrth meth",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739085317/at%20the%20hospital/half_portion_of_body_paralyzed_vlspzk.mp3",
     bhutia: "གཟུགས་ཕྱེད་ སྤ་ཤད་ མེད།",
   },
   {
     key: "847",
     english: "Having ear pain",
     pronunciation: "naamcho nati",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080179/at%20the%20hospital/earache_lkytgm.mp3",
     bhutia: "རྣམ་ཅོག་ ན་སྟི།",
   },
   {
     key: "848",
     english: "Body slimmed down",
     pronunciation: "zu khomti",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080180/at%20the%20hospital/body_slimmed_down_fkyoxi.mp3",
     bhutia: "གཟུགས་ ཁོམ་སྟི།",
   },
   {
     key: "849",
     english: "This is a liver problem",
     pronunciation: "chhinpoi natsha bhyeth",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080187/at%20the%20hospital/this_is_liver_problem_ft6two.mp3",
     bhutia: "མཆིན་པོའི་ ན་ཚ་ སྦད།",
   },
   {
     key: "850",
     english: "This is tuberculosis",
     pronunciation: "glo neth bhyeth",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080186/at%20the%20hospital/this_is_tuberculosis_qchma6.mp3",
     bhutia: "གློ་ནད་ སྦད།",
   },
   {
     key: "851",
     english: "This says it is cancer",
     pronunciation: "ten neth bhyeth labzin dhug",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080180/at%20the%20hospital/cancer_disease_ditizr.mp3",
     bhutia: "སྤྲན་ནད་ ཨིན་ ལབ་བཞིན་ འདུག།",
   },
   {
@@ -6331,62 +6344,71 @@ const Data: Array<DataProps> = [
     key: "853",
     english: "Having gassy stomach",
     pronunciation: "sup ghangti",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080174/at%20the%20hospital/having_gassy_stomach_fdvjzs.mp3",
     bhutia: "གསུསབ་ འགང་སྟི།",
   },
   {
     key: "854",
     english: "Behaving abnormally",
     pronunciation: "chhotsa lohm thyentsha dhug",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080181/at%20the%20hospital/behaving_abnormally_au2ino.mp3",
     bhutia: "འཆོལ་རྩ་ ལོངམ་ ཐོན་ཚར་ འདུག།",
   },
   {
     key: "855",
     english: "Anger issues",
     pronunciation: "klung longpo bhyeth",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739085571/at%20the%20hospital/anger_issues_eh0jre.mp3",
     bhutia: "རླུང་ལོང་པོ་ སྦད།",
   },
   {
     key: "856",
-    english: "Have you seen the doctor",
+    english: "Have you shown the doctor",
     pronunciation: "menpolo tyenjay gaam",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739085666/at%20the%20hospital/have_you_shown_the_doctor_1_mxfmwm.mp3",
     bhutia: "སྨན་པོ་ལོ་ སྟོན་ཞེ་ གམ?",
   },
   {
     key: "857",
     english: "Taking medicine after treatment ",
     pronunciation: "mhenpolo tyendi mhen sadoh in ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080205/at%20the%20hospital/taking_medicine_after_treatment_fclykh.mp3",
     bhutia: "སྨན་པོ་ལོ་ སྟོན་ སྡི་ སྨན་ཟ་དོ་ ཨིན།",
   },
   {
     key: "858",
     english: "Is there an injection",
     pronunciation: "mhen khap yethpo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739085917/at%20the%20hospital/is_there_an_injection_ssdrmb.mp3",
     bhutia: "སྨན་ གབ་ ཡོད་པོ?",
   },
   {
     key: "859",
     english: "Took four injections before yesterday",
-    audiolink: "",
-    bhutia: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080205/at%20the%20hospital/taken_four_injection_before_yesterday_xec7wb.mp3",
+    bhutia: "སྨན་ཁབ་ དི་ཚེ་ བཞི་ རྐྱབས་ཚར།",
     pronunciation: "mhen khap thitsi kyaptsha",
   },
   {
     key: "860",
     english: "These medicines are slightly benefiting",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080187/at%20the%20hospital/these_medicines_are_working_ndadpv.mp3",
     bhutia: "སྨན་འདིས་ ཨ་ཙི་ ཕན་དོ།",
     pronunciation: "mhendi aatsi fendoh",
   },
   {
     key: "861",
     english: "Apetite is improving these days",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080188/at%20the%20hospital/these_days_appetitie_is_imporving_ufukcz.mp3",
     bhutia: "སྨན་འདིས་ ཨ་ཙི་ ཕན་དོ།",
     pronunciation: "tharayto saam achi thanhkha taangdoh",
   },
