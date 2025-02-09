@@ -5780,244 +5780,279 @@ const Data: Array<DataProps> = [
     english: "Sore throat",
     pronunciation: "",
     bhutia: "སོདམ་ འབོས་ཤད",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/sore_throat_emoal0.mp4",
   },
   {
     key: "783",
     english: "Shortness of Breath",
     pronunciation: "",
     bhutia: "དབུ་བསགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/shortness_of_breath_cmdif7.mp4",
   },
   {
     key: "784",
     english: "Fatigue",
     pronunciation: "",
     bhutia: "ཐང་ཆད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/fatigue_dcwr9n.mp4",
   },
   {
     key: "785",
     english: "Dry Cough",
     pronunciation: "",
     bhutia: "སམ་བསགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/dry_cough_racikx.mp4",
   },
   {
     key: "786",
     english: "Fever",
     pronunciation: "",
     bhutia: "དྲོད་འབར།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/fever_c45ts1.mp4",
   },
   {
     key: "787",
     english: "Incubation",
     pronunciation: "",
     bhutia: "བག་ཡུན། ནད་རྟགས་ སོན་ཡུན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079553/at%20the%20hospital/incubation_gnjesq.mp4",
   },
   {
     key: "788",
     english: "Lockdown",
     pronunciation: "",
     bhutia: "སོ་བསམས་ ནང་བཞུག",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079553/at%20the%20hospital/lockdown_cjyb3m.mp4",
   },
   {
     key: "789",
     english: "Social Distancing",
     pronunciation: "",
     bhutia: "སྱི་ཚོགས་ རྒྱང་སོད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/social_distancing_zp13vy.mp4",
   },
   {
     key: "790",
     english: "Psychiatrist",
     pronunciation: "",
     bhutia: "སྲེམས་ནད་ གསོ་བའྱི་ སྨན་པ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/psychiatrist_zdd1hk.mp4",
   },
   {
     key: "791",
-    english: "contagious",
+    english: "Contagious",
     pronunciation: "",
     bhutia: "ཟུན་ནད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079550/at%20the%20hospital/contagious_wmwceu.mp4",
   },
   {
     key: "792",
     english: "Epidemiologist",
     pronunciation: "",
     bhutia: "ནད་ཡམས་ བརྟག་དཔྱད་ མཁན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/epidemiolosit_j7lxb4.mp4",
   },
   {
     key: "793",
     english: "Emergency room",
     pronunciation: "",
     bhutia: "ཚབ་ཆྲེན་ བཅོས་ཁང་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079550/at%20the%20hospital/emergency_room_u4qrq6.mp4",
   },
   {
     key: "794",
     english: "Sneeze",
     pronunciation: "",
     bhutia: "བྷྱི་པོ་ ཤར་ཤད",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/sneeze_tlg1rc.mp4",
   },
   {
     key: "795",
     english: "Dietician",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/Dietician_pmkjxi.mp4",
     bhutia: "བཅུས་ཟས་ མཁན།",
   },
   {
     key: "796",
     english: "Diagnosis",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/Diagnosis_w99o77.mp4",
     bhutia: "ནད་རྩ་ བཅོད་ཤད།",
   },
   {
     key: "797",
     english: "Pneumonia",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079554/at%20the%20hospital/pneumonia_gemtcd.mp4",
     bhutia: "གོ་ཚད།",
   },
   {
     key: "798",
     english: "Depression",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/depression_hxdrzl.mp4",
     bhutia: "བོ་ཕམ་ ན་རྩ།",
   },
   {
     key: "799",
     english: "Stress",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080097/at%20the%20hospital/stress_nbo1sw.mp4",
     bhutia: "སྲེམས་ནད།",
   },
   {
     key: "800",
     english: "Bacteria",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079550/at%20the%20hospital/bacteria_cadrnm.mp4",
     bhutia: "གཉྱིས་སྲེས་ ཆ་འབུ།",
   },
   {
     key: "801",
     english: "Virus",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080097/at%20the%20hospital/virus_cc1lwq.mp4",
     bhutia: "གསོན་སྲེས་ ཕྲ་འབུ།",
   },
   {
     key: "802",
     english: "Immunization",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079553/at%20the%20hospital/immunization_zedwx6.mp4",
     bhutia: "ནད་བཀག་ སྨན་སྣ།",
   },
   {
     key: "803",
     english: "Immunity",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/immunity_uqil8g.mp4",
     bhutia: "ལུས་ཟུངས།",
   },
   {
     key: "804",
     english: "Immune System",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/immune_system_rmp7nx.mp4",
     bhutia: "ལུས་ཟུངས་ ནུས་པོ།",
   },
   {
     key: "805",
     english: "Preventive medicine",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079605/at%20the%20hospital/preventive_medicine_hvvvij.mp4",
     bhutia: "སོན་འགོག་ སྨན་བཅོས།",
   },
   {
     key: "806",
     english: "Preventive Measures",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079579/at%20the%20hospital/preventive_measures_seleif.mp4",
     bhutia: "སོན་འགོག་ བཀག་ཐབ།",
   },
   {
     key: "807",
     english: "Outpatient",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079554/at%20the%20hospital/outpatient_trq7rc.mp4",
     bhutia: "ཕྱི་འོང་ ནད་པ",
   },
   {
     key: "808",
     english: "Inpatient",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079553/at%20the%20hospital/inpatient_vqylpv.mp4",
     bhutia: "ནང་སོད་ ནད་པོ",
   },
   {
     key: "809",
     english: "Intensive care unit (ICU)",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079553/at%20the%20hospital/intensive_care_unit_rjpffo.mp4",
     bhutia: "གཟབ་བཅོས་ སྲེ་ཚན།",
   },
   {
     key: "810",
     english: "Vaccine",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080097/at%20the%20hospital/vaccine_uuzdlr.mp4",
     bhutia: "སོན་འགོག་ སྨན་སྣ།",
   },
   {
     key: "811",
     english: "Ambulance",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079550/at%20the%20hospital/ambulance_pq508s.mp4",
     bhutia: "ནད་པའྱི་ འགྲུལ་འཁོར།",
   },
   {
     key: "812",
     english: "Outbreak",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079554/at%20the%20hospital/outbreak_pfbazj.mp4",
     bhutia: "ཧང་ཏོག་ དར་ཁྱབ།",
   },
   {
     key: "813",
     english: "Hand Sanitizer",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079552/at%20the%20hospital/handsanitizer_bmrwhh.mp4",
     bhutia: "རྫས་སོར་ ལག་སྲེལ།",
   },
   {
     key: "814",
     english: "Pandemic",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079554/at%20the%20hospital/pandemic_wh5otu.mp4",
     bhutia: "རྒྱ་ཁྱབ་ ནད་ཡམས། རྒྱ་ཁྱབ་ རྱིམས་ནད། རྒྱ་ཁྱབ་ རྱིམས་ར",
   },
   {
     key: "815",
     english: "Epidemic",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079550/at%20the%20hospital/epidemic_eptlk3.mp4",
     bhutia: "ནད་ཡམས། རྱིམས་ནད། རྱིམས་ར",
   },
   {
     key: "816",
     english: "Quarantine",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080096/at%20the%20hospital/quarantine_jgfuht.mp4",
     bhutia: "དབྲེར་ཕ ྲེ་ བཟུར་བཞག",
   },
   {
@@ -6031,139 +6066,159 @@ const Data: Array<DataProps> = [
     key: "818",
     english: "COVID-19",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/covid19_i6nhjo.mp4",
     bhutia: "ཏོག་དབྱིབས་ ནད་རྱིམས་ ༡༩",
   },
   {
     key: "819",
     english: "Coronavirus",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739079551/at%20the%20hospital/coronavirus_nb0rbu.mp4",
     bhutia: "ཏོག་ནད་ འབུ་སྱིན།",
   },
   {
     key: "820",
-    english: "Did you get well?",
+    english: "Are you feeling well?",
     pronunciation: "nhyngzi thangjhay gam",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739083445/at%20the%20hospital/are_you_feeling_well___qvhakp.mp3",
     bhutia: "སྙུང་གཞི་  དྭངས་ཞེ་གམ་?",
   },
   {
     key: "821",
     english: "Slightly recovered",
     pronunciation: "aatsi thrakto",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739083450/at%20the%20hospital/slightly_recovered_npexiu.mp3",
     bhutia: "ཨ་ཙི་ དྲག་ཏོ།",
   },
   {
     key: "822",
     english: "What was the illness ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739083825/at%20the%20hospital/what_was_the_illness_ghwyqr.mp3",
     bhutia: "གན་ སྙུང་བོ་ ཨིན་ནམ་?",
     pronunciation: "khan ngyungbo innam",
   },
   {
     key: "823",
     english: "Suffering from headache",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_headache_ydwsin.mp3",
     bhutia: "མགོ་ ན་སྟི།",
     pronunciation: "go nati",
   },
   {
     key: "824",
     english: "Suffering from stomach ache",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_stomachache_wrgyjz.mp3",
     pronunciation: "supo nati",
     bhutia: "གསུསབ་པོ་  ན་སྟི",
   },
   {
     key: "825",
     english: "Suffering from back ache ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080199/at%20the%20hospital/suffering_from_backache_jlrg9o.mp3",
     pronunciation: "kaypo nati",
     bhutia: "སྐེད་པོ་ ན་སྟི།",
   },
   {
     key: "826",
     english: "Suffering from leg pain",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_leg_pain_bvpf9z.mp3",
     pronunciation: "kangpo nati",
     bhutia: "རྐང་པོ་ ན་སྟི།",
   },
   {
     key: "827",
     english: "Suffering from fever",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080198/at%20the%20hospital/suffering_from_fever_e4c5uf.mp3",
     pronunciation: "dar kyapti",
     bhutia: "འདར་རྐྱབས་སྟི།",
   },
   {
     key: "828",
     english: "Suffering from diarrohea",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080199/at%20the%20hospital/suffering_from_diarrohea_jvu4bj.mp3",
     pronunciation: "supo shyedi",
     bhutia: "གསུས་པོ་ བཤལ་སྡི།",
   },
   {
     key: "829",
     english: "Suffering from diarrohea and vomiting",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739084078/at%20the%20hospital/suffering_from_vomiting_and_dirrohea_nz131b.mp3",
     pronunciation: "shay kyug thendi",
     bhutia: "བཤལ་སྐྱུགས་ ཐོན་སྡི།",
   },
   {
     key: "830",
-    english: "suffering from fever",
-    audiolink: "",
+    english: "Suffering from fever",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080194/at%20the%20hospital/suffering_from_fever__hfzyb8.mp3",
     pronunciation: "droethba kyapti",
     bhutia: "དྲོད་འབར་ རྐྱབས་སྟི།",
   },
   {
     key: "831",
     english: "Having vomiting tendency",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080173/at%20the%20hospital/having_vomiting_tendency_vgpflu.mp3",
     pronunciation: "kyuklog zingdi",
     bhutia: "སྐྱུ་ལོག་ ཟིངས་སྡི",
   },
   {
     key: "832",
     english: "Suffering from dizziness",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080198/at%20the%20hospital/suffering_from_dizziness_hm3og2.mp3",
     pronunciation: "goyung khodi",
     bhutia: "མགོ་ཡུང་ འཁོར་སྡི།",
   },
   {
     key: "833",
     english: "Having gall vesicle",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080173/at%20the%20hospital/having_vesicle_of_gall_gkh1l9.mp3",
     pronunciation: "thrip longpo bhyeth",
     bhutia: "མཁྲིསབ་ ལོང་པོ་ སྦད།",
   },
   {
     key: "834",
     english: "Suffering from chest burn",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080199/at%20the%20hospital/suffering_from_chest_burn_bczs38.mp3",
     pronunciation: "phyang tsha longti",
     bhutia: "བྱང་ཚ་ ལོང་སྟི།",
   },
   {
     key: "835",
     english: "Suffering from asthma",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080200/at%20the%20hospital/suffering_from_asthama_sbe8qe.mp3",
     pronunciation: "ugsag longti",
     bhutia: "དབུགས་ བསགས་ ལོང་སྟི།",
   },
   {
     key: "836",
-    english: "caught flu",
-    audiolink: "",
+    english: "Caught flu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080181/at%20the%20hospital/caught_flu_o9knny.mp3",
     pronunciation: "lochyam suendi",
     bhutia: "གློ་ཅམ་ ཟུན་སྡི།",
   },
   {
     key: "837",
     english: "Suffering for heartache",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_heartache_s7gz8d.mp3",
     pronunciation: "dhunhi nati",
     bhutia: "དུ་སྙིང་ ན་སྟི།",
   },
