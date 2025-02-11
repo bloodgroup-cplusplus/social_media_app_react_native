@@ -3084,7 +3084,8 @@ const LanguageData: Array<TopicsProps> = [
         key: "377",
         english: "Public Health Engineering and Water Security",
         pronunciation: "",
-        audiolink: "",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739280620/Departments/public_health_engineering_department_jtamgd.mp3",
         bhutia: "མི་སྲེར་ འཕོས་བསྲེན་ དང་ འཐུང་ཆུ་ བཟོ་སོབས་ ལྲེ་ལག ",
       },
       {
