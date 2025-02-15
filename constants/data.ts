@@ -6615,161 +6615,184 @@ const Data: Array<DataProps> = [
     english: "Bone",
     pronunciation: "kurue",
     bhutia: "རིས་ཏོག།/སྐུ་རུས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583430/body_parts/bone_qhelbr.mp3",
   },
   {
     key: "891",
     english: "Anus",
     pronunciation: "aangbu",
     bhutia: "ཨང་བུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583429/body_parts/anus_pd75gk.mp3",
   },
   {
     key: "892",
     english: "Male Organ (Penis)",
     pronunciation: "fotsen",
     bhutia: "ཕོ་མཚན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583429/body_parts/male_organ_wpcc23.mp3",
   },
   {
     key: "893",
     english: "Female Organ (Vagina)",
     pronunciation: "motsen",
     bhutia: "མོ་མཚན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583429/body_parts/female_organ_ktthxw.mp3",
   },
   {
     key: "894",
     english: "Tail",
     pronunciation: "bhapu",
     bhutia: "བར་སྦུ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583418/body_parts/tail_clvypv.mp3",
   },
   {
     key: "895",
     english: "Foot Print",
     pronunciation: "kang jhye",
     bhutia: "རྐང་རྫེས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583417/body_parts/foot_print__hadsgj.mp3",
   },
   {
     key: "896",
     english: "Joint",
     pronunciation: "kangtshig",
     bhutia: "རྐང་ཚིག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583417/body_parts/joint_uurdrk.mp3",
   },
   {
     key: "897",
     english: "Heel",
     pronunciation: "tingpo",
     bhutia: "རྟིང་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583417/body_parts/heel_ndl4ej.mp3",
   },
   {
     key: "898",
     english: "Sole",
     pronunciation: "kangti",
     bhutia: "རྐང་མཐིལ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583416/body_parts/sole__i6ge64.mp3",
   },
   {
     key: "899",
     english: "Chest",
     pronunciation: "phyangok",
     bhutia: "བྱང་གོག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583416/body_parts/chest_xofjyy.mp3",
   },
   {
     key: "900",
     english: "Rib",
     pronunciation: "tsilo",
     bhutia: "རྩིབ་ལོག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583415/body_parts/rib_i9si3w.mp3",
   },
   {
     key: "901",
     english: "Skin",
     pronunciation: "shyapak",
     bhutia: "ཤ་པག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/skin_afhrgy.mp3",
   },
   {
     key: "902",
     english: "Stomach",
     pronunciation: "jhyafo/sup",
     bhutia: "འཇག་ཕོ/གསུས་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/stomach_sszsxu.mp3",
   },
   {
     key: "903",
     english: "Naval",
     pronunciation: "ti ti",
     bhutia: "ལྟི་ལྟི།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583416/body_parts/naval_y5lsvp.mp3",
   },
   {
     key: "904",
     english: "Thigh",
     pronunciation: "kledhum",
     bhutia: "རླད་ཟླུམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583416/body_parts/thigh_x576h5.mp3",
   },
   {
     key: "905",
     english: "Fingers",
     pronunciation: "zupmo",
     bhutia: "མཛུབ་མོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583415/body_parts/finger_ksmm3i.mp3",
   },
   {
     key: "906",
     english: "Thumb",
     pronunciation: "Thepchen",
     bhutia: "མཐེབ་ཆེན",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583415/body_parts/thumb_y4w8dl.mp3",
   },
   {
     key: "907",
     english: "Fore Finger",
     pronunciation: "dhid zup",
     bhutia: "སྡིག་ཛུབ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583415/body_parts/fore_finger_vpyivx.mp3",
   },
   {
     key: "908",
     english: "Middle Finger",
     pronunciation: "sin zup",
     bhutia: "སྲིན་ཛུབ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583415/body_parts/middle_finger_q6zsvk.mp3",
   },
   {
     key: "909",
     english: "Fourth Finger",
     pronunciation: "thepchung",
     bhutia: "མཐེབ་ཅུང",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/fourth_finger_hpcopx.mp3",
   },
   {
     key: "910",
     english: "Little Finger",
     pronunciation: "zupchung",
     bhutia: "མཛུབ་ཅུང",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/little_finger_fkkq43.mp3",
   },
   {
     key: "911",
     english: "Nail",
     pronunciation: "simu",
     bhutia: "སིན་མོ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/nail_nfjw7o.mp3",
   },
   {
     key: "912",
     english: "Clench",
     pronunciation: "paar",
     bhutia: "པཱར",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739583414/body_parts/clench_lwv9dk.mp3",
   },
 ];
 
