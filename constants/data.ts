@@ -6800,98 +6800,112 @@ const Data: Array<DataProps> = [
     english: "Head",
     pronunciation: "mgo",
     bhutia: "མགོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013088/body_parts/head_gms2to.mp3",
   },
   {
     key: "914",
     english: "Hair",
     pronunciation: "kya",
     bhutia: "སྐྱ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012876/body_parts/hair_avewt4.mp3",
   },
   {
     key: "915",
     english: "Eye",
     pronunciation: "mig",
     bhutia: "མིག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012987/body_parts/eye_d22mvs.mp3",
   },
   {
     key: "916",
     english: "Eyelash",
     pronunciation: "mig-cham pu",
     bhutia: "མིག་ལྕམ་སྤུ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012913/body_parts/eyelash_vosluc.mp3",
   },
   {
     key: "917",
     english: "Eye-brow",
     pronunciation: "mig-po",
     bhutia: "མིག་སྤོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012990/body_parts/eye-brow_u4zhj5.mp3",
   },
   {
     key: "918",
     english: "Eyelids",
     pronunciation: "mig-pag",
     bhutia: "མིག་ལྤགས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013041/body_parts/eyelids_xxlnbb.mp3",
   },
   {
     key: "919",
     english: "Ear",
     pronunciation: "nam-chog",
     bhutia: "རྣམ་གཅོག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013005/body_parts/ear_sj8rwr.mp3",
   },
   {
     key: "920",
     english: "Nose",
     pronunciation: "nha-gu",
     bhutia: "སྣ་གུག",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013723/body_parts/nose_gp6tmo.mp3",
   },
   {
     key: "921",
     english: "Mouth",
     pronunciation: "kha",
     bhutia: "ཁ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012902/body_parts/mouth_o4h4ek.mp3",
   },
   {
     key: "922",
     english: "Teeth",
     pronunciation: "so",
     bhutia: "སྲོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013709/body_parts/teeth_uzopat.mp3",
   },
   {
     key: "923",
     english: "Tongue",
     pronunciation: "chae",
     bhutia: "ལྕེ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013724/body_parts/tongue_zfhef0.mp3",
   },
   {
     key: "924",
     english: "Face",
     pronunciation: "dhong",
     bhutia: "གདོང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737012957/body_parts/face_hffdrb.mp3",
   },
   {
     key: "925",
     english: "Neck",
     pronunciation: "ke",
     bhutia: "སྐེ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013055/body_parts/neck_ks4vmk.mp3",
   },
   {
     key: "926",
     english: "Stomach",
     pronunciation: "suu-po",
     bhutia: "སུས་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737013685/body_parts/stomach_brxizy.mp3",
   },
   {
     key: "927",
