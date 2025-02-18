@@ -2981,7 +2981,8 @@ const Data: Array<DataProps> = [
     key: "377",
     english: "Public Health Engineering and Water Security",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739280620/Departments/public_health_engineering_department_jtamgd.mp3",
     bhutia: "མི་སྲེར་ འཕོས་བསྲེན་ དང་ འཐུང་ཆུ་ བཟོ་སོབས་ ལྲེ་ལག ",
   },
   {
@@ -4485,7 +4486,8 @@ const Data: Array<DataProps> = [
     english: "A traditional boiled snack prepared from beef's stomatch ",
     pronunciation: "thrum-zi",
     bhutia: "གྲུམ་ཟི།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868410/sikkimese%20dishes/a_traditional_boiled_snack_prepared_from_beef_stomach_ge3jd5.mp3",
   },
 
   {
@@ -4652,7 +4654,8 @@ const Data: Array<DataProps> = [
     key: "12345678990",
     english: "Wheat porridge ",
     pronunciation: "gu-thug",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868411/sikkimese%20dishes/wheat_porridge_j0mgnn.mp3",
     bhutia: "དགུ་ཐུག།",
   },
   {
@@ -4708,14 +4711,16 @@ const Data: Array<DataProps> = [
     english: "Tsampa Rice",
     pronunciation: "drem-to",
     bhutia: "བྲེམ་ལྟོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868411/sikkimese%20dishes/tsampa_rice_aq47qb.mp3",
   },
   {
     key: "12345678998",
     english: "Traditional snack made from wheat flour",
     pronunciation: "lhem",
     bhutia: "ལྷེམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868413/sikkimese%20dishes/traditional_snack_made_from_wheat_genxag.mp3",
   },
 
   {
@@ -4723,7 +4728,8 @@ const Data: Array<DataProps> = [
     english: "Traditional cookies made of maize",
     pronunciation: "cha-dung",
     bhutia: "བཅག་རྡུང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868415/sikkimese%20dishes/traditional_cookies_made_of_maize_x2yfrn.mp3",
   },
   {
     key: "123456789990",
@@ -6968,7 +6974,8 @@ const Data: Array<DataProps> = [
     english: "Armpit",
     pronunciation: "chen-khung",
     bhutia: "མཆན་ཁུང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739868211/body_parts/armpit_tkacfn.mp3",
   },
   {
     key: "931",

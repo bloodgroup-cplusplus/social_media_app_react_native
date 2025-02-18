@@ -85,6 +85,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     alignContent: "center",
     textAlign: "center",
+    paddingBottom: 5,
   },
   postTime: {
     fontSize: height_percentage(2.2),
