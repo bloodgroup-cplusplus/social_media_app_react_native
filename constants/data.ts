@@ -7442,35 +7442,40 @@ const Data: Array<DataProps> = [
     english: "Year before next",
     pronunciation: "zhi foeth",
     bhutia: "གཞི་ཕོད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595260/Times/year_before_next_1_ztbupl.mp3",
   },
   {
     key: "991",
     english: "Last year",
     pronunciation: "naning",
     bhutia: "ན་ནིང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/last_year_qgcka6.mp3",
   },
   {
     key: "992",
     english: "Before last year",
     pronunciation: "jhyo ning",
     bhutia: "གཞོ་ནིང།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/before_last_year_pqxtrs.mp3",
   },
   {
     key: "993",
     english: "This year",
     pronunciation: "thuchi",
     bhutia: "དུ་ཅིག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/this_year_gnjg6w.mp3",
   },
   {
     key: "994",
     english: "Always",
     pronunciation: "aatang machhako",
     bhutia: "ཨ་ཏང་མ་ཆག་ཀོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/always_dubqwh.mp3",
   },
 ];
 
