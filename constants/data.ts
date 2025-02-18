@@ -4437,28 +4437,32 @@ const Data: Array<DataProps> = [
     english: "Boiled beef meat",
     bhutia: "གླང་ཤ་རྒྱ་རི།",
     pronunciation: "lang-sha gya-ri",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021101/meat%20items/boiled_beef_meat_vzqrwx.mp3",
   },
   {
     key: "123452",
     english: "Boiled pork meat",
     bhutia: "ཕག་ཤ་ རྒྱ་རི།",
     pronunciation: "phag-sha gya-ri",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021099/meat%20items/boiled_pork_meat_a4ilj8.mp3",
   },
   {
     key: "123453",
     english: "Heads meat",
     bhutia: "མགོ་ཤ།",
     pronunciation: "mgo-sha",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021080/meat%20items/heads_meat_nxlbfh.mp3",
   },
   {
     key: "123454",
     english: "Legs meat",
     bhutia: "རྐང་ཅུང།",
     pronunciation: "kang-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1737021075/meat%20items/legs_meat_affmsv.mp3",
   },
   {
     key: "123455",
@@ -5444,9 +5448,9 @@ const Data: Array<DataProps> = [
   },
   {
     key: "670",
-    english: "dzha",
-    bhutia: "ཛྷ",
-    pronunciation: "dzha",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
     audiolink: "",
   },
   {
