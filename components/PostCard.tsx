@@ -31,22 +31,23 @@ const PostCard: React.FC<PostCardProps> = ({
         <View style={styles.header}>
           <View style={styles.userInfo}>
             <View style={{ gap: 2 }}>
-              <Text style={styles.username}>
-                {item.english} ( {item.bhutia} ་)
-              </Text>
+              <Text style={styles.username}>{item.english}</Text>
+              <Text style={styles.username}>{item.bhutia}</Text>
+
               <Text style={styles.postTime}>{item.pronunciation}</Text>
             </View>
           </View>
         </View>
         {/* post body and media */}
         <View style={styles.content}>
-          <View style={styles.postBody}></View>
-          <Image
-            source={item.imageLink}
-            transition={100}
-            style={styles.postMedia}
-            contentFit="cover"
-          />
+          <View style={styles.postBody}>
+            <Image
+              source={item.imageLink}
+              transition={100}
+              style={styles.postMedia}
+              contentFit="cover"
+            />
+          </View>
           <View style={styles.footer}>
             <View style={styles.foooterButton}></View>
           </View>
