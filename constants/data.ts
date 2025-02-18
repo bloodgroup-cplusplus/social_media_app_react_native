@@ -5527,6 +5527,34 @@ const Data: Array<DataProps> = [
     audiolink: "",
   },
   {
+    key: "682",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "683",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "684",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "685",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
     key: "750",
     english: "Buddha",
     pronunciation: "sangay",
@@ -7025,6 +7053,424 @@ const Data: Array<DataProps> = [
     bhutia: "རྐང་མཐིལ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1737012921/body_parts/feet_xj9q65.mp3",
+  },
+  {
+    key: "942",
+    english: "Time",
+    pronunciation: "chhu tshoeth",
+    bhutia: "ཆུ་ཚོད།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595302/Times/time__pgscib.mp3",
+  },
+  {
+    key: "943",
+    english: "Minute",
+    pronunciation: "karma",
+    bhutia: "སྐར་མོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595302/Times/minute_aphlxk.mp3",
+  },
+  {
+    key: "944",
+    english: "Second",
+    pronunciation: "karchha",
+    bhutia: "སྐར་ཆ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595301/Times/second_gw4xwf.mp3",
+  },
+  {
+    key: "945",
+    english: "A day/one day",
+    pronunciation: "ngin chi",
+    bhutia: "ཉིན་གཅིག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595301/Times/a_day_or_one_day_jdqrpk.mp3",
+  },
+  {
+    key: "946",
+    english: "Two days",
+    pronunciation: "ngin ngi",
+    bhutia: "ཉིན་གཉིས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/two_days_uhdjpp.mp3",
+  },
+  {
+    key: "947",
+    english: "Three days",
+    pronunciation: "ngin sum",
+    bhutia: "ཉིན་གསུམ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/three_days_b4txjf.mp3",
+  },
+  {
+    key: "948",
+    english: "Four days",
+    pronunciation: "ngin nga",
+    bhutia: "ཉིན་ བཞི།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/four_days_qtfguk.mp3",
+  },
+  {
+    key: "949",
+    english: "Five days",
+    pronunciation: "ngin nga",
+    bhutia: "ཉིན་ ལྔ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/five_days_i87ava.mp3",
+  },
+  {
+    key: "950",
+    english: "Six days",
+    pronunciation: "ngin thruk",
+    bhutia: "ཉིན་དྲུག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/six_days_nlzinq.mp3",
+  },
+  {
+    key: "951",
+    english: "Seven days",
+    pronunciation: "ngin dhuen",
+    bhutia: "ཉིན་ བདུན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/seven_days_okxofi.mp3",
+  },
+  {
+    key: "952",
+    english: "Eight days",
+    pronunciation: "ngin gyath",
+    bhutia: "ཉིན་བརྒྱད།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/eight_days_dmpfew.mp3",
+  },
+  {
+    key: "953",
+    english: "Nine days",
+    pronunciation: "ngin ghu",
+    bhutia: "ཉིན་ དགུ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/nine_days_edbl6v.mp3",
+  },
+  {
+    key: "954",
+    english: "Ten days",
+    pronunciation: "ngin chu thamba",
+    bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/ten_days_oxmroy.mp3",
+  },
+  {
+    key: "955",
+    english: "One night",
+    pronunciation: "shyak chi",
+    bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/one_night_p7pced.mp3",
+  },
+  {
+    key: "956",
+    english: "Two nights",
+    pronunciation: "shyak ngi",
+    bhutia: "ཞག་ གཉིས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/two_nights_upfiv1.mp3",
+  },
+  {
+    key: "957",
+    english: "Three nights",
+    pronunciation: "shyak sum",
+    bhutia: "ཞག་ གསུམ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/three_nights_ehukdt.mp3",
+  },
+  {
+    key: "958",
+    english: "Four nights",
+    pronunciation: "shyak zi",
+    bhutia: "ཞག་ བཞི།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/four_nights_rmbznx.mp3",
+  },
+  {
+    key: "959",
+    english: "Five nights",
+    pronunciation: "shyak nga",
+    bhutia: "ཞག་ལྔ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/five_nights_zxmoye.mp3",
+  },
+  {
+    key: "960",
+    english: "Six nights",
+    pronunciation: "shyak thruk",
+    bhutia: "ཞག་ དྲུག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595289/Times/six_nights_x4hkaf.mp3",
+  },
+  {
+    key: "961",
+    english: "Seven nights",
+    pronunciation: "shyak dhuen",
+    bhutia: "ཞག་ བདུན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/seven_nights_cfml2r.mp3",
+  },
+  {
+    key: "962",
+    english: "Eight nights",
+    pronunciation: "shyak gyeth",
+    bhutia: "ཞག་ བརྒྱད།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/eight_nights_c5vxmw.mp3",
+  },
+  {
+    key: "963",
+    english: "Nine nights",
+    pronunciation: "shyak ghu",
+    bhutia: "ཞག་ དགུ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/nine_nights_zh1eyi.mp3",
+  },
+  {
+    key: "964",
+    english: "A year or one year",
+    pronunciation: "lo",
+    bhutia: "ལོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/a_year_cqsxbx.mp3",
+  },
+  {
+    key: "965",
+    english: "Century",
+    pronunciation: "thuerab",
+    bhutia: "དུས་རབས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/century_vktesp.mp3",
+  },
+  {
+    key: "966",
+    english: "Week",
+    pronunciation: "dhuen thraag",
+    bhutia: "བདུན་ཕྲག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/week_wyjvbt.mp3",
+  },
+  {
+    key: "967",
+    english: "Day",
+    pronunciation: "zakaar",
+    bhutia: "གཟའ་སྐར།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/day_qvpehk.mp3",
+  },
+  {
+    key: "968",
+    english: "Period",
+    pronunciation: "dhuetsham",
+    bhutia: "དུས་མཚམས་།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/time_period_p4u0en.mp3",
+  },
+  {
+    key: "969",
+    english: "Tense",
+    pronunciation: "dhue",
+    bhutia: "དུས་།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595279/Times/tense_audbj9.mp3",
+  },
+  {
+    key: "970",
+    english: "Past",
+    pronunciation: "dhepo",
+    bhutia: "འདས་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595278/Times/past_cdbfyd.mp3",
+  },
+  {
+    key: "971",
+    english: "Future",
+    pronunciation: "mahongpo",
+    bhutia: "མ་འོངས་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595278/Times/past_cdbfyd.mp3",
+  },
+  {
+    key: "972",
+    english: "Present (time)",
+    pronunciation: "dhatawa",
+    bhutia: "ད་ལྟ་བ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/present_fswhtg.mp3",
+  },
+  {
+    key: "973",
+    english: "Quickly",
+    pronunciation: "malaag malaag",
+    bhutia: "མ་ལག་ མ་ལག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/quickly_gvkm5z.mp3",
+  },
+  {
+    key: "974",
+    english: "Occasionally",
+    pronunciation: "dhue dhuelo",
+    bhutia: "དུས་དུས་ལོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/occassionally_cjfbci.mp3",
+  },
+  {
+    key: "975",
+    english: "Time to Time",
+    pronunciation: "dhue dhuelo",
+    bhutia: "དུས་དུས་ལོ་།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/time_to_time_obhhrt.mp3",
+  },
+  {
+    key: "976",
+    english: "Continuous",
+    pronunciation: "dhueguen",
+    bhutia: "དུས་རྒྱུན།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/continuous_cs8mip.mp3",
+  },
+  {
+    key: "977",
+    english: "Continuously",
+    pronunciation: "dhuetaagpar",
+    bhutia: "དུས་རྒྱུན་ མེད་པོ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/continuously_yaugfe.mp3",
+  },
+  {
+    key: "978",
+    english: "Yearly",
+    pronunciation: "lo tar",
+    bhutia: "ལོ་ལྟར།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/yearly_fbc2xn.mp3",
+  },
+  {
+    key: "979",
+    english: "Yearly",
+    pronunciation: "loma chha",
+    bhutia: "ལོ་མ་ཆག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/yearly__lbfhnn.mp3",
+  },
+  {
+    key: "980",
+    english: "Daily",
+    pronunciation: "ngin machha",
+    bhutia: "ཉིན་ མ་ཆག་།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/daily_oadh01.mp3",
+  },
+  {
+    key: "981",
+    english: "Monthly",
+    pronunciation: "daw machha",
+    bhutia: "ཟླ་བོ་ མ་ཆག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595266/Times/monthly_rnfvws.mp3",
+  },
+  {
+    key: "982",
+    english: "Every night",
+    pronunciation: "shyag machha",
+    bhutia: "ཞག་ མ་ཆག།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/every_night_iugegc.mp3",
+  },
+  {
+    key: "983",
+    english: "Now",
+    pronunciation: "dhato",
+    bhutia: "ད་ལྟ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/now_e8zih8.mp3",
+  },
+  {
+    key: "984",
+    english: "Just now",
+    pronunciation: "dhato rang",
+    bhutia: "ད་ལྟ་རང།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/just_now_eyrlhj.mp3",
+  },
+  {
+    key: "985",
+    english: "Suddenly",
+    pronunciation: "hethki",
+    bhutia: "ཧད་ཀྱིས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/suddenly_pydh3r.mp3",
+  },
+  {
+    key: "986",
+    english: "Quickly",
+    pronunciation: "hangtoh khama",
+    bhutia: "ཧད་ཏོ་ཁ་མ།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/quickly__pkvkjj.mp3",
+  },
+  {
+    key: "987",
+    english: "Immediately",
+    pronunciation: "lamsang",
+    bhutia: "ལམ་སངས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595264/Times/immediately_zwub2x.mp3",
+  },
+  {
+    key: "988",
+    english: "In advance",
+    pronunciation: "thamglay",
+    bhutia: "ཐང་ལས།",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739595260/Times/in_advance_exivu4.mp3",
+  },
+  {
+    key: "989",
+    english: "Next year",
+    pronunciation: "saang foeth",
+    bhutia: "སང་ཕོད།",
+    audiolink: "",
+  },
+  {
+    key: "990",
+    english: "Year before next",
+    pronunciation: "zhi foeth",
+    bhutia: "གཞི་ཕོད།",
+    audiolink: "",
+  },
+  {
+    key: "991",
+    english: "Last year",
+    pronunciation: "naning",
+    bhutia: "ན་ནིང།",
+    audiolink: "",
+  },
+  {
+    key: "992",
+    english: "Before last year",
+    pronunciation: "jhyo ning",
+    bhutia: "གཞོ་ནིང།",
+    audiolink: "",
+  },
+  {
+    key: "993",
+    english: "This year",
+    pronunciation: "thuchi",
+    bhutia: "དུ་ཅིག།",
+    audiolink: "",
+  },
+  {
+    key: "994",
+    english: "Always",
+    pronunciation: "aatang machhako",
+    bhutia: "ཨ་ཏང་མ་ཆག་ཀོ།",
+    audiolink: "",
   },
 ];
 
