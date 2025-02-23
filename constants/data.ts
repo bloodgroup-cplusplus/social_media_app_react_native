@@ -4509,8 +4509,8 @@ const Data: Array<DataProps> = [
   {
     key: "564",
     english: "Dry Meat",
-    pronunciation: "sha-kam",
-    bhutia: "ཤ་སྐམ།",
+    pronunciation: "shya-kam/shya-chu",
+    bhutia: "ཤ་སྐམ།/ཤ་བཅུད་།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1737021084/meat%20items/dry_meat_cmzq9m.mp3",
   },
