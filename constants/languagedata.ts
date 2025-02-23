@@ -1383,9 +1383,9 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "7",
-    english: "Months",
-    pronunciation: "dha-o",
-    bhutia: "ཧོཪ་ཟླ་",
+    english: "Name of Twelve Months",
+    pronunciation: "dha-o chu-ni-ki-ming",
+    bhutia: "ཟླ་བ་ བཅུ་གཉིས་ཀྱི་ མིང་།",
     imageLink: months,
     data: [
       {

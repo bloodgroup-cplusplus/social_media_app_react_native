@@ -1338,88 +1338,88 @@ const Data: Array<DataProps> = [
   {
     key: "166",
     english: "January",
-    bhutia: "ཟླ་བོ་ དང་པོ།",
-    pronunciation: "dha-o dhang-po",
+    bhutia: "ཟླ་བོ་ དང་པོ།/མཆུ་ཟླ་བོ་།",
+    pronunciation: "dha-o dhang-po / chu-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802892/months/january_rvpoyk.mp4",
   },
   {
     key: "167",
     english: "February",
-    bhutia: "ཟླ་བོ་ གཉིས་པོ།",
-    pronunciation: "dha-o nyi-po",
+    bhutia: "ཟླ་བོ་ གཉིས་པོ། /དབོ་ཟླ་བོ་། ",
+    pronunciation: "dha-o nyi-po/va-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802891/months/feburary_u6gifk.mp4",
   },
   {
     key: "168",
     english: "March",
-    bhutia: "ཟླ་བོ་ གསུམ་པོ།",
-    pronunciation: "dha-o sum-po",
+    bhutia: "ཟླ་བོ་ གསུམ་པོ།/ནག་ཟླ་བོ།  ",
+    pronunciation: "dha-o sum-po/nag-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802895/months/march_f7v4rb.mp4",
   },
   {
     key: "169",
     english: "April",
-    bhutia: "ཟླ་བོ་ བཞི་པོ།",
-    pronunciation: "dha-o zi-po",
+    bhutia: "ཟླ་བོ་ བཞི་པོ།/ས་ག་ ཟླ་བོ།",
+    pronunciation: "dha-o zi-po/sa-ka-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802888/months/april_lgywc2.mp4",
   },
   {
     key: "170",
     english: "May",
-    bhutia: "ཟླ་བོ་ ལྔ་པོ།",
-    pronunciation: "dha-o nga-po",
+    bhutia: "ཟླ་བོ་ ལྔ་པོ།/སྣོན་ ཟླ་བོ།",
+    pronunciation: "dha-o nga-po/nen-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802896/months/may_f9a79e.mp4",
   },
   {
     key: "171",
     english: "June",
-    bhutia: "ཟླ་བོ་ དྲུག་པོ།",
-    pronunciation: "dha-o drug-po",
+    bhutia: "ཟླ་བོ་ དྲུག་པོ།/ཆུ་སྟོད་ ཟླ་བོ།",
+    pronunciation: "dha-o drug-po/chu-te-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802894/months/june_s0dvv0.mp4",
   },
   {
     key: "172",
     english: "July",
-    bhutia: "ཟླ་བོ་ བདུན་པོ།",
-    pronunciation: "dha-o dun-po",
+    bhutia: "ཟླ་བོ་ བདུན་པོ།/གྲོ་བཞིན་ ཟླ་བོ།",
+    pronunciation: "dha-o dun-po/do-zin-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802893/months/july_duuggr.mp4",
   },
   {
     key: "173",
     english: "August",
-    bhutia: "ཟླ་བོ་ བརྒྱོད་པོ།",
-    pronunciation: "dha-o gyad-po",
+    bhutia: "ཟླ་བོ་ བརྒྱོད་པོ།/ཁྲུམས་ཟླ་བོ།",
+    pronunciation: "dha-o gyad-po/thrum-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802889/months/august_dczbiu.mp4",
   },
   {
     key: "174",
     english: "September",
-    bhutia: "ཟླ་བོ་ དགུ་པོ།",
-    pronunciation: "dha-o gu-po",
+    bhutia: "ཟླ་བོ་ དགུ་པོ།/དབྱུག་ཟླ་བོ།",
+    pronunciation: "dha-o gu-po/yug-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802900/months/september_uprhyw.mp4",
   },
   {
     key: "175",
     english: "October",
-    bhutia: "ཟླ་བོ་ བཅུ་པོ།",
-    pronunciation: "dha-o chu-po",
+    bhutia: "ཟླ་བོ་ བཅུ་པོ།/སྨིན་ཟླ་བོ།",
+    pronunciation: "dha-o chu-po / min-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802899/months/october_rzbndq.mp4",
   },
   {
     key: "176",
     english: "November",
-    bhutia: "ཟླ་བོ་ བཅུ་གཅིག་པོ།",
-    pronunciation: "dha-o chu-chig-po",
+    bhutia: "ཟླ་བོ་ བཅུ་གཅིག་པོ། /མགོ་ཟླ་བོ། ",
+    pronunciation: "dha-o chu-chig-po/ gho-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802898/months/november_laty0t.mp4",
   },
@@ -1427,8 +1427,8 @@ const Data: Array<DataProps> = [
   {
     key: "177",
     english: "December",
-    bhutia: "ཟླ་བོ་ བཅུ་གཉིས་པོ།",
-    pronunciation: "dha-o chu-nyi-po",
+    bhutia: "ཟླ་བོ་ བཅུ་གཉིས་པོ། /རྒྱལ་ ཟླ་བོ། ",
+    pronunciation: "dha-o chu-nyi-po/gyal-daw",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802890/months/december_x8um0j.mp4",
   },
