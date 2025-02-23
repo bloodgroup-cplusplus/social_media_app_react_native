@@ -914,7 +914,7 @@ const Data: Array<DataProps> = [
   {
     key: "114",
     english: "Guru Drakmar Ceremony",
-    bhutia: "གུ་རུ་ དྲག་དམར།",
+    bhutia: "གུ་རུ་ བྲག་དམར།",
     pronunciation: "guru drak-mar",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/guru_drakmar_ceremony_jx5bja.mp4",
@@ -931,8 +931,8 @@ const Data: Array<DataProps> = [
   {
     key: "116",
     english: "Offering of the 8th Lunar Date or Taras Day",
-    bhutia: "འདེབས་ར་གླིང་།",
-    pronunciation: "band-da",
+    bhutia: "ཚེ་བརྒྱད།",
+    pronunciation: "tse-gyed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735972677/festivals/offering_of_the_8th_lunar_date_or_taras_day_jwaluh.mp4",
   },
@@ -1015,8 +1015,8 @@ const Data: Array<DataProps> = [
   {
     key: "126",
     english: "Apple",
-    bhutia: "ཀུ་ཤུ།",
-    pronunciation: "kushu",
+    bhutia: "གླི/ཀུ་ཤུ།",
+    pronunciation: "li/kushu",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/apple_szlrld.mp4",
   },
@@ -1039,8 +1039,8 @@ const Data: Array<DataProps> = [
   {
     key: "129",
     english: "Banana",
-    bhutia: "སཀྱེས་སྡོང།",
-    pronunciation: "kae-dhong",
+    bhutia: "སྐྱེད་སྡོང།",
+    pronunciation: "key-dhong",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891931/fruits/banana_jhbh53.mp4",
   },
@@ -1071,16 +1071,16 @@ const Data: Array<DataProps> = [
   {
     key: "133",
     english: "Fig",
-    bhutia: "སྐྱེ་ལྡང་རྡོང་མ།",
-    pronunciation: "kae-dhang dhog-ma",
+    bhutia: "ཀས་ལྡོང་ རྡོག་མ།",
+    pronunciation: "kae-dhang dhok-ma",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891933/fruits/fig_rwzgmb.mp4",
   },
   {
     key: "134",
     english: "Guava",
-    bhutia: "བེབས་སི།",
-    pronunciation: "bheb-sa / bal-si / am-ba",
+    bhutia: "བལ་སའི་/ཨམ་སྦ།",
+    pronunciation: "/be-si/bheb-sa / bal-si / am-ba",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891935/fruits/guava_rxaoel.mp4",
   },
@@ -1135,15 +1135,15 @@ const Data: Array<DataProps> = [
   {
     key: "141",
     english: "Lemon",
-    bhutia: "འབེས་པེ།",
-    pronunciation: "bis-pae",
+    bhutia: "འབིས་སི།",
+    pronunciation: "bis-si",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891938/fruits/lemon_ficirn.mp4",
   },
   {
     key: "142",
     english: "Mango",
-    bhutia: "ཨམྲ་བི།",
+    bhutia: "ཨམ་བི།",
     pronunciation: "amm-bhi",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891939/fruits/mango_xyrm3w.mp4",
@@ -1183,8 +1183,8 @@ const Data: Array<DataProps> = [
   {
     key: "147",
     english: "Pineapple",
-    bhutia: "སྦར།",
-    pronunciation: "bar",
+    bhutia: "བྷར།",
+    pronunciation: "bhar",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891941/fruits/pineapple_mvra5u.mp4",
   },
@@ -1199,8 +1199,8 @@ const Data: Array<DataProps> = [
   {
     key: "149",
     english: "Strawberry",
-    bhutia: "འབྲི་ཏ་ས་འཛིན།",
-    pronunciation: "drita sa-zin",
+    bhutia: "དམར་ལུམ།",
+    pronunciation: "marlum",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891943/fruits/strawberry_j2uurb.mp4",
   },
@@ -7696,7 +7696,14 @@ const Data: Array<DataProps> = [
     english: "Vena/Sali",
     audiolink: "",
     bhutia: "མག་ཀོ་ སྙིདམ།",
-    pronunciation: "mako-nthim",
+    pronunciation: "mako-nhim/mako-nhyien",
+  },
+  {
+    key: "1027",
+    english: "Badam",
+    audiolink: "ba-dam",
+    bhutia: "བ་དམ།",
+    pronunciation: "",
   },
 ];
 
