@@ -1090,9 +1090,9 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "5",
-    bhutia: "ཆ་ལུགས་",
-    pronunciation: "chya-lug",
-    english: "Dress",
+    bhutia: "གྱོན་ཆས་/རྒྱན་ཆ།",
+    pronunciation: "gen-che/gen-cha",
+    english: "Dress and Ornaments",
     imageLink: attire,
     data: [
       {

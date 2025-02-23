@@ -778,8 +778,8 @@ const Data: Array<DataProps> = [
   {
     key: "97",
     english: "Bhutia woman dress",
-    bhutia: "མོ་རྒྱན།དཀར་དན།",
-    pronunciation: "mo-gyen/karden",
+    bhutia: "མོ་རྒྱན/དཀར་དན།/མོ་གོས།",
+    pronunciation: "mo-gyen/karden/mo-kho",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891467/cultural%20attire/bhutia_woman_dress_wavp2s.mp4",
   },
@@ -794,8 +794,8 @@ const Data: Array<DataProps> = [
   {
     key: "99",
     english: "Bhutia Male Dress",
-    bhutia: "ཐ་ར།",
-    pronunciation: "thara",
+    bhutia: "ཐ་ར།/ཕོ་གོས།",
+    pronunciation: "thara/pho-gu",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_male_dress_rajrmz.mp4",
   },
@@ -810,7 +810,7 @@ const Data: Array<DataProps> = [
   {
     key: "101",
     english: "Bhutia Female Hat",
-    bhutia: "ཟི་ལིང་ ། ཀུན་དགའ་ ཞྭ་མོ།",
+    bhutia: "ཟི་ལིང་ ཞ་མོ/ཚེ་རིང་ ཀུན་དགའ།",
     pronunciation: "zi-ling shamo / kunga shamo",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891465/cultural%20attire/bhutia_female_hat_smpkpe.mp4",
