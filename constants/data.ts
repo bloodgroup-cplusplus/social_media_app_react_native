@@ -10,7 +10,7 @@ const Data: Array<DataProps> = [
   {
     key: "1",
     english: "Black",
-    bhutia: "ནག་ཀོ།",
+    bhutia: "ནག་ཀོ",
     pronunciation: "nag-ko",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101040/colors/black_hxpwvt.mp4",
@@ -42,16 +42,16 @@ const Data: Array<DataProps> = [
   {
     key: "5",
     english: "Dark",
-    bhutia: "ཁ་ནག་ཀོ།",
-    pronunciation: "kha nag-ko",
+    bhutia: "ནག་སུག།",
+    pronunciation: "nagsuk",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101036/colors/dark_qe22cu.mp4",
   },
   {
     key: "6",
     english: "Dark Blue",
-    bhutia: "མཐིང་།",
-    pronunciation: "thing",
+    bhutia: "མཐིང་ནག།",
+    pronunciation: "thin-nag",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101036/colors/dark_blue_luqcrz.mp4",
   },
@@ -82,15 +82,15 @@ const Data: Array<DataProps> = [
   {
     key: "10",
     english: "Orange",
-    bhutia: "ལི་ཁྲི།",
-    pronunciation: "li-tri",
+    bhutia: "ལི་ཁྲི།/ཚ་ལུམ་སྐྱག/ཚ་ལུམ་ མདོག།",
+    pronunciation: "li-tri/tsa-lumkya/tsa-lumdhog",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101038/colors/orange_obczup.mp4",
   },
   {
     key: "11",
     english: "Pink",
-    bhutia: "ཟིང་སྐྱ།དམར་ལོབ།",
+    bhutia: "ཟིང་སྐྱ།/དམར་ལོབ",
     pronunciation: "zin-kya/mar-lop",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101039/colors/pink_nj6ume.mp4",
@@ -98,8 +98,8 @@ const Data: Array<DataProps> = [
   {
     key: "12",
     english: "Purple",
-    bhutia: "མུ་མེན། རྡོ་ལམ་ཀྱག།",
-    pronunciation: "mu-men / dolom kyag",
+    bhutia: "རྡོ་ལམ་ཀྱག།/དམར་མུག།",
+    pronunciation: "mar-muk / dolom kyag",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735101039/colors/purple_vf2g6i.mp4",
   },
@@ -162,23 +162,23 @@ const Data: Array<DataProps> = [
   {
     key: "20",
     english: "Lotus",
-    bhutia: "པདྨ་ མེ་ཏོག།",
-    pronunciation: "pad-ma",
+    bhutia: "པདྨ་ མེ་ཏོག།/མེ་ཏོག་ པདྨ།",
+    pronunciation: "pad-ma/ me-tok",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103105/flowers/lotus_nwgj3x.mp4",
   },
   {
     key: "21",
     english: "Marigold",
-    bhutia: "མེ་ཏོག་ སེར་ཆེན།",
-    pronunciation: "me-tok ser-chen",
+    bhutia: "སེར་ཆེན མེ་ཏོག་ ",
+    pronunciation: "ser-chen me-tok",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103105/flowers/marigold_zan2rs.mp4",
   },
   {
     key: "22",
     english: "Rose",
-    bhutia: "རྒྱ་སྲི་  མེ་ཏོག།",
+    bhutia: "རྒྱ་སེ་ མེ་ཏོག།",
     pronunciation: "gya-se me-tok",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103109/flowers/rose_zoi4t4.mp4",
@@ -186,8 +186,8 @@ const Data: Array<DataProps> = [
   {
     key: "23",
     english: "Saffron",
-    bhutia: "ཁ་ཆེ་ ཤ་སྐམ།",
-    pronunciation: "kha-che sha-kam",
+    bhutia: "ཁ་ཆེ་ ཤ་སྐམ། མེ་ཏོག/གེ་སར་/གུར་གུམ་",
+    pronunciation: "kha-che sha-kam me-tok",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735103109/flowers/saffron_ilucxa.mp4",
   },
@@ -442,7 +442,7 @@ const Data: Array<DataProps> = [
   {
     key: "55",
     english: "Dechenling",
-    bhutia: "ལྕགས་གུང་།",
+    bhutia: "བདེ་ཆེན་གླིང",
     pronunciation: "dechen ling",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802411/places/dechenling_w4eh6u.mp4",
@@ -650,7 +650,7 @@ const Data: Array<DataProps> = [
   {
     key: "81",
     english: "Ravong",
-    bhutia: "ར་བོང་།",
+    bhutia: "ར་སྦོང།",
     pronunciation: "ravong",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802430/places/ravong_g016tz.mp4",
@@ -665,7 +665,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "83",
-    english: "Rongpo",
+    english: "Rangpo",
     bhutia: "རིང་ཕུ་།",
     pronunciation: "rong-phu",
     audiolink:
@@ -673,7 +673,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "84",
-    english: "Singtham",
+    english: "Singtam",
     bhutia: "ཤིང་གཏམ་།",
     pronunciation: "shing-tam",
     audiolink:
@@ -698,7 +698,7 @@ const Data: Array<DataProps> = [
   {
     key: "87",
     english: "Soreng",
-    bhutia: "ཟར་ཡོང་།",
+    bhutia: "ཟར་ཡོང་།/ཟོ་རེང།",
     pronunciation: "zhar-yong",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802435/places/soreng_ajmekr.mp4",
@@ -706,8 +706,8 @@ const Data: Array<DataProps> = [
   {
     key: "88",
     english: "Sichey",
-    bhutia: "ཚེར་ཅག་སྒང་།",
-    pronunciation: "tser-chag gang",
+    bhutia: "ཟོ་ཅག་སྒང་།",
+    pronunciation: "sochag-gang",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802433/places/sichey_c8grqh.mp4",
   },
@@ -7487,6 +7487,216 @@ const Data: Array<DataProps> = [
     bhutia: "ཨ་ཏང་མ་ཆག་ཀོ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/always_dubqwh.mp3",
+  },
+  {
+    key: "995",
+    english: "Elder Sister in Law",
+    pronunciation: "a-zhi-gyumo",
+    bhutia: "ཨ་ཞི་གྱོ་མོ།",
+    audiolink: "",
+  },
+  {
+    key: "996",
+    english: "Elder brother in Law",
+    pronunciation: "a-chu-gyupo",
+    bhutia: "ཨ་ཅུ་གྱོ་པོ།",
+    audiolink: "",
+  },
+  {
+    key: "997",
+    english: "Grandson",
+    pronunciation: "tsho",
+    bhutia: "ཚ༹་བོ།",
+    audiolink: "",
+  },
+  {
+    key: "998",
+    english: "Grand Daughter",
+    pronunciation: "tsam",
+    bhutia: "ཚམ།",
+    audiolink: "",
+  },
+  {
+    key: "999",
+    english: "Sisters",
+    pronunciation: "a-zhi-num",
+    bhutia: "ཨ་ཞི་ ནུམ།",
+    audiolink: "",
+  },
+  {
+    key: "1000",
+    english: "Brothers",
+    pronunciation: "a-chu-puenlo",
+    bhutia: "ཨ་ཅུ་ སྤུན།",
+    audiolink: "",
+  },
+  {
+    key: "1001",
+    english: "Younger Uncle's Wife (Paternal)",
+    bhutia: "ཨམ་ཆུང།",
+    pronunciation: "am-chung",
+    audiolink: "",
+  },
+  {
+    key: "1002",
+    english: "Maternal Uncle's Wife",
+    pronunciation: "a-ney",
+    audiolink: "",
+    bhutia: "ཨ་ཉེ།",
+  },
+  {
+    key: "1003",
+    english: "Elder Uncle's Wife (Paternal)",
+    pronunciation: "am-bom",
+    audiolink: "",
+    bhutia: "ཨམ་སྦོམ",
+  },
+  {
+    key: "1004",
+    english: "Mother's Elder Sister ",
+    pronunciation: "am-bom",
+    audiolink: "",
+    bhutia: "ཨམ་སྦོམ",
+  },
+  {
+    key: "1005",
+    english: "Mother's Younger Sister",
+    pronunciation: "am-chung",
+    audiolink: "",
+    bhutia: "ཨམ་ཆུང།",
+  },
+  {
+    key: "1006",
+    english: "Great GrandFather",
+    pronunciation: "yang-jo",
+    audiolink: "",
+    bhutia: "ཡང་ཇོ།",
+  },
+  {
+    key: "1007",
+    english: "Great Grandmother",
+    pronunciation: "yang-nyo",
+    audiolink: "",
+    bhutia: "ཡང་ཉོ།",
+  },
+  {
+    key: "1008",
+    english: "Samdhi",
+    pronunciation: "nyen-den-apo",
+    audiolink: "",
+    bhutia: "གཉེན་མདུན་ ཨ་པོ",
+  },
+  {
+    key: "1009",
+    english: "Samdhini",
+    pronunciation: "nyen-den-am",
+    audiolink: "",
+    bhutia: "གཉེན་མདུན་ ཨམ།",
+  },
+  {
+    key: "1010",
+    english: "Samdhini Bojyu",
+    pronunciation: "nyen-den-anyo",
+    audiolink: "",
+    bhutia: "གཉེན་མདུན་ ཨ་ཉོ།",
+  },
+  {
+    key: "1011",
+    english: "Samdhi Baje",
+    pronunciation: "nyen-de-ajo",
+    audiolink: "",
+    bhutia: "གཉེན་མདུན་ ཨ་ཇོ།",
+  },
+  {
+    key: "1012",
+    english: "Jethani/Dewrani",
+    pronunciation: "chhasem/chhase",
+    audiolink: "",
+    bhutia: "ཚགས་སེམ/ཚགས་སེ།",
+  },
+  {
+    key: "1013",
+    english: "Saru Daju/ Saru Bhai",
+    pronunciation: "chhazen",
+    audiolink: "",
+    bhutia: "ཚགས་རྒན།",
+  },
+  {
+    key: "1014",
+    english: "Phu-phu/Bhadaini",
+    pronunciation: "nemchen",
+    audiolink: "",
+    bhutia: "ནེམ་ཙན།",
+  },
+  {
+    key: "1015",
+    english: "Maternal Uncle's Daughter and Paternal Aunt's Daughter",
+    audiolink: "",
+    bhutia: "ཞོང་ཙན།",
+    pronunciation: "shongchen",
+  },
+  {
+    key: "1016",
+    english: "Sali/Nanda",
+    audiolink: "",
+    bhutia: "སྙིདམ།",
+    pronunciation: "nethm",
+  },
+  {
+    key: "1017",
+    english: "Salo/Dewar",
+    audiolink: "",
+    bhutia: "ཀུད་པོ།",
+    pronunciation: "ke-pu",
+  },
+  {
+    key: "1018",
+    english: "Husband",
+    audiolink: "",
+    bhutia: "ཕོ་རྒྱག།",
+    pronunciation: "phu-gya",
+  },
+  {
+    key: "1019",
+    english: "Wife",
+    audiolink: "",
+    bhutia: "མོ་བུད།",
+    pronunciation: "mo-bi",
+  },
+  {
+    key: "1020",
+    english: "Husband/Wife",
+    audiolink: "",
+    bhutia: "བཟའ་ཀོ།",
+    pronunciation: "zakhu",
+  },
+  {
+    key: "1021",
+    english: "Bhawju/Dewar",
+    audiolink: "",
+    bhutia: "ཡོང་ཀུད།",
+    pronunciation: "youngi",
+  },
+  {
+    key: "1024",
+    english: "Vena/Salo",
+    audiolink: "",
+    bhutia: "མག་ཀུད།",
+    pronunciation: "go-ki",
+  },
+  {
+    key: "1025",
+    english: "Bhawju/Nanda",
+    audiolink: "",
+    bhutia: "ནེ་སྙེད།",
+    pronunciation: "ney-nedh",
+  },
+  {
+    key: "1026",
+    english: "Vena/Sali",
+    audiolink: "",
+    bhutia: "མག་ཀོ་ སྙིདམ།",
+    pronunciation: "mako-nthim",
   },
 ];
 

@@ -1488,8 +1488,8 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "8",
-    bhutia: "ཁྱིམ་ཚང",
-    pronunciation: "khyim-chang",
+    bhutia: "བཟའ་མི་/ནང་མི།",
+    pronunciation: "zami/nangmi",
     english: "Family",
     imageLink: family,
     data: [
