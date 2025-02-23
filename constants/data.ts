@@ -1780,8 +1780,8 @@ const Data: Array<DataProps> = [
   {
     key: "222",
     english: "Barley",
-    pronunciation: "ney",
-    bhutia: "ནས།",
+    pronunciation: "na",
+    bhutia: "ནཱ་།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/barley_dbgb66.mp4",
   },
@@ -1797,7 +1797,7 @@ const Data: Array<DataProps> = [
     key: "224",
     english: "Millet",
     pronunciation: "min-chag",
-    bhutia: "མིན་ལྕག།",
+    bhutia: "མིན་ཅག",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735894674/grains%20and%20cereals/millet_csqu6o.mp4",
   },
@@ -1852,8 +1852,8 @@ const Data: Array<DataProps> = [
   {
     key: "231",
     english: "Dal",
-    pronunciation: "dal",
-    bhutia: "རྡྰལ།",
+    pronunciation: "dali",
+    bhutia: "རྡལ་ལི།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/dal_d8u5kj.mp4",
   },
@@ -7774,6 +7774,48 @@ const Data: Array<DataProps> = [
     pronunciation: "kya-thui",
     audiolink: "",
     bhutia: "སྐྱ་ཐུད།",
+  },
+  {
+    key: "1038",
+    english: "Bitter buckwheat",
+    pronunciation: "byo",
+    audiolink: "",
+    bhutia: "བྱོ༹།",
+  },
+  {
+    key: "1039",
+    english: "Sweet buckwheat",
+    pronunciation: "ghera/gheray",
+    audiolink: "",
+    bhutia: "རྒེ་རག།/རྒེ་རེ།",
+  },
+  {
+    key: "1040",
+    english: "Black mustard",
+    pronunciation: "ped-gong",
+    audiolink: "",
+    bhutia: "པད་སྒོང།",
+  },
+  {
+    key: "1041",
+    english: "White mustard",
+    pronunciation: "yung kar",
+    audiolink: "",
+    bhutia: "གཡུང་དཀར།",
+  },
+  {
+    key: "1042",
+    english: "White sesame",
+    pronunciation: "til-kar",
+    audiolink: "",
+    bhutia: "ཏིལ་དཀར།",
+  },
+  {
+    key: "1043",
+    english: "Black sesame",
+    pronunciation: "til",
+    audiolink: "",
+    bhutia: "ཏིལ་ནག།",
   },
 ];
 
