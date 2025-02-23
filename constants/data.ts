@@ -1435,7 +1435,7 @@ const Data: Array<DataProps> = [
   {
     key: "178",
     english: "Sunday",
-    bhutia: "གཟའ་ ཉི་མ།",
+    bhutia: "གཟའ་ཉིམ།",
     pronunciation: "za-ni-ma",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802815/Days/sunday_e32cpk.mp4",
@@ -1475,7 +1475,7 @@ const Data: Array<DataProps> = [
   {
     key: "183",
     english: "Friday",
-    bhutia: "གཟའ་ པསངས།",
+    bhutia: "གཟའ་པ་སངས།",
     pronunciation: "za-pha-sang",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735802812/Days/friday_io5uma.mp4",

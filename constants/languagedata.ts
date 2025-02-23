@@ -1315,26 +1315,27 @@ const LanguageData: Array<TopicsProps> = [
       {
         key: "519",
         english: "What days do you go to school?",
-        pronunciation: "lhen gay lop dra lo za ga di na zon bo nang do la",
-        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ ལོ་ གཟའ་ ག་འདི་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
+        pronunciation: "lhen gay lop dra za khadi na chenbo nang-do la? ",
+        bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ལོ་ གཟའ་ ག་ འདི་ན་ བྱོན་བོ་ གནང་དོ་ལགས?",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892345/conversation/what_days_do_you_go_to_school_blhgfr.mp4",
       },
       {
         key: "520",
-        english: "On Monday, Tuesday, Wednesday, Thursday and Friday",
+        english:
+          " I go to school on Monday, Tuesday, Wednesday, Thursday and Friday",
         pronunciation:
-          "nga za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
+          "nga lopdra  za dha o mig mar lhag ko phur bu dang pa sang lo gyu do in la",
         bhutia:
-          "ང་ གཟའ་ ཟླ་བོ་ དམིག་མར་ ལྷག་ཀོ་ ཕུར་བུ་ དང་ སྤ་སངས་ལོ་  རྒྱུ་བདོ་ ཨིན་ལགས།",
+          "ང་ སློབ་གྲྭ་ གཟའ་ཟླ་བོ་ དམིག མར་ ལྷག་ཀོ་ ཕུར་པོ་ དང་ པ་སངས་ལོ་ རྒྱུ་དོ་ ཨིན་ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892316/conversation/on_Monday_Tuesday_Wednesday_thursday_and_Friday_ci2zpf.mp4",
       },
       {
         key: "521",
         english: "What days are the weekends",
-        pronunciation: "za ga di di dun thrag gi zug bo la ",
-        bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ ཕྲག་གི་ མཇུག་བོ་ ལགས།",
+        pronunciation: "za ga di di dun thrag gi zug in la ",
+        bhutia: "གཟའ་ ག་འདི་ འདི་ བདུན་ཕྲག་གི་ མཇུག་ ཨིན་ནམ?",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892344/conversation/what_days_are_the_weekends_os28v6.mp4",
       },
@@ -1356,9 +1357,9 @@ const LanguageData: Array<TopicsProps> = [
       },
       {
         key: "524",
-        english: "I like Monday and Friday",
-        pronunciation: "nga za dha o dang pa sang gaa la",
-        bhutia: "ང་ གཟའ་ ཟླ་བོ་ དང་ སྤ་སངས་  དགའ་ ལགས།",
+        english: "I like Saturday and Sunday",
+        pronunciation: "nga za penpo dang za nim ga la",
+        bhutia: "ང་ གཟའ་ སྤན་པོ་ དང་ གཟའ་ ཉིམ་ དགའ་ ལགས།",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735892293/conversation/i_like_Monday_and_Friday_mxn6pu.mp4",
       },
