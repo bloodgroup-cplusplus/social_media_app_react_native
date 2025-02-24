@@ -4484,8 +4484,8 @@ const Data: Array<DataProps> = [
   {
     key: "123457",
     english: "A traditional boiled snack prepared from beef's stomatch ",
-    pronunciation: "thrum-zi",
-    bhutia: "གྲུམ་ཟི།",
+    pronunciation: "thrum-zi/go-rak shya",
+    bhutia: "གྲུམ་ཟི།/གོ་རག་ཤ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739868410/sikkimese%20dishes/a_traditional_boiled_snack_prepared_from_beef_stomach_ge3jd5.mp3",
   },
@@ -7696,7 +7696,7 @@ const Data: Array<DataProps> = [
     english: "Vena/Sali",
     audiolink: "",
     bhutia: "མག་ཀོ་ སྙིདམ།",
-    pronunciation: "mako-nhim/mako-nhyien",
+    pronunciation: "mako-nhyim",
   },
   {
     key: "1027",
@@ -7722,9 +7722,9 @@ const Data: Array<DataProps> = [
   {
     key: "1030",
     english: "Small knife carried by male",
-    pronunciation: "gyi",
+    pronunciation: "dozong/chenki/ke-cung/ke-chung",
     audiolink: "",
-    bhutia: "",
+    bhutia: "འགྲོ་གཟུངས་། / མཆན་གྱི།/ གྱི་ཅུང/གྱི་ཆུང།            ",
   },
   {
     key: "1031",
