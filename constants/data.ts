@@ -7817,6 +7817,20 @@ const Data: Array<DataProps> = [
     audiolink: "",
     bhutia: "ཏིལ་ནག།",
   },
+  {
+    key: "1044",
+    english: "Chest meat",
+    pronunciation: "phyang-shya",
+    audiolink: "",
+    bhutia: "བྱོ༹ང་ཤ།",
+  },
+  {
+    key: "1045",
+    english: "Ribs meat",
+    pronunciation: "chib-shya",
+    audiolink: "",
+    bhutia: "བྱོ༹ང་ཤ།",
+  },
 ];
 
 export default Data;
