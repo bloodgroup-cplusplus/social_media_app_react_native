@@ -7904,8 +7904,8 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1056",
-    english: "Rice Flour (need to change this if needed)",
-    bhutia: "སྦྱ༹་ཕྱི༹",
+    english: "Rice Flour",
+    bhutia: "འབྱ༹་ཕྱེ༹།",
     pronunciation: "bya-phyi",
     audiolink: "",
   },
