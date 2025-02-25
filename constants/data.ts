@@ -7973,6 +7973,20 @@ const Data: Array<DataProps> = [
     audiolink: "",
   },
   {
+    key: "1066",
+    english: "",
+    audiolink: "",
+    pronunciation: "",
+    bhutia: "",
+  },
+  {
+    key: "1067",
+    english: "",
+    audiolink: "",
+    pronunciation: "",
+    bhutia: "",
+  },
+  {
     key: "1086",
     english: "IGP",
     pronunciation: "kor-sung chyi khyab/shib-yuk po",
@@ -8028,13 +8042,13 @@ const Data: Array<DataProps> = [
     audiolink: "",
     pronunciation: "",
   },
-  {
+  /*{
     key: "1094",
     english: "ASI Police",
     bhutia: "ལས་རོགས་ སྐོར་སྲུང་བོ།",
     audiolink: "",
     pronunciation: "le-rog kor-sungbo",
-  },
+  },*/
 ];
 
 export default Data;
