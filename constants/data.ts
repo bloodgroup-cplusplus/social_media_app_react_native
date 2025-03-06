@@ -8603,7 +8603,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1167",
-    english: "I am going to the monastry (needs correction in bhutia section)",
+    english: "I am going to the monastry ",
     pronunciation: "nga ghyom-pa gyu-doh in ",
     audiolink: "",
     bhutia: "ང་ དགོན་པ་ འགྱུ་དོ་ ཨིན",
