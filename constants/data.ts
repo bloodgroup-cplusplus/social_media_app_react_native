@@ -7633,7 +7633,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1015",
-    english: "Maternal Uncle's Daughter and Paternal Aunt's Daughter",
+    english: "Maternal Uncle's Daughter and Paternal Aunt's Daughter ",
     audiolink: "",
     bhutia: "ཞོང་ཙན།",
     pronunciation: "shongchen",
