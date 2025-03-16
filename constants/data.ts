@@ -6423,8 +6423,8 @@ const Data: Array<DataProps> = [
   },
   {
     key: "858",
-    english: "Is there an injection",
-    pronunciation: "mhen khap yethpo",
+    english: "Is there an injection?",
+    pronunciation: "mhen khap yethpo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739085917/at%20the%20hospital/is_there_an_injection_ssdrmb.mp3",
     bhutia: "སྨན་ཁབ་ ཡོད་པོ།?",
@@ -6441,7 +6441,7 @@ const Data: Array<DataProps> = [
     key: "860",
     english: "These medicines are slightly benefiting",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080187/at%20the%20hospital/these_medicines_are_working_ndadpv.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742144195/correction/these_medicines_are_slightly_benefitting_po38gd.mp3",
     bhutia: "སྨན་འདིས་ ཨ་ཙི་ ཕན་དོ།",
     pronunciation: "mhendi aatsi fendoh",
   },
@@ -6449,7 +6449,7 @@ const Data: Array<DataProps> = [
     key: "861",
     english: "Apetite is improving these days",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080188/at%20the%20hospital/these_days_appetitie_is_imporving_ufukcz.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/apetite_is_imporivng_these_days_final_tzbdfl.mp3",
     bhutia: "ད་རེ་ ཟམ་མའི་ དྭངས་ཁ་ ཨ་ཙི་ འཐོན་དོ།",
     pronunciation: "tharay samme thangka achi thendo",
   },
@@ -7496,49 +7496,56 @@ const Data: Array<DataProps> = [
     english: "Elder Sister in Law",
     pronunciation: "a-zhi-gyumo",
     bhutia: "ཨ་ཞི་གྱོ་མོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/elder_sister_in_law_axfbuk.mp3",
   },
   {
     key: "996",
     english: "Elder brother in Law",
     pronunciation: "a-chu-gyupo",
     bhutia: "ཨ་ཅུ་གྱོ་པོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/elder_brother_in_law_uwuxc5.mp3",
   },
   {
     key: "997",
     english: "Grandson",
     pronunciation: "tsho",
     bhutia: "ཚ༹་བོ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/grandson_wxcn3z.mp3",
   },
   {
     key: "998",
     english: "Grand Daughter",
     pronunciation: "tsam",
     bhutia: "ཚམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/grand_daughter_o6s3ol.mp3",
   },
   {
     key: "999",
     english: "Sisters",
     pronunciation: "a-zhi-num",
     bhutia: "ཨ་ཞི་ ནུམ།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/sisters_bvkjbe.mp3",
   },
   {
     key: "1000",
     english: "Brothers",
     pronunciation: "a-chu-puenlo",
     bhutia: "ཨ་ཅུ་ སྤུན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/brothers_dgueac.mp3",
   },
   {
     key: "1001",
     english: "Younger Uncle's Wife (Paternal)",
     bhutia: "ཨམ་ཆུང།",
     pronunciation: "am-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/paternal_uncles_wife_smaller_one_rejt8u.mp3",
   },
   {
     key: "1002",
@@ -8106,7 +8113,8 @@ const Data: Array<DataProps> = [
     key: "1095",
     english: "Psychiatry",
     bhutia: "སེམས་བཅོས་ཐབས། /སྲོག་རླུང་ བཅོས་ཐབས།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/psychiatry_kwmocn.mp3",
     pronunciation: "semche-thap/soklung-chetap",
   },
   {
@@ -8115,364 +8123,416 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "nga",
 
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140828/correction/I_1_p7an0t.mp3",
   },
   {
     key: "1097",
     english: "You",
     bhutia: "",
     pronunciation: "chu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/you_ufhiqa.mp3",
   },
   {
     key: "1098",
     english: "He",
     bhutia: "",
     pronunciation: "khu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140829/correction/he_gflzly.mp3",
   },
   {
     key: "1099",
     english: "She",
     bhutia: "",
     pronunciation: "mu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/she_ybflqv.mp3",
   },
   {
     key: "1100",
     english: "It",
     bhutia: "",
     pronunciation: "o-di",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140827/correction/it_pr87or.mp3",
   },
   {
     key: "1101",
     english: "We",
     bhutia: "",
     pronunciation: "nang-chak",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/we_dos0wk.mp3",
   },
   {
     key: "1102",
     english: "They",
     bhutia: "",
     pronunciation: "khon-tsu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/they_zrpejb.mp3",
   },
   {
     key: "1103",
     english: "Me",
     bhutia: "",
     pronunciation: "nga-lo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140827/correction/me_cp3eyr.mp3",
   },
   {
     key: "1104",
     english: "Him",
     bhutia: "",
     pronunciation: "kho-lo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140828/correction/him_qtezrz.mp3",
   },
   {
     key: "1105",
     english: "Her",
     pronunciation: "mu-lo",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140828/correction/her_h0vvb9.mp3",
   },
   {
     key: "1106",
     english: "Us",
     pronunciation: "nga-cha-lo",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/us_1_azlayn.mp3",
   },
   {
     key: "1107",
     english: "Them",
     pronunciation: "khon-tsu",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/them_final_n8wgmh.mp3",
   },
   {
     key: "1108",
     english: "Mine",
     bhutia: "",
     pronunciation: "nye",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140827/correction/mine_final_wkifz0.mp3",
   },
   {
     key: "1109",
     english: "Yours",
     pronunciation: "khu-chi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/yours_vhcalq.mp3",
   },
   {
     key: "1110",
     english: "His",
     pronunciation: "khui",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140828/correction/his_mohnih.mp3",
   },
   {
     key: "1111",
     english: "Hers",
     pronunciation: "mui",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140828/correction/hers_i2se0g.mp3",
   },
   {
     key: "1112",
     english: "Its",
     pronunciation: "o-di-tsu",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140827/correction/its_xqta3f.mp3",
   },
   {
     key: "1113",
     english: "Ours",
     pronunciation: "nga-chi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/ours_j7g3vn.mp3",
   },
   {
     key: "1114",
     english: "Theirs",
     pronunciation: "khon-ri",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/theirs_cegwfb.mp3",
   },
   {
     key: "1115",
     english: "Myself",
     pronunciation: "nga-ri",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/myself_ulnndg.mp3",
   },
   {
     key: "1116",
     english: "Yourself",
     pronunciation: "cho-ri",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140829/correction/yourself_w7hi4j.mp3",
   },
   {
     key: "1117",
     english: "Himself",
     pronunciation: "khu-ri",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/himself_dwhdxe.mp3",
   },
   {
     key: "1118",
     english: "Herself",
     pronunciation: "mu-ri",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/herself_fdgl53.mp3",
   },
   {
     key: "1119",
     english: "Itself",
     pronunciation: "o-di-rang",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/itself_bissdg.mp3",
   },
   {
     key: "1120",
     english: "Ourselves",
     pronunciation: "nga-cha-ra",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/ourselves_zpgajb.mp3",
   },
   {
     key: "1121",
     english: "Yourselves",
     pronunciation: "khon-tsu-ra",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140829/correction/yourselves_oeaobt.mp3",
   },
   {
     key: "1122",
     english: "Themselves",
     pronunciation: "khon-tsu-ra",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/themselves_ern6ms.mp3",
   },
   {
     key: "1123",
     english: "This",
     pronunciation: "di",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/this_final_vpmwxk.mp3",
   },
   {
     key: "1124",
     english: "That",
     pronunciation: "phi-di",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742142136/correction/that_xvmnog.mp3",
   },
   {
     key: "1125",
     english: "These",
     pronunciation: "di-tsu",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/these_cqtp4n.mp3",
   },
   {
     key: "1126",
     english: "Those",
     pronunciation: "phi-di-tsu",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/those_wbltmb.mp3",
   },
   {
     key: "1127",
     english: "Who",
     pronunciation: "ka-bho",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/who_shvhe3.mp3",
   },
   {
     key: "1128",
     english: "Whom",
     pronunciation: "ka-lho",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/whom_cimdi9.mp3",
   },
   {
     key: "1129",
     english: "Whose",
     pronunciation: "kay",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/whose_tltqbo.mp3",
   },
   {
     key: "1130",
     english: "Which",
     pronunciation: "gha-dhi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/which_ajfwet.mp3",
   },
   {
     key: "1131",
     english: "What",
     pronunciation: "ghon",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/what_hspkzq.mp3",
   },
   {
     key: "1132",
     english: "All",
     pronunciation: "tham-chay",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/all_af6kmb.mp3",
   },
   {
     key: "1133",
     english: "Some",
     pronunciation: "re-nyi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/some_fpxyoh.mp3",
   },
   {
     key: "1134",
     english: "Any",
     pronunciation: "gha-dhi-in-rung",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140941/correction/any_cstegn.mp3",
   },
   {
     key: "1135",
     english: "None",
     pronunciation: "gha-dhi-yang-mae",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140848/correction/none_nom0ry.mp3",
   },
   {
     key: "1136",
     english: "Many",
     pronunciation: "key-po",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140880/correction/many_fomaoe.mp3",
   },
   {
     key: "1137",
     english: "Few",
     pronunciation: "a-tsim",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140913/correction/few_u5hwx2.mp3",
   },
   {
     key: "1138",
     english: "Several",
     pronunciation: "keb-chi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140848/correction/several_adss1b.mp3",
   },
   {
     key: "1139",
     english: "Everyone",
     pronunciation: "tham-chay-ghang-po",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140941/correction/everyone_r5ljco.mp3",
   },
   {
     key: "1140",
     english: "Somebody",
     pronunciation: "mi-chi-nyi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/somebody_bn4c2a.mp3",
   },
   {
     key: "1141",
     english: "Nobody",
     pronunciation: "ka-yang-me",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140850/correction/nobody_jklpgr.mp3",
   },
   {
     key: "1142",
     english: "Someone",
     pronunciation: "re-nyi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/someone_uik1w7.mp3",
   },
   {
     key: "1143",
     english: "Each",
     pronunciation: "re-re",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140943/correction/each_qwf7mt.mp3",
   },
   {
     key: "1144",
     english: "Either",
     pronunciation: "chi-men-chi",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/either_lnu9tk.mp3",
   },
   {
     key: "1145",
     english: "Neither",
     pronunciation: "nyi-ka-mea",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/neither_kc57im.mp3",
   },
   {
     key: "1146",
     english: "Or",
     pronunciation: "yang-na",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/or_dk2qbk.mp3",
   },
   {
     key: "1147",
     english: "Nor",
     pronunciation: "",
     bhutia: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140943/correction/nor_x8u3c2.mp3",
   },
   {
     key: "1148",
