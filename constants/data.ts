@@ -7636,83 +7636,95 @@ const Data: Array<DataProps> = [
     key: "1013",
     english: "Saru Daju/ Saru Bhai",
     pronunciation: "chhazen",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140756/correction/saru_daju_saru_bhai_c5pobn.mp3",
     bhutia: "ཚགས་རྒན།",
   },
   {
     key: "1014",
     english: "Phu-phu/Bhadaini",
     pronunciation: "nemchen",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140764/correction/phupu_bhadaini_cm0cmq.mp3",
     bhutia: "ནེམ་ཙན།",
   },
   {
     key: "1015",
     english: "Maternal Uncle's Daughter and Paternal Aunt's Daughter  ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/maternal_uncles_daughter_and_paternal_aunts_daughter_wefxq5.mp3",
     bhutia: "ཞོང་ཙན།",
     pronunciation: "shongchen",
   },
   {
     key: "1016",
-    english: "Sali/Nanda",
-    audiolink: "",
+    english: "Sali/Nanda (soltini)",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140764/correction/sali_nanda_soltini_udsq48.mp3",
     bhutia: "སྙིདམ།",
     pronunciation: "nethm",
   },
   {
     key: "1017",
-    english: "Salo/Dewar",
-    audiolink: "",
+    english: "Salo/Dewar (solti)",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140757/correction/solti_salo_dewar_ivllh8.mp3",
     bhutia: "ཀུད་པོ།",
     pronunciation: "ke-pu",
   },
   {
     key: "1018",
     english: "Husband",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/husband_kqgqgp.mp3",
     bhutia: "ཕོ་རྒྱག།",
     pronunciation: "phu-gya",
   },
   {
     key: "1019",
     english: "Wife",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/wife_u6rmxh.mp3",
     bhutia: "མོ་བུད།",
     pronunciation: "mo-bi",
   },
   {
     key: "1020",
     english: "Husband/Wife",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/husband_wife_zt6lmv.mp3",
     bhutia: "བཟའ་ཀོ།",
     pronunciation: "zakhu",
   },
   {
     key: "1021",
     english: "Bhawju/Dewar",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/bhauju_dewar_vx6xhl.mp3",
     bhutia: "ཡོང་ཀུད།",
     pronunciation: "youngi",
   },
   {
     key: "1024",
     english: "Vena/Salo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/vena_salo_nqdr09.mp3",
     bhutia: "མག་ཀུད།",
     pronunciation: "go-ki",
   },
   {
     key: "1025",
     english: "Bhawju/Nanda",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/bhawju_nanda_j6ymqh.mp3",
     bhutia: "ནེ་སྙེད།",
     pronunciation: "ney-nedh",
   },
   {
     key: "1026",
     english: "Vena/Sali",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/vena_sali_m2yusf.mp3",
     bhutia: "མག་ཀོ་ སྙིདམ།",
     pronunciation: "mako-nhyim",
   },
