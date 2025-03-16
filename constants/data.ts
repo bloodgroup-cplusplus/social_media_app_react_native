@@ -7551,7 +7551,8 @@ const Data: Array<DataProps> = [
     key: "1002",
     english: "Maternal Uncle's Wife",
     pronunciation: "a-ney",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/father_s_sisters_or_maternal_uncle_s_wife_yjbdqb.mp3",
     bhutia: "ཨ་ཉེ།",
   },
   {
@@ -7579,49 +7580,56 @@ const Data: Array<DataProps> = [
     key: "1006",
     english: "Great GrandFather",
     pronunciation: "yang-jo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/great_grandfather_xt3c7k.mp3",
     bhutia: "ཡང་ཇོ།",
   },
   {
     key: "1007",
     english: "Great Grandmother",
     pronunciation: "yang-nyo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/great_grandmother_ixp8mo.mp3",
     bhutia: "ཡང་ཉོ།",
   },
   {
     key: "1008",
     english: "Samdhi",
     pronunciation: "nyen-den-apo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/samdhi_knawev.mp3",
     bhutia: "གཉེན་མདུན་ ཨ་པོ",
   },
   {
     key: "1009",
     english: "Samdhini",
     pronunciation: "nyen-den-am",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/samdhini_qyfilr.mp3",
     bhutia: "གཉེན་མདུན་ ཨམ།",
   },
   {
     key: "1010",
     english: "Samdhini Bojyu",
     pronunciation: "nyen-den-anyo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/samdhini_boju_rppfmm.mp3",
     bhutia: "གཉེན་མདུན་ ཨ་ཉོ།",
   },
   {
     key: "1011",
     english: "Samdhi Baje",
     pronunciation: "nyen-de-ajo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/samdhi_baje_qmqxfb.mp3",
     bhutia: "གཉེན་མདུན་ ཨ་ཇོ།",
   },
   {
     key: "1012",
     english: "Jethani/Dewrani",
     pronunciation: "chhasem/chhase",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140756/correction/jethani_dewrani_v9ep73.mp3",
     bhutia: "ཚགས་སེམ/ཚགས་སེ།",
   },
   {
