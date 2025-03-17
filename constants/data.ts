@@ -8713,42 +8713,48 @@ const Data: Array<DataProps> = [
     key: "1171",
     english: "She quickly finished her homework (adverbs)",
     pronunciation: "mo khim yog mala myung char du",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742185235/correction/she_quickly_finished_her_homework_oubx8h.mp3",
     bhutia: "མོས་ ཁྱིམ་གཡོག་མ་ལག་ མྱོ༹ང་ཚར་ འདུག།",
   },
   {
     key: "1172",
     english: "He speaks softly to the baby",
     pronunciation: "khu unye yamchi kha jamta lapchay",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742185535/correction/he_speaks_softly_to_the_baby_ksmokb.mp3",
     bhutia: "ཁོས་ ཨོ་ཉེ་ མཉམ་ཅིག་ ཁ་འཇམ་ དྲགས་ ལབ་ ཅེ།",
   },
   {
     key: "1173",
     english: "They happily played in the park",
     pronunciation: "khung cho linkhe na gata phya chimchi je",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742185760/correction/they_happily_played_in_the_park_t5xmac.mp3",
     bhutia: "ཁོང་ཙུ་ གླིང་གའི་ན་ དགས་དྲགས་བྱ༹ས་ རྩེདམ་རྩེད་ཞེ།",
   },
   {
     key: "1174",
     english: "She answered the question correctly",
     pronunciation: "mu thive len denta gyapche",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742185973/correction/she_answered_the_question_correctly_wsyozf.mp3",
     bhutia: "མོས་ དྲི་བའི་ ལན་ བདེན་དྲགས་རྐྱབས་ཅེ།",
   },
   {
     key: "1175",
     english: "She writes a letter (verb)",
     pronunciation: "mu yige thibo be",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742186234/correction/she_writes_a_letter_brdniw.mp3",
     bhutia: "མོས་ ཡི་གེ་ བྲིས་བོ་ སྦད།",
   },
   {
     key: "1176",
     english: "He runs every morning",
     pronunciation: "kho toh macha gyuk-toh",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742186563/correction/he_runs_every_morning_fs2qch.mp3",
     bhutia: "ཁོ་ དྲོ་མ་ཆག་ འགྱུག་ཏོ།",
   },
   {
@@ -8805,7 +8811,8 @@ const Data: Array<DataProps> = [
     english: "He said 'I am Happy' (direct speech)",
     pronunciation: "kho lapche 'nga ghata yea'",
     bhutia: "ཁོས་ ལབ་ཅེ་,'ང་ དགའ་ དྲགས་ ཡོད།'",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_said_i_am_happy_cgfioj.mp3",
   },
   {
     key: "1185",
