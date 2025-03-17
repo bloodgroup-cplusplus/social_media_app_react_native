@@ -10005,35 +10005,40 @@ const Data: Array<DataProps> = [
     english: "May I help you?",
     bhutia: "ང་ རོགས་རམ་ ཕུལ་ཚུགས་ ཀམ།",
     pronunciation: "nga roram phultsu kam",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/may_i_help_you__md3y7c.mp3",
   },
   {
     key: "1353",
     english: "No thanks. I am just looking through.",
     bhutia: "ལ་ མི་དགོས་ ལགས། ང་ ཅམ་ ལྟ་བདོ་ ཨིན་ལགས།",
     pronunciation: "la migo la . nga chyam tadoh in la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140103/correction/no_thanks_i_am_just_looking_through_xzj7kt.mp3",
   },
   {
     key: "1354",
     english: "Please sit down.",
     bhutia: "བཞུགས་པོ་ གནང་ལགས།",
     pronunciation: "zupo nala",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140103/correction/pleaase_sit_down_iiu4rh.mp3",
   },
   {
     key: "1355",
     english: "It's a pleasure to see you again.",
     bhutia: "ལྷན་རྒྱས་ལོ་ ལོག་ཅན་ མཇལ་སྡི་ དགའ་དྲགས་ བྱུང་།",
     pronunciation: "lengey loh lokche zedi gata zung ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/it_is_a_pleasure_to_see_you_again_bnfkyw.mp3",
   },
   {
     key: "1356",
     english: "Will I see you again?",
     bhutia: "ལྷན་རྒྱས་ལོ་ ལོག་ཅན་ མཇལ་ཚུགས་ ཀ་ ལགས།",
     pronunciation: "lengey loh lokche zechu ka la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/will_i_see_you_again__mlagyv.mp3",
   },
   {
     key: "1357",
@@ -10054,352 +10059,100 @@ const Data: Array<DataProps> = [
     english: "Thanks for coming here.",
     bhutia: "འདི་ཁ་ བྱོན་ བྱི༹ན་བོ་ན་ ཐུགས་རྗེ་ཆེ།",
     pronunciation: "dikha chen phimbo na thuji che",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/thanks_for_coming_here_rz1upj.mp3",
   },
   {
     key: "1360",
     english: "How many members are there in your family?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ གཟིམ་ཁང་ལོ་ མི་ལག་ ག་ཚོད་ ཡོད་པོ་ ལགས།",
     pronunciation: "lengey ki zimkhaloh mila khaze yepo la? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/how_many_members_are_there_in_your_family_jhq5m9.mp3",
   },
   {
     key: "1361",
     english: "Do you believe in yourself?",
     bhutia: "ལྷན་རྒྱས་ རང་ལོ་ ཡིད་ཆེས་ ཡོད་ཀ་ ལགས།",
     pronunciation: "lengey ra lo yiche ye ka la ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/do_you_believe_in_yourself_icwrnd.mp3",
   },
   {
     key: "1362",
     english: "Can you give me an idea about this place?",
     bhutia: "ལྷན་རྒྱས་ ཡུལ་ འདི་ཀི་ སྐོར་ལས་ ང་ལོ་ གསུང་བྱི༹ན་བོ་ གནང་ཤད་ལགས།",
     pronunciation: "lengey yul diki korleh ngalo sungphinbo nasheyla?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/can_you_give_me_an_idea_about_this_place_xoqi3z.mp3",
   },
-  {
-    key: "1363",
-    english: "What day is it today?",
-    bhutia: "ད་རིང་ གཟའ་ གན་འབོ་ ལགས།",
-    pronunciation: "tha ring za khanbo la? ",
-    audiolink: "",
-  },
-  {
-    key: "1364",
-    english: "Today is Monday.",
-    bhutia: "ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1365",
-    english: "What day is it tomorrow?",
-    bhutia: "ཐོ་རངས་ གཟའ་ གན་འབོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1366",
-    english: "Tomorrow is Tuesday.",
-    bhutia: "ཐོ་རངས་ གཟའ་ མིག་དམར་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1367",
-    english: "Where are you going?",
-    bhutia: "ལྷན་རྒྱས་ ག་ན་ བྱོན་འབོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1368",
-    english: "I am going to market.",
-    bhutia: "ང་ ཁྲོམ་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1369",
-    english: "What is this?",
-    bhutia: "འདི་ གན་འབོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1370",
-    english: "This is a pen.",
-    bhutia: "འདི་ སྨྱུ་གུ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1371",
-    english: "Where is Sikkim?",
-    bhutia: "འབྲས་ལྗོངས་ ག་ན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1372",
-    english: "It's in India.",
-    bhutia: "འདི་ རྒྱ་གར་ ནང་ཤ་ ཡོད་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1373",
-    english: "What is your adress?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཁ་བྱང་ གན་འབོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1374",
-    english: "My adress is Gangtok east Sikkim.",
-    bhutia: "ངའི་ ཁ་བྱང་ ཤར་ འབྲས་ལྗོངས་ སྒང་ཏོག་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1375",
-    english: "What time do you have your lunch?",
-    bhutia:
-      "ལྷན་རྒྱས་ ཉིན་མའི་ ཞལ་ལག་ ཆུ་ཚོད་ ག་ཚོད་ནང་ བཞེས་པོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1376",
-    english: "I have lunch at one o'clock.",
-    bhutia: "ང་ ཆུ་ཚོད་ གཅིག་ན་ ཟ་བདོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1377",
-    english: "What time do you get home?",
-    bhutia:
-      "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་ཁང་ལོ་ ལོག་བྱོན་པོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1378",
-    english: "I get home at four-thirty pm.",
-    bhutia: "ང་ ཆུ་ཚོད་ བཞི་དང་ ཕྱེ༹་ལོ་ ལོག་ སླེབས་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1379",
-    english: "What time do you go to bed?",
-    bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་པ་ བྱོན་བདོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1380",
-    english: "I go to bed at nine o'clock.",
-    bhutia: "ང་ ཆུ་ཚོད་ དགུ་ལོ་ ཉལ་བ་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1381",
-    english: "What did you say?",
-    bhutia: "ལྷན་རྒྱས་ གན་ གསུངས་བོ་ གནང་འབོ།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1382",
-    english: "I didn't say anything.",
-    bhutia: "ངས་ གན་ཡང་ མ་ལབ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1383",
-    english: "What is that?",
-    bhutia: "ཨོ་འདི་ གན་འབོ།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1384",
-    english: "That is my book.",
-    bhutia: "ཨོ་འདི་ ངའི་ དེབ་ཨིན་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1385",
-    english: "What do you want?",
-    bhutia: "ལྷན་རྒྱས་ལོ་ གན་ དགོས་པོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
+
   {
     key: "1386",
     english: "I want water.",
     bhutia: "ང་ལོ་ ཆུ་ དགོས་པོ་ ཨིན་ལགས།",
     pronunciation: "nga lo chu gopo inla",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140105/correction/i_want_water_jftqrq.mp3",
   },
-  {
-    key: "1387",
-    english: "When did you come?",
-    bhutia: "ལྷན་རྒྱས་ ནམ་བྱོན་བོ་ གནང་བོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1388",
-    english: "I came yesterday.",
-    bhutia: "ང་ མདང་ འོང་བོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1389",
-    english: "Where are you going?",
-    bhutia: "ལྷན་རྒྱས་ ག་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1390",
-    english: "I am going to monastery.",
-    bhutia: "ང་ དགོན་པ་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
+
   {
     key: "1391",
     english: "How can I get in touch with you?",
     bhutia: "ང་ ལྷན་རྒྱས་ མཉམ་པུ་ འབྲེལ་བ་ ག་ལྟེ་ བྱ༹ས་ དགོས་ཤད་འབོ།",
     pronunciation: "nga lengey nympo delva khatey phya goshebo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/how_can_i_get_in_touch_with_you_ttc4ga.mp3",
   },
   {
     key: "1392",
     english: "What is the weather like today?/How is  the weather today?",
     bhutia: "ད་རིང་ གནམ་གཤིས་ ག་ལྟེམ་ འདུག།/ད་རེང་ ནམ་ལག་ ག་ལྟེམ་ འདུག།  ",
     pronunciation: "tharing namje khatem dug?/ tharing namla khatem dug?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/what_is_the_weather_like_fqk92c.mp3",
   },
-  {
-    key: "1393",
-    english: "Yes, it is fine.",
-    bhutia: "ལེགམ་ འདུག་ལགས།",
-    pronunciation: "lem dug la",
-    audiolink: "",
-  },
-  {
-    key: "1394",
-    english: "What drink do you like?",
-    bhutia: "ལྷན་རྒྱས་ གན་ མཆོད་དགོས་ མནོ་འབོ།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1395",
-    english: "I like coffee.",
-    bhutia: "ང་ ཚིག་ཇ་(ཀོ་ཕི) དགའ་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1396",
-    english: "How many languages do you speak?",
-    bhutia: "ལྷན་རྒྱས་ སྐད་རིགས་ ག་ཚོད་ མཁྱེན་བོ་ གནང་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1397",
-    english: "I speak three languages; Bhutia, English, and Nepali.",
-    bhutia: "ང་ སྐད་རིགས་ གསུམ་ ཤེས་ལགས། ལྷོ་སྐད། དབྱིན་ཇི་ དང་། ཕྱུགས་སྐད།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1398",
-    english: "Do you speak English?",
-    bhutia: "ལྷན་རྒྱས་ དབྱིན་ཇི་ རྐྱབས་པོ་ གནང་ག་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1399",
-    english: "Yes, I do.",
-    bhutia: "ལ་ རྐྱབས་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
+
   {
     key: "1400",
     english: "Do you speak Bhutia?",
     bhutia: "ལྷན་རྒྱས་ ལྷོ་སྐད་ རྐྱབས་པོ་ གནང་ག་ ལགས།",
     pronunciation: "lengay lhoke kyapo naga la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/do_you_speak_bhutia_tudpdr.mp3",
   },
   {
     key: "1401",
     english: "Yes, I do.",
     bhutia: "ལ་ རྐྱབས་ཏོ་ ཨིན་ལགས།",
     pronunciation: "la kyapto in la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/yes_i_do_qkcu9f.mp3",
   },
-  {
-    key: "1402",
-    english: "What is the time, please?",
-    bhutia: "ད་ལྟ་ ཆུ་ཚོད་ ག་ཚོད་ འབོ་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1403",
-    english: "It's ten o'clock.",
-    bhutia: "ད་ལྟ་ ཆུ་ཚོད་ བཅུ་སྦད་ ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1404",
-    english: "Do you like tea?",
-    bhutia: "ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།",
-    pronunciation: "",
-    audiolink: "",
-  },
-  {
-    key: "1405",
-    english: "Yes, I do.",
-    bhutia: "ལ་ དགའ་ལགས།",
-    pronunciation: "",
-    audiolink: "",
-  },
+
   {
     key: "1406",
     english: "Where does the sun rise?",
     bhutia: "ཉིམ་འདི་ ག་ན་ལས་ ཤར་བདོ་ ཨིན་ནམ།",
     pronunciation: "nim di khana leh shyardoh enam?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
   {
     key: "1407",
     english: "Sun rises from the east.",
     bhutia: "ཉིམ་འདི་ ཤར་ཕྱོགས་ ངོས་ལས་ ཤར་བདོ་ ཨིན་ ལགས།",
     pronunciation: "nim di chyarcho ngo leh shardoh in  la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
   {
     key: "1408",
     english: "Where does the sun set?",
     bhutia: "ཉིམ་འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ།",
     pronunciation: "nim di khana le nuptoh enum?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_set_stfajt.mp3",
   },
   {
     key: "1409",
@@ -10413,210 +10166,240 @@ const Data: Array<DataProps> = [
     english: "How long do I have to take the medicine?",
     bhutia: "ང་ སྨན་འདི་ དུས་ཚོད་ ག་ཚོད་ རིང་ཀོ་ ཟ་དགོས་ཤད་ སྙམ།",
     pronunciation: "nga mendi thichey khaje rinku sago she nyam?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/how_long_do_i_have_to_take_the_medicines_bttq7h.mp3",
   },
   {
     key: "1411",
     english: "For ten days.",
     bhutia: "ཉིམ་ བཅུ་ ཟང་སྟེ་ ཟ་དགོས་ འདུག",
     pronunciation: "nimchu sathe sago du",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/for_ten_days_eafeou.mp3",
   },
   {
     key: "1412",
     english: "Where can I buy these medicines?",
     bhutia: "སྨན་འདི་ ང་ ག་ན་ལས་ ཉོས་དགོས་ ཀམ།",
     pronunciation: "mendi nga khana le nyogo kam? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/where_can_i_buy_the_medicines_yqzael.mp3",
   },
   {
     key: "1413",
     english: "You can buy them from every medical store.",
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྨན་ ཚོང་ཁང་ ག་ས་ ག་ལས་ ཉོས་ཚུགས་ ལགས།",
     pronunciation: "lengey ki men tsong-khang khasa khale nyochu la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/you_can_buy_them_from_every_medical_store_ob2dzg.mp3",
   },
   {
     key: "1414",
     english: "When should I take the pills?",
     bhutia: "རིལ་བུ་ འདི་ ནམ་ ཟ་ དགོས་ཤད་ འབོ།",
     pronunciation: "ribu di nam sago she bo? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/when_should_i_take_the_pills_qufgaf.mp3",
   },
   {
     key: "1415",
     english: "One pill each after meal.",
     bhutia: "ཞལ་ལག་ རྒྱབ་ལས་ རིལ་བུ་ རེ་རེ་ བཞེས་དགོས།",
     pronunciation: "shela gyaple ribu rere jego",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/one_pill_after_meal_zph9qf.mp3",
   },
   {
     key: "1416",
     english: "How much is this?",
     bhutia: "འདི་ ག་ཚོད་ སྦད་ལགས།",
     pronunciation: "di khaje be la ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/how_much_is_this_rok95e.mp3",
   },
   {
     key: "1417",
     english: "This book's price is five hundreds.",
     bhutia: "ཕྱག་དཔེ་འདིའི་ རིན་གོང་འདི་ ལྔ་བརྒྱ་ ཐམ་པ་ ཨིན་ལགས།",
     pronunciation: "chayagpedihe rengongdi ngabgya thampa in la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/this_books_price_is_500_p3bawn.mp3",
   },
   {
     key: "1418",
     english: "What is the news?",
     bhutia: "གནས་ཚུལ་ གན་འདུག་ ལགས།",
     pronunciation: "nechul khandu la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/what_is_the_news_rffpym.mp3",
   },
   {
     key: "1419",
     english: "There is nothing new.",
     bhutia: "གསརབ་ ག་རེ་ མི་འདུག་ ལགས།",
     pronunciation: "sab khare mindu la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/there_is_nothing_new_m1tn2f.mp3",
   },
   {
     key: "1420",
     english: "Can I visit this holy place?",
     bhutia: "ང་ གནས་འདི་ མཇལ་ཚུགས་ ཀམ་ལགས།",
     pronunciation: "nga nidi zechu kam la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/can_i_visit_this_holy_place_vcm9v6.mp3",
   },
   {
     key: "1421",
     english: "Yes, you can visit at any time.",
     bhutia: "ལྷན་རྒྱས་ ནམ་ མཇལ་རུང་ མཇལ་ ཚུགས།",
     pronunciation: "lengay nam zerung zechu ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/yes_you_can_visit_anytime_jaweg6.mp3",
   },
   {
     key: "1422",
     english: "Where is the tourism office?",
     bhutia: "ཡུལ་སྐོར་ སྤྲོ་འཆམ་ ལས་ཁུངས་ འདི་ ག་ན་ ཡོད་པོ་ལགས།",
     pronunciation: "yulkar tezum lekhu di khana yepo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/where_is_the_tourism_office_xjbfqw.mp3",
   },
   {
     key: "1423",
     english: "It is in Gangtok market.",
     bhutia: "སྒང་ཏོག་ ཁྲོམ་ནང་ལོ་ ཡོད་ལགས།",
     pronunciation: "gato thom nanglo ye la ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139674/correction/it_is_in_gangtok_market_r6x0ni.mp3",
   },
   {
     key: "1424",
     english: "How long does it take time to reach monastery?",
     bhutia: "དགོན་པ་ སླེབས་པ་ལོ་ དུས་ཚོད་ ག་ཚོད་ དགོས་ཤད་ ལགས།",
     pronunciation: "gempa leppa loh theche khaje goshay la? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/how_long_does_it_take_to_reach_the_monastry_qd3im4.mp3",
   },
   {
     key: "1425",
     english: "It will take nearly ten minutes.",
     bhutia: "སྐར་མ་ བཅུ་ འདེམ་ཅིག་ དགོས་ལགས།",
     pronunciation: "karma chu demchig go la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/it_will_take_nearly_ten_minutes_ikzzke.mp3",
   },
   {
     key: "1426",
     english: "Is this the shortest way?",
     bhutia: "ཐམས་ཅད་ལས་ མྱུར་ལམ་ འདི་རང་ ཉ།",
     pronunciation: "thamchay le myurlam di rang nya?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/is_this_the_shortest_way_v45qjm.mp3",
   },
   {
     key: "1427",
     english: "Yes, this is the shortest way.",
     bhutia: "ལགས་ཨིན། ཐམས་ཅད་ལས་ མྱུར་ལམ་ འདི་རང་ སྦད་ལགས།",
     pronunciation: "la in thamchey le myurlam di ra be la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139697/correction/yes_this_is_the_shortest_way_l0veoq.mp3",
   },
   {
     key: "1428",
     english: "Can you count stars at night?",
     bhutia: "ལྷན་རྒྱས་ ཕྱི༹་རུ་ སྐར་མ་ གྱངས་ ཚུགས་ ཀ་  ལགས།",
     pronunciation: "lengay phiru karma kyangtshu ka la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/can_you_count_stars_at_night_ot4cpb.mp3",
   },
   {
     key: "1429",
     english: "No, I cannot.",
     bhutia: "མི་ཚུགས་། ང་ མི་ཚུགས།",
     pronunciation: "mitsu, nga michu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/no_i_cannot_z58lvy.mp3",
   },
   {
     key: "1430",
     english: "Are you going?",
     bhutia: "ལྷན་རྒྱས་ བྱོན་བོ་ གནང་ཤད།",
     pronunciation: "lengey chenbo nashe ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/are_you_going_c0oy6w.mp3",
   },
   {
     key: "1431",
     english: "what is your opinion?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཐུགས་བསམ་ གན་ཡོད།",
     pronunciation: "lengey ki thusam khan yea?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/what_is_your_opinion_wcnt54.mp3",
   },
   {
     key: "1432",
     english: "when will you take a bath?",
     bhutia: "ལྷན་རྒྱས་ ནམ་ སྐུ་གཟུགས་ བསིལ་བོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lengey nam khuzu sheboh nashey la? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/when_will_you_take_a_bath_fscurp.mp3",
   },
   {
     key: "1433",
     english: "Aren't you feeling hungry?",
     bhutia: "ལྷན་རྒྱས་ ཞལ་ སྐྱེམས་པོ་ མེད་ཀ་ ལགས།",
     pronunciation: "lengey shay kempo meka la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139719/correction/arent_you_feeling_hungry_r3ddj3.mp3",
   },
   {
     key: "1434",
     english: "Do you have school tomorrow?",
     bhutia: "ལྷན་རྒྱས་ལོ་ ཐོ་རངས་ སློབ་གྲྭ་ ཡོད་ཀ་ ལགས།",
     pronunciation: "lengey loh thora lobda ye ka la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/do_you_have_school_tomorrow_jtjgas.mp3",
   },
   {
     key: "1435",
     english: "Why are you late?",
     bhutia: "ལྷན་རྒྱས་ གན་ བྱ༹ས་ ཕྱི༹ས་པོ་ ལགས།",
     pronunciation: "lengay khan pya phipoh la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/why_are_you_late_sleyu0.mp3",
   },
   {
     key: "1436",
     english: "What did you dream about?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ གཉིད་ལམ་ གན་ གཟིགས་པོ་ ལགས།",
     pronunciation: "lengay ki nelam khan zepo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/what_did_you_deam_about_opbmda.mp3",
   },
   {
     key: "1437",
     english: "When did you change your dress?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ནམ་ བརྗེ་འབོ་ ལགས།",
     pronunciation: "lengey ki namza nam jebo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/when_did_you_change_your_dress_ifghfi.mp3",
   },
   {
     key: "1438",
     english: "What did your father bring from the market?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཡབ་ཀྱིས་ ཁྲོམ་ན་ལས་ གན་ བསྣམ་བྱོན་ འབོ?",
     pronunciation: "lengay ki yap ki thom na lay khan nam chenbo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139719/correction/what_did_your_father_bring_from_the_market_dmelmt.mp3",
   },
   {
     key: "1439",
     english: "Did you see my book?",
     bhutia: "ལྷན་རྒྱས་ ངའི་ ཕྱག་དཔེ་ གཟིགས་པོ་ གནང་བོ།",
     pronunciation: "lengay ngai chagpey zi po nangbo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139719/correction/did_you_see_my_book_bwkfcr.mp3",
   },
   {
     key: "1440",
@@ -10735,14 +10518,16 @@ const Data: Array<DataProps> = [
     english: "What should we order?",
     bhutia: "ང་ཅག་ གན་ མངའ་དགོས་ཤད་བོ?",
     pronunciation: "ngacha khan ngagoshe bo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/what_should_we_order_1_ee24dr.mp3",
   },
   {
     key: "1455",
     english: "Does this place sell burgers?",
     bhutia: "ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག་ ལགས?",
     pronunciation: "yul dina chigya ki faklep choga la ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
   },
   {
     key: "1456",
@@ -10756,84 +10541,96 @@ const Data: Array<DataProps> = [
     english: "Is everything alright?",
     bhutia: "ཁྱད་ལས་ ལེགམ་རང་ ཡོད་ཀ།",
     pronunciation: "khele lemra yeka?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/is_everything_alright_u494mj.mp3",
   },
   {
     key: "1458",
     english: "Do you have free time today?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ད་རིང་ ཐུགས་ དལ་ག་ ལགས།",
     pronunciation: "lengey tharing thu dakah la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/do_you_have_free_time_today_agfmwq.mp3",
   },
   {
     key: "1459",
     english: "Can we meet today?",
     bhutia: "ད་རིང་ ང་ཅག་ འཕྱ༹ད་ཚུགས་ ཀ་ལགས།",
     pronunciation: "tharing ngacha fechu ka la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/can_we_meet_today_hposdw.mp3",
   },
   {
     key: "1460",
     english: "Which places have you visited?",
     bhutia: "ལྷན་རྒྱས་ ཡུལ་ ག་འདི་ ག་འདི་ན་ བསྐོར་བ་ བྱོན་བོ་  གནང་བོ།",
     pronunciation: "lengey  yi khadikhadi na korba chenbo nangboh?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_places_have_you_visited_jap0tu.mp3",
   },
   {
     key: "1461",
     english: "Which one is better?",
     bhutia: "ག་འདི་ འདི་ ལེགས་པས་ ལགས།",
     pronunciation: "khadi di lepeh la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_one_is_better_yqbqjp.mp3",
   },
   {
     key: "1462",
     english: "Should I get this?",
     bhutia: "ང་ འདི ལེན་ག་ ལགས།",
     pronunciation: "nga di lenga la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/should_i_get_this_nniqve.mp3",
   },
   {
     key: "1463",
     english: "Isn't it too expensive?",
     bhutia: "ཨོ་འདི་ཏོ་ ལེབ་སྟི་ གོང་ མ་ཆེ་ ག",
     pronunciation: "odi toh lepti gong machey ga?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140012/correction/isnt_it_too_expensive_hgmg9v.mp3",
   },
   {
     key: "1464",
     english: "Do you know about the food in Assam?",
     bhutia: "ལྷན་རྒྱས་ ཨ་བསམ་གྱི་ ཟམ་གྱི་ སྐོར་ལས་ མཁྱེན་ག་ ལགས།",
     pronunciation: "lengey assam gi samgi korle khen gala?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140022/correction/do_you_know_about_the_food_in_assam_yy4ezv.mp3",
   },
   {
     key: "1465",
     english: "When will the rain stop!",
     bhutia: "ཆརབ་འདི་ ནམ་ ཆད་ཤད་ སྙམ།",
     pronunciation: "chap di nam tseche nyam !",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/when_will_the_rain_stop_pzh7ji.mp3",
   },
   {
     key: "1466",
     english: "When are you coming  home?",
     bhutia: "ལྷན་རྒྱས་ གཟིམ་ཁང་ནང་ ནམ་ ལོག་ བྱོན་ཤད་ ལགས།",
     pronunciation: "lengey zhimkhong na nam lok chenche la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/when_are_you_coming_home_gop98i.mp3",
   },
   {
     key: "1467",
     english: "Did you clean the utensils?",
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྣོད་ཙུ་ ཁྱུས་བོ་ གནང་བོ་ ལགས།",
     pronunciation: "lengey ki nichul kyuboh nabo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/did_you_clean_the_utensils_wnm8s9.mp3",
   },
   {
     key: "1468",
     english: "What is your dog name?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཁྱིའི་ མིང་ གན་འབོ།",
     pronunciation: "lengey ki khehe ming khanbo ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/what_is_your_dogs_name_tqwsnx.mp3",
   },
   {
     key: "1469",
@@ -10841,7 +10638,8 @@ const Data: Array<DataProps> = [
     bhutia:
       "ལྷན་རྒྱས་ འདི་ལས་ ལྷག་ཀོའི་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་བདོ་ ལགས།",
     pronunciation: "lengey dile lhokey lobzong nashey ki charzi nangdo lah?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/are_you_planning_for_further_studies_bloqlm.mp3",
   },
   {
     key: "1470",
@@ -11026,10 +10824,11 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1495",
-    english: "What date is today?",
+    english: "What date is it today?",
     bhutia: "ད་རིང་ ཚེས་ ག་ཚོད་ འབོ་ལགས།",
     pronunciation: "tharing tshe khachey bo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140105/correction/what_day_is_it_today_fpavfy.mp3",
   },
   {
     key: "1496",
@@ -11330,119 +11129,136 @@ const Data: Array<DataProps> = [
     english: "This place has yummy food.",
     bhutia: "ཡུལ་ འདི་ན་ ཟམ་ ཞིམ་དྲགས་ ཐོབ་པས།",
     pronunciation: "yi di na sam simta thopay",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/this_place_has_yummy_food_lpyhrd.mp3",
   },
   {
     key: "1546",
     english: "Do you want to eat noodles?",
     bhutia: "ལྷན་རྒྱས་ བཞེས་ཐུག་ བཞེས་པོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lengey jethu zepo nangche la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/do_you_want_to_eat_noodles_nkvdym.mp3",
   },
   {
     key: "1547",
     english: "What should we order?",
     bhutia: "ང་ཅག་ གན་ མངག་ཤད་ ལགས།",
     pronunciation: "ngacha khan ngashe la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/what_should_we_order_bdecmd.mp3",
   },
   {
     key: "1548",
     english: "Does this place sell burgers?",
     bhutia: "ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག།",
     pronunciation: "",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
   },
   {
     key: "1549",
     english: "Hello! Who is speaking?",
     bhutia: "ཧེ་ལོ། ཀ་ ཞལ་གསུང་བོ་ གནང་བདོ་ ལགས།",
     pronunciation: "hello ka shay sungbo nangdoh la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/hello_who_is_speaking_bsbxrc.mp3",
   },
   {
     key: "1550",
     english: "This is Chuden speaking.",
     bhutia: "ང་ ཆོ་སྒྲན་ ཨིན་ལགས།",
     pronunciation: "nga chuden in la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/this_is_chuden_speaking_mr4nm1.mp3",
   },
   {
     key: "1551",
     english: "I am not hearing you clearly.",
     bhutia: "ང་ ལྷན་རྒྱས་ལོ་ སྙིང་ སངས་སངས་ མི་ཐོས་པས་ ལགས།",
     pronunciation: "nga lengey loh ning sasa mithopey lah",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/i_am_not_hearning_you_clearly_zd1j8b.mp3",
   },
   {
     key: "1552",
     english: "To whom do you want to speak?",
     bhutia: "ལྷན་རྒྱས་ ཀ་མཉམ་པོ་ ཞལ་གསུང་བོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lengey ka nyempo se sungboh nangshey la? ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/to_whom_do_you_want_to_talk_n7np1d.mp3",
   },
   {
     key: "1553",
     english: "I want to talk with Nima.",
     bhutia: "ང་ ཉི་མ་ལགས་ མཉམ་པོ་ གྱོས་ རྐྱབས་ཤད་ ཡོད་ལགས།",
     pronunciation: "nga nima la nympo kyo kyapse yea la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139650/correction/i_want_to_talk_to_nima_rkyslf.mp3",
   },
   {
     key: "1554",
     english: "Please hold on the line.",
     bhutia: "ཤུལ་ཅིག་ དགུག་པོ་ གནང་ ལགས།",
     pronunciation: "sulche gupo nang la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139650/correction/please_hold_on_the_line_qw3jdq.mp3",
   },
   {
     key: "1555",
     english: "I will go and call Pempa.",
     bhutia: "ད་རྒྱུ་སྟི་ ་སྤོམ་པ་ལོ་ བོས་ ཤད་ ཨིན།",
     pronunciation: "tha gyu thi pempa loh phesey in",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/i_will_go_and_call_pempa_hcreoz.mp3",
   },
   {
     key: "1556",
     english: "Please call him to the phone.",
     bhutia: "ཁོང་ལོ་ ཞལ་པར་ ཡོད་སར་ བོས་པོ་ གནང་།",
     pronunciation: "khong loh shalphar yesar phopo na",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/please_call_him_on_the_phone_omsmug.mp3",
   },
   {
     key: "1557",
     english: "He is not here now.",
     bhutia: "ཁོང་ ད་ལྟ་ ན་ མི་འདུག་ལགས།",
     pronunciation: "khong thato na mindu la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/he_is_not_here_now_fx0i9y.mp3",
   },
   {
     key: "1558",
     english: "He will be back in an hour.",
     bhutia: "ཁོང་ ཆུ་ཚོད་ གཅིག་ རྒྱབ་ལས་ ལོག་ བྱོན་བོ་ གནང་ཤད་ སྦད་ལགས།",
     pronunciation: "khong chuche chig gyap le lok chenbo nangshe be la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/he_will_be_back_in_an_hour_edyu2c.mp3",
   },
   {
     key: "1559",
     english: "Please give him a message.",
     bhutia: "ཁོང་ལོ་ སྙན་གསེས་ གཅིག་ གནང་བོ་ གནང་ལགས།",
     pronunciation: "khongloh nyenshey chig nangbo na la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/please_give_him_a_message_k2erdl.mp3",
   },
   {
     key: "1560",
     english: "Yes, what is the message?",
     bhutia: "ལགས། སྙན་གསེས་ འདི་ གན་ ཡོད་པོ་ ལགས།",
     pronunciation: "la, nyenshey di khan yepo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/yes_what_is_the_message_vsxdgs.mp3",
   },
   {
     key: "1561",
     english: "Please tell him to call me.",
     bhutia: "ང་ལོ་ ཞལ་པར་ གནང་བོ་ གནང་ན་ གསུང་བོ་ གནང་ལགས།",
     pronunciation: "nga loh shelpar nangbo nangna  sungbo nang la ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/please_tell_him_to_call_me_vpopu8.mp3",
   },
 ];
 
