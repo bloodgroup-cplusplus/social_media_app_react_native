@@ -8580,14 +8580,16 @@ const Data: Array<DataProps> = [
     english: "I go to bed at 9'0 clock",
     pronunciation: "nga chu-che gu-loh nyedo-in",
     bhutia: "ང་ ཆུ་ཚོད་ དགུ་ལོ་ ཉལ་དོ་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140711/correction/i_go_to_bed_at_9_o_clock_fmlm0p.mp3",
   },
   {
     key: "1152",
     english: "How much money do you have?",
-    pronunciation: "rang-lo tiru-khaje yepo la",
+    pronunciation: "rang-lo tiru-khaje yepo la?",
     bhutia: "རང་ལོ་ ཏི་རུག་ ག་ཚོད་ ཡོད་པོ་ ལགས?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140711/correction/how_much_money_do_you_have_pm3rir.mp3",
   },
 
   {
@@ -8595,111 +8597,127 @@ const Data: Array<DataProps> = [
     english: "I have 20 rupees",
     pronunciation: "ngaye char tiru nishu-thampa yea",
     bhutia: "ངའི་ རྩར་ ཏི་རུག་ ཉི་ཤུ་ ཐམས་པ་ ཡོད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140711/correction/i_have_20_rs_btdv6h.mp3",
   },
   {
     key: "1155",
     english: "I did not say anything",
     pronunciation: "nga khande-lapse meh",
     bhutia: "ངས་ གན་ འདྲེ་ ལབ་ཤུལ་ མེད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/i_did_not_say_anything_v1hcri.mp3",
   },
   {
     key: "1156",
     english: "What is that?",
     pronunciation: "odi khan bo?",
     bhutia: "ཨོ་འདི་ གན་བོ་?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/what_is_that_xoxkk7.mp3",
   },
   {
     key: "1157",
     english: "What is that? (honorific)",
     pronunciation: "phidi khanbo?",
     bhutia: "ཕི་འདི་ གན་བོ?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/what_is_that_xoxkk7.mp3",
   },
   {
     key: "1158",
     english: "That is my book",
     pronunciation: "odi ngai thep in",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/that_is_my_book_v6ghnz.mp3",
     bhutia: "ཨོ་འདི་ ངའི་ དེབ་ ཨིན།",
   },
   {
     key: "1159",
     english: "What do you want?",
     pronunciation: "rang loh khan go po",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/what_do_you_want_daywby.mp3",
     bhutia: "རང་ལོ་ གན་ དགོས་པོ?",
   },
   {
     key: "1160",
     english: "What do you want? (honorific)",
     pronunciation: "lengay loh khan thu-kho yepo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/what_do_you_want_with_respect_zrtcej.mp3",
     bhutia: "ལྷན་རྒྱས་ལོ་ གན་ ཐུགས་ཁོ་ ཡོད་པོ་ ལགས?",
   },
   {
     key: "1161",
     english: "I want a Bhutia dictionary",
     pronunciation: "nga loh lokhye tsig-ze go-pay",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/i_want_a_bhutia_dictionary_kqs5z0.mp3",
     bhutia: "ང་ལོ་ ལྷོ་ཡིག་ ཚིག་ མཛད་ དགོས་པད།",
   },
   {
     key: "1162",
     english: "When did you come?",
     pronunciation: "rang-nam ong-bo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/when_did_you_come_plzwbf.mp3",
     bhutia: "རང་ནམ་ འོང་བོ?",
   },
   {
     key: "1163",
     english: "When did you come? (honorific)",
     pronunciation: "lengay  namchenbo nang-bo la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/when_did_you_come_with_respect_ndjivc.mp3",
     bhutia: "ལྷན་རྒྱས་ ནམ་བྱོན་བོ་ གནང་བོ་ ལགས?",
   },
   {
     key: "1164",
     english: "I came Yesterday",
     pronunciation: "nga da-hongbo in",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140728/correction/i_came_yesterday_kofcqv.mp3",
     bhutia: "ང་གདངས་ འོང་བོ་ ཨིན།",
   },
   {
     key: "1165",
     english: "Where are you going",
     pronunciation: "rang-khana-gyudoh?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892391/conversation/where_are_you_going_fyovr2.mp4",
     bhutia: "རང་ ག་ན་ འགྱུ་དོ?",
   },
   {
     key: "1166",
     english: "Where are you going (honorific)",
     pronunciation: "lengay khana chenbo nang-doh la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/where_are_you_going_with_respect_tmqfyh.mp3",
     bhutia: "ལྷན་རྒྱས་ ག་ན་ བྱོན་བོ་ གནང་དོ་ ལགས?",
   },
   {
     key: "1167",
     english: "I am going to the monastry ",
     pronunciation: "nga ghyom-pa gyu-doh in ",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140728/correction/i_am_going_to_the_monastry_fn2kez.mp3",
     bhutia: "ང་ དགོན་པ་ འགྱུ་དོ་ ཨིན",
   },
   {
     key: "1168",
     english: "For how long are you going?",
     pronunciation: "rang-ning khaje ki-thenlo gyudoh in-nam?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892249/conversation/for_how_long_are_you_going_kcbioy.mp4",
     bhutia: "རང་ཉིན་ ག་ཚོད་ ཀྱི་ དོན་ལོ་ འགྱུ་དོ་ ཨིན་ནམ?",
   },
   {
     key: "1169",
     english: "For how long are you going? (honorific)",
     pronunciation: "lengay-nin khaje ki thenlo chenbo in-namla?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140729/correction/for_how_long_are_you_going_with_respect_mgasro.mp3",
     bhutia: "ལྷན་རྒྱས་ ཉིན་ ག་ཚོད་ཀྱི་ དོན་ལོ་ བྱོན་དོ་ ཨིན་ནམ་ལགས?",
   },
   {
