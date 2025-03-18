@@ -9521,7 +9521,8 @@ const Data: Array<DataProps> = [
     english:
       "He will have been running for 30 minutes (future perfect continuous tense)",
     bhutia: "ཁོ་ སྐར་མོ་ སུམ་ཅུ་ ལས་ རྒྱུགས་བཞིན་ ཡོད་ཤད་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742278265/he_will_have_been_running_for_30_minutes_uovzzw.mp3",
     pronunciation: "kho karma sumchu le yogzin yeshe in",
   },
   {
@@ -10075,7 +10076,8 @@ const Data: Array<DataProps> = [
       "ད་རིང་ ང་ལོ་ ཐུགས་རྗེ་ གཟིགས་པོ་ གནང་ ཚུགས་ཀ་ ལགས། ད་རིང་ ང་ལོ་ གཡོག་གཅིག་ ཡོད།",
     pronunciation:
       "tharing nga lo thuji zepo nang chu ka la. tharing nga loh yog chig ye",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140091/correction/can_i_be_excused_today_as_i_have_some_work_ppagjc.mp3",
   },
   {
     key: "1347",
@@ -10115,7 +10117,8 @@ const Data: Array<DataProps> = [
       "ང་ཅག་ ཉིམ་གཅིག་ སྤང་ཁ་ གླིང་ཁ་ གཏང་པ་ བྱོན་ཤད་ཀྱི་ གྲ་སྒྲིག་ གནང་དགོས་ ཤད་སྦད་ ལགས།",
     pronunciation:
       "ngacha nimchi pankha/linkha tangpa chenche ki dadi nango sebe la",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140103/correction/we_should_plan_for_picnic_or_outigng_someday_jio7ze.mp3",
   },
   {
     key: "1352",
