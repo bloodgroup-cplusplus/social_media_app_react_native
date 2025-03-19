@@ -7559,21 +7559,24 @@ const Data: Array<DataProps> = [
     key: "1003",
     english: "Elder Uncle's Wife (Paternal)",
     pronunciation: "am-bom",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742354642/conversation/paternal_elder_uncle_s_wife_rmtjek.mp3",
     bhutia: "ཨམ་སྦོམ",
   },
   {
     key: "1004",
     english: "Mother's Elder Sister ",
     pronunciation: "am-bom",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742354642/conversation/paternal_elder_uncle_s_wife_rmtjek.mp3",
     bhutia: "ཨམ་སྦོམ",
   },
   {
     key: "1005",
     english: "Mother's Younger Sister",
     pronunciation: "am-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/paternal_uncles_wife_smaller_one_rejt8u.mp3",
     bhutia: "ཨམ་ཆུང།",
   },
   {
@@ -8724,7 +8727,8 @@ const Data: Array<DataProps> = [
     key: "1170",
     english: "For two days",
     pronunciation: "nin-ni ki then-loh",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140728/correction/for_two_days_gmprj0.mp3",
     bhutia: "ཉིན་ གཉིས་ཀྱི་ དོན་ ལོ།",
   },
   {
@@ -9461,7 +9465,8 @@ const Data: Array<DataProps> = [
     key: "1263",
     english: "He had been studying for the exam",
     bhutia: "ཁོ་ ཆོས་ རྒྱུགས་ཀྱིས་ དོན་ལོ་ སྒྲོགས་བཞིན་ ཡོད་པོ་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742357786/he_had_been_studying_for_exam_r9dtxt.mp3",
     pronunciation: "kho chokyuki thenlo dogzin yepo be",
   },
   {
