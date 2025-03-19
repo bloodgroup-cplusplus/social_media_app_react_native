@@ -10648,7 +10648,8 @@ const Data: Array<DataProps> = [
     english: "How is your mom?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཡུམ་ སྐུ་གཟུགས་ ག་ལྟེམ་ ཡོད་པོ་ ལགས།",
     pronunciation: "lengey ki yum kuzu khatem ye la?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_mom_1_btyr32.mp3",
   },
   {
     key: "1453",
