@@ -3619,14 +3619,16 @@ const Data: Array<DataProps> = [
     english: "What is your name?",
     bhutia: "རང་གི་ མཚན་ གན་བོ?",
     pronunciation: "rang-ki chen khan-bo?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140497/correction/what_is_your_name_second_one_wthdrn.mp3",
   },
   {
     key: "463",
     english: "What is your name? (honorific)",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མཚན་ གན་ཞུ་དོ?",
     pronunciation: "lenge-ki chen khan-tsu do?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_is_your_name_with_respect_1_kxrkzh.mp3",
   },
   {
     key: "464",
@@ -8562,21 +8564,24 @@ const Data: Array<DataProps> = [
     english: "I go to home at 3:30pm",
     pronunciation: "nga chuche sum-tha phelo lok gyudu in",
     bhutia: "ང་ ཆུ་ཚོད་ གསུམ་ དང་ ཕྱེ༹ད་ལོ་ ལོག་ འགྱུ་དོ་ ཨིན",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140711/correction/i_go_home_at_3_30_pm_hf99ch.mp3",
   },
   {
     key: "1149",
     english: "What time do you go to bed?",
     pronunciation: "ra chu-che khaje lo neido in",
     bhutia: "རང་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཉལ་དོ་ ཨིན",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735892381/conversation/what_time_do_you_go_to_bed_m8tcxv.mp4",
   },
   {
     key: "1150",
     english: "What time do you go to bed (honorific)",
     pronunciation: "lengey chu-che khaje lo zimpo nang-do la",
     bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ གཟིམ་པོ་ གནང་དོ་ ལགས?",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140710/correction/what_time_do_you_go_to_bed_with_respect_lmklum.mp3",
   },
   {
     key: "1151",
@@ -9501,42 +9506,48 @@ const Data: Array<DataProps> = [
     key: "1268",
     english: "She will be reading a book (future continuous tense)",
     bhutia: "མོ་ དེབ་ སྒྲོགས་ཤད་ ཨིན་བོ་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_will_be_reading_a_book_izyhdk.mp3",
     pronunciation: "mo thep doksey inbo be",
   },
   {
     key: "1269",
     english: "He will be running in the park",
     bhutia: "ཁོ་ གླིང་ ག་ན་ རྒྱུགས་ཤད་ ཨིན་བོ་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140418/correction/he_will_be_running_in_the_park_iev117.mp3",
     pronunciation: "kho linkhana gyushe inbo beh",
   },
   {
     key: "1270",
     english: "They will be playing soccer tomorrow",
     bhutia: "ཁོང་ཙུ་ ཐོ་རང་ རྐང་རྕེད་པོ་ལི་ རྩེད་ཤད་ ཨིན་བོ་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_will_be_playing_soccer_wqyy4s.mp3",
     pronunciation: "khongtsu thorang kangchepoli tsichey inbo-beh",
   },
   {
     key: "1271",
     english: "She will have finished her homework",
     bhutia: "མོ་ཀིས་ མོ་རེའི་ ཁྱིམ་གཡོག་ ཐམས་ཅད་ མྱོ༹ང་ཤད་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_will_have_finished_her_homework_hxaak1.mp3",
     pronunciation: "moki muray khimyog thamche myungsey beh",
   },
   {
     key: "1272",
     english: "He will have eaten by 9 pm",
     bhutia: "ཁོ་ ཕྱི༹ས་རུ་ ཆུ་ ཚོད་ དགུ་ཟང་ ཟམ་ཟ་ མྱོ༹ང་ཤད་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140418/correction/he_will_have_eaten_by_9_pm_to5g24.mp3",
     pronunciation: "kho phiru chuchey gusa samsa myungshey bey ",
   },
   {
     key: "1273",
     english: "They will have completed the project",
     bhutia: "ཁོང་ཙུ་ ཆར་གཞི་ ཐམས་ཅད་ མྱོ༹ང་ཤད་ སྦད།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140034/correction/they_will_have_completed_the_project_edu4zr.mp3",
     pronunciation: "khongtsu charjay thamchey myungshe be",
   },
   {
