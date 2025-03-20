@@ -8009,14 +8009,14 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1066",
-    english: "Sweet Potato Red",
+    english: "Red Sweet Potato ",
     audiolink: "",
-    pronunciation: "kyu-ngarm",
+    pronunciation: "kyu-ngarmap",
     bhutia: "སྐེའུ་མངརམ་དམརབ་།",
   },
   {
     key: "1067",
-    english: "Sweet Potato White",
+    english: "White Sweet Potato ",
     audiolink: "",
     pronunciation: "kyu ngarm kap",
     bhutia: "སྐེའུ་མངརམ་དཀརབ།",
