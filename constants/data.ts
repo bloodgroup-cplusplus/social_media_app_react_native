@@ -7827,7 +7827,7 @@ const Data: Array<DataProps> = [
   {
     key: "1040",
     english: "Black mustard",
-    pronunciation: "ped-gong",
+    pronunciation: "pe-gong",
     audiolink: "",
     bhutia: "པད་སྒོང།",
   },
@@ -7848,7 +7848,7 @@ const Data: Array<DataProps> = [
   {
     key: "1043",
     english: "Black sesame",
-    pronunciation: "til",
+    pronunciation: "tilna",
     audiolink: "",
     bhutia: "ཏིལ་ནག།",
   },
@@ -7927,7 +7927,7 @@ const Data: Array<DataProps> = [
     key: "1054",
     english: "Bitter Buck Wheat Flour",
     bhutia: "བྱོ༹འོ་།/བྱོ༹འོ་ཁག།",
-    pronunciation: "ken-tsong phyi",
+    pronunciation: "phyo/phyokha",
     audiolink: "",
   },
   {
@@ -7948,7 +7948,7 @@ const Data: Array<DataProps> = [
     key: "1057",
     english: "Rice/Dhero",
     bhutia: "བྲེམ།",
-    pronunciation: "drem",
+    pronunciation: "dhem",
     audiolink: "",
   },
   {
@@ -9838,7 +9838,7 @@ const Data: Array<DataProps> = [
     key: "1313",
     english: "What is your job?",
     bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ གན་ གནང་བདོ་ ལགས།",
-    pronunciation: "",
+    pronunciation: "lengey chaley khan nangdoh la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_is_your_job_s4cbdv.mp3",
   },
@@ -9870,7 +9870,7 @@ const Data: Array<DataProps> = [
     key: "1317",
     english: "Where is your school?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ སློབ་གྲྭ་ ག་ན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "",
+    pronunciation: "lengey ki lobda khana yepo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/where_is_your_schol_tinzcl.mp3",
   },
@@ -11096,7 +11096,7 @@ const Data: Array<DataProps> = [
     key: "1518",
     english: "If you have any difficulty then come to me.",
     bhutia: "དཀའ་ངལ་ ཡོད་ན་ ངའི་རྩར་ བྱོན།",
-    pronunciation: "kaney ye na ngayichar chen",
+    pronunciation: "kangal ye na ngayichar chen",
     audiolink: "",
   },
   {
@@ -11334,7 +11334,7 @@ const Data: Array<DataProps> = [
     key: "1548",
     english: "Does this place sell burgers?",
     bhutia: "ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག།",
-    pronunciation: "",
+    pronunciation: "ye dina chegya ki phaglep chonga?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
   },
