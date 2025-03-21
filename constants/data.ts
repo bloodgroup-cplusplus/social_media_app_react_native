@@ -7738,118 +7738,135 @@ const Data: Array<DataProps> = [
     english: "Badam",
     audiolink: "ba-dam",
     bhutia: "བ་དམ།",
-    pronunciation: "",
+    pronunciation:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/badam_v6bopo.mp3",
   },
   {
     key: "1028",
     english: "Traditional Half-Coat Of Male",
     pronunciation: "jya-za",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529619/correction/traditional_half_coat_of_man_axzwre.mp3",
     bhutia: "འཇའ་རྫ།",
   },
   {
     key: "1029",
     english: "Traditional Belt of Male/Female",
     pronunciation: "ke-rag",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529619/correction/traditional_belt_of_male_female_vbeigy.mp3",
     bhutia: "སྐེད་རག།",
   },
   {
     key: "1030",
     english: "Small knife carried by male",
     pronunciation: "dozong/chenki/ke-cung/ke-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529619/correction/small_knife_carried_by_male_tqn9sl.mp3",
     bhutia: "འགྲོ་གཟུངས་། / མཆན་གྱི།/ གྱི་ཅུང/གྱི་ཆུང།            ",
   },
   {
     key: "1031",
     english: "Protector Amulet",
     pronunciation: "kyed-sung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/protector_amulet_cy5qnh.mp3",
     bhutia: "སྐད་བསྲུང།",
   },
   {
     key: "1032",
     english: "Traditional shirt of female",
     pronunciation: "hon-jo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/honjo_aesnph.mp3",
     bhutia: "འོན་ཇོ།",
   },
   {
     key: "1033",
     english: "Traditional Jacket of Female",
     pronunciation: "kushen",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/traditional_jacket_of_female_gqvcmh.mp3",
     bhutia: "སྐུ་ཤོན།",
   },
   {
     key: "1034",
     english: "Necklace",
     pronunciation: "ga-chung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/necklace_rxcoo3.mp3",
     bhutia: "ག་ཅུང་།",
   },
   {
     key: "1035",
     english: "Ring",
     pronunciation: "zub-ku",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/ring_k5cg6h.mp3",
     bhutia: "མཛུབ་ཀུ།",
   },
   {
     key: "1036",
     english: "Golden Bangle",
     pronunciation: "se-diu",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529617/correction/golden_bangle_cesfdk.mp3",
     bhutia: "གསེར་ ལྡིའུ།",
   },
   {
     key: "1037",
     english: "Ribbon",
     pronunciation: "kya-thui",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529618/correction/ribbon_fgwmkk.mp3",
     bhutia: "སྐྱ་ཐུད།",
   },
   {
     key: "1038",
     english: "Bitter buckwheat",
     pronunciation: "byo",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529595/correction/bitter_buckwheat_sknnvv.mp3",
     bhutia: "བྱོ༹།",
   },
   {
     key: "1039",
     english: "Sweet buckwheat",
     pronunciation: "ghera/gheray",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529596/correction/sweet_buckwheat_qjcsu6.mp3",
     bhutia: "རྒེ་རག།/རྒེ་རེ།",
   },
   {
     key: "1040",
     english: "Black mustard",
     pronunciation: "pe-gong",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529596/correction/black_mustard_zn2thw.mp3",
     bhutia: "པད་སྒོང།",
   },
   {
     key: "1041",
     english: "White mustard",
     pronunciation: "yung kar",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529596/correction/white_mustard_j6nx8d.mp3",
     bhutia: "གཡུང་དཀར།",
   },
   {
     key: "1042",
     english: "White sesame",
     pronunciation: "til-kar",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529617/correction/white_sesame_mdrst5.mp3",
     bhutia: "ཏིལ་དཀར།",
   },
   {
     key: "1043",
     english: "Black sesame",
     pronunciation: "tilna",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529596/correction/black_sesame_jk9cvo.mp3",
     bhutia: "ཏིལ་ནག།",
   },
   {
@@ -8788,7 +8805,8 @@ const Data: Array<DataProps> = [
     key: "1177",
     english: "I read a book",
     pronunciation: "nga theb doko in",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742530161/correction/I_read_a_book_nkq8yz.mp3",
     bhutia: "ངས་དོབ་ སྒྲོགསཀོ་ ཨིན།",
   },
   {
