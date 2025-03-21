@@ -8795,14 +8795,16 @@ const Data: Array<DataProps> = [
     key: "1178",
     english: "We cook dinner together (bhutia correction)",
     pronunciation: "nga-cha phi-khe sam nyam-chi zobo in",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/we_cook_dinner_together_tzrdee.mp3",
     bhutia: "ང་ཅག་ ཕྱི༹ས་ཁའི་ ཟམ་མཉམ་ཅིག་ བཟོ་བོ་ ཨིན།",
   },
   {
     key: "1179",
     english: "The big dog barked (adjectives)",
     pronunciation: "khi-bompu hap-che",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/the_big_dog_barked_qnw6ju.mp3",
     bhutia: "ཁྱི་ སྦོམ་པོ་ ཧབ་ཅེ།",
   },
   {
@@ -8810,28 +8812,32 @@ const Data: Array<DataProps> = [
     english: "She has blue eyes",
     pronunciation: "muye mik doh nyenpo do",
     bhutia: "མོའི་ མིག་ དོག་ སྔོན་པོ་འདུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/she_has_blue_eyes_wsm3pq.mp3",
   },
   {
     key: "1181",
     english: "This is a cold drink",
     pronunciation: "di thung-che khyem-chig in / di thung-che khyam-chig in",
     bhutia: "འདི་ འཐུང་ཆས་ འཁྱོལམ་ཅིག་ ཨིན།/འདི་ འཐུང་ཆས་ གྱངམ་ཅིག་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/this_is_a_cold_drink_tsahr6.mp3",
   },
   {
     key: "1182",
     english: "He wore a red shirt",
     pronunciation: "kho tego marpo/marp khen dug",
     bhutia: "ཁོས་སྟོད་གོས་ དམར་པོ་/དམརབ་ གྱོནད་ འདུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529632/correction/he_wore_a_red_shirt_erlsvb.mp3",
   },
   {
     key: "1183",
     english: "The test was easy",
     pronunciation: "thi-gyuk di zam-po du",
     bhutia: "བྲི་རྒྱུགས་ འདི་ འཇམ་པོ་ འདུག།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529632/correction/the_test_was_easy_foablm.mp3",
   },
   {
     key: "1184",
