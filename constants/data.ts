@@ -1228,112 +1228,6 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735891945/fruits/watermelon_ft6y9h.mp4",
   },
-  /*
-  {
-    key: "153",
-    english: "Boiled pork meat",
-    bhutia: "ཕག་ཤ་ རྒྱ་རི།",
-    pronunciation: "phag-sha gya-ri",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "154",
-    english: "Boiled beef meat",
-    bhutia: "གླང་ཤ་རྒྱ་རི།",
-    pronunciation: "lang-sha gya-ri",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "155",
-    english: "A butter and cheese mixed dish",
-    bhutia: "མར་ཁུ།",
-    pronunciation: "mar-khu",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "156",
-    english: "Cheese Pickle",
-    bhutia: "ཕྱུ་ཨ་ཀར།",
-    pronunciation: "chu-akar",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "157",
-    english: "Cheese broth",
-    bhutia: "ཕྱུ་ལྟོ་ ཁུ།",
-    pronunciation: "chu-to-ku",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "158",
-    english: "Heads meat",
-    bhutia: "མགོ་ཤ།",
-    pronunciation: "mgo-sha",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "159",
-    english: "Legs Meat",
-    bhutia: "རྐང་ཅུང།",
-    pronunciation: "kang-chung",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "160",
-    english: "Lhopos traditional cookies made of rice floor",
-    bhutia: "བཞེས་རོ།",
-    pronunciation: "bzae-ro",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "161",
-    english: "Lhopos traditional snack made of rice floor",
-    bhutia: "ཁ་ཟས།",
-    pronunciation: "kha-zae",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "162",
-    english: "Veg roll",
-    bhutia: "ཁུ་སྒྲིལ།",
-    pronunciation: "khu-dri",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "163",
-    english: "Mixed Veg rice",
-    bhutia: "ཚོད་ཉོག།",
-    pronunciation: "tsod-nyog",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "164",
-    english: "Millet chapati",
-    bhutia: "མིན་ལྕ་ཁུ།",
-    pronunciation: "min-chang khu",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  {
-    key: "165",
-    english: "Nettle Broth",
-    bhutia: "ཟོ་ཅག་ཚོདམ་ ཡང་ན་ ཟྭོ་ཚོད།",
-    pronunciation: "so-chag",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1735103112/flowers/water_lily_whnr8o.mp4",
-  },
-  */
 
   {
     key: "166",
@@ -1697,85 +1591,6 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/great_grand_son_and_daughter_tafkcx.mp4",
   },
-  /*
-  {
-    key: "211",
-    english: "Beef",
-    bhutia: "གླང་ཤ།",
-    pronunciation: "lang-sha",
-    audiolink: "",
-  },
-  {
-    key: "212",
-    english: "Buffalo Meat",
-    bhutia: "མ་ཧེ་ཤ།",
-    pronunciation: "ma-he sha",
-    audiolink: "",
-  },
-  {
-    key: "213",
-    english: "Chicken",
-    bhutia: "བྱ༹་ཤ།",
-    pronunciation: "bya-sha",
-    audiolink: "",
-  },
-  {
-    key: "214",
-    english: "Dry Meat",
-    bhutia: "ཤ་སྐམ།",
-    pronunciation: "sha-kam",
-    audiolink: "",
-  },
-  {
-    key: "215",
-    english: "Fish",
-    bhutia: "ཉ་ཤ།",
-    pronunciation: "nya-sha",
-    audiolink: "",
-  },
-  {
-    key: "216",
-    english: "Grilled Meat",
-    bhutia: "ཤ་བསྲེགས་བསྲེགས་ཀོ།",
-    pronunciation: "sha-seg-seg-ko",
-    audiolink: "",
-  },
-  {
-    key: "217",
-    english: "Liver",
-    bhutia: "མཆིན་པོ།",
-    pronunciation: "chin-po",
-    audiolink: "",
-  },
-  {
-    key: "218",
-    english: "Mutton",
-    bhutia: "ར་ཤ།",
-    pronunciation: "ra-sha",
-    audiolink: "",
-  },
-  {
-    key: "219",
-    english: "Pork",
-    bhutia: "ཕག་ཤ།",
-    pronunciation: "pag-sha",
-    audiolink: "",
-  },
-  {
-    key: "220",
-    english: "Sausage",
-    bhutia: "རྒྱུ་མ།",
-    pronunciation: "gyu-ma",
-    audiolink: "",
-  },
-  {
-    key: "221",
-    english: "Yak",
-    bhutia: "གཡག་ཤ།",
-    pronunciation: "yak-sha",
-    audiolink: "",
-  },
-  */
 
   {
     key: "222",
@@ -1857,218 +1672,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735894673/grains%20and%20cereals/dal_d8u5kj.mp4",
   },
-  /*
-  {
-    key: "232",
-    english: "Head",
-    pronunciation: "mgo",
-    bhutia: "མགོ།",
-    audiolink: "",
-  },
-  {
-    key: "233",
-    english: "Hair",
-    pronunciation: "kya",
-    bhutia: "སྐྱ།",
-    audiolink: "",
-  },
-  {
-    key: "234",
-    english: "Eye",
-    pronunciation: "mig",
-    bhutia: "མིག།",
-    audiolink: "",
-  },
-  {
-    key: "235",
-    english: "Eye-lash",
-    pronunciation: "mig-cham pu",
-    bhutia: "མིག་ལྕམ་སྤུ།",
-    audiolink: "",
-  },
-  {
-    key: "236",
-    english: "Eye-brow",
-    pronunciation: "mig-po",
-    bhutia: "མིག་སྤོ།",
-    audiolink: "",
-  },
-  {
-    key: "237",
-    english: "Eyelids",
-    pronunciation: "mig-pag",
-    bhutia: "མིག་ལྤགས།",
-    audiolink: "",
-  },
 
-  {
-    key: "238",
-    english: "Ear",
-    pronunciation: "nam-chog",
-    bhutia: "རྣམ་གཅོག།",
-    audiolink: "",
-  },
-  {
-    key: "239",
-    english: "Nose",
-    pronunciation: "nha-gu",
-    bhutia: "སྣ་གུག",
-    audiolink: "",
-  },
-  {
-    key: "240",
-    english: "Mouth",
-    bhutia: "ཁ།",
-    pronunciation: "kha",
-    audiolink: "",
-  },
-  {
-    key: "241",
-    english: "Teeth",
-    bhutia: "སྲོ།",
-    pronunciation: "so",
-    audiolink: "",
-  },
-  {
-    key: "242",
-    english: "Tongue",
-    bhutia: "ལྕེ།",
-    pronunciation: "chae",
-    audiolink: "",
-  },
-  {
-    key: "243",
-    english: "Face",
-    bhutia: "གདོང།",
-    pronunciation: "dhong",
-    audiolink: "",
-  },
-  {
-    key: "244",
-    english: "Neck",
-    bhutia: "སྐེ།",
-    pronunciation: "ke",
-    audiolink: "",
-  },
-  {
-    key: "245",
-    english: "Chest",
-    bhutia: "བ༹ྱང་ཁོག།",
-    pronunciation: "byang khog",
-    audiolink: "",
-  },
-  {
-    key: "246",
-    english: "Hand",
-    bhutia: "ལག་ཀོ།",
-    pronunciation: "lag-ko",
-    audiolink: "",
-  },
-  {
-    key: "247",
-    english: "Shoulder",
-    bhutia: "དཔུང་པོ།",
-    pronunciation: "pung-po",
-    audiolink: "",
-  },
-  {
-    key: "248",
-    english: "Armpit",
-    bhutia: "མཆན་ཁུང།",
-    pronunciation: "chen-khung",
-    audiolink: "",
-  },
-  {
-    key: "249",
-    english: "Arm",
-    bhutia: "ལག་ཉ།",
-    pronunciation: "lag-nya",
-    audiolink: "",
-  },
-  {
-    key: "250",
-    english: "Elbow",
-    bhutia: "ཀྱི་ལིང།",
-    pronunciation: "kyi-ling",
-    audiolink: "",
-  },
-  {
-    key: "251",
-    english: "Wrist",
-    bhutia: "ལག་ཚིགས།",
-    pronunciation: "lag-tshig",
-    audiolink: "",
-  },
-  {
-    key: "252",
-    english: "Fingers",
-    bhutia: "མཛུབ་མོ།",
-    pronunciation: "dzub-mu",
-    audiolink: "",
-  },
-  {
-    key: "253",
-    english: "Nails",
-    bhutia: "སེན་མོ།",
-    pronunciation: "sen-mo",
-    audiolink: "",
-  },
-  {
-    key: "254",
-    english: "Backside",
-    bhutia: "རྒྱབ།",
-    pronunciation: "gyap",
-    audiolink: "",
-  },
-  {
-    key: "255",
-    english: "Waist",
-    bhutia: "སྐེད་པོ།",
-    pronunciation: "kyed-po",
-    audiolink: "",
-  },
-  {
-    key: "256",
-    english: "Leg",
-    bhutia: "རྐང་པོ།",
-    pronunciation: "khang-po",
-    audiolink: "",
-  },
-  {
-    key: "257",
-    english: "Thigh",
-    bhutia: "བརླེ་དུམ།",
-    pronunciation: "lae-dum",
-    audiolink: "",
-  },
-  {
-    key: "258",
-    english: "Knee",
-    bhutia: "པུས་མོ།",
-    pronunciation: "pue-mo",
-    audiolink: "",
-  },
-  {
-    key: "259",
-    english: "Calf",
-    bhutia: "བ༹ྱ་ཉ།",
-    pronunciation: "bhya-nya",
-    audiolink: "",
-  },
-  {
-    key: "260",
-    english: "Shin",
-    bhutia: "ངར་མདོང།",
-    pronunciation: "ngar-dhung",
-    audiolink: "",
-  },
-  {
-    key: "261",
-    english: "Feet",
-    bhutia: "རྐང་མཐིལ།",
-    pronunciation: "khang-thil",
-    audiolink: "",
-  },*/
   {
     key: "262",
     english: "0",
@@ -9502,28 +9106,32 @@ const Data: Array<DataProps> = [
     key: "1264",
     english: "She will read a book (future simple tense)",
     bhutia: "མོ་ཀིས་ དེབ་ཅིག་ སྒྲོགས་ཤད་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637305/correction/she_will_read_a_book_1_ks64ve.mp3",
     pronunciation: "moki thepzig dokse in",
   },
   {
     key: "1265",
     english: "He will run fast",
     bhutia: "ཁོ་ མ་ལག་ རྒྱུགས་ཤད་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637195/correction/he_will_run_fast_ghqpxq.mp4",
     pronunciation: "kho malag gyukshe in",
   },
   {
     key: "1266",
     english: "They will play soccer",
     bhutia: "ཁོང་ཙུ་ རྐང་རྩིས་ པོ་ལི་ རྩེད་ཤད་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637350/correction/they_will_play_soccer_tckkjh.mp3",
     pronunciation: "khongtsu kangchepoli tseche in",
   },
   {
     key: "1267",
     english: "We will cook dinner",
     bhutia: "ང་ཅག་ ཕྱི༹ས་ཁའི་ ཟམ་ བཟོ་ཤད་ ཨིན།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637399/correction/we_will_cook_dinner_zzpnpy.mp3",
     pronunciation: "ngacha phikay sam zoshe in",
   },
   {
@@ -10166,7 +9774,8 @@ const Data: Array<DataProps> = [
     english: "Sir is calling you.",
     bhutia: "སློབ་དཔོན་གྱིས་ ལྷན་རྒྱས་ལོ་ བཀའ་གནང་ བདོ་ལགས།",
     pronunciation: "loben ki lengey loh kana do lah",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637481/correction/sir_is_calling_you_z9iydp.mp3",
   },
   {
     key: "1351",
