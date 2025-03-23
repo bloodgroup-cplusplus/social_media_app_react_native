@@ -11505,6 +11505,34 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "",
   },
+  {
+    key: "1623",
+    english: "The food is hot",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1624",
+    english: "Can I have the last piece",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1625",
+    english: "That was a great meal",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1626",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
 ];
 
 export default Data;
