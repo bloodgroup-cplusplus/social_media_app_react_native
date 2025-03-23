@@ -11708,6 +11708,56 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "",
   },
+  {
+    key: "1652",
+    english: "What crops do you grow?",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1653",
+    english: "We grow rice, millet, yam, potatoes, maize, ginger",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1654",
+    english: "Do you have any livestock?",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1655",
+    english: "Yes we have cows, goats, and chickens",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1656",
+    english: "Do the children help with farm work?",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+
+  {
+    key: "1657",
+    english: "Yes they help after school and during harvest season",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1658",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
 ];
 
 export default Data;
