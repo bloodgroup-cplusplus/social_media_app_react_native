@@ -11949,7 +11949,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1686",
-    english: "Do girls and boys get equal access to education",
+    english: "Do girls and boys get equal access to education?",
     audiolink: "",
     bhutia: "",
     pronunciation: "",
