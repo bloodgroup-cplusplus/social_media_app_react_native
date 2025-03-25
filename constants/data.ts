@@ -6174,7 +6174,7 @@ const Data: Array<DataProps> = [
   {
     key: "878",
     english: "Right side",
-    pronunciation: "yas",
+    pronunciation: "ye",
     bhutia: "གཡས་",
     audiolink: "",
   },
@@ -6188,14 +6188,14 @@ const Data: Array<DataProps> = [
   {
     key: "880",
     english: "Upward",
-    pronunciation: "genkha/gyen",
+    pronunciation: "tengkha/gyen",
     bhutia: "སྟེང་ཁ/གྱེན་།",
     audiolink: "",
   },
   {
     key: "881",
     english: "Downward",
-    pronunciation: "thukhom/hoglo",
+    pronunciation: "thukhom/hogtoh",
     bhutia: "འོག་ཐོ་།",
     audiolink: "",
   },
