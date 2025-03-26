@@ -11064,7 +11064,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1562",
-    english: "Sorry,the phone line is bad ",
+    english: "Sorry,the network is not good ",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11106,14 +11106,14 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1568",
-    english: "Is there a discount if I purchase in bulk",
+    english: "Is there a discount if I purchase in bulk?",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
   },
   {
     key: "1569",
-    english: "Do you have fresh spinach",
+    english: "Are these fresh tomatoes?",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11127,28 +11127,28 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1571",
-    english: "Do you have change for Rs 500",
+    english: "Do you have change for Rs 500?",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
   },
   {
     key: "1572",
-    english: "Can you give me a carry bag please",
+    english: "Can you please give me a carry bag ?",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
   },
   {
     key: "1573",
-    english: "The items are really expensive",
+    english: "These items are really expensive",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
   },
   {
     key: "1574",
-    english: "Hi mom, I'm home !",
+    english: "Mom, I'm home !",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11169,7 +11169,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1577",
-    english: "It feels great to be home !",
+    english: "I feel happy to be home !",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11190,7 +11190,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1580",
-    english: "I had so many meetings",
+    english: "There were a lot of  meetings today",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11204,14 +11204,14 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1582",
-    english: "I finally finished my work today!",
+    english: "I finished all my work today!",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
   },
   {
     key: "1583",
-    english: "I was given extra work again",
+    english: "I was given more work again",
     bhutia: "",
     pronunciation: "",
     audiolink: "",
@@ -11225,7 +11225,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1585",
-    english: "Did anything interesting happen at home?",
+    english: "Did anything happen at home?",
     pronunciation: "",
     audiolink: "",
     bhutia: "",
@@ -11233,7 +11233,7 @@ const Data: Array<DataProps> = [
 
   {
     key: "1586",
-    english: "Do you go anywhere today?",
+    english: "Where did you go today?",
     pronunciation: "",
     audiolink: "",
     bhutia: "",
