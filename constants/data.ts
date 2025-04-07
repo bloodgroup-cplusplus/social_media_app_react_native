@@ -5655,7 +5655,7 @@ const Data: Array<DataProps> = [
   {
     key: "810",
     english: "Vaccine",
-    pronunciation: "gomen (nemasin neyenlo kakthop menkap chig)",
+    pronunciation: "gomen (nemasin neyenlo kakthop menkhap chig)",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739080097/at%20the%20hospital/vaccine_uuzdlr.mp4",
     bhutia: "འགོག་སྨན་། (ནད་མ་ཟུན་ སྔོན་ལོ་བཀག་ཐབས་སྨན་ཁབ་ཅིཁ)",
