@@ -1708,7 +1708,7 @@ const LanguageData: Array<TopicsProps> = [
   {
     id: "10",
     bhutia: "འབྲས་བུ་",
-    pronunciation: "dresbu",
+    pronunciation: "drebu",
     english: "Fruits",
     imageLink: fruits,
     data: [
