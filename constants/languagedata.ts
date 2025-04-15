@@ -8855,7 +8855,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "converstaion part 2",
-    imageLink: "",
+    imageLink: conversations,
     data: [
       {
         key: "1289",
