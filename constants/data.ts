@@ -11067,21 +11067,24 @@ const Data: Array<DataProps> = [
     english: "Pardon,the network is not good ",
     bhutia: "",
     pronunciation: "gom mathe dikha network lhem ma tho",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/sorry_the_network_is_not_good_gtszn5.mp3",
   },
   {
     key: "1563",
     english: "Can you give me his number?",
     bhutia: "",
     pronunciation: "nga loh khui ki ang phinchu ka",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/can_you_give_me_his_number_v2kyti.mp3",
   },
   {
     key: "1564",
     english: "Can you give me her number?",
     bhutia: "",
     pronunciation: "nga loh mui ki ang phinchu ka",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/can_you_give_me_her_number_clqxci.mp3",
   },
   {
     key: "1565",
