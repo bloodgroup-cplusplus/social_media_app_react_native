@@ -47,7 +47,599 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     imageLink: "",
-    data: [],
+    data: [
+      {
+        key: "645",
+        english: "ka (The letters from here on are consonants)",
+        pronunciation: "ka",
+        audiolink: "",
+        bhutia: "ཀ",
+      },
+      {
+        key: "646",
+        english: "kha",
+        pronunciation: "kha",
+        audiolink: "",
+        bhutia: "ཁ",
+      },
+      {
+        key: "647",
+        english: "ga",
+        pronunciation: "ga",
+        audiolink: "",
+        bhutia: "ག",
+      },
+      {
+        key: "648",
+        english: "gha",
+        pronunciation: "gha",
+        bhutia: "ག",
+        audiolink: "",
+      },
+      {
+        key: "649",
+        english: "nga",
+        pronunciation: "nga",
+        bhutia: "ང",
+        audiolink: "",
+      },
+      {
+        key: "650",
+        english: "cha",
+        pronunciation: "cha",
+        bhutia: "ཅ",
+        audiolink: "",
+      },
+      {
+        key: "651",
+        english: "chaa",
+        bhutia: "ཆ",
+        pronunciation: "chaa",
+        audiolink: "",
+      },
+      {
+        key: "652",
+        english: "zhya",
+        bhutia: "ཇ",
+        pronunciation: "zhya",
+        audiolink: "",
+      },
+      {
+        key: "653",
+        english: "nya",
+        bhutia: "ཉ",
+        pronunciation: "nya",
+        audiolink: "",
+      },
+      {
+        key: "654",
+        english: "ta",
+        bhutia: "ཏ",
+        pronunciation: "ta",
+        audiolink: "",
+      },
+      {
+        key: "655",
+        english: "tha",
+        bhutia: "ཐ",
+        pronunciation: "tha",
+        audiolink: "",
+      },
+      {
+        key: "656",
+        english: "da",
+        bhutia: "ད",
+        pronunciation: "da",
+        audiolink: "",
+      },
+      {
+        key: "657",
+        english: "na",
+        bhutia: "ན",
+        pronunciation: "na",
+        audiolink: "",
+      },
+      {
+        key: "658",
+        english: "pa",
+        bhutia: "པ",
+        pronunciation: "pa",
+        audiolink: "",
+      },
+      {
+        key: "659",
+        english: "pha",
+        bhutia: "ཕ",
+        pronunciation: "pha",
+        audiolink: "",
+      },
+      {
+        key: "660",
+        english: "ba",
+        bhutia: "བ",
+        pronunciation: "ba",
+        audiolink: "",
+      },
+      {
+        key: "661",
+        english: "ma",
+        bhutia: "མ",
+        pronunciation: "ma",
+        audiolink: "",
+      },
+      {
+        key: "662",
+        english: "tsa",
+        bhutia: "ཙ",
+        pronunciation: "tsa",
+        audiolink: "",
+      },
+      {
+        key: "663",
+        english: "tsha",
+        bhutia: "ཚ",
+        pronunciation: "tsha",
+        audiolink: "",
+      },
+      {
+        key: "664",
+        english: "dza",
+        bhutia: "ཛ",
+        pronunciation: "dza",
+        audiolink: "",
+      },
+      {
+        key: "665",
+        english: "wa",
+        bhutia: "ཝ",
+        pronunciation: "wa",
+        audiolink: "",
+      },
+      {
+        key: "666",
+        english: "zha",
+        bhutia: "ཞ",
+        pronunciation: "zha",
+        audiolink: "",
+      },
+      {
+        key: "667",
+        english: "za",
+        bhutia: "ཟ",
+        pronunciation: "za",
+        audiolink: "",
+      },
+      {
+        key: "668",
+        english: "ha",
+        bhutia: "འ",
+        pronunciation: "ha",
+        audiolink: "",
+      },
+      {
+        key: "669",
+        english: "ya",
+        bhutia: "ཡ",
+        pronunciation: "ya",
+        audiolink: "",
+      },
+      {
+        key: "670",
+        english: "ra",
+        bhutia: "ར",
+        pronunciation: "ra",
+        audiolink: "",
+      },
+      {
+        key: "671",
+        english: "la",
+        bhutia: "ལ",
+        pronunciation: "la",
+        audiolink: "",
+      },
+      {
+        key: "672",
+        english: "shya",
+        bhutia: "ཤ",
+        pronunciation: "shya",
+        audiolink: "",
+      },
+      {
+        key: "673",
+        english: "saa",
+        bhutia: "ས",
+        pronunciation: "saa",
+        audiolink: "",
+      },
+      {
+        key: "674",
+        english: "haa",
+        bhutia: "ཧ",
+        pronunciation: "haa",
+        audiolink: "",
+      },
+      {
+        key: "675",
+        english: "aa (The letters from here on are vowels)",
+        bhutia: "ཨ",
+        pronunciation: "aa",
+        audiolink: "",
+      },
+      {
+        key: "676",
+        english: "",
+        bhutia: "ཨི",
+        pronunciation: "akhiku e",
+        audiolink: "",
+      },
+      {
+        key: "677",
+        english: "",
+        bhutia: "ཨུ",
+        pronunciation: "ashyapchu uh",
+        audiolink: "",
+      },
+      {
+        key: "678",
+        english: "",
+        bhutia: "ཨེ",
+        pronunciation: "adengbo a",
+        audiolink: "",
+      },
+      {
+        key: "679",
+        english: "",
+        bhutia: "ཨོ",
+        pronunciation: "anaro o",
+        audiolink: "",
+      },
+      {
+        key: "596",
+        english:
+          "rka (The next 12 letters from here on are known as 'rago consonants')",
+        audiolink: "",
+        pronunciation: "ra-ka-ta-ka",
+        bhutia: "རྐ",
+      },
+      {
+        key: "597",
+        english: "rga",
+        audiolink: "",
+        pronunciation: "ra-ga-ta-ga",
+        bhutia: "རྒ",
+      },
+      {
+        key: "598",
+        english: "rng",
+        audiolink: "",
+        pronunciation: "ra-nga-ta-nga",
+        bhutia: "རྔ",
+      },
+      {
+        key: "599",
+        english: "rja",
+        audiolink: "",
+        pronunciation: "ra-jza-ta-jza",
+        bhutia: "རྗ",
+      },
+      {
+        key: "600",
+        english: "rny",
+        audiolink: "",
+        pronunciation: "ra-nya-ta-nya",
+        bhutia: "རྙ",
+      },
+      {
+        key: "601",
+        english: "rta",
+        audiolink: "",
+        pronunciation: "ra-ta-ta-ta",
+        bhutia: "རྟ",
+      },
+      {
+        key: "602",
+        english: "rda",
+        bhutia: "རྡ",
+        pronunciation: "ra-da-ta-da",
+        audiolink: "",
+      },
+      {
+        key: "603",
+        english: "rna",
+        audiolink: "",
+        bhutia: "རྣ",
+        pronunciation: "ra-na-ta-na",
+      },
+      {
+        key: "604",
+        english: "rba",
+        audiolink: "",
+        bhutia: "རྦ",
+        pronunciation: "ra-ba-ta-ba",
+      },
+      {
+        key: "605",
+        english: "rma",
+        audiolink: "",
+        bhutia: "རྨ",
+        pronunciation: "ra-ma-ta-ma",
+      },
+      {
+        key: "606",
+        english: "rtsa",
+        audiolink: "",
+        bhutia: "རྩ",
+        pronunciation: "ra-tsa-ta-tsa",
+      },
+      {
+        key: "607",
+        english: "rdza",
+        audiolink: "",
+        bhutia: "རྫ",
+        pronunciation: "ra-dza-ta-dza",
+      },
+      {
+        key: "608",
+        english:
+          "ska (The next 11 letters from here on are known as 'sa-go consonants'",
+        audiolink: "",
+        bhutia: "སྐ",
+        pronunciation: "sa-ka-ta-ka",
+      },
+      {
+        key: "609",
+        english: "sga",
+        audiolink: "",
+        bhutia: "སྒ",
+        pronunciation: "sa-ga-ta-ga",
+      },
+      {
+        key: "610",
+        english: "sng",
+        audiolink: "",
+        bhutia: "སྔ",
+        pronunciation: "sa-nga-ta-nga",
+      },
+      {
+        key: "611",
+        english: "sny",
+        audiolink: "",
+        bhutia: "སྙ",
+        pronunciation: "sa-nya-ta-nya",
+      },
+      {
+        key: "612",
+        english: "sta",
+        audiolink: "",
+        bhutia: "སྟ",
+        pronunciation: "sa-ta-ta-ta",
+      },
+      {
+        key: "613",
+        english: "sda",
+        audiolink: "",
+        bhutia: "སྡ",
+        pronunciation: "sa-da-ta-da",
+      },
+      {
+        key: "614",
+        english: "sna",
+        pronunciation: "sa-na-ta-na",
+        bhutia: "སྣ",
+        audiolink: "",
+      },
+      {
+        key: "615",
+        english: "spa",
+        pronunciation: "sa-pa-ta-pa",
+        bhutia: "སྤ",
+        audiolink: "",
+      },
+      {
+        key: "616",
+        english: "sba",
+        pronunciation: "sa-ba-ta-ba",
+        bhutia: "སྦ",
+        audiolink: "",
+      },
+      {
+        key: "617",
+        english: "sma",
+        pronunciation: "sa-ma-ta-ma",
+        bhutia: "སྨ",
+        audiolink: "",
+      },
+      {
+        key: "618",
+        english: "stsa",
+        pronunciation: "sa-tsa-ta-tsa",
+        bhutia: "སྩ",
+        audiolink: "",
+      },
+      {
+        key: "619",
+        english:
+          "lka (The next 10 letters from here are known as 'la-go consonants'",
+        audiolink: "",
+        pronunciation: "la-ka-ta-ka",
+        bhutia: "ལྐ",
+      },
+      {
+        key: "620",
+        english: "lga",
+        pronunciation: "la-ga-ta-ga",
+        bhutia: "ལྒ",
+        audiolink: "",
+      },
+      {
+        key: "621",
+        english: "lng",
+        pronunciation: "la-nga-ta-nga",
+        bhutia: "ལྔ",
+        audiolink: "",
+      },
+      {
+        key: "622",
+        english: "lca",
+        pronunciation: "la-cha-ta-cha",
+        bhutia: "ལྕ",
+        audiolink: "",
+      },
+      {
+        key: "623",
+        english: "lja",
+        pronunciation: "la-zha-ta-zha",
+        bhutia: "ལྗ",
+        audiolink: "",
+      },
+      {
+        key: "624",
+        english: "lta",
+        pronunciation: "la-ta-ta-ta",
+        bhutia: "ལྟ",
+        audiolink: "",
+      },
+      {
+        key: "625",
+        english: "lda",
+        pronunciation: "la-da-ta-da",
+        bhutia: "ལྡ",
+        audiolink: "",
+      },
+      {
+        key: "626",
+        english: "lpa",
+        pronunciation: "la-pa-ta-pa",
+        bhutia: "ལྤ",
+        audiolink: "",
+      },
+      {
+        key: "627",
+        english: "lba",
+        pronunciation: "la-ba-ta-ba",
+        bhutia: "ལྦ",
+        audiolink: "",
+      },
+      {
+        key: "628",
+        english: "lha",
+        pronunciation: "la-ha-ta-ha",
+        bhutia: "ལྷ",
+        audiolink: "",
+      },
+      {
+        key: "629",
+        english: "kwa (The next 15 letters are known as 'wazur consonants')",
+        pronunciation: "ka-wazur",
+        bhutia: "ཀྭ",
+        audiolink: "",
+      },
+      {
+        key: "630",
+        english: "khwa",
+        pronunciation: "kha-wazur",
+        bhutia: "ཁྭ",
+        audiolink: "",
+      },
+      {
+        key: "631",
+        english: "gwa",
+        pronunciation: "ga-wazur",
+        bhutia: "གྭ",
+        audiolink: "",
+      },
+      {
+        key: "632",
+        english: "cwa",
+        pronunciation: "cha-wazur",
+        bhutia: "ཅྭ",
+        audiolink: "",
+      },
+      {
+        key: "633",
+        english: "nwa",
+        pronunciation: "nya-wazur",
+        bhutia: "ཉྭ",
+        audiolink: "",
+      },
+      {
+        key: "634",
+        english: "twa",
+        pronunciation: "ta-wazur",
+        bhutia: "ཏྭ",
+        audiolink: "",
+      },
+      {
+        key: "635",
+        english: "dwa",
+        pronunciation: "da-wazur",
+        bhutia: "དྭ",
+        audiolink: "",
+      },
+      {
+        key: "636",
+        english: "tswa",
+        pronunciation: "tsa-wazur",
+        bhutia: "ཙྭ",
+        audiolink: "",
+      },
+      {
+        key: "637",
+        english: "tshwa",
+        pronunciation: "tsha-wazur",
+        bhutia: "ཚྭ",
+        audiolink: "",
+      },
+      {
+        key: "638",
+        english: "shaa",
+        pronunciation: "shaa-wazur",
+        bhutia: "ཞྭ",
+        audiolink: "",
+      },
+      {
+        key: "639",
+        english: "sha",
+        pronunciation: "sha-wazur",
+        bhutia: "ཟྭ",
+        audiolink: "",
+      },
+      {
+        key: "640",
+        english: "rwa",
+        pronunciation: "ra-wazur",
+        bhutia: "རྭ",
+        audiolink: "",
+      },
+      {
+        key: "641",
+        english: "lwa",
+        pronunciation: "la-wazur",
+        bhutia: "ལྭ",
+        audiolink: "",
+      },
+      {
+        key: "642",
+        english: "shwa",
+        bhutia: "ཤྭ",
+        pronunciation: "shya-wazur",
+        audiolink: "",
+      },
+      {
+        key: "643",
+        english: "swa",
+        bhutia: "སྭ",
+        pronunciation: "sa-wazur",
+        audiolink: "",
+      },
+      {
+        key: "644",
+        english: "hwa",
+        pronunciation: "ha-wazur",
+        audiolink: "",
+        bhutia: "ཧྭ",
+      },
+    ],
   },
   {
     id: "1",
@@ -1710,6 +2302,246 @@ const LanguageData: Array<TopicsProps> = [
         pronunciation: "yang-phyug",
         audiolink:
           "https://res.cloudinary.com/dmcov966p/video/upload/v1735804829/family/great_grand_son_and_daughter_tafkcx.mp4",
+      },
+      {
+        key: "995",
+        english: "Elder Sister in Law",
+        pronunciation: "a-zhi-gyumo",
+        bhutia: "ཨ་ཞི་གྱོ་མོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/elder_sister_in_law_axfbuk.mp3",
+      },
+      {
+        key: "996",
+        english: "Elder brother in Law",
+        pronunciation: "a-chu-gyupo",
+        bhutia: "ཨ་ཅུ་གྱོ་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/elder_brother_in_law_uwuxc5.mp3",
+      },
+      {
+        key: "997",
+        english: "Grandson",
+        pronunciation: "tsho",
+        bhutia: "ཚ༹་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/grandson_wxcn3z.mp3",
+      },
+      {
+        key: "998",
+        english: "Grand Daughter",
+        pronunciation: "tsam",
+        bhutia: "ཚམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/grand_daughter_o6s3ol.mp3",
+      },
+      {
+        key: "999",
+        english: "Sisters",
+        pronunciation: "a-zhi-num",
+        bhutia: "ཨ་ཞི་ ནུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/sisters_bvkjbe.mp3",
+      },
+      {
+        key: "1000",
+        english: "Brothers",
+        pronunciation: "a-chu-puenlo",
+        bhutia: "ཨ་ཅུ་ སྤུན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140747/correction/brothers_dgueac.mp3",
+      },
+      {
+        key: "1001",
+        english: "Younger Uncle's Wife (Paternal)",
+        bhutia: "ཨམ་ཆུང།",
+        pronunciation: "am-chung",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/paternal_uncles_wife_smaller_one_rejt8u.mp3",
+      },
+      {
+        key: "1002",
+        english: "Maternal Uncle's Wife",
+        pronunciation: "a-ney",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/father_s_sisters_or_maternal_uncle_s_wife_yjbdqb.mp3",
+        bhutia: "ཨ་ཉེ།",
+      },
+      {
+        key: "1003",
+        english: "Elder Uncle's Wife (Paternal)",
+        pronunciation: "am-bom",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742354642/conversation/paternal_elder_uncle_s_wife_rmtjek.mp3",
+        bhutia: "ཨམ་སྦོམ",
+      },
+      {
+        key: "1004",
+        english: "Mother's Elder Sister ",
+        pronunciation: "am-bom",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742354642/conversation/paternal_elder_uncle_s_wife_rmtjek.mp3",
+        bhutia: "ཨམ་སྦོམ",
+      },
+      {
+        key: "1005",
+        english: "Mother's Younger Sister",
+        pronunciation: "am-chung",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/paternal_uncles_wife_smaller_one_rejt8u.mp3",
+        bhutia: "ཨམ་ཆུང།",
+      },
+      {
+        key: "1006",
+        english: "Great GrandFather",
+        pronunciation: "yang-jo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/great_grandfather_xt3c7k.mp3",
+        bhutia: "ཡང་ཇོ།",
+      },
+      {
+        key: "1007",
+        english: "Great Grandmother",
+        pronunciation: "yang-nyo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/great_grandmother_ixp8mo.mp3",
+        bhutia: "ཡང་ཉོ།",
+      },
+      {
+        key: "1008",
+        english: "Samdhi",
+        pronunciation: "nyen-den-apo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/samdhi_knawev.mp3",
+        bhutia: "གཉེན་མདུན་ ཨ་པོ",
+      },
+      {
+        key: "1009",
+        english: "Samdhini",
+        pronunciation: "nyen-den-am",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/samdhini_qyfilr.mp3",
+        bhutia: "གཉེན་མདུན་ ཨམ།",
+      },
+      {
+        key: "1010",
+        english: "Samdhini Bojyu",
+        pronunciation: "nyen-den-anyo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140754/correction/samdhini_boju_rppfmm.mp3",
+        bhutia: "གཉེན་མདུན་ ཨ་ཉོ།",
+      },
+      {
+        key: "1011",
+        english: "Samdhi Baje",
+        pronunciation: "nyen-de-ajo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140755/correction/samdhi_baje_qmqxfb.mp3",
+        bhutia: "གཉེན་མདུན་ ཨ་ཇོ།",
+      },
+      {
+        key: "1012",
+        english: "Jethani/Dewrani",
+        pronunciation: "chhasem/chhase",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140756/correction/jethani_dewrani_v9ep73.mp3",
+        bhutia: "ཚགས་སེམ/ཚགས་སེ།",
+      },
+      {
+        key: "1013",
+        english: "Saru Daju/ Saru Bhai",
+        pronunciation: "chhazen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140756/correction/saru_daju_saru_bhai_c5pobn.mp3",
+        bhutia: "ཚགས་རྒན།",
+      },
+      {
+        key: "1014",
+        english: "Phu-phu/Bhadaini",
+        pronunciation: "nemchen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140764/correction/phupu_bhadaini_cm0cmq.mp3",
+        bhutia: "ནེམ་ཙན།",
+      },
+      {
+        key: "1015",
+        english: "Maternal Uncle's Daughter and Paternal Aunt's Daughter  ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/maternal_uncles_daughter_and_paternal_aunts_daughter_wefxq5.mp3",
+        bhutia: "ཞོང་ཙན།",
+        pronunciation: "shongchen",
+      },
+      {
+        key: "1016",
+        english: "Sali/Nanda (soltini)",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140764/correction/sali_nanda_soltini_udsq48.mp3",
+        bhutia: "སྙིདམ།",
+        pronunciation: "nethm",
+      },
+      {
+        key: "1017",
+        english: "Salo/Dewar (solti)",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140757/correction/solti_salo_dewar_ivllh8.mp3",
+        bhutia: "ཀུད་པོ།",
+        pronunciation: "ke-pu",
+      },
+      {
+        key: "1018",
+        english: "Husband",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/husband_kqgqgp.mp3",
+        bhutia: "ཕོ་རྒྱག།",
+        pronunciation: "phu-gya",
+      },
+      {
+        key: "1019",
+        english: "Wife",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/wife_u6rmxh.mp3",
+        bhutia: "མོ་བུད།",
+        pronunciation: "mo-bi",
+      },
+      {
+        key: "1020",
+        english: "Husband/Wife",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/husband_wife_zt6lmv.mp3",
+        bhutia: "བཟའ་ཀོ།",
+        pronunciation: "zakhu",
+      },
+      {
+        key: "1021",
+        english: "Bhawju/Dewar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/bhauju_dewar_vx6xhl.mp3",
+        bhutia: "ཡོང་ཀུད།",
+        pronunciation: "youngi",
+      },
+      {
+        key: "1024",
+        english: "Vena/Salo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/vena_salo_nqdr09.mp3",
+        bhutia: "མག་ཀུད།",
+        pronunciation: "go-ki",
+      },
+      {
+        key: "1025",
+        english: "Bhawju/Nanda",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140766/correction/bhawju_nanda_j6ymqh.mp3",
+        bhutia: "ནེ་སྙེད།",
+        pronunciation: "ney-nedh",
+      },
+      {
+        key: "1026",
+        english: "Vena/Sali",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140765/correction/vena_sali_m2yusf.mp3",
+        bhutia: "མག་ཀོ་ སྙིདམ།",
+        pronunciation: "mako-nhyim",
       },
     ],
   },
@@ -5628,7 +6460,432 @@ const LanguageData: Array<TopicsProps> = [
     pronunciation: "",
     english: "Times",
     imageLink: "",
-    data: [],
+    data: [
+      {
+        key: "942",
+        english: "Time",
+        pronunciation: "chhu tshoeth",
+        bhutia: "ཆུ་ཚོད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595302/Times/time__pgscib.mp3",
+      },
+      {
+        key: "943",
+        english: "Minute",
+        pronunciation: "karma",
+        bhutia: "སྐར་མོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595302/Times/minute_aphlxk.mp3",
+      },
+      {
+        key: "944",
+        english: "Second",
+        pronunciation: "karchha",
+        bhutia: "སྐར་ཆ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595301/Times/second_gw4xwf.mp3",
+      },
+      {
+        key: "945",
+        english: "A day/one day",
+        pronunciation: "ngin chi",
+        bhutia: "ཉིན་གཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595301/Times/a_day_or_one_day_jdqrpk.mp3",
+      },
+      {
+        key: "946",
+        english: "Two days",
+        pronunciation: "ngin ngi",
+        bhutia: "ཉིན་གཉིས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/two_days_uhdjpp.mp3",
+      },
+      {
+        key: "947",
+        english: "Three days",
+        pronunciation: "ngin sum",
+        bhutia: "ཉིན་གསུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/three_days_b4txjf.mp3",
+      },
+      {
+        key: "948",
+        english: "Four days",
+        pronunciation: "ngin nga",
+        bhutia: "ཉིན་ བཞི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/four_days_qtfguk.mp3",
+      },
+      {
+        key: "949",
+        english: "Five days",
+        pronunciation: "ngin nga",
+        bhutia: "ཉིན་ ལྔ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/five_days_i87ava.mp3",
+      },
+      {
+        key: "950",
+        english: "Six days",
+        pronunciation: "ngin thruk",
+        bhutia: "ཉིན་དྲུག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/six_days_nlzinq.mp3",
+      },
+      {
+        key: "951",
+        english: "Seven days",
+        pronunciation: "ngin dhuen",
+        bhutia: "ཉིན་ བདུན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/seven_days_okxofi.mp3",
+      },
+      {
+        key: "952",
+        english: "Eight days",
+        pronunciation: "ngin gyath",
+        bhutia: "ཉིན་བརྒྱད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/eight_days_dmpfew.mp3",
+      },
+      {
+        key: "953",
+        english: "Nine days",
+        pronunciation: "ngin ghu",
+        bhutia: "ཉིན་ དགུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/nine_days_edbl6v.mp3",
+      },
+      {
+        key: "954",
+        english: "Ten days",
+        pronunciation: "ngin chu thamba",
+        bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/ten_days_oxmroy.mp3",
+      },
+      {
+        key: "955",
+        english: "One night",
+        pronunciation: "shyak chi",
+        bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/one_night_p7pced.mp3",
+      },
+      {
+        key: "956",
+        english: "Two nights",
+        pronunciation: "shyak ngi",
+        bhutia: "ཞག་ གཉིས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/two_nights_upfiv1.mp3",
+      },
+      {
+        key: "957",
+        english: "Three nights",
+        pronunciation: "shyak sum",
+        bhutia: "ཞག་ གསུམ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/three_nights_ehukdt.mp3",
+      },
+      {
+        key: "958",
+        english: "Four nights",
+        pronunciation: "shyak zi",
+        bhutia: "ཞག་ བཞི།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/four_nights_rmbznx.mp3",
+      },
+      {
+        key: "959",
+        english: "Five nights",
+        pronunciation: "shyak nga",
+        bhutia: "ཞག་ལྔ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/five_nights_zxmoye.mp3",
+      },
+      {
+        key: "960",
+        english: "Six nights",
+        pronunciation: "shyak thruk",
+        bhutia: "ཞག་ དྲུག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595289/Times/six_nights_x4hkaf.mp3",
+      },
+      {
+        key: "961",
+        english: "Seven nights",
+        pronunciation: "shyak dhuen",
+        bhutia: "ཞག་ བདུན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/seven_nights_cfml2r.mp3",
+      },
+      {
+        key: "962",
+        english: "Eight nights",
+        pronunciation: "shyak gyeth",
+        bhutia: "ཞག་ བརྒྱད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/eight_nights_c5vxmw.mp3",
+      },
+      {
+        key: "963",
+        english: "Nine nights",
+        pronunciation: "shyak ghu",
+        bhutia: "ཞག་ དགུ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/nine_nights_zh1eyi.mp3",
+      },
+      {
+        key: "964",
+        english: "A year or one year",
+        pronunciation: "lo",
+        bhutia: "ལོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/a_year_cqsxbx.mp3",
+      },
+      {
+        key: "965",
+        english: "Century",
+        pronunciation: "thuerab",
+        bhutia: "དུས་རབས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/century_vktesp.mp3",
+      },
+      {
+        key: "966",
+        english: "Week",
+        pronunciation: "dhuen thraag",
+        bhutia: "བདུན་ཕྲག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/week_wyjvbt.mp3",
+      },
+      {
+        key: "967",
+        english: "Day",
+        pronunciation: "zakaar",
+        bhutia: "གཟའ་སྐར།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/day_qvpehk.mp3",
+      },
+      {
+        key: "968",
+        english: "Period",
+        pronunciation: "dhuetsham",
+        bhutia: "དུས་མཚམས་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595283/Times/time_period_p4u0en.mp3",
+      },
+      {
+        key: "969",
+        english: "Tense",
+        pronunciation: "dhue",
+        bhutia: "དུས་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595279/Times/tense_audbj9.mp3",
+      },
+      {
+        key: "970",
+        english: "Past",
+        pronunciation: "dhepo",
+        bhutia: "འདས་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595278/Times/past_cdbfyd.mp3",
+      },
+      {
+        key: "971",
+        english: "Future",
+        pronunciation: "mahongpo",
+        bhutia: "མ་འོངས་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595278/Times/past_cdbfyd.mp3",
+      },
+      {
+        key: "972",
+        english: "Present (time)",
+        pronunciation: "dhatawa",
+        bhutia: "ད་ལྟ་བ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/present_fswhtg.mp3",
+      },
+      {
+        key: "973",
+        english: "Quickly",
+        pronunciation: "malaag malaag",
+        bhutia: "མ་ལག་ མ་ལག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/quickly_gvkm5z.mp3",
+      },
+      {
+        key: "974",
+        english: "Occasionally",
+        pronunciation: "dhue dhuelo",
+        bhutia: "དུས་དུས་ལོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/occassionally_cjfbci.mp3",
+      },
+      {
+        key: "975",
+        english: "Time to Time",
+        pronunciation: "dhue dhuelo",
+        bhutia: "དུས་དུས་ལོ་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/time_to_time_obhhrt.mp3",
+      },
+      {
+        key: "976",
+        english: "Continuous",
+        pronunciation: "dhueguen",
+        bhutia: "དུས་རྒྱུན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/continuous_cs8mip.mp3",
+      },
+      {
+        key: "977",
+        english: "Continuously",
+        pronunciation: "dhuetaagpar",
+        bhutia: "དུས་རྒྱུན་ མེད་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595272/Times/continuously_yaugfe.mp3",
+      },
+      {
+        key: "978",
+        english: "Yearly",
+        pronunciation: "lo tar",
+        bhutia: "ལོ་ལྟར།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/yearly_fbc2xn.mp3",
+      },
+      {
+        key: "979",
+        english: "Yearly",
+        pronunciation: "loma chha",
+        bhutia: "ལོ་མ་ཆག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/yearly__lbfhnn.mp3",
+      },
+      {
+        key: "980",
+        english: "Daily",
+        pronunciation: "ngin machha",
+        bhutia: "ཉིན་ མ་ཆག་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595271/Times/daily_oadh01.mp3",
+      },
+      {
+        key: "981",
+        english: "Monthly",
+        pronunciation: "daw machha",
+        bhutia: "ཟླ་བོ་ མ་ཆག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595266/Times/monthly_rnfvws.mp3",
+      },
+      {
+        key: "982",
+        english: "Every night",
+        pronunciation: "shyag machha",
+        bhutia: "ཞག་ མ་ཆག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/every_night_iugegc.mp3",
+      },
+      {
+        key: "983",
+        english: "Now",
+        pronunciation: "dhato",
+        bhutia: "ད་ལྟ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/now_e8zih8.mp3",
+      },
+      {
+        key: "984",
+        english: "Just now",
+        pronunciation: "dhato rang",
+        bhutia: "ད་ལྟ་རང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/just_now_eyrlhj.mp3",
+      },
+      {
+        key: "985",
+        english: "Suddenly",
+        pronunciation: "hethki",
+        bhutia: "ཧད་ཀྱིས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595265/Times/suddenly_pydh3r.mp3",
+      },
+      {
+        key: "986",
+        english: "Quickly",
+        pronunciation: "hangtoh khama",
+        bhutia: "ཧད་ཏོ་ཁ་མ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595277/Times/quickly__pkvkjj.mp3",
+      },
+      {
+        key: "987",
+        english: "Immediately",
+        pronunciation: "lamsang",
+        bhutia: "ལམ་སངས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595264/Times/immediately_zwub2x.mp3",
+      },
+      {
+        key: "988",
+        english: "In advance",
+        pronunciation: "thamglay",
+        bhutia: "ཐང་ལས།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595260/Times/in_advance_exivu4.mp3",
+      },
+      {
+        key: "989",
+        english: "Next year",
+        pronunciation: "saang foeth",
+        bhutia: "སང་ཕོད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/next_year_jmdxkr.mp3",
+      },
+      {
+        key: "990",
+        english: "Year before next",
+        pronunciation: "zhi foeth",
+        bhutia: "གཞི་ཕོད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595260/Times/year_before_next_1_ztbupl.mp3",
+      },
+      {
+        key: "991",
+        english: "Last year",
+        pronunciation: "naning",
+        bhutia: "ན་ནིང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/last_year_qgcka6.mp3",
+      },
+      {
+        key: "992",
+        english: "Before last year",
+        pronunciation: "jhyo ning",
+        bhutia: "གཞོ་ནིང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/before_last_year_pqxtrs.mp3",
+      },
+      {
+        key: "993",
+        english: "This year",
+        pronunciation: "thuchi",
+        bhutia: "དུ་ཅིག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/this_year_gnjg6w.mp3",
+      },
+      {
+        key: "994",
+        english: "Always",
+        pronunciation: "aatang machhako",
+        bhutia: "ཨ་ཏང་མ་ཆག་ཀོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1739595259/Times/always_dubqwh.mp3",
+      },
+    ],
   },
   {
     id: "28",
