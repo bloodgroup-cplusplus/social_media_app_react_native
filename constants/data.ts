@@ -11977,6 +11977,13 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "",
   },
+  {
+    key:"1691",
+    english:"Together we bloom we bloom as one ",
+    audiolink:"",
+    bhutia:"ང་ཅག་ མཉམ་ཅིག་ ཤར་ཤད། གཅིག་སྒྲིལ་ ནང་ལོ་ ཤར་ཤད།",
+    pronunciation:"ngacha nyemchi syarshe, chigdel nangloh syarshe",
+  }
 ];
 
 export default Data;
