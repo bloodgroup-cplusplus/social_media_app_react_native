@@ -11983,7 +11983,32 @@ const Data: Array<DataProps> = [
     audiolink:"",
     bhutia:"ང་ཅག་ མཉམ་ཅིག་ ཤར་ཤད། གཅིག་སྒྲིལ་ ནང་ལོ་ ཤར་ཤད།",
     pronunciation:"ngacha nyemchi syarshe, chigdel nangloh syarshe",
-  }
+  },
+  {
+    key:"1692",
+    english:"What subjects do you want to study after  completing tenth class?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1693",
+    english:"Are you writing your ICSE/CBSE board exams this year?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1694",
+    english:"Yes, I have been preparing for my board Exams ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    
+    
+  
 ];
 
 export default Data;
