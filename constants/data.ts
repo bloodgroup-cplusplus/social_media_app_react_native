@@ -12006,7 +12006,71 @@ const Data: Array<DataProps> = [
     pronunciation:"",
   },
   {
-    
+    key:"1695",
+    english:" I want to study tourism after completing class ten ",
+    audiolink:" ", 
+    bhutia: "", 
+    pronunciation:"",
+  },
+  {
+    key:"1696",
+    english:"I am studying bhutia at Tadong college Gangtok ",
+    audiolink:" ", 
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1697",
+    english:" I will be doing my Masters from KSU sikkim ", 
+    audiolink: "",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1698",
+    english: "I did not go to college today as I was sick ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1699",
+    english:"The road to Mangan is damaged due to landslide",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1700",
+    english:"There is a power cut due to heavy rainfall",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1701",
+    english:" Let us watch movie on Denzong Cinema hall",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1702",
+    english:" I am going to West Point with my friends",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1703",
+    english:"Mom",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+
+  }
+  
+  
     
   
 ];
