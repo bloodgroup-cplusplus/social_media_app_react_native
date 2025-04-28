@@ -9453,8 +9453,8 @@ const Data: Array<DataProps> = [
   {
     key: "1311",
     english: "Do you have interest to do job in Sikkim?",
-    bhutia: "ལྷན་རྒྱས་ལོ་ འབྲས་ལྗོངས་ན་ གཡོག་རྐྱབས་ཤད་ འདོད་པོ་ ཡོད་ཀ།",
-    pronunciation: "lengay lo denzong na yog kyapse depo ye ka?",
+    bhutia: "རང་ལོ་ འབྲས་ལྗོངས་ན་ གཡོག་རྐྱབས་ཤད་ཀྱི་ འདོད་པོ་ ཡོད་ཀ?",
+    pronunciation: "rang lo den-zong na yog kyap-shed ki dod-po yea ka?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/do_you_have_interest_in_doing_job_in_sikkim_qwmgs5.mp3",
   },
@@ -9470,7 +9470,7 @@ const Data: Array<DataProps> = [
     key: "1313",
     english: "What is your job?",
     bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ གན་ གནང་བདོ་ ལགས།",
-    pronunciation: "lengey chaley khan nangdoh la?",
+    pronunciation: "lhengye chaley khan nangdoh la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_is_your_job_s4cbdv.mp3",
   },
@@ -9478,7 +9478,7 @@ const Data: Array<DataProps> = [
     key: "1314",
     english: "I'm a Doctor.",
     bhutia: "ང་ སྨན་པོ་ ཨིན་ལགས།་",
-    pronunciation: "nga menpo in la",
+    pronunciation: "nga sman-po en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/i_am_a_doctor_t1rq2i.mp3",
   },
@@ -9486,15 +9486,15 @@ const Data: Array<DataProps> = [
     key: "1315",
     english: "Where are you these days?",
     bhutia: "ལྷན་རྒྱས་ ད་རེ་ ག་ན་ བཞུགས་ཡོད།",
-    pronunciation: "lengey tharay khana jueye?",
+    pronunciation: "lhengye tharay khana ju yea?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/where_are_you_these_days_pifmrr.mp3",
   },
   {
     key: "1316",
     english: "I am in London these days.",
-    bhutia: "ང་ ད་རེ་ ལོན་ཌོན་ན་ ཡོད་ལགས།",
-    pronunciation: "nga tharay london na yea la",
+    bhutia: "ང་ ད་རེ་ ལོན་ཌོན་ལོ་ ཡོད་ ལགས།",
+    pronunciation: "nga tharay london lo yea la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/I_am_in_London_these_days_hqpyho.mp3",
   },
@@ -9502,32 +9502,32 @@ const Data: Array<DataProps> = [
     key: "1317",
     english: "Where is your school?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ སློབ་གྲྭ་ ག་ན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "lengey ki lobda khana yepo la?",
+    pronunciation: "lhengye kyi lobdra khana yepo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/where_is_your_schol_tinzcl.mp3",
   },
   {
     key: "1318",
     english: "At Kalimpong",
-    bhutia: "བཀའ་བློན་སྤུངས་ ན་ ཡོད་ལགས།",
-    pronunciation: "kalenpong na yea la",
+    bhutia: "བཀའ་བློན་སྤུངས་ ལོ།",
+    pronunciation: "kalenpong lo",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/at_kalimpong_pnymv7.mp3",
   },
   {
     key: "1319",
-    english: "Love your dress. Where did you buy it?",
+    english: "Love your dress. Where did you buy it? (honorific) ",
     bhutia:
-      "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ལྕང་དྲགས་ འདུག ག་ན་ལས་ བཞེས་པོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengey ki namza chata du khana le zepo nangbo la?  ",
+      "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ལྕང་སྦད ག་ན་ལས་ བཞེས་པོ་ གནང་བོ་ ལགས།",
+    pronunciation: "lhengye kyi namza chang beh khana le zepo nangbo la?  ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140068/correction/love_your_dress_where_did_you_buy_it_from_drsbcb.mp3",
   },
   {
     key: "1320",
     english: "I brought from Gangtok.",
-    bhutia: "ངས་ སྒང་ཏོག་ན་ ཉོ་བོ་ ཨིན།",
-    pronunciation: "nga gato na neow in",
+    bhutia: "ངས་ སྒང་ཏོག་ལས་ ཉོ་བོ་ ཨིན།",
+    pronunciation: "nga gatok (gangtok) ley nyo en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140068/correction/i_brought_it_from_gangtok_gw5hac.mp3",
   },
@@ -9535,7 +9535,7 @@ const Data: Array<DataProps> = [
     key: "1321",
     english: "Did you colour your hair?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ དབུ་སྐྱ་ན་ ཚོན་བྱུགས་ཀོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengey ki ukyana chenphyuko nangbo la ? ",
+    pronunciation: "lhengye ki ukyana chenphyuko nangbo la ? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140068/correction/did_you_color_your_hair_qwkvzd.mp3",
   },
