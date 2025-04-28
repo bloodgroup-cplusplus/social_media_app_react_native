@@ -11624,7 +11624,7 @@ const Data: Array<DataProps> = [
     english: "I'll help to churn the curd",
     audiolink: "",
     bhutia: "",
-    pronunciation: "",
+    pronunciation: "nga om kyokse ro phyashe en",
   },
   {
     key: "1641",
@@ -11642,10 +11642,10 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1643",
-    english: "Excuse me, where is the main road",
+    english: "Excuse me, where is the main road?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "",
+    pronunciation: "Ac, zunglam khana yepo?",
   },
   {
     key: "1644",
