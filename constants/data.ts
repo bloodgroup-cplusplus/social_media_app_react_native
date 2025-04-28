@@ -11758,7 +11758,7 @@ const Data: Array<DataProps> = [
     english: "The wife and daughters handle house works",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Khim nangey yog-chu ",
+    pronunciation: "Khim nangey yog-chu mobi thang phum-chu ta-tok phya-do en ",
   },
   {
     key: "1660",
@@ -11772,7 +11772,7 @@ const Data: Array<DataProps> = [
     english: "Yes the husband helps with cooking and cleaning.",
     audiolink: "",
     bhutia: "",
-    pronunciation: "",
+    pronunciation: "Laen ",
   },
   {
     key: "1662",
