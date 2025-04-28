@@ -12227,10 +12227,85 @@ const Data: Array<DataProps> = [
   },
   {
     key:"1725",
-    english:"",
+    english:"Can I try this dress?",
     audiolink:"",
     bhutia:"",
     pronunciation:""
+  },
+  {
+    key:"1726",
+    english:"Does this color look good on me ?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1727",
+    english:"Please drink more water and eat more vegetables",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1728",
+    english:"I am going to the parlour to ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1729",
+    english:"I am learning Bhutia subject at my school since class two",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1730",
+    english:"Please carry your umbrella . It can rain anytime here in Gangtok",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1731",
+    english:"Congratulations on your wedding",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1732",
+    english:"Could you pass the salt, please",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1733",
+    english:"This tastes very nice",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1734",
+    english:"North Sikkim has beautiful mountains and lakes",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1735",
+    english:"The bride looks great",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    
+    
+    
     
     
     
