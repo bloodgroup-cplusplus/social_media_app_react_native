@@ -12049,7 +12049,7 @@ const Data: Array<DataProps> = [
   },
   {
     key:"1701",
-    english:" Let us watch movie on Denzong Cinema hall",
+    english:" Let us watch movie at Denzong Cinema hall",
     audiolink:"",
     bhutia:"",
     pronunciation:"",
@@ -12063,12 +12063,177 @@ const Data: Array<DataProps> = [
   },
   {
     key:"1703",
-    english:"Mom",
+    english:"Mom can you please warm the water, I need to take a shower",
     audiolink:"",
     bhutia:"",
     pronunciation:"",
 
-  }
+  },
+  {
+    key:"1704",
+    english:"Let's watch something on Netflix after dinner",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+
+  {
+    key:"1705",
+    english:" I will help clean the utensils after the dinner",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1706",
+    english:"Let us order food from Zomato",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1707",
+    english:"I have a lot of homework today",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1708",
+    english:"I do not have any homework today. I am going out to play with my friends",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1709",
+    english:" Mom can you please cut some fruits for my lunch",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1710",
+    english:" I cannot find my phone can you please call on my number",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1711",
+    english:"Today is Monday. There is going to be a lot of traffic ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1712",
+    english:"Good morning Mom Dad",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+
+  {
+    key:"1713",
+    english:"I slept very well. What about both of you?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1714",
+    english:"Today is my holiday. I feel like doing nothing today",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1715",
+    english:"Pema can you please help me clean my room today? ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1716",
+    english:"It is already seven am . I am late for gym",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1717",
+    english:"I need to go to the barber today to trim my hair",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1718",
+    english:"Dichen can you please open youtube and play the chants?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1719",
+    english:"Can you please get me money from the atm ? Here is my card?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1719",
+    english:" Let's try starbucks coffee at west point today ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1720",
+    english:"You look beautiful in ths dress. Where did you get it ",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1721",
+    english:"How is your family ? Is everything ok at home?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1722",
+    english:" I have a guitar. do you want to play ?",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1723",
+    english:"I am trying to eat healthy food nowdays",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1724",
+    english:"I am looking for a bakhu for my brothers wedding",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:"",
+  },
+  {
+    key:"1725",
+    english:"",
+    audiolink:"",
+    bhutia:"",
+    pronunciation:""
+    
+    
+    
   
   
     
