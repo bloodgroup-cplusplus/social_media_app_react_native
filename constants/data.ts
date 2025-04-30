@@ -10187,7 +10187,7 @@ const Data: Array<DataProps> = [
     key: "1441",
     english: "Could you please bring water for me?",
     bhutia:
-      " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམ་བྱོན་ ཚུགས་ ཀ་ ལགས?",
+      " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམས་བྱོན་ ཚུགས་ ཀ་ ལགས?",
     pronunciation: "lhengye nga lo chhu-chi nam-joen chu ka la ? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/could_you_please_bring_water_for_me_zonua2.mp3",
@@ -10235,8 +10235,8 @@ const Data: Array<DataProps> = [
   {
     key: "1447",
     english: "Are you interested in singing?",
-    bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lhengye lo sunglo kyapse gacho ye ka la ?",
+    bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ ཐུགས་སྤྲོ་ ཡོད་ཀ་ ལགས།",
+    pronunciation: "lhengye lo sunglo kyapse thug-tro yea ka la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/are_you_interested_in_singing_ipuasi.mp3",
   },
