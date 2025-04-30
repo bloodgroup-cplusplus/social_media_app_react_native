@@ -9923,15 +9923,15 @@ const Data: Array<DataProps> = [
     key: "1406",
     english: "Where does the sun rise?",
     bhutia: "ཉིམ་ འདི་ ག་ན་ ལས་ ཤར་དོ་ ཨིན་ནམ།",
-    pronunciation: "nyim di ghana ley shyar-do enam?",
+    pronunciation: "nyim di gha-na ley shyar-do enam?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
   {
     key: "1407",
     english: "Sun rises from the east.",
-    bhutia: "ཉིམ་ འདི་ ཤར་ཕྱོགས་ ངོས་ ལས་ ཤར་དོ་ ཨིན་ ལགས།",
-    pronunciation: "nyim di shyar-chok ngoe ley shar-do en la",
+    bhutia: "ཉིམ་ ཤར་ ལས་ ཤར་དོ་ ཨིན་ ལགས།",
+    pronunciation: "nyim shyar ley shar-do en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
@@ -9939,46 +9939,46 @@ const Data: Array<DataProps> = [
     key: "1408",
     english: "Where does the sun set?",
     bhutia: "ཉིམ་ འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ?",
-    pronunciation: "nyim di ghana ley nup-to enum?",
+    pronunciation: "nyim di gha-na nub-to enam?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_set_stfajt.mp3",
   },
   {
     key: "1409",
     english: "Sun sets in the west.",
-    bhutia: "ཉིམ་ འདི་ ནུབ་ཕྱོགས་ ངོས་ ལོ་ ནུབ་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "nyim di nup-chok ngo lo nup-to en la ",
+    bhutia: "ཉིམ་ ནུབ་ ལོ་ ནུབ་ཏོ་ ཨིན་ ལགས།",
+    pronunciation: "nyim nub lo nub-to en la",
     audiolink: "",
   },
   {
     key: "1410",
     english: "How long do I have to take the medicine?",
-    bhutia: "ང་ སྨན་འདི་ དུས་ཚོད་ ག་ཚོད་ རིང་ཀོ་ ཟ་དགོས་ཤད་ སྙམ།",
-    pronunciation: "nga mendi thichey khaje rinku sago she nyam?",
+    bhutia: "ངས་ སྨན་འདི་ ནམ་ཟང་ ཟ་དགོས་ཤད་ ཉམ།",
+    pronunciation: "ngaa sman-di nam-sang sa-go shed nyam?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/how_long_do_i_have_to_take_the_medicines_bttq7h.mp3",
   },
   {
     key: "1411",
     english: "For ten days.",
-    bhutia: "ཉིམ་ བཅུ་ ཟང་སྟེ་ ཟ་དགོས་ འདུག",
-    pronunciation: "nimchu sathe sago du",
+    bhutia: "ཉིམ་ བཅུ་ ཟང་སྟེ།",
+    pronunciation: "nyim chu sang-te ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/for_ten_days_eafeou.mp3",
   },
   {
     key: "1412",
     english: "Where can I buy these medicines?",
-    bhutia: "སྨན་འདི་ ང་ ག་ན་ལས་ ཉོས་དགོས་ ཀམ།",
-    pronunciation: "mendi nga khana le nyogo kam? ",
+    bhutia: " ངས་ སྨན་འདི་ཙུ་  ག་ན་ལས་ ཉོས་དགོས་ ཀམ?",
+    pronunciation: "ngaa sman-di-chu gha-na ley nyo-go kam? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/where_can_i_buy_the_medicines_yqzael.mp3",
   },
   {
     key: "1413",
-    english: "You can buy them from every medical store.",
-    bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྨན་ ཚོང་ཁང་ ག་ས་ ག་ལས་ ཉོས་ཚུགས་ ལགས།",
-    pronunciation: "lengey ki men tsong-khang khasa khale nyochu la",
+    english: "You can buy it from every medical store.",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྨན་ འདི་ སྨན་མཛོད་ཁང་ ག་འདིའ ི་ ནང་ལས་ ཡང་ ཉོས་ཚུགས་ ལགས།",
+    pronunciation: "lhengye kyi sman-di sman-joed-khang ga-dhi nang-ley yang nyo-chu la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/you_can_buy_them_from_every_medical_store_ob2dzg.mp3",
   },
