@@ -9906,7 +9906,7 @@ const Data: Array<DataProps> = [
     key: "1400",
     english: "Do you speak Bhutia?",
     bhutia: "ལྷན་རྒྱས་ ལྷོ་སྐད་ རྐྱབས་པོ་ གནང་ག་ ལགས།",
-    pronunciation: "lhengye lhoke kyapo naga la?",
+    pronunciation: "lhengye lho-ked kyapo nang-ga la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/do_you_speak_bhutia_tudpdr.mp3",
   },
@@ -9914,7 +9914,7 @@ const Data: Array<DataProps> = [
     key: "1401",
     english: "Yes, I do.",
     bhutia: "ལ་ རྐྱབས་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "la kyapto in la",
+    pronunciation: "la kyap-to en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140116/correction/yes_i_do_qkcu9f.mp3",
   },
@@ -9922,32 +9922,32 @@ const Data: Array<DataProps> = [
   {
     key: "1406",
     english: "Where does the sun rise?",
-    bhutia: "ཉིམ་འདི་ ག་ན་ལས་ ཤར་བདོ་ ཨིན་ནམ།",
-    pronunciation: "nim di khana leh shyardoh enam?",
+    bhutia: "ཉིམ་ འདི་ ག་ན་ ལས་ ཤར་དོ་ ཨིན་ནམ།",
+    pronunciation: "nyim di ghana ley shyar-do enam?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
   {
     key: "1407",
     english: "Sun rises from the east.",
-    bhutia: "ཉིམ་འདི་ ཤར་ཕྱོགས་ ངོས་ལས་ ཤར་བདོ་ ཨིན་ ལགས།",
-    pronunciation: "nim di chyarcho ngo leh shardoh in  la",
+    bhutia: "ཉིམ་ འདི་ ཤར་ཕྱོགས་ ངོས་ ལས་ ཤར་དོ་ ཨིན་ ལགས།",
+    pronunciation: "nyim di shyar-chok ngoe ley shar-do en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
   },
   {
     key: "1408",
     english: "Where does the sun set?",
-    bhutia: "ཉིམ་འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ།",
-    pronunciation: "nim di khana le nuptoh enum?",
+    bhutia: "ཉིམ་ འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ?",
+    pronunciation: "nyim di ghana ley nup-to enum?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_set_stfajt.mp3",
   },
   {
     key: "1409",
     english: "Sun sets in the west.",
-    bhutia: "ཉིམ་འདི་ ནུབ་ཕྱོགས་ ངོས་ལོ་ ནུབ་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "nim di nopcho ngo leh nugtoh in la ",
+    bhutia: "ཉིམ་ འདི་ ནུབ་ཕྱོགས་ ངོས་ ལོ་ ནུབ་ཏོ་ ཨིན་ལགས།",
+    pronunciation: "nyim di nup-chok ngo lo nup-to en la ",
     audiolink: "",
   },
   {
@@ -10251,7 +10251,7 @@ const Data: Array<DataProps> = [
     key: "1447",
     english: "Are you interested in singing?",
     bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ རྐྱབས་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lengey sunglo kyapse gacho ye ka la ?",
+    pronunciation: "lhengye sunglo kyapse gacho ye ka la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/are_you_interested_in_singing_ipuasi.mp3",
   },
@@ -10259,7 +10259,7 @@ const Data: Array<DataProps> = [
     key: "1448",
     english: "Do you get up early in the morning?",
     bhutia: "ལྷན་རྒྱས་ དྲོ་པ་ མ་ལག་ བཞངས་པོ་ གནང་ག་ ལགས།",
-    pronunciation: "lengey thopa mala zyapoh nang gala ?",
+    pronunciation: "lhengye thopa mala zyapoh nang gala ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139735/correction/do_you_get_up_early_in_the_morning_omrni6.mp3",
   },
@@ -10544,7 +10544,7 @@ const Data: Array<DataProps> = [
     key: "1483",
     english: "How was your interview?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ བཅར་འདྲི་ ༼ཨིན་ཊོར་བིའུ༽ ག་འདེམ་ བྱུང་བོ་ ལགས།",
-    pronunciation: "lengey ki charti (interview) khatem zungboh la? ",
+    pronunciation: "lhengye ki charti (interview) khatem zungboh la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/how_was_your_interview_wcongd.mp3",
   },
@@ -10552,7 +10552,7 @@ const Data: Array<DataProps> = [
     key: "1484",
     english: "Did you pay the vendor?",
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཡིག་ བྲིས་བོ་ ལོ་ གླ་ བཏབ་པོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengeyki yek thibo loh la tapo nangboh la? ",
+    pronunciation: "lhengye ki yek thibo loh la tapo nangboh la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742276848/correction/did_you_pay_the_vendor_g4f3qb.mp3",
   },
@@ -10576,7 +10576,7 @@ const Data: Array<DataProps> = [
     key: "1487",
     english: "Are you starting a business?",
     bhutia: "ལྷན་རྒྱས་ ཚོང་ སྒོ་བཙུག་ཀོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "lengey choung gochuko nangdoh la ?",
+    pronunciation: "lhengye choung gochuko nangdoh la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275572/correction/are_you_starting_a_business_nnv8cs.mp3",
   },
@@ -10584,7 +10584,7 @@ const Data: Array<DataProps> = [
     key: "1488",
     english: "Are you interested in painting?",
     bhutia: "ལྷན་རྒྱས་ ཚོན་ བཏང་ཤད་ལོ་ དགའ་དྲགས་ ཡོད་པོ་ ལགས།",
-    pronunciation: "lengey chen tashey loh gata yepo la? ",
+    pronunciation: "lhengye chen tashey loh gata yepo la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275516/correction/are_you_interested_in_painting_ezhvao.mp3",
   },
@@ -10592,7 +10592,7 @@ const Data: Array<DataProps> = [
     key: "1489",
     english: "Did you find any mistake?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ནོར་འཁྲུལ་ གན་ གཟིགས་པོ་ ལགས།",
-    pronunciation: "lengey ki nortul khan zipo la?",
+    pronunciation: "lhengye ki nortul khan zipo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275449/correction/did_you_find_any_mistake_bw8qgg.mp3",
   },
@@ -10600,7 +10600,7 @@ const Data: Array<DataProps> = [
     key: "1490",
     english: "How much did you complete?",
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ ག་ཚོད་ མྱོ༹ང་པོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengey ki khache myungpo nangbo la ?",
+    pronunciation: "lhengye ki khache myungpo nangbo la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275395/correction/how_much_did_you_complete_rwvfci.mp3",
   },
@@ -10608,7 +10608,7 @@ const Data: Array<DataProps> = [
     key: "1491",
     english: "Do you like travelling?",
     bhutia: "ལྷན་རྒྱས་ འགྲུལ་སྐོར་ གནང་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lengey dulkor nangsha gacho ye kala?",
+    pronunciation: "lhengye dulkor nangsha gacho ye kala?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275327/correction/do_you_like_travelling_i3qxdz.mp3",
   },
@@ -10616,7 +10616,7 @@ const Data: Array<DataProps> = [
     key: "1492",
     english: "Have you studied Bhutia in school?",
     bhutia: "ལྷན་རྒྱས་ སློབ་གྲྭ་ན་ ལྷོ་སྐད་ སྦྱང་ ཞེ་ཀ",
-    pronunciation: "lengey lobda na lhoke zangshe ga?",
+    pronunciation: "lhengye lobda na lhoke zangshe ga?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275248/correction/have_you_studied_bhutia_in_school_hefmss.mp3",
   },
@@ -10624,7 +10624,7 @@ const Data: Array<DataProps> = [
     key: "1493",
     english: "Where have you been?",
     bhutia: "ལྷན་རྒྱས་ ག་ན་ ཡོད་མཁན་ ལགས།",
-    pronunciation: "lengay khana yeken la? ",
+    pronunciation: "lhengye khana yeken la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275159/correction/where_have_you_been_zplyft.mp3",
   },
@@ -10632,7 +10632,7 @@ const Data: Array<DataProps> = [
     key: "1494",
     english: "Do you like gardening?",
     bhutia: "ལྷན་རྒྱས་ མེ་ཏོག་ བཙུག་ཤད་ལོ་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lengey meto chukshe loh gacho ye ka la?",
+    pronunciation: "lhengye meto chukshe loh gacho ye ka la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139627/correction/do_you_like_gardening_imtmxu.mp3",
   },
@@ -10648,7 +10648,7 @@ const Data: Array<DataProps> = [
     key: "1496",
     english: "Do you want to go for show?",
     bhutia: "ལྷན་རྒྱས་ གཟིགམ་ གཟིགས་པ་ བྱོན་བོ་ གནང་ཤད་ ལགས།",
-    pronunciation: "lengey zem zipa chenbo nangshey la? ",
+    pronunciation: "lhengye zem zipa chenbo nangshey la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275092/correction/do_you_want_to_go_for_show_oys54f.mp3",
   },
@@ -10664,7 +10664,7 @@ const Data: Array<DataProps> = [
     key: "1498",
     english: "For how many days is your trip?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ འགྲུལ་སྐོར་ ཉིམ་ ག་ཚོད་ཀྱི་ འབོ།",
-    pronunciation: "lengey ki dulkor nin khaje kebo?",
+    pronunciation: "lhengye ki dulkor nin khaje kebo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139627/correction/for_how_many_days_is_your_trip_hh3rrf.mp3",
   },
@@ -10705,7 +10705,7 @@ const Data: Array<DataProps> = [
     key: "1515",
     english: "What do you do in your free time?",
     bhutia: "ལྷན་རྒྱས་ དུས་ཚོད་ སྟོང་པོ་ ཡོད་སྐབས་ གན་ གནང་བདོ་ ལགས།",
-    pronunciation: "lengey thichey tungpo yakap khang nangdoh la?",
+    pronunciation: "lhengye thichey tungpo yakap khang nangdoh la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139629/correction/what_do_you_do_in_your_free_time_sodyqa.mp3",
   },
@@ -10745,7 +10745,7 @@ const Data: Array<DataProps> = [
     key: "1520",
     english: "Write your name here.",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མཚན་ འདི་ཁ་ བྲིས་བོ་ གནང་།",
-    pronunciation: "lengey ki chen di kha thibo na",
+    pronunciation: "lhengye ki chen di kha thibo na",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139629/correction/write_your_name_here_spvxmu.mp3",
   },
@@ -10753,7 +10753,7 @@ const Data: Array<DataProps> = [
     key: "1521",
     english: "Show me your book.",
     bhutia: "ལྷན་རྒྱས་ ང་ལོ་ དེབ་འདི་ བསྟན་བོ་ གནང་ཅིག།",
-    pronunciation: "lengey nga loh thebdi tenbo nangchey.",
+    pronunciation: "lhengye nga loh thebdi tenbo nangchey.",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139627/correction/show_me_your_book_x245uz.mp3",
   },
@@ -10769,7 +10769,7 @@ const Data: Array<DataProps> = [
     key: "1523",
     english: "Make tea for me.",
     bhutia: "ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།",
-    pronunciation: "lengey ngaloh cha jobo nangchey ",
+    pronunciation: "lhengye nga-lo cha jobo nangchey ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139628/correction/make_tea_for_me_o7uadg.mp3",
   },
@@ -10801,7 +10801,7 @@ const Data: Array<DataProps> = [
     key: "1527",
     english: "Bring your children to school.",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ སྲས་ སྲསམ་ཙུ་ སློབ་གྲྭ་ལོ་ ཁྱིག་བྱོན།",
-    pronunciation: "lengey ki se semchu lobda loh kigchen ",
+    pronunciation: "lhengye ki se semchu lobda loh kigchen ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/bring_your_children_to_school_e1kxxu.mp3",
   },
@@ -10809,7 +10809,7 @@ const Data: Array<DataProps> = [
     key: "1528",
     english: "Make tea for me.",
     bhutia: "ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།",
-    pronunciation: "lengey nga loh cha jobo nangchey",
+    pronunciation: "lhengye nga lo cha jobo nangchey",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139628/correction/make_tea_for_me_o7uadg.mp3",
   },
@@ -10834,7 +10834,7 @@ const Data: Array<DataProps> = [
     key: "1533",
     english: "Improve your handwriting.",
     bhutia: "ལྷན་རྒྱས་ ཡིག་གཟུགས་ ཨ་ཙི་གཅིག་ ཡར་རྒྱས་ གནང་དགོས་པས།",
-    pronunciation: "lengey yigzu achi che yargay nango pay",
+    pronunciation: "lhengye yigzu achi che yargay nango pay",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/improve_your_handwriting_w0mhsm.mp3",
   },
@@ -10842,7 +10842,7 @@ const Data: Array<DataProps> = [
     key: "1534",
     english: "You are so gorgeous.",
     bhutia: "ལྷན་རྒྱས་ ག་འདེམ་ ལྕང་དྲགས་ འདུག།",
-    pronunciation: "lengey khatem changta du",
+    pronunciation: "lhengye khatem changta du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/you_are_so_gorgeous_usx7ao.mp3",
   },
@@ -10850,7 +10850,7 @@ const Data: Array<DataProps> = [
     key: "1535",
     english: "Your hair is black and long.",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ དབུ་སྐྱ་འདི་ ནག་པོ་ དང་ རིང་པོ་ འདུག་ལགས།",
-    pronunciation: "lengey ki ukya di nagpo tah ringku duh lah ",
+    pronunciation: "lhengye ki ukya di nagpo tah ringku duh lah ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/your_hair_is_black_and_long_dzupvv.mp3",
   },
@@ -10866,7 +10866,7 @@ const Data: Array<DataProps> = [
     key: "1537",
     english: "You are so restless.",
     bhutia: "ལྷན་རྒྱས་ ལེབ་སྟི་རང་ ཚབས་ཚུབ་ འདུག་ལགས།",
-    pronunciation: "lengey lep ti ra chyapchup du lah",
+    pronunciation: "lhengye lep ti ra chyapchup du lah",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/you_are_so_restless_rambon.mp3",
   },
@@ -10874,7 +10874,7 @@ const Data: Array<DataProps> = [
     key: "1538",
     english: "You look exhausted.",
     bhutia: "ལྷན་རྒྱས་ ལེབ་སྟི་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་འདུག།",
-    pronunciation: "lengey lep ti kuthang chepo dem du",
+    pronunciation: "lhengye lep ti kuthang chepo dem du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/you_look_exhausted_sdchsc.mp3",
   },
@@ -10890,7 +10890,7 @@ const Data: Array<DataProps> = [
     key: "1540",
     english: "Happy birthday!",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ འཁྲུངས་སྐར་ ཉིན་ནང་ བཀྲ་ཤིས་ བདེ་ལེགས་ ཡོད་ལགས།",
-    pronunciation: "lengey ki tungkar nyin na tashi delek ye la ",
+    pronunciation: "lhengye ki tungkar nyin na tashi delek ye la ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/happy_birthday_aro7rg.mp3",
   },
@@ -11058,7 +11058,7 @@ const Data: Array<DataProps> = [
     key: "1561",
     english: "Please tell him to call me.",
     bhutia: "ང་ལོ་ ཞལ་པར་ གནང་བོ་ གནང་ན་ གསུང་བོ་ གནང་ལགས།",
-    pronunciation: "nga loh shelpar nangbo nangna  sungbo nang la ",
+    pronunciation: "nga lo shelpar nangbo nangna  sungbo nang la ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/please_tell_him_to_call_me_vpopu8.mp3",
   },
