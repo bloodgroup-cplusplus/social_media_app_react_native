@@ -10236,15 +10236,15 @@ const Data: Array<DataProps> = [
     key: "1447",
     english: "Are you interested in singing?",
     bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ ཐུགས་སྤྲོ་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lhengye lo sunglo kyapse thug-tro yea ka la ?",
+    pronunciation: "lhengye lo sung-lu kyon-shed thug-tro yea ka la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/are_you_interested_in_singing_ipuasi.mp3",
   },
   {
     key: "1448",
     english: "Do you get up early in the morning?",
-    bhutia: "ལྷན་རྒྱས་ དྲོ་པ་ མ་ལག་ བཞངས་པོ་ གནང་ག་ ལགས།",
-    pronunciation: "lhengye thopa mala zyapoh nang gala ?",
+    bhutia: "ལྷན་རྒྱས་ སྔ་རུ་ དྲོ་ལས་ བཞངས་པོ་ གནང་དོ་ ལགས?",
+    pronunciation: "lhengye nga-ru thro-ley zhang-po nang do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139735/correction/do_you_get_up_early_in_the_morning_omrni6.mp3",
   },
@@ -10252,103 +10252,103 @@ const Data: Array<DataProps> = [
     key: "1449",
     english: "Where did you go yesterday?",
     bhutia: "ལྷན་རྒྱས་ མདང་ ག་ན་ བྱོན་བོ་ ལགས།",
-    pronunciation: "lengay da khana chenbo la?",
+    pronunciation: "lhengye dang gha-na joen-bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139758/correction/where_did_you_go_yesterday_kcygog.mp3",
   },
   {
     key: "1450",
     english: "What are you doing right now?",
-    bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ གན་ གནང་བདོ་ ལགས།",
-    pronunciation: "lengey thato khan nado la ?",
+    bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ གན་ གནང་དོ་ ལགས།",
+    pronunciation: "lhengey tha-ta ghan nang-do la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139781/correction/what_are_you_doing_right_now_kmcrz3.mp3",
   },
   {
     key: "1451",
     english: "How are you feeling now?",
-    bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ ག་འདེམ་ ཡོད་པོ་ ལགས།",
-    pronunciation: "lengay thato khatem yepo la?",
+    bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ ག་ལྟེམ་ ཡོད་ ལགས།",
+    pronunciation: "lhengye tha-ta gha-tem yea la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_are_you_feeling_now_rmxl9r.mp3",
   },
   {
     key: "1452",
     english: "How is your mom?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཡུམ་ སྐུ་གཟུགས་ ག་ལྟེམ་ ཡོད་པོ་ ལགས།",
-    pronunciation: "lengey ki yum kuzu khatem ye la?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཡུམ་ ག་ལྟེམ་ ཡོད་ ལགས།",
+    pronunciation: "lhengye-kyi yum gha-tem yea la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_mom_1_btyr32.mp3",
   },
   {
     key: "1453",
     english: "Do you want to eat noodles?",
-    bhutia: "ལྷན་རྒྱས་ ཐུག་པ་ བཞེས་པོ་ གནང་ཤད་ ལགས།",
-    pronunciation: "lengey thukpa zepo nangshey la?",
+    bhutia: "ལྷན་རྒྱས་ བཞེསཐུགས་ བཞེས་འདོད་ ཡོད་ཀ་ ལགས?",
+    pronunciation: "lhengye zhe-thug zhe-doed yea ka la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/do_you_want_to_eat_noodles_nkvdym.mp3",
   },
   {
     key: "1454",
     english: "What should we order?",
-    bhutia: "ང་ཅག་ གན་ མངའ་དགོས་ཤད་བོ?",
-    pronunciation: "ngacha khan ngagoshe bo?",
+    bhutia: "ང་ཅག་ གན་ མངགས་ དགོས་ཤད་ འབོ?",
+    pronunciation: "nga-cha ghan mngag go-shed bo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/what_should_we_order_1_ee24dr.mp3",
   },
   {
     key: "1455",
     english: "Does this place sell burgers?",
-    bhutia: "ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག་ ལགས?",
-    pronunciation: "yul dina chigya ki faklep choga la ?",
+    bhutia: "ས་ཆ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག་ ལགས?",
+    pronunciation: "sa-chha di-na chhi-gyal gyi phak-lep chong-ga la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
   },
   {
     key: "1456",
     english: "How is your work going on?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་འདེམ་ བྱུང་བདོ?",
-    pronunciation: "lengey ki chale khatem jungdoh?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་འདེམ་ བྱུང་དོ?",
+    pronunciation: "lhengye kyi chhag-ley gha-tem jung-do?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_work_going_on_wvty3c.mp3",
   },
   {
     key: "1457",
     english: "Is everything alright?",
-    bhutia: "ཁྱད་ལས་ ལེགམ་རང་ ཡོད་ཀ།",
-    pronunciation: "khele lemra yeka?",
+    bhutia: "ཁེ་ལེ་ ལེགམ་ ཡོད་ཀ?",
+    pronunciation: "khe-le lem yea-ka?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/is_everything_alright_u494mj.mp3",
   },
   {
     key: "1458",
-    english: "Do you have free time today?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ད་རིང་ ཐུགས་ དལ་ག་ ལགས།",
-    pronunciation: "lengey tharing thu dakah la?",
+    english: "Are you free today?",
+    bhutia: "ལྷན་རྒྱས་ ད་རིང་ ཐུགས་ དལ་ག་ ལགས?",
+    pronunciation: "lhengye dha-ring thug dhel-ga la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/do_you_have_free_time_today_agfmwq.mp3",
   },
   {
     key: "1459",
     english: "Can we meet today?",
-    bhutia: "ད་རིང་ ང་ཅག་ འཕྱ༹ད་ཚུགས་ ཀ་ལགས།",
-    pronunciation: "tharing ngacha fechu ka la?",
+    bhutia: "ད་རིང་ ང་ཅག་ འཕྱ༹ད་ཚུགས་ ཀ་ ལགས?",
+    pronunciation: "dha-ring nga-cha phed-tshug ka la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/can_we_meet_today_hposdw.mp3",
   },
   {
     key: "1460",
     english: "Which places have you visited?",
-    bhutia: "ལྷན་རྒྱས་ ཡུལ་ ག་འདི་ ག་འདི་ན་ བསྐོར་བ་ བྱོན་བོ་  གནང་བོ།",
-    pronunciation: "lengey  yi khadikhadi na korba chenbo nangboh?",
+    bhutia: "ལྷན་རྒྱས་ ཡུལ་ཙུ་ ག་འདི་ ག་འདི་ བསྐོར་བོ་ གནང་བོ?",
+    pronunciation: "lhengye  yue-chu gha-di gha-di  kor-bo  nang-bo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_places_have_you_visited_jap0tu.mp3",
   },
   {
     key: "1461",
     english: "Which one is better?",
-    bhutia: "ག་འདི་ འདི་ ལེགས་པས་ ལགས།",
-    pronunciation: "khadi di lepeh la?",
+    bhutia: "ག་འདི་ ལེགས་པད་ ལགས?",
+    pronunciation: "gha-di  ley-ped la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_one_is_better_yqbqjp.mp3",
   },
