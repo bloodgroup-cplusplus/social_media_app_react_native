@@ -10178,8 +10178,8 @@ const Data: Array<DataProps> = [
   {
     key: "1440",
     english: "Do you think  it will rain today?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཐུགས་བསམ་ན་ ད་རིང་ ཆརབ་ རྐྱབས་ཀ་ ལགས།",
-    pronunciation: "lengeyki thusam na tharing chyap kyapka lah?",
+    bhutia: "ལྷན་རྒྱས་! ད་རིང་ ཆརབ་ རྐྱབས་ཉེ་ འདེམ་ འདུག་ཀ་ ལགས?",
+    pronunciation: "lhengye  tha-ring chhap kyap-nyi dhem du-ka la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/do_you_think_it_will_rain_today_evk8aj.mp3",
   },
@@ -10187,56 +10187,56 @@ const Data: Array<DataProps> = [
     key: "1441",
     english: "Could you please bring water for me?",
     bhutia:
-      "འོ་བརྒྱལ་རུང་ ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམ་བྱོན་ ཅིག། (needs correction)",
-    pronunciation: " hogeyrung lenge nga loh chuchi namchen chi ? ",
+      " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམ་བྱོན་ ཚུགས་ ཀ་ ལགས?",
+    pronunciation: "lhengye nga lo chhu-chi nam-joen chu ka la ? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/could_you_please_bring_water_for_me_zonua2.mp3",
   },
   {
     key: "1442",
     english: "What is your favourite flower?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ དགའ་ཤོས་ མེ་ཏོག་འདི་ ག་འདི་ འབོ་ལགས།",
-    pronunciation: "lengey ki gasho meto di khadi bo la?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ མེ་ཏོག དགའ་ཤོས་ ་འདི་ ག་འདི་ འབོ་ལགས།",
+    pronunciation: "lhengye kyi me-tok ga-sho di  gha-di bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/what_is_your_favourite_flower_ellcdg.mp3",
   },
   {
     key: "1443",
     english: "For whom did you make food?",
-    bhutia: "ལྷན་རྒྱས་ ཀྭ་ཡེ་ཀི་ དོན་ལོ་ ཞལ་ལག་ བཟོ་བོ་ གནང་འབོ།",
-    pronunciation: "lengey keike thenlo shela zobo nangbo? ",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཀའི་ དོན་ལོ་ ཞལ་ལག་ བཟོ་བོ་ གནང་འབོ?",
+    pronunciation: "lhengye-kyi kae then-lo zhe-lag zo-bo nang-bo? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/for_whom_did_you_make_the_food_scx505.mp3",
   },
   {
     key: "1444",
     english: "How was your day?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཉིམ་ ག་འདེམ་  འབྱུང་ འབོ།",
-    pronunciation: "lengeyki nim khatem zung bo ?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཉིམ་ ག་ལྟེམ་ འབྱུང་ ཞེ?",
+    pronunciation: "lhengye kyi nyim gha-tem zung ze ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/how_was_your_day_gr7qin.mp3",
   },
   {
     key: "1445",
     english: "When did you come from Delhi?",
-    bhutia: "ལྷན་རྒྱས་ དྷེལ་ལི་ལས་ ནམ་ ལོག་ བྱོན་བོ་ གནང་འབོ།",
-    pronunciation: "lengay delhi le nam logchen chenbo nangbo?",
+    bhutia: "ལྷན་རྒྱས་ ལྡི་ལི་ལས་ ནམ་ བྱོན་བོ་ གནང་འབོ།",
+    pronunciation: "lhengye Delhi le nam  joen-bo nang-bo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/when_did_you_come_from_delhi_wvsq4k.mp3",
   },
   {
     key: "1446",
     english: "How was your journey?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ འགྲུལ་ ག་འདེམ་ འབྱུང་འབོ་ ལགས།",
-    pronunciation: "lengey ki de khatem zungbo la",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ འགྲུལ་ ག་འདེམ་ འབྱུང་འབོ་ ལགས?",
+    pronunciation: "lhengye kyi drul gha-tem jung-bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/how_was_your_journey_grnkgr.mp3",
   },
   {
     key: "1447",
     english: "Are you interested in singing?",
-    bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ རྐྱབས་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
-    pronunciation: "lhengye sunglo kyapse gacho ye ka la ?",
+    bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།",
+    pronunciation: "lhengye lo sunglo kyapse gacho ye ka la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/are_you_interested_in_singing_ipuasi.mp3",
   },
