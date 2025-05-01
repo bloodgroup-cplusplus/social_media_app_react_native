@@ -10473,31 +10473,31 @@ const Data: Array<DataProps> = [
     key: "1476",
     english: "What time will your meeting get over?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ ལོ་ མྱོ༹ང་ཤད་ ལགས?",
-    pronunciation: "lhengye kyi tshog-du chhu-choed gha-zui lo myong-shed la?",
+    pronunciation: "lhengye kyi tshog-du chhu-choed gha-choed lo myong-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140032/correction/what_time_will_your_meeting_get_over_nsnb0l.mp3",
   },
   {
     key: "1477",
     english: "What should I get for lunch tomorrow?",
-    bhutia: "ཐོ་རངས་ཀྱི་ ཉིན་མིའི་ ཛོའུ་ཀི་ དོན་ལས་ གན་ འབག་  འོང་ཤད།",
-    pronunciation: "thorang ki nyinmeh zouki thenlay khanbak houngsey? ",
+    bhutia: "ངས་ ཐོ་རངས་ ཛ་བོ་ གན་ འབག་ འོང་ཤད་ ལགས?",
+    pronunciation: " ngaa tho-rang zou ghan bak hong-shed la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140032/correction/what_should_i_get_for_lunch_tomorrow_wgysdd.mp3",
   },
   {
     key: "1478",
     english: "Are you taking your medicine?",
-    bhutia: "ལྷན་རྒྱས་ གསོལ་སྨན་ བཞེས་པོ་ གནང་བདོ་ཀ་ ལགས།",
-    pronunciation: "lengey seman zepo nangdoh ka la?",
+    bhutia: "ལྷན་རྒྱས་ གསོལ་སྨན་ བཞེས་པོ་ གནང་དོ་ ལགས།",
+    pronunciation: "lhengye sol-sman zhe-po nang-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/are_you_taking_medicine_f1vvzh.mp3",
   },
   {
     key: "1479",
     english: "Aren't you going to your friends place?",
-    bhutia: "ལྷན་རྒྱས་ ཆགས་རོགས་ ཙུ་ཀི་ ཡུལ་ལོ་ བྱོན་བོ་ མི་གནང་ ག་ ལགས།",
-    pronunciation: "lengey charo chuki yulloh chenbo minang ga la?",
+    bhutia: "ལྷན་རྒྱས་ རོགས་ཙུ་ སྡོད་ས་ མི་བྱོན་ ག་ ལགས?",
+    pronunciation: "lhengye rog-chu doed-sa mi-joen ga la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/arent_you_going_to_your_friends_place_mg5lls.mp3",
   },
