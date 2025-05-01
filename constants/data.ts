@@ -10438,8 +10438,8 @@ const Data: Array<DataProps> = [
   {
     key: "1472",
     english: "It's a sunny day. Shall we go for swimming?",
-    bhutia: "ད་རིང་ ཉིམ་ ལེགམ་ ཤར་འདུག། ང་ཅག་  བྱེ་ རྩེད་བ་ བྱོན་ཤད་ མན་ན?",
-    pronunciation: "tha-ring nyim tsha-ta du. nga-cha je kya mena?",
+    bhutia: "ད་རིང་ ཉིམ་ ཚ་དྲགས་ འདུག། ང་ཅག་  བྱེ་/སྤྱེ་ རྐྱབས་པ་ བྱོན་ཤད་ མན་ན?",
+    pronunciation: "tha-ring nyim tsha-ta du. nga-cha je/che kya-pa joen-shed men-na?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/it_is_a_sunny_day_shall_we_go_for_swimming_njsy6s.mp3",
   },
@@ -10447,33 +10447,33 @@ const Data: Array<DataProps> = [
     key: "1473",
     english: "Can you please drop me to my office? I'm late!",
     bhutia:
-      "ལྷན་རྒྱས་ ང་ལོ་ ལས་ཁུངས་ ཟང་སྟེ་ བསྐྱེལ་བ་ བྱོན་བོ་ གནང་ཤད་ ལགས། ང་ ལེབ་སྟི་ ཕྱི༹ས་ཚར།",
+      "ལྷན་རྒྱས་ ང་ལོ་ ལས་ཁུངས་ ཟང་སྟེ་ བསྐྱེལ་བོ་ གནང་ ཚུགས་ཀ་? ང་ ཕྱི༹ས་ཚར་ ལགས།",
     pronunciation:
-      "lengay nga loh lekhung sangtey kewa chenbo nangshey la? nga lhep ti phi char !",
+      "lhengye nga-lo ley-khung zang-tey kyel-bo  nang-tshu ka ? nga phi tshar la !",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/can_you_please_drop_me_to_the_office_i_am_running_late_wwzccs.mp3",
   },
   {
     key: "1474",
     english: "Did you understand this chapter?",
-    bhutia: "ལྷན་རྒྱས་ ལེའུ་འདི་ མཁྱེན་བོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengey lewdi khenbo nabo la?",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ ལེའུ་ཚན་ འདི་ མཁྱེན་བོ་ གནང་ཞེ་ ག་ ལགས?",
+    pronunciation: "lhengye-kyi leu-tshen di khyen-bo nang-ze ga la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/did_you_understand_this_chapter_jpzxaf.mp3",
   },
   {
     key: "1475",
     english: "When are you going to your village?",
-    bhutia: "ལྷན་རྒྱས་ ཡུལ་ཁ་ ནམ་ ལོག་ བྱོན་བོ་ གནང་ཤད ལགས།",
-    pronunciation: "lengey yulkha nam lokchen bo nangshey la?",
+    bhutia: "ལྷན་རྒྱས་ རང་གི་ ཡུལ་ཁ་ ནམ་ བྱོན་བོ་ གནང་ཤད ལགས?",
+    pronunciation: "lhengye rang-gi yul-kha nam joen-bo nang-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140025/correction/when_are_you_going_to_your_village_y5omus.mp3",
   },
   {
     key: "1476",
     english: "What time will your meeting get over?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ མྱོ༹ང་ཤད་ལགས།",
-    pronunciation: "lengey ki chogdi chuche khaziloh myungshe la?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ ལོ་ མྱོ༹ང་ཤད་ ལགས?",
+    pronunciation: "lhengye kyi tshog-du chhu-choed gha-zui lo myong-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140032/correction/what_time_will_your_meeting_get_over_nsnb0l.mp3",
   },
