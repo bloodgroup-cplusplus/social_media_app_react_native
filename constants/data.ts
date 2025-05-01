@@ -10355,40 +10355,40 @@ const Data: Array<DataProps> = [
   {
     key: "1462",
     english: "Should I get this?",
-    bhutia: "ང་ འདི ལེན་ག་ ལགས།",
-    pronunciation: "nga di lenga la?",
+    bhutia: "འདི་ ངས་ ཐོབ་ ཚུགས་ ཀ་?",
+    pronunciation: "di ngaa thob-chu ka?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/should_i_get_this_nniqve.mp3",
   },
   {
     key: "1463",
     english: "Isn't it too expensive?",
-    bhutia: "ཨོ་འདི་ཏོ་ ལེབ་སྟི་ གོང་ མ་ཆེ་ ག",
-    pronunciation: "odi toh lepti gong machey ga?",
+    bhutia: "འདི་ ལེབ་ གོང་ མ་ཆེ་ ག?",
+    pronunciation: "di leb gong ma-chey ga?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140012/correction/isnt_it_too_expensive_hgmg9v.mp3",
   },
   {
     key: "1464",
     english: "Do you know about the food in Assam?",
-    bhutia: "ལྷན་རྒྱས་ ཨ་བསམ་གྱི་ ཟམ་གྱི་ སྐོར་ལས་ མཁྱེན་ག་ ལགས།",
-    pronunciation: "lengey assam gi samgi korle khen gala?",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཨ་སཱམ་གྱི་ ཟ་མའི་ སྐོར་ལོ་ མཁྱེན་ག་ ལགས།",
+    pronunciation: "lhengye-kyi Assam gyi za-mea kor-lo khyen-ga la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140022/correction/do_you_know_about_the_food_in_assam_yy4ezv.mp3",
   },
   {
     key: "1465",
     english: "When will the rain stop!",
-    bhutia: "ཆརབ་འདི་ ནམ་ ཆད་ཤད་ སྙམ།",
-    pronunciation: "chap di nam tseche nyam !",
+    bhutia: "ཆརབ་ འདི་ ནམ་ ཆད་ཤད་ ཉམ!",
+    pronunciation: "chaab di nam tshed-shed nyam !",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/when_will_the_rain_stop_pzh7ji.mp3",
   },
   {
     key: "1466",
     english: "When are you coming  home?",
-    bhutia: "ལྷན་རྒྱས་ གཟིམ་ཁང་ནང་ ནམ་ ལོག་ བྱོན་ཤད་ ལགས།",
-    pronunciation: "lengey zhimkhong na nam lok chenche la?",
+    bhutia: "ལྷན་རྒྱས་ གཟིམ་ཁང་ན་ ནམ་ བྱོན་ཤད་ ལགས།",
+    pronunciation: "lhengye zhim-khang-na nam joen-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/when_are_you_coming_home_gop98i.mp3",
   },
@@ -10396,7 +10396,7 @@ const Data: Array<DataProps> = [
     key: "1467",
     english: "Did you clean the utensils?",
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྣོད་ཙུ་ ཁྱུས་བོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lengey ki nichul kyuboh nabo la?",
+    pronunciation: "lhengye kyi noed-chu khyu-bo nangbo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/did_you_clean_the_utensils_wnm8s9.mp3",
   },
@@ -10404,7 +10404,7 @@ const Data: Array<DataProps> = [
     key: "1468",
     english: "What is your dog name?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཁྱིའི་ མིང་ གན་འབོ།",
-    pronunciation: "lengey ki khehe ming khanbo ?",
+    pronunciation: "lhengye kyi khyi-ye ming ghan-bo ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/what_is_your_dogs_name_tqwsnx.mp3",
   },
@@ -10412,16 +10412,16 @@ const Data: Array<DataProps> = [
     key: "1469",
     english: "Are you planning for further studies?",
     bhutia:
-      "ལྷན་རྒྱས་ འདི་ལས་ ལྷག་ཀོའི་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་བདོ་ ལགས།",
-    pronunciation: "lengey dile lhokey lobzong nashey ki charzi nangdo lah?",
+      "ལྷན་རྒྱས་ འདི་ལས་ ཡར་ལྟེ་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་དོ་ ལགས?",
+    pronunciation: "lhengye di-ley  ya-tey lob-zang nang-shed kyi chhar-zhi nang-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/are_you_planning_for_further_studies_bloqlm.mp3",
   },
   {
     key: "1470",
     english: "How is your work going on?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་འདེམ་ ཐོན་བདོ་འབོ།",
-    pronunciation: "lengey ki chaley khatem thendoh boh?",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་་ལྟེམ་ ཐོན་དོ་ ལགས?",
+    pronunciation: "lhengye kyi chyag-ley  gha-tem thoen-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_work_going_on_wvty3c.mp3",
   },
@@ -10429,17 +10429,17 @@ const Data: Array<DataProps> = [
     key: "1471",
     english: "You look so tired. Is everything alright?",
     bhutia:
-      "ལྷན་རྒྱས་ ལེབ་སྟི་རང་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་ འདུག་ཤོ། ཁྱད་ལས་ གང་པོ་ ལེགམ་རང་ ཡོད་ཀ་ ལགས།",
+      "ལྷན་རྒྱས་ ལེབ་སྟི་ར་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་ འདུག་ཤོ། ཁེ་ལེ་ ལེགམ་ར་ ཡོད་ཀ་ ལགས?",
     pronunciation:
-      "lengey lep ti ra kuthang chepo dem duksoh.khaylay khapo lemra ye ka la? ",
+      "lhengye lep-ti-ra ku-thang ched-po dem du-sho.khey-ley lem-ra yea ka la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/you_look_tired_is_everything_alright_kme53b.mp3",
   },
   {
     key: "1472",
     english: "It's a sunny day. Shall we go for swimming?",
-    bhutia: "ད་རིང་ ཉིམ་ ལེགམ་ ཤར་འདུག། ང་ཅག་  བྱེ་ རྩེད་བ་ བྱོན་ཤད་ མན་ན།",
-    pronunciation: "tharing nim lhem sharduh. ngacha che chewa chenshe mena?",
+    bhutia: "ད་རིང་ ཉིམ་ ལེགམ་ ཤར་འདུག། ང་ཅག་  བྱེ་ རྩེད་བ་ བྱོན་ཤད་ མན་ན?",
+    pronunciation: "tha-ring nyim tsha-ta du. nga-cha je kya mena?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/it_is_a_sunny_day_shall_we_go_for_swimming_njsy6s.mp3",
   },
