@@ -3214,7 +3214,7 @@ const Data: Array<DataProps> = [
     key: "461",
     english: "What is your name?",
     bhutia: "རང་ གི་ མིང་ གན་ བོ?",
-    pronunciation: "rang-ki ming gan-bo?",
+    pronunciation: "rang-ki ming ghan-bo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892377/conversation/what_is_your_name_chsgvs.mp4",
   },
@@ -3222,7 +3222,7 @@ const Data: Array<DataProps> = [
     key: "462",
     english: "What is your name?",
     bhutia: "རང་གི་ མཚན་ གན་བོ?",
-    pronunciation: "rang-ki chen khan-bo?",
+    pronunciation: "rang-ki chen ghan-bo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140497/correction/what_is_your_name_second_one_wthdrn.mp3",
   },
@@ -3230,7 +3230,7 @@ const Data: Array<DataProps> = [
     key: "463",
     english: "What is your name? (honorific)",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མཚན་ གན་ཞུ་དོ?",
-    pronunciation: "lenge-ki chen khan-tsu do?",
+    pronunciation: "lhengye-kyi chen ghan-tsu do?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_is_your_name_with_respect_1_kxrkzh.mp3",
   },
@@ -3238,14 +3238,14 @@ const Data: Array<DataProps> = [
     key: "464",
     english: "My name is Thupten",
     bhutia: "ངའི་མིང་ ཐུབ་བསྟན་ ཨིན།",
-    pronunciation: "ngai ming thupten in",
+    pronunciation: "ngai ming thupten en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892309/conversation/my_name_is_thupten_ju9jj1.mp4",
   },
   {
     key: "465",
     english: "How are you ?",
-    pronunciation: "rang-khatem-yea?",
+    pronunciation: "rang gha-tem yea?",
     bhutia: "རང་ ག་ལྟེམ་ ཡོད?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892262/conversation/how_are_you_cean45.mp4",
@@ -3253,7 +3253,7 @@ const Data: Array<DataProps> = [
   {
     key: "466",
     english: "How are you (honorific) ?",
-    pronunciation: "lengay-thato-khatem-yea?",
+    pronunciation: "lhengye tha-to gha-tem yea?",
     bhutia: "ལྷན་རྒྱས་ ད་ལྟོ་ ག་ལྟེམ་ ཡོད?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140489/correction/how_are_you_with_respect_vldoyx.mp3",
@@ -3261,7 +3261,7 @@ const Data: Array<DataProps> = [
   {
     key: "467",
     english: "How are you (honorific) ?",
-    pronunciation: "ku-zu-zang-po? lengay-khatem-yea la",
+    pronunciation: "ku-zu-zang-po? lhengye gha-tem yea la",
     bhutia: "སྐུ་གཟུགས་ བཟང་བོ? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892262/conversation/how_are_you_cean45.mp4",
@@ -3269,7 +3269,7 @@ const Data: Array<DataProps> = [
   {
     key: "468",
     english: "I am fine, thank you",
-    pronunciation: "nga-lem-ra-yea-la ",
+    pronunciation: "nga lem-ra yea la ",
     bhutia: "ང་ལེགམ་ར་  ཡོད་ ལགས།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140480/correction/i_am_fine_thank_you_xwb0vq.mp3",
@@ -3277,7 +3277,7 @@ const Data: Array<DataProps> = [
   {
     key: "469",
     english: "Where are you from?",
-    pronunciation: "rang-khana-lebo?",
+    pronunciation: "rang gha-na led-bo?",
     bhutia: "རང་ ག་ན་ ལས་ བོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140452/correction/where_are_you_from_ixvifj.mp3",
@@ -3285,7 +3285,7 @@ const Data: Array<DataProps> = [
   {
     key: "470",
     english: "Where are you from? (honorific)",
-    pronunciation: "rang-khana-ju-khen-bo?",
+    pronunciation: "rang gha-na ju-khen bo?",
     bhutia: "རང་ ག་ན་ བཞུགས་ མགན་ བོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140455/correction/where_are_you_from_with_respect_dupv6c.mp3",
@@ -3293,7 +3293,7 @@ const Data: Array<DataProps> = [
   {
     key: "471",
     english: "I am from Bhutan",
-    pronunciation: "nga-Druk-le-in",
+    pronunciation: "nga Druk-le en",
     bhutia: "ང་འབྲུག་ ལས་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140479/correction/i_am_from_Bhutan_1_jfkfdt.mp3",
@@ -3301,7 +3301,7 @@ const Data: Array<DataProps> = [
   {
     key: "472",
     english: "I am from Bhutan (honorific)",
-    pronunciation: "nga-Druk-lo-dekin-in",
+    pronunciation: "nga Druk lo de-kin en",
     bhutia: " ང་ འབྲུག་ ལོ་ སྡོད་མཁན་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140479/correction/I_am_from_bhutan_pi6qrj.mp3",
@@ -3309,7 +3309,7 @@ const Data: Array<DataProps> = [
   {
     key: "473",
     english: "How old are you?",
-    pronunciation: "rang-lo-khaje-bu?",
+    pronunciation: "rang-lo gha-je bu?",
     bhutia: "རང་ ལོ་ ག་ཚོད་བོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140480/correction/how_old_are_you_xyzp3l.mp3",
@@ -3317,7 +3317,7 @@ const Data: Array<DataProps> = [
   {
     key: "474",
     english: "How old are you? (honorific)",
-    pronunciation: "lenge-gunglo-khaje-jepo-inum?",
+    pronunciation: "lenge-gunglo-khaje-jed-po enam?",
     bhutia: "ལྷན་རྒྱས་ དགུང་ལོ་ ག་ཚོད་ བཞེས་པོ་ ཨིནམ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140480/correction/how_old_are_you_with_respect_k9jcgr.mp3",
@@ -3438,7 +3438,7 @@ const Data: Array<DataProps> = [
   {
     key: "489",
     english: "Where is your school ?",
-    pronunciation: "ran-ki-lobda-khana-yeapo?",
+    pronunciation: "rang-ki lob-dra ghana yea po?",
     bhutia: "རང་གི་ སློབ་གྲྭ་ ག་ན་ ཡོད་པོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/where_is_your_schol_tinzcl.mp3",
@@ -3446,7 +3446,7 @@ const Data: Array<DataProps> = [
   {
     key: "490",
     english: "Where is your school (honorific)?",
-    pronunciation: "lenge-ki-lobda-khana-yepo-la?",
+    pronunciation: "lhengye kyi lob-dra gha-na yed-po la?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ སློབ་གྲྭ་ ག་ན་ ཡོད་པོ་ ལགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140463/correction/where_is_your_school_with_respect_r80jia.mp3",
