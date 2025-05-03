@@ -9156,7 +9156,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཐོ་རང་ རྐང་རྕེད་པོ་ལི་ རྩེད་ཤད་ ཨིན་བོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_will_be_playing_soccer_wqyy4s.mp3",
-    pronunciation: "khongtsu thorang kangchepoli tsichey inbo-beh",
+    pronunciation: "khong-tsu thorang kangchepoli tsichey inbo-be",
   },
   {
     key: "1271",
