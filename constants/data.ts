@@ -10504,56 +10504,56 @@ const Data: Array<DataProps> = [
   {
     key: "1480",
     english: "How was your vacation at Bali?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ གུང་སེང་ བྷ་ལི་ལོ་ ག་འདེམ་ བྱུང་བོ་ལས།ས།",
-    pronunciation: "lengey ki khungseng bali loh khatem zungbo lah?",
+    bhutia: "བྷ་ལི་ལོ་ ལྷན་རྒྱས་ཀྱི་ ངལ་འཚོ་ ག་ལྟེམ་ བྱུང་བོ་ལགས?",
+    pronunciation: " Bali lo lhengye kyi ngal-tsho gha-tem zung-bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/how_was_your_vacation_at_bali_qd2qtj.mp3",
   },
   {
     key: "1481",
     english: "How much did the vegetable cost?",
-    bhutia: "ཚོདམ་གྱི་ གོང་འདི་ ག་ཚོད་ གནང་བོ་ལགས།",
-    pronunciation: "tshem ki gong di khaje nangboh la?",
+    bhutia: "ཚོདམ་གྱི་ གོང་འདི་ ག་ཚོད་ གནང་བོ་ ལགས?",
+    pronunciation: "Tshoem-gyi gong-di gha-choed nang-bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/how_much_did_the_vegetable_cost_adns9h.mp3",
   },
   {
     key: "1482",
     english: "How do I know where she went.",
-    bhutia: "མོ་ ག་ན་ བྱོན་བོ་ ལབ་སྟི་ ང་ཀི་ ག་ལྟེ་ ཧ་གོ་ ཤད།",
-    pronunciation: "mo khana chenboh lapti nga ki khate hakoh she ",
+    bhutia: "ཁོང་ ག་ན་ བྱོན་བོ་ ལབ་སྟི་ ངས་ཀྱི་ ག་ལྟེ་ ཧ་གོ་ ཤད།",
+    pronunciation: "khong gha-na joen-bo lap-ti ngaa kyi gha-te haa-gho shed ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742276913/correction/how_do_i_know_where_she_went_1_lfn3qc.mp3",
   },
   {
     key: "1483",
     english: "How was your interview?",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ བཅར་འདྲི་ ༼ཨིན་ཊོར་བིའུ༽ ག་འདེམ་ བྱུང་བོ་ ལགས།",
-    pronunciation: "lhengye ki charti (interview) khatem zungboh la? ",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ བཅར་འདྲི་ ༼ཨིན་ཊོར་བིའུ༽ ག་ལྟེམ་ བྱུང་ཞེ་ ལགས?",
+    pronunciation: "lhengye-kyi char-dri (interview) gha-tem jung-zhe la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140033/correction/how_was_your_interview_wcongd.mp3",
   },
   {
     key: "1484",
     english: "Did you pay the vendor?",
-    bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཡིག་ བྲིས་བོ་ ལོ་ གླ་ བཏབ་པོ་ གནང་བོ་ ལགས།",
-    pronunciation: "lhengye ki yek thibo loh la tapo nangboh la? ",
+    bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཡིག་ བྲིས་བོ་ ལོ་ དངུལ་ བཏབ་པོ་ གནང་བོ་ ལགས?",
+    pronunciation: "lhengye-kyi yig dri-bo lo ngul tab-po nang-bo la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742276848/correction/did_you_pay_the_vendor_g4f3qb.mp3",
   },
   {
     key: "1485",
-    english: "Can I also come with you people?",
-    bhutia: "ང་ཡང་ ལྷན་རྒྱས་ཙུ་ མཉམ་པོ་ བཅར་ཚུགས་ ཀ",
-    pronunciation: "nga yang lengey chu yampo chyachu ka ?",
+    english: "Can I also go with you people?",
+    bhutia: "ང་ཡང་ ལྷན་རྒྱས་ཙུ་ མཉམ་པོ་ འགྱུ་ཚུགས་ ཀ?",
+    pronunciation: "nga yang lhengye-chu nyam-po gyu-tshu ka ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742276763/correction/can_i_also_come_with_you_people_xgohcm.mp3",
   },
   {
     key: "1486",
     english: "What is there for dinner today?",
-    bhutia: "ད་རིང་ ཕྱི་རུ་ཀི་ ཞལ་ལག་ན་ གན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "thari phiru ki sela na khan yepo la ?",
+    bhutia: "ད་རིང་ ཕྱི་རུ་ཀི་ ཞལ་ལག་ན་ གན་ ཡོད་པོ་ ལགས?",
+    pronunciation: "tha-ring phiru-ki sela-na ghan yed-po la ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742275572/correction/are_you_starting_a_business_nnv8cs.mp3",
   },
