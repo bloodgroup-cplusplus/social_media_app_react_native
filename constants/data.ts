@@ -12287,15 +12287,6 @@ const Data: Array<DataProps> = [
     bhutia:"",
     pronunciation:"",
   },
-  {
-    
-    
-    
-    
-    
-    
-  
-  
     
   
 ];
