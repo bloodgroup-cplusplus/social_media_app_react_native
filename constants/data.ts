@@ -10835,30 +10835,30 @@ const Data: Array<DataProps> = [
   {
     key: "1536",
     english: "The food is delicious.",
-    bhutia: "ཟམ་ འདི་ ཞིམ་པོ་ འདུག་།",
-    pronunciation: "zam di zhim-pu du",
+    bhutia: "ཟམ་ འདི་ ཞིམ་པོ་ ཡོད་",
+    pronunciation: "zam di zhim-pu yea",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/the_food_is_delicious_tj4kq7.mp3",
   },
   {
     key: "1537",
     english: "You are so restless.",
-    bhutia: "ལྷན་རྒྱས་ ལེབ་སྟི་རང་ ཚབས་ཚུབ་ འདུག་ལགས།",
-    pronunciation: "lhengye lep ti ra chyapchup du lah",
+    bhutia: "རང་ ལེབ་སྟི་རང་ ཚབས་ཚུབ་ འདུག་།",
+    pronunciation: "rang lep-ti rang chhab-chhub du ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/you_are_so_restless_rambon.mp3",
   },
   {
     key: "1538",
     english: "You look exhausted.",
-    bhutia: "ལྷན་རྒྱས་ ལེབ་སྟི་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་འདུག།",
-    pronunciation: "lhengye lep ti kuthang chepo dem du",
+    bhutia: "རང་ ཐང་ ཆད་པོ་ འདེམ་ མཐོང་པད།",
+    pronunciation: "rang  thang chhed-po deam thong-ped",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/you_look_exhausted_sdchsc.mp3",
   },
   {
     key: "1539",
-    english: "Congratulation!",
+    english: "Congratulations!",
     bhutia: "བཀྲ་ཤིས་ བདེ་ལེགས།",
     pronunciation: "tashi delek",
     audiolink:
@@ -10867,64 +10867,57 @@ const Data: Array<DataProps> = [
   {
     key: "1540",
     english: "Happy birthday!",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ འཁྲུངས་སྐར་ ཉིན་ནང་ བཀྲ་ཤིས་ བདེ་ལེགས་ ཡོད་ལགས།",
-    pronunciation: "lhengye ki tungkar nyin na tashi delek ye la ",
+    bhutia: "འཁྲུངས་སྐར་ བཀྲ་ཤིས་ བདེ་ལེགས་!",
+    pronunciation: "thrung-kar tashi delek! ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/happy_birthday_aro7rg.mp3",
   },
   {
     key: "1541",
     english: "Have a good day.",
-    bhutia: "ད་རིང་ ཉིམ་འདི་ ལེགམ་འབྱུང་ བཅུག་ཅིག",
-    pronunciation: "tharing nim di lemzung chugchi",
+    bhutia: " ཉིམ་ ལེགམ་ འབྱུང་ བཅུག་ཅིག",
+    pronunciation: " nyim lhem jung chug-chi",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/have_a_good_day_i7d6xd.mp3",
   },
   {
     key: "1542",
     english: "She is so rude.",
-    bhutia: "མོ་ ལེབ་སྟི་རང་ རྩུབ་དྲགས་ འདུག།",
-    pronunciation: "mo lep ti rang chuptah du",
+    bhutia: "མོ་ ལེབ་སྟི་རང་ རྩུབ་དྲགས་ ཡོད་",
+    pronunciation: "mu leb-ti rang chub-tag yea",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/she_is_so_rude_g0qvgl.mp3",
   },
   {
     key: "1543",
     english: "The food was delicious!",
-    bhutia: "ཟམ་འདི་ ལེགམ་ འདུག",
-    pronunciation: "sam di lem du",
+    bhutia: "ཟམ་འདི་ ཞིམ་པོ་ འདུག!",
+    pronunciation: "zam-di zhim-pu du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/the_food_is_delicious_tj4kq7.mp3",
   },
   {
     key: "1544",
     english: "Which restaurant is good?",
-    bhutia: "ཟ་ཁང་ ག་འདི་ འདི་ ལེགས་པས་ ལགས།",
-    pronunciation: "sakhang khadidi lepey la",
+    bhutia: "ཟ་ཁང་ ག་འདི་ ལེགས་པད་?",
+    pronunciation: "za-khang gha-di ley-ped?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/which_restaurant_is_good_tznwla.mp3",
   },
   {
     key: "1545",
     english: "This place has yummy food.",
-    bhutia: "ཡུལ་ འདི་ན་ ཟམ་ ཞིམ་དྲགས་ ཐོབ་པས།",
-    pronunciation: "yi di na sam simta thopay",
+    bhutia: "ཡུལ་ འདི་ན་ ཟམ་ ཞིམ་དྲགས་ ཐོབ་པད་།",
+    pronunciation: "yul di-na zam zhim-tag thob-ped",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/this_place_has_yummy_food_lpyhrd.mp3",
   },
-  {
-    key: "1546",
-    english: "Do you want to eat noodles?",
-    bhutia: "ལྷན་རྒྱས་ བཞེས་ཐུག་ བཞེས་པོ་ གནང་ཤད་ ལགས།",
-    pronunciation: "lengey jethu zepo nangche la",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/do_you_want_to_eat_noodles_nkvdym.mp3",
-  },
+  
   {
     key: "1547",
     english: "What should we order?",
-    bhutia: "ང་ཅག་ གན་ མངག་ཤད་ ལགས།",
-    pronunciation: "ngacha khan ngashe la?",
+    bhutia: "ང་ཅག་ གན་ མངགས་ཤད་ ལགས?",
+    pronunciation: "nga-cha ghan ngaag-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/what_should_we_order_bdecmd.mp3",
   },
@@ -10932,31 +10925,31 @@ const Data: Array<DataProps> = [
     key: "1548",
     english: "Does this place sell burgers?",
     bhutia: "ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག།",
-    pronunciation: "ye dina chegya ki phaglep chonga?",
+    pronunciation: "yul di-na chhi-gyal gyi phag-leb chong-ga?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
   },
   {
     key: "1549",
     english: "Hello! Who is speaking?",
-    bhutia: "ཧེ་ལོ། ཀ་ ཞལ་གསུང་བོ་ གནང་བདོ་ ལགས།",
-    pronunciation: "hello ka shay sungbo nangdoh la?",
+    bhutia: "ཧེ་ལོ! ཀ་ གསུང་བོ་ གནང་དོ་ ལགས?",
+    pronunciation: "hello! ka sung-bo nang-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/hello_who_is_speaking_bsbxrc.mp3",
   },
   {
     key: "1550",
-    english: "This is Chuden speaking.",
-    bhutia: "ང་ ཆོ་སྒྲན་ ཨིན་ལགས།",
-    pronunciation: "nga chuden in la",
+    english: "This is  Choden speaking.",
+    bhutia: "འདི་ ཆོས་སྒྲོན་ ཁ་ ལབ་ཏོ་ ཨིན་ལགས།",
+    pronunciation: " di choden kha lab-to en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/this_is_chuden_speaking_mr4nm1.mp3",
   },
   {
     key: "1551",
     english: "I am not hearing you clearly.",
-    bhutia: "ང་ ལྷན་རྒྱས་ལོ་ སྙིང་ སངས་སངས་ མི་ཐོས་པས་ ལགས།",
-    pronunciation: "nga lengey loh ning sasa mithopey lah",
+    bhutia: "ངས་ ལྷན་རྒྱས་ལོ་ སྙིང་ སངས་སངས་ མི་ཐོས་པད་ ལགས།",
+    pronunciation: "ngaa lhengye lo ning sasa metho-ped la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/i_am_not_hearning_you_clearly_zd1j8b.mp3",
   },
