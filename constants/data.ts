@@ -10949,23 +10949,23 @@ const Data: Array<DataProps> = [
     key: "1551",
     english: "I am not hearing you clearly.",
     bhutia: "ངས་ ལྷན་རྒྱས་ལོ་ སྙིང་ སངས་སངས་ མི་ཐོས་པད་ ལགས།",
-    pronunciation: "ngaa lhengye lo ning sasa metho-ped la",
+    pronunciation: "ngaa lhengye lo nying sang-sang mi-tho-ped la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/i_am_not_hearning_you_clearly_zd1j8b.mp3",
   },
   {
     key: "1552",
     english: "To whom do you want to speak?",
-    bhutia: "ལྷན་རྒྱས་ ཀ་མཉམ་པོ་ ཞལ་གསུང་བོ་ གནང་ཤད་ ལགས།",
-    pronunciation: "lengey ka nyempo se sungboh nangshey la? ",
+    bhutia: "ལྷན་རྒྱས་ ཀ་ མཉམ་པོ་ ཞལ་ གསུང་བོ་ གནང་ཤད་ ལགས?",
+    pronunciation: "lhengye ka nyam-po zhe sung-bo nang-shed la? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139633/correction/to_whom_do_you_want_to_talk_n7np1d.mp3",
   },
   {
     key: "1553",
     english: "I want to talk with Nima.",
-    bhutia: "ང་ ཉི་མ་ལགས་ མཉམ་པོ་ གྱོས་ རྐྱབས་ཤད་ ཡོད་ལགས།",
-    pronunciation: "nga nima la nympo kyo kyapse yea la",
+    bhutia: "ང་ ཉི་མ་ མཉམ་པོ་ གྱོས་ རྐྱབས་འདོད་ ཡོད་ ལགས།",
+    pronunciation: "nga nima  nyam-po ghyo kyab-doed yea la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139650/correction/i_want_to_talk_to_nima_rkyslf.mp3",
   },
@@ -10973,63 +10973,63 @@ const Data: Array<DataProps> = [
     key: "1554",
     english: "Please hold on the line.",
     bhutia: "ཤུལ་ཅིག་ དགུག་པོ་ གནང་ ལགས།",
-    pronunciation: "sulche gupo nang la",
+    pronunciation: "shue-chi gu-po nang la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139650/correction/please_hold_on_the_line_qw3jdq.mp3",
   },
   {
     key: "1555",
-    english: "I will go and call Pempa.",
-    bhutia: "ད་རྒྱུ་སྟི་ ་སྤོམ་པ་ལོ་ བོས་ ཤད་ ཨིན།",
-    pronunciation: "tha gyu thi pempa loh phesey in",
+    english: "I will go and call Penpa.",
+    bhutia: "ང་ རྒྱུ་སྟི་ སྤེན་པ་ ལོ་ བོས་ ཤད་ ཨིན།",
+    pronunciation: "nga gyu-ti penpa lo bho-shed en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/i_will_go_and_call_pempa_hcreoz.mp3",
   },
   {
     key: "1556",
     english: "Please call him to the phone.",
-    bhutia: "ཁོང་ལོ་ ཞལ་པར་ ཡོད་སར་ བོས་པོ་ གནང་།",
-    pronunciation: "khong loh shalphar yesar phopo na",
+    bhutia: "ཁོང་ལོ་ ཞལ་པར་ན་ བོས་པོ་ གནང་།",
+    pronunciation: "khong lo zhel-par-na bho-po nang",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/please_call_him_on_the_phone_omsmug.mp3",
   },
   {
     key: "1557",
     english: "He is not here now.",
-    bhutia: "ཁོང་ ད་ལྟ་ ན་ མི་འདུག་ལགས།",
-    pronunciation: "khong thato na mindu la",
+    bhutia: "ཁོང་ ད་ལྟ་ ན་ མིན་འདུག་ ལགས།",
+    pronunciation: "khong dha-ta na min-du la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/he_is_not_here_now_fx0i9y.mp3",
   },
   {
     key: "1558",
     english: "He will be back in an hour.",
-    bhutia: "ཁོང་ ཆུ་ཚོད་ གཅིག་ རྒྱབ་ལས་ ལོག་ བྱོན་བོ་ གནང་ཤད་ སྦད་ལགས།",
-    pronunciation: "khong chuche chig gyap le lok chenbo nangshe be la",
+    bhutia: "ཁོང་ ཆུ་ཚོད་ གཅིག་ རྒྱབ་ལས་ ལོག་ བྱོན་བོ་ གནང་ཤད་ ཨིན་ ལགས།",
+    pronunciation: "khong chhu-choed chi gyab-ley log joen-bo nang-shed en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/he_will_be_back_in_an_hour_edyu2c.mp3",
   },
   {
     key: "1559",
     english: "Please give him a message.",
-    bhutia: "ཁོང་ལོ་ སྙན་གསེས་ གཅིག་ གནང་བོ་ གནང་ལགས།",
-    pronunciation: "khongloh nyenshey chig nangbo na la",
+    bhutia: "ཁོང་ལོ་ སྙན་གསེས་ གཅིག་ གནང་བོ་ གནང་ ལགས།",
+    pronunciation: "khong-lo nyen-sey chi nang-bo nang la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/please_give_him_a_message_k2erdl.mp3",
   },
   {
     key: "1560",
-    english: "Yes, what is the message?",
-    bhutia: "ལགས། སྙན་གསེས་ འདི་ གན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "la, nyenshey di khan yepo la?",
+    english: "Yes! what is the message?",
+    bhutia: "ལགས! སྙན་གསེས་  གན་ ཡོད་པོ་ ལགས?",
+    pronunciation: "la! nyen-sey  ghan yed-po la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139651/correction/yes_what_is_the_message_vsxdgs.mp3",
   },
   {
     key: "1561",
     english: "Please tell him to call me.",
-    bhutia: "ང་ལོ་ ཞལ་པར་ གནང་བོ་ གནང་ན་ གསུང་བོ་ གནང་ལགས།",
-    pronunciation: "nga lo shelpar nangbo nangna  sungbo nang la ",
+    bhutia: "ཁོང་ལོ་ ང་ལོ་ ཁ་པར་ བཏང་ཟེ་ གསུང་ གནང་",
+    pronunciation: "khong-lo nga-lo kha-par tang-ze sung-nang",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/please_tell_him_to_call_me_vpopu8.mp3",
   },
