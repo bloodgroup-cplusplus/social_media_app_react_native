@@ -10730,120 +10730,113 @@ const Data: Array<DataProps> = [
     key: "1520",
     english: "Write your name here.",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མཚན་ འདི་ཁ་ བྲིས་བོ་ གནང་།",
-    pronunciation: "lhengye ki chen di kha thibo na",
+    pronunciation: "lhengye-kyi tshen di kha dri-bo nang",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139629/correction/write_your_name_here_spvxmu.mp3",
   },
   {
     key: "1521",
     english: "Show me your book.",
-    bhutia: "ལྷན་རྒྱས་ ང་ལོ་ དེབ་འདི་ བསྟན་བོ་ གནང་ཅིག།",
-    pronunciation: "lhengye nga loh thebdi tenbo nangchey.",
+    bhutia: " ང་ལོ་ རང་གི་ དེབ་ སྟོན་བོ་ གནང་ཅིག།",
+    pronunciation: "nga lo rang-gi dep toen-bo nang-chi.",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139627/correction/show_me_your_book_x245uz.mp3",
   },
   {
     key: "1522",
     english: "Wash your face.",
-    bhutia: "ཞལ་བསིལ་བོ་ གནང་ལགས།",
-    pronunciation: "sesilbo na la",
+    bhutia: "ལྷན་རྒྱས་ ཞལ་ བསིལ་བོ་ གནང་",
+    pronunciation: "lhengye zhel sil-bo nang ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139627/correction/wash_your_face_qntakc.mp3",
   },
   {
     key: "1523",
     english: "Make tea for me.",
-    bhutia: "ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།",
-    pronunciation: "lhengye nga-lo cha jobo nangchey ",
+    bhutia: " ང་ལོ་ ཇ་ བཟོ།་",
+    pronunciation: "nga-lo ja zo ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139628/correction/make_tea_for_me_o7uadg.mp3",
   },
   {
     key: "1524",
     english: "Let's go.",
-    bhutia: "ད་ བྱོན་གེས།",
-    pronunciation: "tha chengey",
+    bhutia: "བྱོན་གེ།",
+    pronunciation: "joen-gey",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139629/correction/lets_go_hrrxam.mp3",
   },
   {
     key: "1525",
     english: "Pass the salt.",
-    bhutia: "ལྗགས་ཚྭ་ བཏང་བོ་ གནང་ཅིག།",
-    pronunciation: "jagcha tangbo nangchi",
+    bhutia: " ཚྭ་ བཏང་ ཅིག།",
+    pronunciation: "tsha tang-chi",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139628/correction/pass_the_salt_om6akj.mp3",
   },
   {
     key: "1526",
     english: "Don't be upset.",
-    bhutia: "ཐུགས་ མན་སྡུག་ ལགས།",
-    pronunciation: "thu mandu la",
+    bhutia: "སེམས་ མ་ ཕམ་།",
+    pronunciation: "sem ma pham.",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139629/correction/don_t_be_upset_dc7enp.mp3",
   },
   {
     key: "1527",
     english: "Bring your children to school.",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ སྲས་ སྲསམ་ཙུ་ སློབ་གྲྭ་ལོ་ ཁྱིག་བྱོན།",
-    pronunciation: "lhengye ki se semchu lobda loh kigchen ",
+    bhutia: "་རང་གི་ བོ་ཙོ་ཙུ་  སློབ་གྲྭ་ལོ་ ཁྱིག་ཤོག།",
+    pronunciation: "rang-gi bho-cho-chu lob-dra lo khyig-shog ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/bring_your_children_to_school_e1kxxu.mp3",
   },
-  {
-    key: "1528",
-    english: "Make tea for me.",
-    bhutia: "ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།",
-    pronunciation: "lhengye nga lo cha jobo nangchey",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139628/correction/make_tea_for_me_o7uadg.mp3",
-  },
+
 
   {
     key: "1531",
     english: "This is not nice. Let's look in another shop.",
-    bhutia: "འདི་ ལེགམ་ མིན་འདུག རང་ཐད་ ཚོང་ཁང་ན་ གཟིགས་ཀེ",
-    pronunciation: "di lem mindu rangdi chong gang na zyke",
+    bhutia: "འདི་ ལེགམ་ མིན་འདུག ཚོང་ཁང་ གཞན་ན ལྟ་གེ།",
+    pronunciation: "di lem min-du  tshong-khang zhen-na ta-gey",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/this_is_not_nice_let_s_look_at_another_shop_tf4biu.mp3",
   },
   {
     key: "1532",
     english: "Ask for discount.",
-    bhutia: "གོང་ ཨ་ཙི་ བཅག་གནང་ གསུང་བོ་ གནང་དགོས་པ།",
-    pronunciation: "goh achey chyagna sungbo nangopa",
+    bhutia: "གོང་ ཨ་ཙི་ བཅག་གནང་ ལབ་།",
+    pronunciation: "gong a-chi chag-nang lab.",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/ask_for_discount_foudvv.mp3",
   },
   {
     key: "1533",
     english: "Improve your handwriting.",
-    bhutia: "ལྷན་རྒྱས་ ཡིག་གཟུགས་ ཨ་ཙི་གཅིག་ ཡར་རྒྱས་ གནང་དགོས་པས།",
-    pronunciation: "lhengye yigzu achi che yargay nango pay",
+    bhutia: "རང་གི་ ཡིག་གཟུགས་ ཨ་ཙི་ བཅོས་ ་དགོས་པད།",
+    pronunciation: "rang-gi yig-zug a-chi choe go-ped. ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/improve_your_handwriting_w0mhsm.mp3",
   },
   {
     key: "1534",
     english: "You are so gorgeous.",
-    bhutia: "ལྷན་རྒྱས་ ག་འདེམ་ ལྕང་དྲགས་ འདུག།",
-    pronunciation: "lhengye khatem changta du",
+    bhutia: "རང་ ག་འདེམ་ ལྕང་དྲགས་ འདུག།",
+    pronunciation: "rang gha-tem chang-tag du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/you_are_so_gorgeous_usx7ao.mp3",
   },
   {
     key: "1535",
     english: "Your hair is black and long.",
-    bhutia: "ལྷན་རྒྱས་ཀྱི་ དབུ་སྐྱ་འདི་ ནག་པོ་ དང་ རིང་པོ་ འདུག་ལགས།",
-    pronunciation: "lhengye ki ukya di nagpo tah ringku duh lah ",
+    bhutia: "རང་གི་ སྐྱ་འདི་ ནག་ཀོ་ དང་ རིང་ཀོ་ འདུག།",
+    pronunciation: "rang-kyi kya di nag-ko dang ring-ko du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139630/correction/your_hair_is_black_and_long_dzupvv.mp3",
   },
   {
     key: "1536",
     english: "The food is delicious.",
-    bhutia: "ཞལ་ལག་ ཞིམ་པོ་ འདུག་ལགས།",
-    pronunciation: "sela simpu du lah",
+    bhutia: "ཟམ་ འདི་ ཞིམ་པོ་ འདུག་།",
+    pronunciation: "zam di zhim-pu du",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139631/correction/the_food_is_delicious_tj4kq7.mp3",
   },
