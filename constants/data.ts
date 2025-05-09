@@ -11344,10 +11344,10 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1604",
-    english: "Thank you i've payed 40 rs online",
+    english: "Thank you! i've paid 40 rs online",
     audiolink: "",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "ཐུགས་རྗེ་ཆེ་! ངས་དྲ་ཐོག་ ལས་ ཏི་རུག་ བཞི་བཅུ་ བཏབ་ ཆ༹ར་།",
+    pronunciation: "thugje-chhe! ngaa dra-thog ley ti-rug zhi-chu tab-tshar ",
   },
   {
     key: "1605",
