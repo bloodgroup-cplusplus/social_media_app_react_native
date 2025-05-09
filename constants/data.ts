@@ -11036,46 +11036,46 @@ const Data: Array<DataProps> = [
   {
     key: "1562",
     english: "Pardon,the network is not good ",
-    bhutia: "",
-    pronunciation: "gom mathe dikha network lhem ma tho",
+    bhutia: "དགོངས་ ཁྲེལ་ མ་གནང་, དྲ་རྒྱ་ ལེགམ་ མེད་།",
+    pronunciation: "gong-threl ma-nang dra-gya lem med",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/sorry_the_network_is_not_good_gtszn5.mp3",
   },
   {
     key: "1563",
     english: "Can you give me his number?",
-    bhutia: "",
-    pronunciation: "nga loh khui ki ang phinchu ka",
+    bhutia: "ང་ལོ་ ཁོའི་ ཨང་ བྱི༹ན་ཆུ༹གས་ ཀ་?",
+    pronunciation: "nga lo khoi ang phin-tshug ka",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/can_you_give_me_his_number_v2kyti.mp3",
   },
   {
     key: "1564",
     english: "Can you give me her number?",
-    bhutia: "",
-    pronunciation: "nga loh mui ki ang phinchu ka",
+    bhutia: "ང་ལོ་ མོའི་ ཨང་ བྱི༹ན་ཆུ༹གས་ ཀ་?",
+    pronunciation: "nga lo moi  ang phin-tshug ka?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1744679031/on%20the%20phone/can_you_give_me_her_number_clqxci.mp3",
   },
   {
     key: "1565",
     english: "Are these vegetables fresh?",
-    bhutia: "",
-    pronunciation: "di tshem sapo in ga?",
+    bhutia: "ཆོ༹དམ་ འདི་ཙུ་ གསར་པོ་ ཉ?",
+    pronunciation: " chhoem di-chu sar-po nya?",
     audiolink: "",
   },
   {
     key: "1566",
     english: "How much is this per kilo?",
-    bhutia: "",
-    pronunciation: "sher chig ki khaje mo?",
+    bhutia: "འདི་ ཤེར་ལོ ག་ཆོ༹ད་ འབོ?",
+    pronunciation: " di sher-lo gha-choed bo?",
     audiolink: "",
   },
   {
     key: "1567",
     english: "Are these local?",
-    bhutia: "",
-    pronunciation: "di khyoung ki tshem in ga? ",
+    bhutia: "འདི་ཙུ་ གྱོང་གི་ ཨིན་ག?",
+    pronunciation: "di-chu ghyong-gi en ga? ? ",
     audiolink: "",
   },
   {
