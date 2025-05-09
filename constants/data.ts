@@ -11389,8 +11389,8 @@ const Data: Array<DataProps> = [
     key: "1610",
     english: "Do your children go to school via car or do they walk to school?",
     audiolink: "",
-    bhutia: "",
-    pronunciation: "",
+    bhutia: "རང་གི་ བོ་ཅོ༹་ སློབ་གྲྭ་ལོ་ རླངས་འཁོར་ བརྒྱུད་སྟི་ འགྱུ་དོ་ འབོ་, མན་བ་ རྐང་སྟོང་ འགྱུ་དོ་ འབོ་? ",
+    pronunciation: "rang-gi pho-cho lob-dra lo lang-khor gyued-te gyu-do bo, men-ba kang-tang gyu-do bo? ",
   },
   {
     key: "1611",
