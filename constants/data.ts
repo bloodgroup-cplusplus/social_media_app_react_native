@@ -9470,7 +9470,7 @@ const Data: Array<DataProps> = [
     key: "1313",
     english: "What is your job?",
     bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ གན་ གནང་བདོ་ ལགས།",
-    pronunciation: "lhengye chaley khan nangdoh la?",
+    pronunciation: "lhengye chaley ghan nang-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_is_your_job_s4cbdv.mp3",
   },
@@ -11495,15 +11495,15 @@ const Data: Array<DataProps> = [
     key: "1626",
     english: "How far is the hospital here?",
     audiolink: "",
-    bhutia: "ནང་གི་ སྨན་ཁང་ འདི་ ག་ལྟེ",
-    pronunciation: "nang-gi sman-khang di gha-te choed thag-ring yea?  ",
+    bhutia: "ན་ཁའི་ སྨན་ཁང་ འདི་ ག་ཏེ་ཆོ༹ད་ ཐག་རིང་ ཡོད? ",
+    pronunciation: "na-khae sman-khang di gha-te choed thag-ring yea?  ",
   },
   {
     key: "1627",
     english: "What are the frequent health issues faced by people?",
-    audiolink: "",
+    audiolink: "མི་ཅུ༹་ ཀིས་ ལོག་ཅན་ ལོག་ཅན་ གདོང་ལེན་  བྱ༹ས་ དགོས་པའི་ འཕྲོད་བསྟེན་གྱི་ གནད་དོན་ཅུ༹་ གན་ གན་ ཨིན་ནམ?",
     bhutia: "",
-    pronunciation: "",
+    pronunciation: "mi-chu ki log-chen log-chen dhong-len phya-go-pey throe-ten gi ney-doen cho ghan ghan en-nam?",
   },
   {
     key: "1628",
