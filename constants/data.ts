@@ -11460,8 +11460,8 @@ const Data: Array<DataProps> = [
     key: "1620",
     english: "Who manages household chores?",
     audiolink: "",
-    bhutia: "",
-    pronunciation: "khim na yog di ",
+    bhutia: "གཟིམ་ཁང་ ནང་གི་ ཕྱག་ལས་ཅུ༹་ ཀ་ཀིས་ གཟིགས་རྟོགས་ གནང་ དོ?(honorific) ",
+    pronunciation: "zhim-khang nang gi chag-le-chu ka-ki zig-tog nang do? ",
   },
   {
     key: "1621",
@@ -11707,7 +11707,7 @@ const Data: Array<DataProps> = [
     english: "Do the children help with farm work?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Phocho-chuke shing-yog phya-shed na rog phya-ga?   ",
+    pronunciation: "Bhocho-chuke shing-yog phya-shed na rog phya-ga?   ",
   },
 
   {
