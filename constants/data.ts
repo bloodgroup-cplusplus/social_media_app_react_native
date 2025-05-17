@@ -12651,6 +12651,1491 @@ const Data: Array<DataProps> = [
     audiolink: "",
     bhutia: "",
     pronunciation: "",
+  },
+  
+  {
+    "key": "1789",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1790",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1791",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1792",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1793",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1794",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1795",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1796",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1797",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1798",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1799",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1800",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1801",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1802",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1803",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1804",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1805",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1806",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1807",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1808",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1809",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1810",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1811",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1812",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1813",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1814",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1815",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1816",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1817",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1818",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1819",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1820",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1821",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1822",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1823",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1824",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1825",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1826",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1827",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1828",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1829",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1830",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1831",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1832",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1833",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1834",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1835",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1836",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1837",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1838",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1839",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1840",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1841",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1842",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1843",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1844",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1845",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1846",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1847",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1848",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1849",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1850",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1851",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1852",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1853",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1854",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1855",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1856",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1857",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1858",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1859",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1860",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1861",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1862",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1863",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1864",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1865",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1866",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1867",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1868",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1869",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1870",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1871",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1872",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1873",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1874",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1875",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1876",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1877",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1878",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1879",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1880",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1881",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1882",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1883",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1884",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1885",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1886",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1887",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1888",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1889",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1890",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1891",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1892",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1893",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1894",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1895",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1896",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1897",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1898",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1899",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1900",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1901",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1902",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1903",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1904",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1905",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1906",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1907",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1908",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1909",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1910",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1911",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1912",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1913",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1914",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1915",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1916",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1917",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1918",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1919",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1920",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1921",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1922",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1923",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1924",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1925",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1926",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1927",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1928",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1929",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1930",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1931",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1932",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1933",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1934",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1935",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1936",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1937",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1938",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1939",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1940",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1941",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1942",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1943",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1944",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1945",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1946",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1947",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1948",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1949",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1950",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1951",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1952",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1953",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1954",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1955",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1956",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1957",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1958",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1959",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1960",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1961",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1962",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1963",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1964",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1965",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1966",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1967",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1968",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1969",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1970",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1971",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1972",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1973",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1974",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1975",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1976",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1977",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1978",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1979",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1980",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1981",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1982",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1983",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1984",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1985",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1986",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1987",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1988",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1989",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1990",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1991",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1992",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1993",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1994",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1995",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1996",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1997",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1998",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "1999",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
+  },
+  {
+    "key": "2000",
+    "english": "",
+    "audiolink": "",
+    "bhutia": "",
+    "pronunciation": ""
   }
 
 ];
