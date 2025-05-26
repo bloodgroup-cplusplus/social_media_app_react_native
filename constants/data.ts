@@ -14264,7 +14264,7 @@ const Data: Array<DataProps> = [
   },
   {
     "key": "2165",
-    "english": "Swimming",
+    "english": "Swimming (gerund nouns)",
     "bhutia": "པྱེ་རྐྱབས་བཞིན་/བྱེ་རྐྱབས་བཞིན།",
     "pronunciation": "",
     "audiolink": ""
@@ -14369,71 +14369,71 @@ const Data: Array<DataProps> = [
   },
   {
     "key": "2180",
-    "english": "",
-    "bhutia": "",
+    "english": "Car (countable nouns)",
+    "bhutia": "འཁོར་ལོ་/སྣུམའཁོར་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2181",
-    "english": "",
-    "bhutia": "",
+    "english": "Pencil",
+    "bhutia": "སོལ་སྨྱུག་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2182",
-    "english": "",
-    "bhutia": "",
+    "english": "Apple",
+    "bhutia": "གླི་",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2183",
-    "english": "",
-    "bhutia": "",
+    "english": "Chair",
+    "bhutia": "རྐང་ཁྲི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2184",
-    "english": "",
-    "bhutia": "",
+    "english": "Bird",
+    "bhutia": "བྱི་ཅུང་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2185",
-    "english": "",
-    "bhutia": "",
+    "english": "Toothpaste (compound nouns)",
+    "bhutia": "གསོ་སྨན",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2186",
-    "english": "",
-    "bhutia": "",
+    "english": "Swimming Pool",
+    "bhutia": "པྱེ་རྫེང/བྱེ་རྫིང་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2187",
-    "english": "",
-    "bhutia": "",
+    "english": "Volley Ball",
+    "bhutia": "ལག་རྩེ་པོ་ལི།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2188",
-    "english": "",
-    "bhutia": "",
+    "english": "Mother in Law",
+    "bhutia": "ཨམ་སྒྱུགམ།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2189",
-    "english": "",
-    "bhutia": "",
+    "english": "Car stop/ Taxi stop",
+    "bhutia": "འཁོར་ལོ་ བཀབ་གནས་།",
     "pronunciation": "",
     "audiolink": ""
   },
