@@ -8496,7 +8496,7 @@ const Data: Array<DataProps> = [
   {
     key: "1188",
     english: "They replied 'We are coming soon'",
-    pronunciation: "khong-chu 'lhen-lokchay nga-cha mala hong-doh'",
+    pronunciation: "khong-chu 'lhen-lokchay nga-cha mala hong-do'",
     bhutia: "ཁོང་ཙུ་ ལན་ ལོག་ཅེ་,'ང་ཅག་ མ་ལག་ འོང་དོ།'",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_replied_we_are_coming_soon_zel1lw.mp3",
@@ -8504,7 +8504,7 @@ const Data: Array<DataProps> = [
   {
     key: "1189",
     english: "He said he was happy (indirect speech)",
-    pronunciation: "khu gha-ta yeshe khu ki lapche",
+    pronunciation: "khu gha-tak yeshe khu-ki lab-ce",
     bhutia: "ཁོ་ དགའ་དྲགས་ཡེས་སེ་ ཁོ་ ཀིས་ ལབ་ཅེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_said_he_was_happy_eyyoli.mp3",
@@ -8825,7 +8825,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140243/correction/the_smiling_girl_is_my_friend_id3r1e.mp3",
     bhutia: "འཛུམ་སྟོན་མཁན་ བུམ་འདི་ རོགས་ ཨིན།",
-    pronunciation: "zumtenkhen phumdi ngai rho in",
+    pronunciation: "zumtenkhen phum-di ngai rho en",
   },
   {
     key: "1230",
@@ -8857,7 +8857,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140325/correction/she_reads_a_book_wn2ckt.mp3",
     bhutia: "མོ་ དེབ་ཙུ་ སྒྲོགས་ཏོ།",
-    pronunciation: "mu thepchu doktoh",
+    pronunciation: "mu theb-chu dok-to",
   },
   {
     key: "1234",
@@ -8865,7 +8865,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_play_football_rrw5db.mp3",
     bhutia: "ཁོང་ཙུ་ རྐང་རྕེད་ པོ་ལི་ རྩེད་དོ།",
-    pronunciation: "khontsu kangchepoli chidoh",
+    pronunciation: "khong-chu kangche-poli chue-do",
   },
   {
     key: "1235",
@@ -14138,232 +14138,232 @@ const Data: Array<DataProps> = [
   },
   {
     "key": "2147",
-    "english": "",
-    "bhutia": "",
+    "english": "London (proper nouns)",
+    "bhutia": "ལོན་ཌོན་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2148",
-    "english": "",
-    "bhutia": "",
+    "english": "Maria",
+    "bhutia": "མ་རི་ཡ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2149",
-    "english": "",
-    "bhutia": "",
+    "english": "Amazon",
+    "bhutia": "ཨེ་མ་ཇོན་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2150",
-    "english": "",
-    "bhutia": "",
+    "english": "Mount Everest",
+    "bhutia": "གངས་ཇོ་མོ་ གླང་མ་",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2151",
-    "english": "",
-    "bhutia": "",
+    "english": "Boy (common nouns)",
+    "bhutia": "བུ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2152",
-    "english": "",
-    "bhutia": "",
+    "english": "City",
+    "bhutia": "ཁྲོམ་སྡེ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2153",
-    "english": "",
-    "bhutia": "",
+    "english": "Book",
+    "bhutia": "དེབ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2154",
-    "english": "",
-    "bhutia": "",
+    "english": "River",
+    "bhutia": "གཙང་ཆུ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2155",
-    "english": "",
-    "bhutia": "",
+    "english": "Dog",
+    "bhutia": "ཁྱི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2156",
-    "english": "",
-    "bhutia": "",
+    "english": "Water (uncountable nouns)",
+    "bhutia": "ཆུ།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2157",
-    "english": "",
-    "bhutia": "",
+    "english": "Sugar",
+    "bhutia": "མངརམ།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2158",
-    "english": "",
-    "bhutia": "",
+    "english": "Milk",
+    "bhutia": "ཨོམ།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2159",
-    "english": "",
-    "bhutia": "",
+    "english": "Information",
+    "bhutia": "གནས་ཚུལ/ལན་བརྡ།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2160",
-    "english": "",
-    "bhutia": "",
+    "english": "Air",
+    "bhutia": "རླུང།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2161",
-    "english": "",
-    "bhutia": "",
+    "english": "John's (possessive nouns)",
+    "bhutia": "ཛོཧ་ནན་གྱི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2162",
-    "english": "",
-    "bhutia": "",
+    "english": "Cat's",
+    "bhutia": "ཨ་ལིས་ཀྱི་",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2163",
-    "english": "",
-    "bhutia": "",
+    "english": "Teacher's",
+    "bhutia": "སློབ་དཔོན་གྱི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2164",
-    "english": "",
-    "bhutia": "",
+    "english": "Children's",
+    "bhutia": "བོ་ཙོ་འི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2165",
-    "english": "",
-    "bhutia": "",
+    "english": "Swimming",
+    "bhutia": "པྱེ་རྐྱབས་བཞིན་/བྱེ་རྐྱབས་བཞིན།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2166",
-    "english": "",
-    "bhutia": "",
+    "english": "Reading",
+    "bhutia": "སྒྲོགས་བཞིན།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2167",
-    "english": "",
-    "bhutia": "",
+    "english": "Cooking",
+    "bhutia": "བཙོ་བཞིན་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2168",
-    "english": "",
-    "bhutia": "",
+    "english": "Dancing",
+    "bhutia": "འཆམ་བཞིན་",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2169",
-    "english": "",
-    "bhutia": "",
+    "english": "Painting",
+    "bhutia": "རི་མོ་ བྲི་བཞིན་།/ཚན་བྲིས་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2170",
-    "english": "",
-    "bhutia": "",
+    "english": "Love (abstract nouns)",
+    "bhutia": "བྱམས་པོ་།/དགའ་ཚོར་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2171",
-    "english": "",
-    "bhutia": "",
+    "english": "Freedom",
+    "bhutia": "རང་དབང་ཅན་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2172",
-    "english": "",
-    "bhutia": "",
+    "english": "Courage",
+    "bhutia": "སྙིང་སྟོབས་/དཔའ་སྙིང་།/བློ་ཁོག་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2173",
-    "english": "",
-    "bhutia": "",
+    "english": "Honesty",
+    "bhutia": "དྲང་པོ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2174",
-    "english": "",
-    "bhutia": "",
+    "english": "Anger",
+    "bhutia": "ཁོངཁྲོ་།/ཞེ་དངས་།/ཁྲོངས་པོ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2175",
-    "english": "",
-    "bhutia": "",
+    "english": "Team (collective nouns)",
+    "bhutia": "རུ་ཁག་།/སྡེ་ཚན་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2176",
-    "english": "",
-    "bhutia": "",
+    "english": "Family",
+    "bhutia": "ནང་མི་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2177",
-    "english": "",
-    "bhutia": "",
+    "english": "Flock",
+    "bhutia": "ཁྱུ་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2178",
-    "english": "",
-    "bhutia": "",
+    "english": "Bunch",
+    "bhutia": "ཆག་ཁག་།",
     "pronunciation": "",
     "audiolink": ""
   },
   {
     "key": "2179",
-    "english": "",
-    "bhutia": "",
+    "english": "Committee",
+    "bhutia": "ཚོགས་ཚུང་།/ལྷན་ཚོགས་།",
     "pronunciation": "",
     "audiolink": ""
   },
