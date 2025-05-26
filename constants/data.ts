@@ -9611,7 +9611,7 @@ const Data: Array<DataProps> = [
     bhutia: "མན་! ངས་ བཟོ་ཚར།",
     pronunciation: "men nga zho tshar",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140078/correction/no_i_have_already_cooked_mqvcm2.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220458/correction_again/1330_ssinqz.mp3",
   },
   {
     key: "1331",
@@ -9637,7 +9637,7 @@ const Data: Array<DataProps> = [
     pronunciation:
       "nga-cha du-tshoed na log-tshu chu lapti nga monlam tapshed en ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140079/correction/i_wish_we_could_go_back_in_time_ik8jck.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220458/correction_again/1333_oq8j45.mp3",
   },
   {
     key: "1334",
@@ -9653,7 +9653,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ སྲས་ ལེབ་ སྦོམ་ཚར་ འདུག",
     pronunciation: "lhengye kyi se leb bomchar du",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140079/correction/your_son_has_grown_big_tnkekd.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220457/correction_again/1335_irxqwa.mp3",
   },
   {
     key: "1336",
@@ -9661,7 +9661,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ལོ་ ཀེས་པོའི་ རྒྱབ་ལས་  མཇལ་སྡི་ སེམས་ ལེབ་སྟི་ ར་ དགའ་ཞེ།",
     pronunciation: "lhengye lo kepoe gyapley  zeldi sem lep ti ra gazey",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140082/correction/it_is_so_nice_to_see_you_again_nutf8d.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220457/correction_again/1336_jugnpw.mp3",
   },
   {
     key: "1337",
@@ -9677,7 +9677,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཞལ་པར་ འདི་ སྐད་ རྐྱབས་ཅན་ འདུག།",
     pronunciation: "lhengye kyi shel-par di ked kyap-chen du",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140090/correction/your_phone_is_ringing_ocr1en.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220457/correction_again/1338_izertc.mp3",
   },
   {
     key: "1339",
@@ -9693,7 +9693,7 @@ const Data: Array<DataProps> = [
     bhutia: "གློག་བརྙན་ འདི་ གསད་པོ་ གནང་།",
     pronunciation: "lok-nyen di sepo nang ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140090/correction/switch_off_the_tv_drdhqu.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220449/correction_again/1340_yaotm5.mp3",
   },
   {
     key: "1341",
@@ -9733,7 +9733,7 @@ const Data: Array<DataProps> = [
     bhutia: "པདྨ་! ལྷན་རྒྱས་ཀྱིས་ ཡིག་སྣོད་༼ཕ་ཡེལ་༽གཟིགས་པོ་ གནང་བོ་ ལགས།",
     pronunciation: "Pema! lhengye kyi yig-noed (pha-yel) zig-po nang-bo la?  ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140091/correction/pema_did_you_check_your_file_oejt41.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220449/correction_again/1345_mnnlay.mp3",
   },
   {
     key: "1346",
@@ -9743,7 +9743,7 @@ const Data: Array<DataProps> = [
     pronunciation:
       "tharing nga lo yog chig yea , gong-yang nang-chuk ka la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140091/correction/can_i_be_excused_today_as_i_have_some_work_ppagjc.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220449/correction_again/1346_eln8uw.mp3",
   },
   {
     key: "1347",
@@ -9775,7 +9775,7 @@ const Data: Array<DataProps> = [
     bhutia: "སློབ་དཔོན་ གྱིས་ ལྷན་རྒྱས་ལོ་ འབོ་པོ་ གནང་དོ་ ལགས།",
     pronunciation: "lob-poen gyi lhengye lo pho-po nang-do la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742637481/correction/sir_is_calling_you_z9iydp.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220448/correction_again/1350_losqzu.mp3",
   },
   {
     key: "1351",
@@ -9793,7 +9793,7 @@ const Data: Array<DataProps> = [
     bhutia: "ངས་ རོགས་རམ་ ཞུ་ ཚུགས་ ཀམ?",
     pronunciation: "ngaa roram shu-tshug kam?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/may_i_help_you__md3y7c.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220448/correction_again/1352_al67d3.mp3",
   },
   {
     key: "1353",
@@ -9801,7 +9801,7 @@ const Data: Array<DataProps> = [
     bhutia: "མིན་དགོས་ ལགས། ང་ ཅམ་ ལྟ་དོ་ ཨིན་",
     pronunciation: "min-go la. nga cham ta-do en ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140103/correction/no_thanks_i_am_just_looking_through_xzj7kt.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220448/correction_again/1353_znipa0.mp3",
   },
   {
     key: "1354",
@@ -9817,7 +9817,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ལོ་ ལོག་ཅན་ མཇལ་སྡི་ དགའ་དྲགས་ བྱུང་ཞེ།",
     pronunciation: "lhengye lo lok-chen zel-di ga-tag zung-jhe. ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/it_is_a_pleasure_to_see_you_again_bnfkyw.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220439/correction_again/1355_xhigbu.mp3",
   },
   {
     key: "1356",
@@ -9833,7 +9833,7 @@ const Data: Array<DataProps> = [
     bhutia: "བདུན་ཕྲག་ རྒྱབ་མ་ ལོག་ཅན་ མཇལ་གེ་ ལགས།",
     pronunciation: "duen-thrag gyab-ma lok-chen zel-gey la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742277354/correction/lets_meet_again_next_week_sw0xa2.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220439/correction_again/1357_crgksc.mp3",
   },
   {
     key: "1358",
@@ -9841,7 +9841,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྐུ་ཞབས་ པདྨ་ལོ་ ངས་ སྐུ་གཟུགས་ བཟང་བོ་ ཞུ་དོ་ སེ་ ཞུ་གནང་།",
     pronunciation: "ku-shyab Pema lo ngaa  kuzu-zangbo shu-do se shu-nang.",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742277467/correction/give_my_regards_to_mr_pema_baen0q.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220438/correction_again/1358_jazykj.mp3",
   },
   {
     key: "1359",
@@ -9849,7 +9849,7 @@ const Data: Array<DataProps> = [
     bhutia: "འདི་ཁ་ བྱོན་བོ་ གནང་བོ་ན་ ཐུགས་རྗེ་ཆེ།",
     pronunciation: "di-kha joen-bo nang-bo na thug-je chhe",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/thanks_for_coming_here_rz1upj.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220438/correction_again/1359_yisphe.mp3",
   },
   {
     key: "1360",
@@ -9857,7 +9857,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ གཟིམ་ཁང་ལོ་ མི་ལག་ ག་ཚོད་ ཡོད་པོ་ ལགས།",
     pronunciation: "lengey ki zimkhaloh mila khaze yepo la? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/how_many_members_are_there_in_your_family_jhq5m9.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220438/correction_again/1360_fxhqtd.mp3",
   },
   {
     key: "1361",
@@ -9873,7 +9873,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ཡུལ་ འདི་ཀི་ སྐོར་ལོ་ ང་ལོ་ གསུང་ བྱི༹ན་བོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lhengye yul di-ki korlo ngalo sung-phin-bo nang-shed la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140104/correction/can_you_give_me_an_idea_about_this_place_xoqi3z.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220437/correction_again/1362_nqr2u2.mp3",
   },
 
   {
@@ -9882,7 +9882,7 @@ const Data: Array<DataProps> = [
     bhutia: "ང་ལོ་ ཆུ་ དགོས་པད་ ལགས།",
     pronunciation: "nga lo chhu go-ped la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140105/correction/i_want_water_jftqrq.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220437/correction_again/1386_d0ymxk.mp3",
   },
 
   {
@@ -9933,22 +9933,21 @@ const Data: Array<DataProps> = [
     bhutia: "ཉིམ་ ཤར་ ལས་ ཤར་དོ་ ཨིན་ ལགས།",
     pronunciation: "nyim shyar ley shar-do en la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_rise_from_xe1qpw.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1407_cryhhy.mp3",
   },
   {
     key: "1408",
     english: "Where does the sun set?",
     bhutia: "ཉིམ་ འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ?",
     pronunciation: "nyim di gha-na nub-to enam?",
-    audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140117/correction/where_does_the_sun_set_stfajt.mp3",
-  },
+    audiolink:"https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1408_ndzunb.mp3",
+     
   {
     key: "1409",
     english: "Sun sets in the west.",
     bhutia: "ཉིམ་ ནུབ་ ལོ་ ནུབ་ཏོ་ ཨིན་ ལགས།",
     pronunciation: "nyim nub lo nub-to en la",
-    audiolink: "",
+    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1409_kjf3kn.mp3",
   },
   {
     key: "1410",
@@ -9956,7 +9955,7 @@ const Data: Array<DataProps> = [
     bhutia: "ངས་ སྨན་འདི་ ནམ་ཟང་ ཟ་དགོས་ཤད་ ཉམ།",
     pronunciation: "ngaa sman-di nam-zang za-go shed nyam?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/how_long_do_i_have_to_take_the_medicines_bttq7h.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1410_zosc1h.mp3",
   },
   {
     key: "1411",
@@ -9964,7 +9963,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཉིམ་ བཅུ་ ཟང་སྟེ།",
     pronunciation: "nyim chu zang-te ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/for_ten_days_eafeou.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220427/correction_again/1411_jctssh.mp3",
   },
   {
     key: "1412",
@@ -9972,7 +9971,7 @@ const Data: Array<DataProps> = [
     bhutia: " ངས་ སྨན་འདི་ཙུ་  ག་ན་ལས་ ཉོས་དགོས་ ཀམ?",
     pronunciation: "ngaa sman-di-chu gha-na ley nyo-go kam? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139652/correction/where_can_i_buy_the_medicines_yqzael.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220427/correction_again/1412_dqmy2i.mp3",
   },
   {
     key: "1413",
@@ -9980,7 +9979,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྨན་ འདི་ སྨན་མཛོད་ཁང་ ག་འདིའི་ ནང་ལས་ ཡང་ ཉོས་ཚུགས་ ལགས།",
     pronunciation: "lhengye kyi sman-di sman-joed-khang ga-dhi nang-ley yang nyo-chu la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/you_can_buy_them_from_every_medical_store_ob2dzg.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220427/correction_again/1413_c3bpu2.mp3",
   },
   {
     key: "1414",
@@ -9988,7 +9987,7 @@ const Data: Array<DataProps> = [
     bhutia: " ངས་ རིལ་བུ་ འདི་ ནམ་ ཟ་ དགོས་ཤད་ འབོ།",
     pronunciation: "ngaa rilbu di nam za-go shed bo? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/when_should_i_take_the_pills_qufgaf.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220419/correction_again/1414_mblupc.mp3",
   },
   {
     key: "1415",
@@ -10004,7 +10003,7 @@ const Data: Array<DataProps> = [
     bhutia: "འདི་ ག་ཚོད་ ཀྱི་ འབོ་ ལགས།",
     pronunciation: "di gha-choed kyi bo la ?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139661/correction/how_much_is_this_rok95e.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220418/correction_again/1416_n0uozj.mp3",
   },
   {
     key: "1417",
@@ -10012,7 +10011,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཕྱག་དེབ་ འདིའི་ རིན་གོང་ འདི་ ལྔ་བརྒྱ་ ཐམ་པ་ ཨིན་ ལགས།",
     pronunciation: "chyag-dep di-hye rin-gong di ngab-gya thamba en la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/this_books_price_is_500_p3bawn.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220418/correction_again/1417_g5jw4p.mp3",
   },
   {
     key: "1418",
@@ -10028,7 +10027,7 @@ const Data: Array<DataProps> = [
     bhutia: "གསར་པོ་ ག་རེ་ མིན་འདུག་ ལགས།",
     pronunciation: "sar-po gha-rey min-du la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/there_is_nothing_new_m1tn2f.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220418/correction_again/1419_diqpgv.mp3",
   },
   {
     key: "1420",
@@ -10036,7 +10035,7 @@ const Data: Array<DataProps> = [
     bhutia: "ངས་ གནས་ འདི་ མཇལ་ ཚུགས་ ཀམ་ ལགས?",
     pronunciation: "ngaa ney di jel-chu kam la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139662/correction/can_i_visit_this_holy_place_vcm9v6.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220418/correction_again/1420_wattjw.mp3",
   },
   {
     key: "1421",
@@ -10060,7 +10059,7 @@ const Data: Array<DataProps> = [
     bhutia: "འདི་ སྒང་ཏོག་ ལོ་ ཡོད་ ལགས།",
     pronunciation: "di gan-tok (gangtok) yea la ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139674/correction/it_is_in_gangtok_market_r6x0ni.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220417/correction_again/1423_vytfbb.mp3",
   },
   {
     key: "1424",
@@ -10068,7 +10067,7 @@ const Data: Array<DataProps> = [
     bhutia: "དགོན་པ་ སླེབས་པ་ལོ་ དུས་ཚོད་ ག་ཚོད་ འགོར་ཤད་ ལགས?",
     pronunciation: "goen-pa lhe-pa lo du-choed gha-choed gor-shed la? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/how_long_does_it_take_to_reach_the_monastry_qd3im4.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220409/correction_again/1424_i775pl.mp3",
   },
   {
     key: "1425",
@@ -10076,7 +10075,7 @@ const Data: Array<DataProps> = [
     bhutia: "སྐར་མ་ བཅུ་ འདེ་ཅིག་ འགོར་ ལགས།",
     pronunciation: "kar-ma chu de-chig gor la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/it_will_take_nearly_ten_minutes_ikzzke.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220409/correction_again/1425_e3nve6.mp3",
   },
   {
     key: "1426",
@@ -10084,7 +10083,7 @@ const Data: Array<DataProps> = [
     bhutia: " ལམ་ ཐུང་ཤོས་ འདི་ར་ ཉ?",
     pronunciation: "lam thung-sho di ra nya?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139709/correction/is_this_the_shortest_way_v45qjm.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220409/correction_again/1426_zifnex.mp3",
   },
   {
     key: "1427",
@@ -10092,7 +10091,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལགས་ཨིན!ལམ་ ཐུང་ཤོས་ འདི་ར་ ཨིན།་  ",
     pronunciation: "la-en! lam-thung-sho di ra en la",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139697/correction/yes_this_is_the_shortest_way_l0veoq.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220409/correction_again/1427_cld8qx.mp3",
   },
 
   {
@@ -10117,7 +10116,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ནམ་ སྐུ་ བསིལ་བོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lhengye nam ku sil-bo nang-shed la? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/when_will_you_take_a_bath_fscurp.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220408/correction_again/1432_t5hbr9.mp3",
   },
   {
     key: "1433",
@@ -10133,7 +10132,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཐོ་རངས་ སློབ་གྲྭ་ ཡོད་ཀ་ ལགས།",
     pronunciation: "lhengye-kyi tho-rang lob-dra yea ka la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/do_you_have_school_tomorrow_jtjgas.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220408/correction_again/1434_xc1sfr.mp3",
   },
   {
     key: "1435",
@@ -10157,7 +10156,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ནམ་ སྤོ་བོ་ ལགས།",
     pronunciation: "lhengye kyi nam-za nam po-bo la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139710/correction/when_did_you_change_your_dress_ifghfi.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220399/correction_again/1437_bvnemz.mp3",
   },
   {
     key: "1438",
@@ -10173,7 +10172,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ ངའི་ དེབ་ གཟིགས་པོ་ གནང་བོ?",
     pronunciation: "lhengye-kyi ngai dep  zig-po nang-bo?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139719/correction/did_you_see_my_book_bwkfcr.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220399/correction_again/1439_cap0vh.mp3",
   },
   {
     key: "1440",
@@ -10181,7 +10180,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་! ད་རིང་ ཆརབ་ རྐྱབས་ཉེ་ འདེམ་ འདུག་ཀ་ ལགས?",
     pronunciation: "lhengye  tha-ring chhap kyap-nyi dhem du-ka la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/do_you_think_it_will_rain_today_evk8aj.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220399/correction_again/1440_owswh9.mp3",
   },
   {
     key: "1441",
@@ -10190,7 +10189,7 @@ const Data: Array<DataProps> = [
       " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམས་བྱོན་ ཚུགས་ ཀ་ ལགས?",
     pronunciation: "lhengye nga lo chhu-chi nam-joen chu ka la ? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/could_you_please_bring_water_for_me_zonua2.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220398/correction_again/1441_hgchnz.mp3",
   },
   {
     key: "1442",
@@ -10198,7 +10197,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མེ་ཏོག དགའ་ཤོས་ ་འདི་ ག་འདི་ འབོ་ལགས།",
     pronunciation: "lhengye kyi me-tok ga-sho di  gha-di bo la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/what_is_your_favourite_flower_ellcdg.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220398/correction_again/1442_ac9ivr.mp3",
   },
   {
     key: "1443",
@@ -10206,7 +10205,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཀའི་ དོན་ལོ་ ཞལ་ལག་ བཟོ་བོ་ གནང་འབོ?",
     pronunciation: "lhengye-kyi kae then-lo zhe-lag zo-bo nang-bo? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/for_whom_did_you_make_the_food_scx505.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220398/correction_again/1443_fpwf3v.mp3",
   },
   {
     key: "1444",
@@ -10214,7 +10213,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཉིམ་ ག་ལྟེམ་ འབྱུང་ ཞེ?",
     pronunciation: "lhengye kyi nyim gha-tem zung ze ?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139720/correction/how_was_your_day_gr7qin.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220398/correction_again/1444_njjh7a.mp3",
   },
   {
     key: "1445",
@@ -10222,7 +10221,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ལྡི་ལི་ལས་ ནམ་ བྱོན་བོ་ གནང་འབོ།",
     pronunciation: "lhengye Delhi le nam  joen-bo nang-bo?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/when_did_you_come_from_delhi_wvsq4k.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220388/correction_again/1445_tsi60j.mp3",
   },
   {
     key: "1446",
@@ -10238,7 +10237,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ ཐུགས་སྤྲོ་ ཡོད་ཀ་ ལགས།",
     pronunciation: "lhengye lo sung-lu kyon-shed thug-tro yea ka la ?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139721/correction/are_you_interested_in_singing_ipuasi.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220388/correction_again/1447_ohl1zl.mp3",
   },
   {
     key: "1448",
@@ -10246,7 +10245,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ སྔ་རུ་ དྲོ་ལས་ བཞངས་པོ་ གནང་དོ་ ལགས?",
     pronunciation: "lhengye nga-ru thro-ley zhang-po nang do la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139735/correction/do_you_get_up_early_in_the_morning_omrni6.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220388/correction_again/1448_ddtusv.mp3",
   },
   {
     key: "1449",
@@ -10270,7 +10269,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ ག་ལྟེམ་ ཡོད་ ལགས།",
     pronunciation: "lhengye tha-ta gha-tem yea la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_are_you_feeling_now_rmxl9r.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220388/correction_again/1451_k2b8xk.mp3",
   },
   {
     key: "1452",
@@ -10278,7 +10277,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཡུམ་ ག་ལྟེམ་ ཡོད་ ལགས།",
     pronunciation: "lhengye-kyi yum gha-tem yea la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_mom_1_btyr32.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220387/correction_again/1452_saf5nd.mp3",
   },
   {
     key: "1453",
@@ -10286,7 +10285,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ བཞེསཐུགས་ བཞེས་འདོད་ ཡོད་ཀ་ ལགས?",
     pronunciation: "lhengye zhe-thug zhe-doed yea ka la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/do_you_want_to_eat_noodles_nkvdym.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220387/correction_again/1453_jopirj.mp3",
   },
   {
     key: "1454",
@@ -10294,7 +10293,7 @@ const Data: Array<DataProps> = [
     bhutia: "ང་ཅག་ གན་ མངགས་ དགོས་ཤད་ འབོ?",
     pronunciation: "nga-cha ghan mngag go-shed bo?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/what_should_we_order_1_ee24dr.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220387/correction_again/1454_aaad8y.mp3",
   },
   {
     key: "1455",
@@ -10302,7 +10301,7 @@ const Data: Array<DataProps> = [
     bhutia: "ས་ཆ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག་ ལགས?",
     pronunciation: "sa-chha di-na chhi-gyal gyi phak-lep chong-ga la ?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/does_this_place_sell_burgers_rrtns3.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220379/correction_again/1455_l55yjz.mp3",
   },
   {
     key: "1456",
@@ -10318,7 +10317,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁེ་ལེ་ ལེགམ་ ཡོད་ཀ?",
     pronunciation: "khe-le lem yea-ka?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/is_everything_alright_u494mj.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220379/correction_again/1457_eyr7q3.mp3",
   },
   {
     key: "1458",
@@ -10326,7 +10325,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ད་རིང་ ཐུགས་ དལ་ག་ ལགས?",
     pronunciation: "lhengye dha-ring thug dhel-ga la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/do_you_have_free_time_today_agfmwq.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220378/correction_again/1458_xnuita.mp3",
   },
   {
     key: "1459",
@@ -10342,7 +10341,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ ཡུལ་ཙུ་ ག་འདི་ ག་འདི་ བསྐོར་བོ་ གནང་བོ?",
     pronunciation: "lhengye  yue-chu gha-di gha-di  kor-bo  nang-bo?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_places_have_you_visited_jap0tu.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220378/correction_again/1460_ua6xce.mp3",
   },
   {
     key: "1461",
@@ -10350,7 +10349,7 @@ const Data: Array<DataProps> = [
     bhutia: "ག་འདི་ ལེགས་པད་ ལགས?",
     pronunciation: "gha-di  ley-ped la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/which_one_is_better_yqbqjp.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220378/correction_again/1461_zdfqc8.mp3",
   },
   {
     key: "1462",
@@ -10358,7 +10357,7 @@ const Data: Array<DataProps> = [
     bhutia: "འདི་ ངས་ ཐོབ་ ཚུགས་ ཀ་?",
     pronunciation: "di ngaa thob-chu ka?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140011/correction/should_i_get_this_nniqve.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220378/correction_again/1462_wmq1yx.mp3",
   },
   {
     key: "1463",
@@ -10366,7 +10365,7 @@ const Data: Array<DataProps> = [
     bhutia: "འདི་ ལེབ་ གོང་ མ་ཆེ་ ག?",
     pronunciation: "di leb gong ma-chey ga?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140012/correction/isnt_it_too_expensive_hgmg9v.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220370/correction_again/1463_kcgbq2.mp3",
   },
   {
     key: "1464",
@@ -10374,7 +10373,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱིས་ ཨ་སཱམ་གྱི་ ཟ་མའི་ སྐོར་ལོ་ མཁྱེན་ག་ ལགས།",
     pronunciation: "lhengye-kyi Assam gyi za-mea kor-lo khyen-ga la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140022/correction/do_you_know_about_the_food_in_assam_yy4ezv.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220369/correction_again/1464_ykibqz.mp3",
   },
   {
     key: "1465",
@@ -10390,7 +10389,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ གཟིམ་ཁང་ན་ ནམ་ བྱོན་ཤད་ ལགས།",
     pronunciation: "lhengye zhim-khang-na nam joen-shed la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/when_are_you_coming_home_gop98i.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220369/correction_again/1466_njeulf.mp3",
   },
   {
     key: "1467",
@@ -10415,7 +10414,7 @@ const Data: Array<DataProps> = [
       "ལྷན་རྒྱས་ འདི་ལས་ ཡར་ལྟེ་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་དོ་ ལགས?",
     pronunciation: "lhengye di-ley  ya-tey lob-zang nang-shed kyi chhar-zhi nang-do la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140023/correction/are_you_planning_for_further_studies_bloqlm.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220369/correction_again/1469_vayhzz.mp3",
   },
   {
     key: "1470",
@@ -10423,7 +10422,7 @@ const Data: Array<DataProps> = [
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་་ལྟེམ་ ཐོན་དོ་ ལགས?",
     pronunciation: "lhengye kyi chyag-ley  gha-tem thoen-do la?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140010/correction/how_is_your_work_going_on_wvty3c.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220369/correction_again/1470_ralkhn.mp3",
   },
   {
     key: "1471",
@@ -10433,7 +10432,7 @@ const Data: Array<DataProps> = [
     pronunciation:
       "lhengye lep-ti-ra ku-thang ched-po dem du-sho.khey-ley lem-ra yea ka la? ",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/you_look_tired_is_everything_alright_kme53b.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220368/correction_again/1471_cnycbl.mp3",
   },
   {
     key: "1472",
@@ -10441,7 +10440,7 @@ const Data: Array<DataProps> = [
     bhutia: "ད་རིང་ ཉིམ་ ཚ་དྲགས་ འདུག། ང་ཅག་  བྱེ་/སྤྱེ་ རྐྱབས་པ་ བྱོན་ཤད་ མན་ན?",
     pronunciation: "tha-ring nyim tsha-ta du. nga-cha je/che kya-pa joen-shed men-na?",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/it_is_a_sunny_day_shall_we_go_for_swimming_njsy6s.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220359/correction_again/1472_io4uv6.mp3",
   },
   {
     key: "1473",
@@ -10451,7 +10450,7 @@ const Data: Array<DataProps> = [
     pronunciation:
       "lhengye nga-lo ley-khung zang-tey kyel-bo  nang-tshu ka ? nga phi tshar la !",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140024/correction/can_you_please_drop_me_to_the_office_i_am_running_late_wwzccs.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220359/correction_again/1473_ixakla.mp3",
   },
   {
     key: "1474",
