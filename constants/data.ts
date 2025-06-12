@@ -12333,7 +12333,7 @@ const Data: Array<DataProps> = [
     key: "1748",
     english: "Balance",
     audiolink: "",
-    bhutia: "ཆ་སོམས་པོ། ཚོད་སོམས།",
+    bhutia: "ཆ་སོམས་པོ།/ཚོད་སོམས།",
     pronunciation: "",
   },
   {
@@ -12375,14 +12375,14 @@ const Data: Array<DataProps> = [
     key: "1754",
     english: "Challenges",
     audiolink: "",
-    bhutia: "ཚོད་ལྟ། གདོང་ལེན།",
+    bhutia: "ཚོད་ལྟ/གདོང་ལེན།",
     pronunciation: "",
   },
   {
     key: "1755",
     english: "Care",
     audiolink: "",
-    bhutia: "བདག་ཀུ། ལྟ་རོག",
+    bhutia: "བདག་ཀུ/ལྟ་རོག",
     pronunciation: "",
   },
   {
@@ -12410,7 +12410,7 @@ const Data: Array<DataProps> = [
     key: "1759",
     english: "Fistula",
     audiolink: "",
-    bhutia: "མཚན་བར་ རོལ་བ། ཧྡིལ་བུ།",
+    bhutia: "མཚན་བར་ རོལ་བ/ ཧྡིལ་བུ།",
     pronunciation: "",
   },
   {
@@ -12536,7 +12536,7 @@ const Data: Array<DataProps> = [
     key: "1777",
     english: "Regular",
     audiolink: "",
-    bhutia: "ཨ་བཏང་། ཆག་མེད།",
+    bhutia: "ཨ་བཏང་/ཆག་མེད།",
     pronunciation: "",
   },
   {
@@ -12550,14 +12550,14 @@ const Data: Array<DataProps> = [
     key: "1779",
     english: "Sodium",
     audiolink: "",
-    bhutia: "ཚ་རླུང་། ཚྭ་རྫས། ",
+    bhutia: "ཚ་རླུང་/ཚྭ་རྫས། ",
     pronunciation: "",
   },
   {
     key: "1780",
     english: "Symptom",
     audiolink: "",
-    bhutia: "ནད་རགས། རགས་མཚན། ",
+    bhutia: "ནད་རགས/རགས་མཚན། ",
     pronunciation: "",
   },
   {
@@ -12634,7 +12634,7 @@ const Data: Array<DataProps> = [
     key: "1791",
     english: "Vitamin",
     audiolink: "",
-    bhutia: "བཅུད་སྨན། སོབས་སེད། ",
+    bhutia: "བཅུད་སྨན/ སོབས་སེད། ",
     pronunciation: "",
   },
   {
