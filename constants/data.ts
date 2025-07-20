@@ -8745,7 +8745,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140417/correction/houses_were_built_r38y8w.mp3",
     bhutia: "ཁྱིམ་ཙུ་ བཟོ་ཚར་ འདུག།",
-    pronunciation: "khim-chu zo-char duh",
+    pronunciation: "khim-chu zo-char du",
   },
   {
     key: "1220",
@@ -8753,7 +8753,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140442/correction/cars_are_new_mkmdcl.mp3",
     bhutia: "ཞོན་འཁོར་ཙུ་ གསར་པོ་ འདུག།",
-    pronunciation: "chenkor chu sapo-duh",
+    pronunciation: "chenkor chu sapo-du",
   },
   {
     key: "1221",
@@ -8761,7 +8761,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140436/correction/dogs_are_barking_daga1z.mp3",
     bhutia: "ཁྱི་ཙུ་ ཧབ་བཞིན་ འདུག།",
-    pronunciation: "khichu habzin duh",
+    pronunciation: "khi-chu habzin du",
   },
   {
     key: "1222",
@@ -8769,7 +8769,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_wants_to_sing_libkio.mp3",
     bhutia: "མོ་ གླུ་ རྐྱབས་འདོད་ འདུག།",
-    pronunciation: "mu lu kyapdi duh",
+    pronunciation: "mu lo kyab-di du",
   },
   {
     key: "1223",
@@ -9438,7 +9438,7 @@ const Data: Array<DataProps> = [
     key: "1309",
     english: "What are your plans now?",
     bhutia: "ད་ ལྷན་རྒྱས་ཀྱི་ འཆར་གཞི་ གན་ ཡོད་པོ་ ལགས།",
-    pronunciation: "tha lengey ki chazi khan yepo la?",
+    pronunciation: "tha lhengye kyi chazi ghan yepo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140066/correction/what_are_your_plans_now_gj7fbb.mp3",
   },
@@ -9517,8 +9517,7 @@ const Data: Array<DataProps> = [
   {
     key: "1319",
     english: "Love your dress. Where did you buy it? (honorific) ",
-    bhutia:
-      "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ལྕང་སྦད ག་ན་ལས་ བཞེས་པོ་ གནང་བོ་ ལགས།",
+    bhutia: "ལྷན་རྒྱས་ཀྱི་ ནམ་བཟའ་ ལྕང་སྦད ག་ན་ལས་ བཞེས་པོ་ གནང་བོ་ ལགས།",
     pronunciation: "lhengye kyi namza chang beh khana le zepo nangbo la?  ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220470/correction_again/1319_avmzvz.mp3",
@@ -9550,8 +9549,7 @@ const Data: Array<DataProps> = [
   {
     key: "1323",
     english: "I didn't know about your father so sorry. (honorific)",
-    bhutia:
-      "ངས་ ལྷན་རྒྱས་ཀྱི་ ཡབ་ཀྱི་ སྐོར་ལོ་ ཧ་མ་གོ་ ཐུགས་ སྡུག་ཀོ་ མ་གནང་།",
+    bhutia: "ངས་ ལྷན་རྒྱས་ཀྱི་ ཡབ་ཀྱི་ སྐོར་ལོ་ ཧ་མ་གོ་ ཐུགས་ སྡུག་ཀོ་ མ་གནང་།",
     pronunciation: "nga lhengye ki yap kyi korlo ha ma go  thu duko mana",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220469/correction_again/1323_kzfmen.mp3",
@@ -9658,7 +9656,8 @@ const Data: Array<DataProps> = [
   {
     key: "1336",
     english: "It's so nice to see you after a long time.",
-    bhutia: "ལྷན་རྒྱས་ལོ་ ཀེས་པོའི་ རྒྱབ་ལས་  མཇལ་སྡི་ སེམས་ ལེབ་སྟི་ ར་ དགའ་ཞེ།",
+    bhutia:
+      "ལྷན་རྒྱས་ལོ་ ཀེས་པོའི་ རྒྱབ་ལས་  མཇལ་སྡི་ སེམས་ ལེབ་སྟི་ ར་ དགའ་ཞེ།",
     pronunciation: "lhengye lo kepoe gyapley  zeldi sem lep ti ra gazey",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220457/correction_again/1336_jugnpw.mp3",
@@ -9738,10 +9737,8 @@ const Data: Array<DataProps> = [
   {
     key: "1346",
     english: "Can I be excused?  as I have work today",
-    bhutia:
-      "ད་རིང་ ང་ལོ་ གཡོག་ གཅིག་ ཡོད་,དགོངས་ཡངས་ གནང་ ཚུགས་ཀ་ ལགས? ",
-    pronunciation:
-      "tharing nga lo yog chig yea , gong-yang nang-chuk ka la?",
+    bhutia: "ད་རིང་ ང་ལོ་ གཡོག་ གཅིག་ ཡོད་,དགོངས་ཡངས་ གནང་ ཚུགས་ཀ་ ལགས? ",
+    pronunciation: "tharing nga lo yog chig yea , gong-yang nang-chuk ka la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220449/correction_again/1346_eln8uw.mp3",
   },
@@ -9870,7 +9867,8 @@ const Data: Array<DataProps> = [
   {
     key: "1362",
     english: "Can you give me an idea about this place?",
-    bhutia: "ལྷན་རྒྱས་ ཡུལ་ འདི་ཀི་ སྐོར་ལོ་ ང་ལོ་ གསུང་ བྱི༹ན་བོ་ གནང་ཤད་ ལགས།",
+    bhutia:
+      "ལྷན་རྒྱས་ ཡུལ་ འདི་ཀི་ སྐོར་ལོ་ ང་ལོ་ གསུང་ བྱི༹ན་བོ་ གནང་ཤད་ ལགས།",
     pronunciation: "lhengye yul di-ki korlo ngalo sung-phin-bo nang-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220437/correction_again/1362_nqr2u2.mp3",
@@ -9940,14 +9938,17 @@ const Data: Array<DataProps> = [
     english: "Where does the sun set?",
     bhutia: "ཉིམ་ འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ?",
     pronunciation: "nyim di gha-na nub-to enam?",
-    audiolink:"https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1408_ndzunb.mp3",
-     
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1408_ndzunb.mp3",
+  },
+
   {
     key: "1409",
     english: "Sun sets in the west.",
     bhutia: "ཉིམ་ ནུབ་ ལོ་ ནུབ་ཏོ་ ཨིན་ ལགས།",
     pronunciation: "nyim nub lo nub-to en la",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1409_kjf3kn.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220428/correction_again/1409_kjf3kn.mp3",
   },
   {
     key: "1410",
@@ -9976,8 +9977,10 @@ const Data: Array<DataProps> = [
   {
     key: "1413",
     english: "You can buy it from every medical store.",
-    bhutia: "ལྷན་རྒྱས་ཀྱིས་ སྨན་ འདི་ སྨན་མཛོད་ཁང་ ག་འདིའི་ ནང་ལས་ ཡང་ ཉོས་ཚུགས་ ལགས།",
-    pronunciation: "lhengye kyi sman-di sman-joed-khang ga-dhi nang-ley yang nyo-chu la",
+    bhutia:
+      "ལྷན་རྒྱས་ཀྱིས་ སྨན་ འདི་ སྨན་མཛོད་ཁང་ ག་འདིའི་ ནང་ལས་ ཡང་ ཉོས་ཚུགས་ ལགས།",
+    pronunciation:
+      "lhengye kyi sman-di sman-joed-khang ga-dhi nang-ley yang nyo-chu la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220427/correction_again/1413_c3bpu2.mp3",
   },
@@ -10185,8 +10188,7 @@ const Data: Array<DataProps> = [
   {
     key: "1441",
     english: "Could you please bring water for me?",
-    bhutia:
-      " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམས་བྱོན་ ཚུགས་ ཀ་ ལགས?",
+    bhutia: " ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམས་བྱོན་ ཚུགས་ ཀ་ ལགས?",
     pronunciation: "lhengye nga lo chhu-chi nam-joen chu ka la ? ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220398/correction_again/1441_hgchnz.mp3",
@@ -10217,7 +10219,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1445",
-    english: "When did you come from Delhi?",
+    english: "When did you come from Delhi? (honorific)",
     bhutia: "ལྷན་རྒྱས་ ལྡི་ལི་ལས་ ནམ་ བྱོན་བོ་ གནང་འབོ།",
     pronunciation: "lhengye Delhi le nam  joen-bo nang-bo?",
     audiolink:
@@ -10225,7 +10227,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1446",
-    english: "How was your journey?",
+    english: "How was your journey? (honorific)",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ འགྲུལ་ ག་འདེམ་ འབྱུང་འབོ་ ལགས?",
     pronunciation: "lhengye kyi drul gha-tem jung-bo la?",
     audiolink:
@@ -10233,7 +10235,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1447",
-    english: "Are you interested in singing?",
+    english: "Are you interested in singing? (honorific)",
     bhutia: "ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ བཀྱོན་ཤད་ ཐུགས་སྤྲོ་ ཡོད་ཀ་ ལགས།",
     pronunciation: "lhengye lo sung-lu kyon-shed thug-tro yea ka la ?",
     audiolink:
@@ -10241,7 +10243,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1448",
-    english: "Do you get up early in the morning?",
+    english: "Do you get up early in the morning? (honorific)",
     bhutia: "ལྷན་རྒྱས་ སྔ་རུ་ དྲོ་ལས་ བཞངས་པོ་ གནང་དོ་ ལགས?",
     pronunciation: "lhengye nga-ru thro-ley zhang-po nang do la?",
     audiolink:
@@ -10249,7 +10251,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1449",
-    english: "Where did you go yesterday?",
+    english: "Where did you go yesterday? (honorific)",
     bhutia: "ལྷན་རྒྱས་ མདང་ ག་ན་ བྱོན་བོ་ ལགས།",
     pronunciation: "lhengye dang gha-na joen-bo la?",
     audiolink:
@@ -10257,7 +10259,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1450",
-    english: "What are you doing right now?",
+    english: "What are you doing right now? (honorific)",
     bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ གན་ གནང་དོ་ ལགས།",
     pronunciation: "lhengey tha-ta ghan nang-do la ?",
     audiolink:
@@ -10265,7 +10267,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1451",
-    english: "How are you feeling now?",
+    english: "How are you feeling now? (honorific)",
     bhutia: "ལྷན་རྒྱས་ ད་ལྟ་ ག་ལྟེམ་ ཡོད་ ལགས།",
     pronunciation: "lhengye tha-ta gha-tem yea la?",
     audiolink:
@@ -10281,7 +10283,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1453",
-    english: "Do you want to eat noodles?",
+    english: "Do you want to eat noodles? (honorific)",
     bhutia: "ལྷན་རྒྱས་ བཞེསཐུགས་ བཞེས་འདོད་ ཡོད་ཀ་ ལགས?",
     pronunciation: "lhengye zhe-thug zhe-doed yea ka la?",
     audiolink:
@@ -10412,7 +10414,8 @@ const Data: Array<DataProps> = [
     english: "Are you planning for further studies?",
     bhutia:
       "ལྷན་རྒྱས་ འདི་ལས་ ཡར་ལྟེ་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་དོ་ ལགས?",
-    pronunciation: "lhengye di-ley  ya-tey lob-zang nang-shed kyi chhar-zhi nang-do la?",
+    pronunciation:
+      "lhengye di-ley  ya-tey lob-zang nang-shed kyi chhar-zhi nang-do la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220369/correction_again/1469_vayhzz.mp3",
   },
@@ -10437,8 +10440,10 @@ const Data: Array<DataProps> = [
   {
     key: "1472",
     english: "It's a sunny day. Shall we go for swimming?",
-    bhutia: "ད་རིང་ ཉིམ་ ཚ་དྲགས་ འདུག། ང་ཅག་  བྱེ་/སྤྱེ་ རྐྱབས་པ་ བྱོན་ཤད་ མན་ན?",
-    pronunciation: "tha-ring nyim tsha-ta du. nga-cha je/che kya-pa joen-shed men-na?",
+    bhutia:
+      "ད་རིང་ ཉིམ་ ཚ་དྲགས་ འདུག། ང་ཅག་  བྱེ་/སྤྱེ་ རྐྱབས་པ་ བྱོན་ཤད་ མན་ན?",
+    pronunciation:
+      "tha-ring nyim tsha-ta du. nga-cha je/che kya-pa joen-shed men-na?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220359/correction_again/1472_io4uv6.mp3",
   },
@@ -10472,7 +10477,8 @@ const Data: Array<DataProps> = [
     key: "1476",
     english: "What time will your meeting get over?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ ལོ་ མྱོ༹ང་ཤད་ ལགས?",
-    pronunciation: "lhengye kyi tshog-du chhu-choed gha-choed lo myong-shed la?",
+    pronunciation:
+      "lhengye kyi tshog-du chhu-choed gha-choed lo myong-shed la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140032/correction/what_time_will_your_meeting_get_over_nsnb0l.mp3",
   },
@@ -10790,7 +10796,6 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1748220308/correction_again/1527_y4j1xu.mp3",
   },
 
-
   {
     key: "1531",
     english: "This is not nice. Let's look in another shop.",
@@ -10911,7 +10916,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742139632/correction/this_place_has_yummy_food_lpyhrd.mp3",
   },
-  
+
   {
     key: "1547",
     english: "What should we order?",
@@ -11061,141 +11066,160 @@ const Data: Array<DataProps> = [
     english: "Are these vegetables fresh?",
     bhutia: "ཆོ༹དམ་ འདི་ཙུ་ གསར་པོ་ ཉ?",
     pronunciation: " chhoem di-chu sar-po nya?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748234738/correction_again/1565_aulodj.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748234738/correction_again/1565_aulodj.mp3",
   },
   {
     key: "1566",
     english: "How much is this per kilo?",
     bhutia: "འདི་ ཤེར་ལོ ག་ཆོ༹ད་ འབོ?",
     pronunciation: " di sher-lo gha-choed bo?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220283/correction_again/1566_fd56m5.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220283/correction_again/1566_fd56m5.mp3",
   },
   {
     key: "1567",
     english: "Are these local?",
     bhutia: "འདི་ཙུ་ གྱོང་གི་ ཨིན་ག?",
     pronunciation: "di-chu ghyong-gi en ga? ? ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220275/correction_again/1567_mxjxt6.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220275/correction_again/1567_mxjxt6.mp3",
   },
   {
     key: "1568",
     english: "Is there a discount if I purchase in bulk?",
     bhutia: "ངས་ ཨ་ཅི༹་ མང་དྲགས་ ཉོ་ན་ གོང་བཅག་ ཀ?",
     pronunciation: " ngaa a-chi mang-ta nyo-ney gong chhag ka?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220274/correction_again/1568_oxw9d3.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220274/correction_again/1568_oxw9d3.mp3",
   },
   {
     key: "1569",
     english: "Are these fresh tomatoes?",
     bhutia: "བླམ་ བན་ད་ འདི་ཅུ༹་ གསར་པོ་ ཨིན་ག?",
     pronunciation: "lam ven-da di-chu sar-po en ga?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1569_ne1mxl.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1569_ne1mxl.mp3",
   },
   {
     key: "1570",
     english: "What are the new vegetables?",
     bhutia: "ཆོ༹དམ་ གསར་པོ་ཙུ་ གན་གན་ ཡོད་པོ?",
     pronunciation: "chhoem sar-po chu ghan ghan yea-po?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1570_tv7uzg.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1570_tv7uzg.mp3",
   },
   {
     key: "1571",
     english: "Do you have change for Rs 500?",
     bhutia: "རང་ཙ་ ཏི་རུག་ ལྔ་བརྒྱ་ བཅག་ཤད་ ཡོད་ ཀ?",
     pronunciation: "rang cha ti-rug ngab-gya chag-shed yea ka ? ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1571_kerb9o.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1571_kerb9o.mp3",
   },
   {
     key: "1572",
     english: "Can you give me a carry bag ?",
     bhutia: "ང་ལོ་ ཆ་ཀ་ བླུག་ཤད་ཀྱི་ འགྱེབ་ བྱི༹ན་ཆུ༹གས་ ཀ?",
     pronunciation: "nga lo chha-ka lug-shed-kyi gyep phin-tshug ka?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1572_werrjj.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220273/correction_again/1572_werrjj.mp3",
   },
   {
     key: "1573",
     english: "These items are very expensive",
     bhutia: "ཆ་ཀ་ འདི་ཙུ་ ལེབ་ གོང་ཆེན་ སྦད་།",
     pronunciation: "chha-ka di-chu leb gong-chhen bed",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220272/correction_again/1573_j7yixx.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220272/correction_again/1573_j7yixx.mp3",
   },
   {
     key: "1574",
     english: "Mom, I'm home !",
     bhutia: "ཨམ་ལགས་ ང་ ཁྱིམ་ ལོག་ དོལ་ ཆ༹ར་!",
     pronunciation: "amla nga khim log thoe-tsha!",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220264/correction_again/1574_c6zlem.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220264/correction_again/1574_c6zlem.mp3",
   },
   {
     key: "1575",
     english: "Good evening, How was your day ?",
     bhutia: "ཕྱི༹་མཆ༹མས་ བདེ་ལེགས་, ད་རི་ང་ ཉིམ་ ག་ལྟེམ་ བྱུང་ཞེ་?",
     pronunciation: "phid-tsham de-lek, dha-ring nyim gha-tem jung-zhe? ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220264/correction_again/1575_hnglqu.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220264/correction_again/1575_hnglqu.mp3",
   },
   {
     key: "1576",
     english: "I am very tired today !",
     bhutia: "ང་ ད་རིང་ ལེབ་ ཐང་ ཆད་ ཙར་!",
     pronunciation: "nga tha-ring leb thang-chhed tshar",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1576_t9efz4.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1576_t9efz4.mp3",
   },
   {
     key: "1577",
     english: "I feel happy to be home !",
     bhutia: "ང་ ཁྱིམ་ འོང་སྡི་ དགའ་དྲགས་ ཐོན་ཞེ་!",
     pronunciation: "nga khim hong-di ga-tak thoen-zhe!",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1577_hll2o2.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1577_hll2o2.mp3",
   },
   {
     key: "1578",
     english: "I missed home-cooked food all day !",
     bhutia: "ང་ ཉིམ་ ཅིག་ཀུ་ ཁྱིམ་གྱི་ ཟམ་ དྲན་ ཞེ་!",
     pronunciation: "nga nyim-chi-ku khim-gyi zam dren-zhe! ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1578_s1opoi.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220263/correction_again/1578_s1opoi.mp3",
   },
   {
     key: "1579",
     english: "Work was hectic today",
     bhutia: "ད་རིང་ གཡོག་ འདི་ བྱེ༹ལ་འཆུ༹བ་ ཆེ་དྲགས་ ཐོན་ཞེ་། ",
     pronunciation: "tha-ring yog-di phel-tshub chhe-tag thoen-zhe. ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220262/correction_again/1579_std1f4.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220262/correction_again/1579_std1f4.mp3",
   },
   {
     key: "1580",
     english: "There were a lot of  meetings today",
     bhutia: "ད་རིང་ ཆོ༹གས་འདུ་ ཀེས་པོ་ ཐོན་ཞེ།",
     pronunciation: "tha-ring tshog-du ke-po thoen-zhe ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1580_bbtdj0.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1580_bbtdj0.mp3",
   },
   {
     key: "1581",
     english: "I had lunch late, I am not hungry now",
     bhutia: "ངས་ ཇ༹འུ་ ཕྱི༹་དྲགས་ ཟ་ཤད་ འདིས་ ང་ ད་ལྟ་ གྱོདབ་ ལྟོགས་པོ་ མེད་།",
-    pronunciation:
-      "ngaa zou phi-tag za-shed di nga tha-ta khyob tog-po med ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1581_a1seje.mp3",
+    pronunciation: "ngaa zou phi-tag za-shed di nga tha-ta khyob tog-po med ",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1581_a1seje.mp3",
   },
   {
     key: "1582",
     english: "I finished all my work today!",
     bhutia: "ང་ ད་རིང་གི་ གཡོག་ ཁེ་ལེ་ མྱོ༹ང་ ཆ༹ར་།",
     pronunciation: "nga tha-ring gi yog  khe-ley myong-tshar",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1582_fbfyxc.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220254/correction_again/1582_fbfyxc.mp3",
   },
   {
     key: "1583",
     english: "I was given more work again",
     bhutia: "ང་ལོ་ ལོག་སྟི་ར་ གཡོག་ མང་དྲགས་ བྱི༹་ན་ཞེ།",
     pronunciation: "nga lo log-te ra yog mang-tag phin-zhe  ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1583_kxydjz.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1583_kxydjz.mp3",
   },
 
   {
     key: "1585",
     english: "Did anything happen at home?",
     pronunciation: "khim na ghan-chi thoen-bo?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1585_bpwbhr.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1585_bpwbhr.mp3",
     bhutia: "ཁིམ་ ན་ གན་ཅིག་ ཐོན་བོ་?",
   },
 
@@ -11203,36 +11227,40 @@ const Data: Array<DataProps> = [
     key: "1586",
     english: "Where did you go today?",
     pronunciation: "rang tha-ring gha-na joen-bo?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1586_wxgw1e.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220253/correction_again/1586_wxgw1e.mp3",
     bhutia: "རང་ ད་རིང་ ག་ན་ བྱོན་བོ?",
   },
   {
     key: "1587",
     english: "What did you do all day?",
-    pronunciation:
-      "rang tha-ring nyim chi-ku ghan phya-bo? ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220246/correction_again/1587_rfroaf.mp3",
+    pronunciation: "rang tha-ring nyim chi-ku ghan phya-bo? ",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220246/correction_again/1587_rfroaf.mp3",
     bhutia: "རང་ ད་རིང་ ཉིམ་ ཅིག་ཀུ་ གན་ བྱ༹ས་བོ་?",
   },
   {
     key: "1588",
     english: "Did anyone visit today?",
     pronunciation: "tha-ring ka yang joen-bo?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220246/correction_again/1588_r56qtq.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220246/correction_again/1588_r56qtq.mp3",
     bhutia: "ད་རིང་ ཀ་ཡང་ བྱོན་བོ?",
   },
   {
     key: "1589",
     english: "What is for dinner?",
     pronunciation: "phi-ru zam  ghan bo?  ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1589_dtxyqk.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1589_dtxyqk.mp3",
     bhutia: "ཕྱི༹རུ་ ཟམ་ གན་ འབོ?",
   },
   {
     key: "1590",
     english: "Can I please get a cup of  tea first?",
     pronunciation: " nga lo ngoen-ley ja mak khang nang-chhu ka?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1590_ugg7nf.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1590_ugg7nf.mp3",
     bhutia: "ང་ལོ་ སྔོན་ལས་ ཇ་ མག་ གང་ གནང་ ཆུ༹གས་ ཀ?   ",
   },
 
@@ -11240,118 +11268,135 @@ const Data: Array<DataProps> = [
     key: "1592",
     english: "My back hurts so much",
     pronunciation: "ngae gyab leb zug kyab tshar",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1592_d6ueng.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220245/correction_again/1592_d6ueng.mp3",
     bhutia: "ངའི་ རྒྱབ་ ལེབ་ ཟུག་ རྐྱབས་ ཆ༹ར ",
   },
   {
     key: "1593",
     english: "I'll take a shower first",
     pronunciation: "nga ngoen ley chhu-shey kyab-shed en",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220238/correction_again/1593_lxzn7v.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220238/correction_again/1593_lxzn7v.mp3",
     bhutia: "ང་ སྔོན་ལས་ ཆུ་བཤལ་ རྐྱབས་ཤད་ ཨིན་",
   },
   {
     key: "1594",
     english: "Let's drink tea",
     pronunciation: "ja thun-gey",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1594_bagiis.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1594_bagiis.mp3",
     bhutia: "ཇ་ འཐུང་ གེ་",
   },
   {
     key: "1595",
     english: "I need to wake up early tomorrow",
     pronunciation: "nga tho-rang thro-ley long go",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1595_pmsgn1.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1595_pmsgn1.mp3",
     bhutia: "ང་ ཐོ་རངས་ དྲོ་ལས་ ལོངས་ དགོས་།",
   },
   {
     key: "1596",
     english: "Is this the taxi stand?",
     pronunciation: "di la-khor (taxi) kag-sa nya?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1596_tvfc5f.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1596_tvfc5f.mp3",
     bhutia: "འདི་ གླ་འཁོར་ བཀག་ས་ ཉ་?",
   },
   {
     key: "1597",
     english: "Yes it is , where would you like to go?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1597_v3wsoq.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220237/correction_again/1597_v3wsoq.mp3",
     bhutia: "ལགས་ ཨིན་, རང་ ག་ན་ བྱོན་བོ་ གནང་ ཤད་?",
     pronunciation: "la en , rang ghana joen-bo nang shed?",
   },
   {
     key: "1598",
     english: "I want to go to tadong",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220224/correction_again/1598_cmzfas.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220224/correction_again/1598_cmzfas.mp3",
     bhutia: "ང་ རྟ་གདོང་ འགྱུ་ཤད་ ཨིན་",
     pronunciation: "nga tadong gyu-shed en ",
   },
   {
     key: "1599",
     english: "How many people?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220224/correction_again/1599_v3seii.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220224/correction_again/1599_v3seii.mp3",
     bhutia: "མི་ ག་ཆོ༹ད་?",
     pronunciation: "mi gha-choed?",
   },
   {
     key: "1600",
     english: "Two people",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1600_gd4bxt.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1600_gd4bxt.mp3",
     bhutia: "མི་ གཉིས་",
     pronunciation: "mi nyi",
   },
   {
     key: "1601",
     english: "What is the fare till tadong?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1601_k3kkpx.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1601_k3kkpx.mp3",
     bhutia: "རྟ་གདོང་ ཟང་ཏེ་ གླ་ ག་ཆོ༹ད་ འབོ་?",
     pronunciation: "tadong zang-te lah gha-choed bo?",
   },
   {
     key: "1602",
     english: "It is 40 rs per person",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1602_ktvvzx.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1602_ktvvzx.mp3",
     bhutia: "མི་ རེ་ལོ་ ཏི་རུག་ བཞི་བཅུ་ རེ་ ཨིན་།",
     pronunciation: "mi-re lo ti-rug zhi-chu re en",
   },
   {
     key: "1603",
     english: "Ok! lets go then",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1603_vbgx5r.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1603_vbgx5r.mp3",
     bhutia: "སྒྲིགས་ཀེ་! དེ་ནེ་ འགྱུ་གེ་",
     pronunciation: "dri-key! the-ne gyu-gey ",
   },
   {
     key: "1604",
     english: "Do you have qr code? i want to pay",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1604_dbx971.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1604_dbx971.mp3",
     bhutia: "རང་ཙ་ qr ཨང་རྟགས་ ཡོད་ཀ་? ང་ དངུལ་ བཏབ་ དགོས་པད། ",
     pronunciation: "rang cha qr ang-tag yea-ka? nga ngul tab go-ped",
   },
   {
     key: "1605",
     english: "I'll get down ahead",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1605_xhubow.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1605_xhubow.mp3",
     bhutia: "ང་ ཨ་ཙི་ སྔོན་ལས་ བབས་ཤད་ ཨིན་།",
     pronunciation: "nga a-chi ngoen-ley bhab-shed en",
   },
   {
     key: "1606",
     english: "We have arrived",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1606_orijtu.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1606_orijtu.mp3",
     bhutia: "ང་ཅག་ དོལ་ ཆ༹ར་།",
     pronunciation: "nga-chag thoe tshar",
   },
   {
     key: "1607",
     english: "Thank you! i've paid 40 rs online",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1607_iw0hfz.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1607_iw0hfz.mp3",
     bhutia: "ཐུགས་རྗེ་ཆེ་! ངས་དྲ་ཐོག་ ལས་ ཏི་རུག་ བཞི་བཅུ་ བཏབ་ ཆ༹ར་།",
     pronunciation: "thugje-chhe! ngaa dra-thog ley ti-rug zhi-chu tab-tshar ",
   },
   {
     key: "1608",
     english: "How many members are there in your family?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1608_qxceml.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220222/correction_again/1608_qxceml.mp3",
     bhutia: "རང་གི་ བཟའ་མི་ ནང་ མི་ ག་ཆོ༹ད་ ཡོད་པོ་?",
     pronunciation: "rang-gi  za-mi nang mi gha-choed yea-po? ",
   },
@@ -11359,150 +11404,184 @@ const Data: Array<DataProps> = [
     key: "1609",
     english:
       "There are seven members in my family  grandpa, grandma,father,mother,elder sister and younger brother",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1609_ft9rl2.mp3",
-    bhutia: "ངའི་ བཟའ་མི་ ནང་ མི་ བདུན་ ཡོད་ ཨ་ཇོ་,ཨ་ཉོ་,ཨ་པོ་,ཨ་མ་,ཨ་ཡི་ དང་ ཕ་མིང་།",
-    pronunciation: "ngae za-mi nang mi duen yea ajo, anyo,apo,ama, aie thang phaming",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220223/correction_again/1609_ft9rl2.mp3",
+    bhutia:
+      "ངའི་ བཟའ་མི་ ནང་ མི་ བདུན་ ཡོད་ ཨ་ཇོ་,ཨ་ཉོ་,ཨ་པོ་,ཨ་མ་,ཨ་ཡི་ དང་ ཕ་མིང་།",
+    pronunciation:
+      "ngae za-mi nang mi duen yea ajo, anyo,apo,ama, aie thang phaming",
   },
   {
     key: "1610",
     english: "How many children do you have?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1610_wdulcz.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1610_wdulcz.mp3",
     bhutia: "རང་ལོ་ བོ་ཅོ༹་ ག་ཆོ༹ད་ ཡོད་པོ?",
     pronunciation: "rang-lo bho-cho gha-choed yea-po? ",
   },
   {
     key: "1611",
     english: "Are all your children going to school ?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1611_q6oma3.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1611_q6oma3.mp3",
     bhutia: "རང་ གི་ བོ་ཅོ༹་ ཁེ་ལེ་ སློབ་གྲྭ་ འགྱུ་དོ་ ག?",
     pronunciation: "rang gi bho-cho khe-le lob-dra gyu-do ga?",
   },
   {
     key: "1612",
     english: "How far is the school here?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1612_sml0xo.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1612_sml0xo.mp3",
     bhutia: "ན་ཁའི་ སློབ་གྲྭ་ ག་ཏེ་ ཆོ༹ད་ ཐག་རིང་ ཡོད?",
     pronunciation: "na-khae lob-dra gha-te choed tha-ring yea?",
   },
   {
     key: "1613",
     english: "Do your children go to school via car or do they walk to school?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220213/correction_again/1613_zqb3of.mp3",
-    bhutia: "རང་གི་ བོ་ཅོ༹་ སློབ་གྲྭ་ལོ་ རླངས་འཁོར་ བརྒྱུད་སྟི་ འགྱུ་དོ་ འབོ་, མན་བ་ རྐང་སྟོང་ འགྱུ་དོ་ འབོ་? ",
-    pronunciation: "rang-gi pho-cho lob-dra lo lang-khor gyued-te gyu-do bo, men-ba kang-tang gyu-do bo? ",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220213/correction_again/1613_zqb3of.mp3",
+    bhutia:
+      "རང་གི་ བོ་ཅོ༹་ སློབ་གྲྭ་ལོ་ རླངས་འཁོར་ བརྒྱུད་སྟི་ འགྱུ་དོ་ འབོ་, མན་བ་ རྐང་སྟོང་ འགྱུ་དོ་ འབོ་? ",
+    pronunciation:
+      "rang-gi pho-cho lob-dra lo lang-khor gyued-te gyu-do bo, men-ba kang-tang gyu-do bo? ",
   },
   {
     key: "1614",
     english: "Have any of your children dropped out of school?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1614_oafvox.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1614_oafvox.mp3",
     bhutia: "རང་གི་ བོ་ཅོ༹་ ག་འདི་ ཡང་ སློབ་གྲྭ་ སྟོངས་སྟོངས་བོ་ ཡོད་པོ་? ",
     pronunciation: "rang-gi bho-cho gha-di yang lob-dra tang tang-bo yea-po? ",
   },
   {
     key: "1615",
     english: "What does your husband do for work ?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1615_djajvy.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220212/correction_again/1615_djajvy.mp3",
     bhutia: "རང་གི་ བཟའ་ཟླ་༼ཕོ་རྒྱགས་༽ཕྱག་ལས་ གན་ གནང་དོ?",
     pronunciation: "rang-gi za-dah (pho-gya) chag-ley ghan nang-do ?",
   },
   {
     key: "1616",
     english: "Where does your husband work?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1616_gnpmea.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1616_gnpmea.mp3",
     bhutia: "རང་གི་ བཟའ་ཟླ་༼ཕོ་རྒྱགས་༽ཕྱག་ལས་ ག་ན་ གནང་དོ? ",
     pronunciation: "rang-gi za-dah (pho-gya) chag-ley gha-na nang-do? ",
   },
   {
     key: "1617",
     english: "Do you have farmland?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1617_auagea.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1617_auagea.mp3",
     bhutia: "རང་ལོ་ ས་ཞིང་ ཡོད་པོ?",
     pronunciation: "rang-lo sa-zhing yea-po?",
   },
   {
     key: "1618",
     english: "What do you grow in your farmland?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1618_s1av9j.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1618_s1av9j.mp3",
     bhutia: "རང་གི་ ས་ཞིང་ ན་ གན་ བཏབ་པོ་ གནང་དོ?",
     pronunciation: "rang-gi sa-zhing na ghan ta-po nang-do?",
   },
   {
     key: "1619",
     english: "We grow paddy and millet in our farmland",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1619_qb1tnn.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1619_qb1tnn.mp3",
     bhutia: "ང་ཅག་ཀིས་ ང་ཅའི་ ས་ཞིང་ན་ འབྱ༹་ དང་ མིན་ཅག་ བཅུ༹ག་ཏོ་ ཨིན།་",
-    pronunciation: "nga-chag ki nga-chi sa-zhing na bya thang min-chag chug-to en.",
+    pronunciation:
+      "nga-chag ki nga-chi sa-zhing na bya thang min-chag chug-to en.",
   },
   {
     key: "1620",
     english: "Do you raise livestock?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1620_bdhxfs.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220211/correction_again/1620_bdhxfs.mp3",
     bhutia: "རང་གིས་ ནོ་ སེམས་ཅན་ གསོ་བོ་ གནང་ དོ? ",
     pronunciation: "rang-gi noh sem-chen so-bo nang do? ",
   },
   {
     key: "1621",
-    english:
-      "Do you sell your vegetables or keep them for yourself?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1621_dag5sv.mp3",
-    bhutia: "རང་གི་ ཆོ༹དམ་ཅུ༹་ བཙོང་བོ་ གནང་དོ་ འབོ་ མན་བ་ རང་གི་ དོན་ལོ་ བཞག་ཀོ་ གནང་དོ?",
-    pronunciation: "rang gi chhoem-chu chong-bo nang-do bo men-ba rang gi thoen-lo zhag-ko nang-do?",
+    english: "Do you sell your vegetables or keep them for yourself?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1621_dag5sv.mp3",
+    bhutia:
+      "རང་གི་ ཆོ༹དམ་ཅུ༹་ བཙོང་བོ་ གནང་དོ་ འབོ་ མན་བ་ རང་གི་ དོན་ལོ་ བཞག་ཀོ་ གནང་དོ?",
+    pronunciation:
+      "rang gi chhoem-chu chong-bo nang-do bo men-ba rang gi thoen-lo zhag-ko nang-do?",
   },
   {
     key: "1622",
     english: "Do your children help in farm work?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1622_souiml.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1622_souiml.mp3",
     bhutia: "རང་གི་ བོ་ཅོ༹་ཅུ༹་ ཀིས་ ཞིང་གཡོག་ ན་ རོགས་རམ་ བྱ༹ས་ག?",
     pronunciation: "rang gi bho-cho-chu ki zhing yog na rog-ram phya-ga? ",
   },
   {
     key: "1623",
     english: "Who manages household chores?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1623_rnqgwn.mp3",
-    bhutia: "གཟིམ་ཁང་ ནང་གི་ ཕྱག་ལས་ཅུ༹་ ཀ་ཀིས་ གཟིགས་རྟོགས་ གནང་ དོ?(honorific) ",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1623_rnqgwn.mp3",
+    bhutia:
+      "གཟིམ་ཁང་ ནང་གི་ ཕྱག་ལས་ཅུ༹་ ཀ་ཀིས་ གཟིགས་རྟོགས་ གནང་ དོ?(honorific) ",
     pronunciation: "zhim-khang nang gi chag-le-chu ka-ki zig-tog nang do? ",
   },
   {
     key: "1624",
     english: "Do men at home also help with housework?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1624_j1kwuw.mp3",
-    bhutia: "ཁྱིམ་ ནང་གི་ བུ་ བོ་ཅོ༹་ཅུ༹་ ཀིས་ ཡང་ ཁྱིམ་གཡོག་ ན་ རོགས་རམ་ བྱ༹ས་ག?",
-    pronunciation: "khim nang-gi bhu bho-cho-chu ki yang khim-yog na rog-ram phya-ga?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1624_j1kwuw.mp3",
+    bhutia:
+      "ཁྱིམ་ ནང་གི་ བུ་ བོ་ཅོ༹་ཅུ༹་ ཀིས་ ཡང་ ཁྱིམ་གཡོག་ ན་ རོགས་རམ་ བྱ༹ས་ག?",
+    pronunciation:
+      "khim nang-gi bhu bho-cho-chu ki yang khim-yog na rog-ram phya-ga?",
   },
   {
     key: "1625",
     english: "Who takes care of the children?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1625_osfivw.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220210/correction_again/1625_osfivw.mp3",
     bhutia: "བོ་ཅོ༹་ཅུ༹ ཀ་ཀིས་ ལོག་ལྟ་ དོ་?",
     pronunciation: "bho-cho-chu ka-ki log-ta do?",
   },
   {
     key: "1626",
     english: "Does your child get mid day meal at school?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1626_r37wce.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1626_r37wce.mp3",
     bhutia: "རང་གི་ བོ་ཅ༹་ཀིས་ སློབ་གྲྭ་ ན་ ཉི་མའི་ ཇ༹འུ་ ཐོབ་ ཀ?",
     pronunciation: "rang gi bho cha ki lob-dra na nyi-mey zou thob ka?",
   },
   {
     key: "1627",
     english: "Does your girl child get sanitary pad at school?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1627_yocuvv.mp3",
-     bhutia: "རང་གི་ བུ་མོ་ ཀིས་ སློབ་གྲྭ་ ན་ གཙང་སྦྲའི་སྟེགས་བུ་ (sanitary pad) ཐོབ་ ཀ?",
-    pronunciation: "rang gi bhu-mo ki lob-dra na chang-draye tek-bu (sanitary pad) thob ka?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1627_yocuvv.mp3",
+    bhutia:
+      "རང་གི་ བུ་མོ་ ཀིས་ སློབ་གྲྭ་ ན་ གཙང་སྦྲའི་སྟེགས་བུ་ (sanitary pad) ཐོབ་ ཀ?",
+    pronunciation:
+      "rang gi bhu-mo ki lob-dra na chang-draye tek-bu (sanitary pad) thob ka?",
   },
   {
     key: "1628",
     english: "How far is the hospital here?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220208/correction_again/1628_l2cirg.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220208/correction_again/1628_l2cirg.mp3",
     bhutia: "ན་ཁའི་ སྨན་ཁང་ འདི་ ག་ཏེ་ཆོ༹ད་ ཐག་རིང་ ཡོད? ",
     pronunciation: "na-khae sman-khang di gha-te choed thag-ring yea?  ",
   },
   {
     key: "1629",
     english: "What are the frequent health issues faced by people?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1629_ppsvi1.mp3",
-    bhutia: "མི་ཅུ༹་ ཀིས་ ལོག་ཅན་ ལོག་ཅན་ གདོང་ལེན་  བྱ༹ས་ དགོས་པའི་ འཕྲོད་བསྟེན་གྱི་ གནད་དོན་ཅུ༹་ གན་ གན་ ཨིན་ནམ?",
-    pronunciation: "mi-chu ki log-chen log-chen dhong-len phya-go-pey throe-ten gi ney-doen cho ghan ghan en-nam?",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1748220209/correction_again/1629_ppsvi1.mp3",
+    bhutia:
+      "མི་ཅུ༹་ ཀིས་ ལོག་ཅན་ ལོག་ཅན་ གདོང་ལེན་  བྱ༹ས་ དགོས་པའི་ འཕྲོད་བསྟེན་གྱི་ གནད་དོན་ཅུ༹་ གན་ གན་ ཨིན་ནམ?",
+    pronunciation:
+      "mi-chu ki log-chen log-chen dhong-len phya-go-pey throe-ten gi ney-doen cho ghan ghan en-nam?",
   },
   {
     key: "1630",
@@ -11714,7 +11793,8 @@ const Data: Array<DataProps> = [
     english: "Yes they help after school and during harvest season",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Laen khong-chu lobda chardi thang loh dubey kaap-lo rog phya-do en",
+    pronunciation:
+      "Laen khong-chu lobda chardi thang loh dubey kaap-lo rog phya-do en",
   },
   {
     key: "1660",
@@ -11742,14 +11822,16 @@ const Data: Array<DataProps> = [
     english: "Yes the husband helps with cooking and cleaning.",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Laen saam jo-shed, khyu-shed thang phyag-shed chu khim-apa ki ru phya-do en",
+    pronunciation:
+      "Laen saam jo-shed, khyu-shed thang phyag-shed chu khim-apa ki ru phya-do en",
   },
   {
     key: "1664",
     english: "Do you have access to health centre or clinic nearby?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Rang ge thak-nye-na throe-ten-khang yang-na sman-khang chu yepo nya? ",
+    pronunciation:
+      "Rang ge thak-nye-na throe-ten-khang yang-na sman-khang chu yepo nya? ",
   },
   {
     key: "1665",
@@ -11770,7 +11852,8 @@ const Data: Array<DataProps> = [
     english: "We have a nurse who visits once a week",
     audiolink: "",
     bhutia: "",
-    pronunciation: "Nga-chi cha ned-yogm chi yea di duen-thrak re-na theng-re hong-do en",
+    pronunciation:
+      "Nga-chi cha ned-yogm chi yea di duen-thrak re-na theng-re hong-do en",
   },
   {
     key: "1668",
@@ -11798,7 +11881,7 @@ const Data: Array<DataProps> = [
     english: "Are there  vaccination for kids?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "o-kha onye-chui thoen-lo sman-khap ye ka?" ,
+    pronunciation: "o-kha onye-chui thoen-lo sman-khap ye ka?",
   },
   {
     key: "1672",
@@ -11812,14 +11895,16 @@ const Data: Array<DataProps> = [
     english: "Do you face issues related to mental health or stress?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "rang-gi sem-kham throe-toen yang-na sem-kham thang del-wae ned chui dhong-len phya yea-po en-nam? ",
+    pronunciation:
+      "rang-gi sem-kham throe-toen yang-na sem-kham thang del-wae ned chui dhong-len phya yea-po en-nam? ",
   },
   {
     key: "1674",
     english: "Do elders encourage children to talk about their mental health?",
     audiolink: "",
     bhutia: "",
-    pronunciation: "gen-bo chu ki pho-cho chui  sem-kham throe-toen gi kor-lo loh-tob kye chuk-shed kyi tam chu kyap-to nya?",
+    pronunciation:
+      "gen-bo chu ki pho-cho chui  sem-kham throe-toen gi kor-lo loh-tob kye chuk-shed kyi tam chu kyap-to nya?",
   },
   {
     key: "1675",
@@ -11948,338 +12033,21 @@ const Data: Array<DataProps> = [
     pronunciation: "",
   },
   {
-    key:"1694",
-    english:"Together we bloom we bloom as one ",
-    audiolink:"",
-    bhutia:"ང་ཅག་ མཉམ་ཅིག་ ཤར་ཤད། གཅིག་སྒྲིལ་ ནང་ལོ་ ཤར་ཤད།",
-    pronunciation:"ngacha nyemchi syarshe, chigdel nangloh syarshe",
-  },
-  {
-    key:"1695",
-    english:"What subjects do you want to study after  completing tenth class?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1696",
-    english:"Are you writing your ICSE/CBSE board exams this year?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1697",
-    english:"Yes, I have been preparing for my board Exams ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1698",
-    english:" I want to study tourism after completing class ten ",
-    audiolink:" ", 
-    bhutia: "", 
-    pronunciation:"",
-  },
-  {
-    key:"1699",
-    english:"I am studying bhutia at Tadong college Gangtok ",
-    audiolink:" ", 
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1700",
-    english:" I will be doing my Masters from KSU sikkim ", 
+    key: "1694",
+    english: "Together we bloom we bloom as one ",
     audiolink: "",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1701",
-    english: "I did not go to college today as I was sick ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1702",
-    english:"The road to Mangan is damaged due to landslide",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1703",
-    english:"There is a power cut due to heavy rainfall",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1704",
-    english:" Let us watch movie at Denzong Cinema hall",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1705",
-    english:" I am going to West Point with my friends",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1706",
-    english:"Mom can you please warm the water, I need to take a shower",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-
-  },
-  {
-    key:"1707",
-    english:"Let's watch something on Netflix after dinner",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
+    bhutia: "ང་ཅག་ མཉམ་ཅིག་ ཤར་ཤད། གཅིག་སྒྲིལ་ ནང་ལོ་ ཤར་ཤད།",
+    pronunciation: "ngacha nyemchi syarshe, chigdel nangloh syarshe",
   },
 
   {
-    key:"1708",
-    english:" I will help clean the utensils after the dinner",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1709",
-    english:"Let us order food from Zomato",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1710",
-    english:"I have a lot of homework today",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1711",
-    english:"I do not have any homework today. I am going out to play with my friends",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1712",
-    english:" Mom can you please cut some fruits for my lunch",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1713",
-    english:" I cannot find my phone can you please call on my number",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1714",
-    english:"Today is Monday. There is going to be a lot of traffic ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1715",
-    english:"Good morning Mom Dad",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
+    key: "1740",
+    english: "Anesthesia",
+    audiolink: "",
+    bhutia: "ཟུག་ བཅག་སྨན་ བཏང་སྡི་ ཚོར་བ་ མེད་པོ་ བཟོ་བོ། ཞྡི་སྨན།",
+    pronunciation: "",
   },
 
-  {
-    key:"1716",
-    english:"I slept very well. What about both of you?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1717",
-    english:"Today is my holiday. I feel like doing nothing today",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1718",
-    english:"Pema can you please help me clean my room today? ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1719",
-    english:"It is already seven am . I am late for gym",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1720",
-    english:"I need to go to the barber today to trim my hair",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1721",
-    english:"Dichen can you please open youtube and play the chants?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1722",
-    english:"Can you please get me money from the atm ? Here is my card?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1723",
-    english:" Let's try starbucks coffee at west point today ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1724",
-    english:"You look beautiful in ths dress. Where did you get it ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1725",
-    english:"How is your family ? Is everything ok at home?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1726",
-    english:" I have a guitar. do you want to play ?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1727",
-    english:"I am trying to eat healthy food nowdays",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1728",
-    english:"I am looking for a bakhu for my brothers wedding",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1729",
-    english:"Can I try this dress?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:""
-  },
-  {
-    key:"1730",
-    english:"Does this color look good on me ?",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1731",
-    english:"Please drink more water and eat more vegetables",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1732",
-    english:"I am going to the parlour to ",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1733",
-    english:"I am learning Bhutia subject at my school since class two",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1734",
-    english:"Please carry your umbrella . It can rain anytime here in Gangtok",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1735",
-    english:"Congratulations on your wedding",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1736",
-    english:"Could you pass the salt, please",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1737",
-    english:"This tastes very nice",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1738",
-    english:"North Sikkim has beautiful mountains and lakes",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1739",
-    english:"The bride looks great",
-    audiolink:"",
-    bhutia:"",
-    pronunciation:"",
-  },
-  {
-    key:"1740",
-    english:"Anesthesia",
-    audiolink:"",
-    bhutia:"ཟུག་ བཅག་སྨན་ བཏང་སྡི་ ཚོར་བ་ མེད་པོ་ བཟོ་བོ། ཞྡི་སྨན།",
-    pronunciation:"",
-  },
-    
   {
     key: "1741",
     english: "Avitaminosis",
@@ -12305,7 +12073,8 @@ const Data: Array<DataProps> = [
     key: "1744",
     english: "AV Graft",
     audiolink: "",
-    bhutia: "སོད་རྩ་ དང་ འཕར་རྩ་ གཉྡིས་ འབེལ་ བཅུག་མཁན་ རྫས་སོར་ གྡིས་ བཟོ་བཟོ་བའྡི་ ཡུར་བ་ འདེམ་མོའི་ ཆ་ཀ",
+    bhutia:
+      "སོད་རྩ་ དང་ འཕར་རྩ་ གཉྡིས་ འབེལ་ བཅུག་མཁན་ རྫས་སོར་ གྡིས་ བཟོ་བཟོ་བའྡི་ ཡུར་བ་ འདེམ་མོའི་ ཆ་ཀ",
     pronunciation: "",
   },
   {
@@ -12651,2081 +12420,2079 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "",
   },
-  
-  {
-    "key": "1794",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1795",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1796",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1797",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1798",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1799",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1800",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1801",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1802",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1803",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1804",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1805",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1806",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1807",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1808",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1809",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1810",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1806",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1807",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1808",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1809",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1810",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1811",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1812",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1813",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1814",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1815",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1816",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1817",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1818",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1819",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1820",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1821",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1822",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1823",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1824",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1825",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1826",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1827",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1828",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1829",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1830",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1831",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1832",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1833",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1834",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1835",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1836",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1837",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1838",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1839",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1840",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1841",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1842",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1843",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1844",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1845",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1846",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1847",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1848",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1849",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1850",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1851",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1852",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1853",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1854",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1855",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1856",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1857",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1858",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1859",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1860",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1861",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1862",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1863",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1864",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1865",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1866",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1867",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1868",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1869",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1870",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1871",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1872",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1873",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1874",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1875",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1876",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1877",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1878",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1879",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1880",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1881",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1882",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1883",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1884",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1885",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1886",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1887",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1888",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1889",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1890",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1891",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1892",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1893",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1894",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1895",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1896",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1897",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1898",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1899",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1900",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1901",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1902",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1903",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1904",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1905",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1906",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1907",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1908",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1909",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1910",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1911",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1912",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1913",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1914",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1915",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1916",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1917",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1918",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1919",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1920",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1921",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1922",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1923",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1924",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1925",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1926",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1927",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1928",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1929",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1930",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1931",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1932",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1933",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1934",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1935",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1936",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1937",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1938",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1939",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1940",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1941",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1942",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1943",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1944",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1945",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1946",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1947",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1948",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1949",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1950",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1951",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1952",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1953",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1954",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1955",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1956",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1957",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1958",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1959",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1960",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1961",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1962",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1963",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1964",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1965",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1966",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1967",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1968",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1969",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1970",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1971",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1972",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1973",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1974",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1975",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1976",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1977",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1978",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1979",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1980",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1981",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1982",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1983",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1984",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1985",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1986",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1987",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1988",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1989",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1990",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1991",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1992",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1993",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1994",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1995",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1996",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1997",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1998",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "1999",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "2000",
-    "english": "",
-    "audiolink": "",
-    "bhutia": "",
-    "pronunciation": ""
-  },
-  {
-    "key": "2147",
-    "english": "London (proper nouns)",
-    "bhutia": "ལོན་ཌོན་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2148",
-    "english": "Maria",
-    "bhutia": "མ་རི་ཡ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2149",
-    "english": "Amazon",
-    "bhutia": "ཨེ་མ་ཇོན་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2150",
-    "english": "Mount Everest",
-    "bhutia": "གངས་ཇོ་མོ་ གླང་མ་",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2151",
-    "english": "Boy (common nouns)",
-    "bhutia": "བུ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2152",
-    "english": "City",
-    "bhutia": "ཁྲོམ་སྡེ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2153",
-    "english": "Book",
-    "bhutia": "དེབ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2154",
-    "english": "River",
-    "bhutia": "གཙང་ཆུ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2155",
-    "english": "Dog",
-    "bhutia": "ཁྱི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2156",
-    "english": "Water (uncountable nouns)",
-    "bhutia": "ཆུ།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2157",
-    "english": "Sugar",
-    "bhutia": "མངརམ།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2158",
-    "english": "Milk",
-    "bhutia": "ཨོམ།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2159",
-    "english": "Information",
-    "bhutia": "གནས་ཚུལ/ལན་བརྡ།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2160",
-    "english": "Air",
-    "bhutia": "རླུང།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2161",
-    "english": "John's (possessive nouns)",
-    "bhutia": "ཛོཧ་ནན་གྱི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2162",
-    "english": "Cat's",
-    "bhutia": "ཨ་ལིས་ཀྱི་",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2163",
-    "english": "Teacher's",
-    "bhutia": "སློབ་དཔོན་གྱི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2164",
-    "english": "Children's",
-    "bhutia": "བོ་ཙོ་འི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2165",
-    "english": "Swimming (gerund nouns)",
-    "bhutia": "པྱེ་རྐྱབས་བཞིན་/བྱེ་རྐྱབས་བཞིན།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2166",
-    "english": "Reading",
-    "bhutia": "སྒྲོགས་བཞིན།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2167",
-    "english": "Cooking",
-    "bhutia": "བཙོ་བཞིན་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2168",
-    "english": "Dancing",
-    "bhutia": "འཆམ་བཞིན་",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2169",
-    "english": "Painting",
-    "bhutia": "རི་མོ་ བྲི་བཞིན་།/ཚན་བྲིས་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2170",
-    "english": "Love (abstract nouns)",
-    "bhutia": "བྱམས་པོ་།/དགའ་ཚོར་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2171",
-    "english": "Freedom",
-    "bhutia": "རང་དབང་ཅན་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2172",
-    "english": "Courage",
-    "bhutia": "སྙིང་སྟོབས་/དཔའ་སྙིང་།/བློ་ཁོག་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2173",
-    "english": "Honesty",
-    "bhutia": "དྲང་པོ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2174",
-    "english": "Anger",
-    "bhutia": "ཁོངཁྲོ་།/ཞེ་དངས་།/ཁྲོངས་པོ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2175",
-    "english": "Team (collective nouns)",
-    "bhutia": "རུ་ཁག་།/སྡེ་ཚན་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2176",
-    "english": "Family",
-    "bhutia": "ནང་མི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2177",
-    "english": "Flock",
-    "bhutia": "ཁྱུ་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2178",
-    "english": "Bunch",
-    "bhutia": "ཆག་ཁག་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2179",
-    "english": "Committee",
-    "bhutia": "ཚོགས་ཚུང་།/ལྷན་ཚོགས་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2180",
-    "english": "Car (countable nouns)",
-    "bhutia": "འཁོར་ལོ་/སྣུམའཁོར་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2181",
-    "english": "Pencil",
-    "bhutia": "སོལ་སྨྱུག་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2182",
-    "english": "Apple",
-    "bhutia": "གླི་",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2183",
-    "english": "Chair",
-    "bhutia": "རྐང་ཁྲི་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2184",
-    "english": "Bird",
-    "bhutia": "བྱི་ཅུང་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2185",
-    "english": "Toothpaste (compound nouns)",
-    "bhutia": "གསོ་སྨན",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2186",
-    "english": "Swimming Pool",
-    "bhutia": "པྱེ་རྫེང/བྱེ་རྫིང་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2187",
-    "english": "Volley Ball",
-    "bhutia": "ལག་རྩེ་པོ་ལི།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2188",
-    "english": "Mother in Law",
-    "bhutia": "ཨམ་སྒྱུགམ།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2189",
-    "english": "Car stop/ Taxi stop",
-    "bhutia": "འཁོར་ལོ་ བཀབ་གནས་།",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2190",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2191",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2192",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2193",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2194",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2195",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2196",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2197",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2198",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2199",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2200",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2201",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2202",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2203",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2204",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2205",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2206",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2207",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2208",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2209",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2210",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2211",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2212",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2213",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2214",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2215",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2216",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2217",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2218",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2219",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2220",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2221",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2222",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2223",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2224",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2225",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2226",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2227",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2228",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2229",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  },
-  {
-    "key": "2230",
-    "english": "",
-    "bhutia": "",
-    "pronunciation": "",
-    "audiolink": ""
-  }
-  
 
+  {
+    key: "1794",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1795",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1796",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1797",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1798",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1799",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1800",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1801",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1802",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1803",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1804",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1805",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1806",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1807",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1808",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1809",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1810",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1806",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1807",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1808",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1809",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1810",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1811",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1812",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1813",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1814",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1815",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1816",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1817",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1818",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1819",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1820",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1821",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1822",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1823",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1824",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1825",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1826",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1827",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1828",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1829",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1830",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1831",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1832",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1833",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1834",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1835",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1836",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1837",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1838",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1839",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1840",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1841",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1842",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1843",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1844",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1845",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1846",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1847",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1848",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1849",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1850",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1851",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1852",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1853",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1854",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1855",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1856",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1857",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1858",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1859",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1860",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1861",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1862",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1863",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1864",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1865",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1866",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1867",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1868",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1869",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1870",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1871",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1872",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1873",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1874",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1875",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1876",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1877",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1878",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1879",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1880",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1881",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1882",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1883",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1884",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1885",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1886",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1887",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1888",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1889",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1890",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1891",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1892",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1893",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1894",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1895",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1896",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1897",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1898",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1899",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1900",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1901",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1902",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1903",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1904",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1905",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1906",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1907",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1908",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1909",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1910",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1911",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1912",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1913",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1914",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1915",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1916",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1917",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1918",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1919",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1920",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1921",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1922",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1923",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1924",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1925",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1926",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1927",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1928",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1929",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1930",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1931",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1932",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1933",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1934",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1935",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1936",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1937",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1938",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1939",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1940",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1941",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1942",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1943",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1944",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1945",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1946",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1947",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1948",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1949",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1950",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1951",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1952",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1953",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1954",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1955",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1956",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1957",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1958",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1959",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1960",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1961",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1962",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1963",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1964",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1965",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1966",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1967",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1968",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1969",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1970",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1971",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1972",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1973",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1974",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1975",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1976",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1977",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1978",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1979",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1980",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1981",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1982",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1983",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1984",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1985",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1986",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1987",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1988",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1989",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1990",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1991",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1992",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1993",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1994",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1995",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1996",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1997",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1998",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "1999",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "2000",
+    english: "",
+    audiolink: "",
+    bhutia: "",
+    pronunciation: "",
+  },
+  {
+    key: "2147",
+    english: "London (proper nouns)",
+    bhutia: "ལོན་ཌོན་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2148",
+    english: "Maria",
+    bhutia: "མ་རི་ཡ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2149",
+    english: "Amazon",
+    bhutia: "ཨེ་མ་ཇོན་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2150",
+    english: "Mount Everest",
+    bhutia: "གངས་ཇོ་མོ་ གླང་མ་",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2151",
+    english: "Boy (common nouns)",
+    bhutia: "བུ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2152",
+    english: "City",
+    bhutia: "ཁྲོམ་སྡེ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2153",
+    english: "Book",
+    bhutia: "དེབ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2154",
+    english: "River",
+    bhutia: "གཙང་ཆུ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2155",
+    english: "Dog",
+    bhutia: "ཁྱི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2156",
+    english: "Water (uncountable nouns)",
+    bhutia: "ཆུ།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2157",
+    english: "Sugar",
+    bhutia: "མངརམ།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2158",
+    english: "Milk",
+    bhutia: "ཨོམ།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2159",
+    english: "Information",
+    bhutia: "གནས་ཚུལ/ལན་བརྡ།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2160",
+    english: "Air",
+    bhutia: "རླུང།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2161",
+    english: "John's (possessive nouns)",
+    bhutia: "ཛོཧ་ནན་གྱི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2162",
+    english: "Cat's",
+    bhutia: "ཨ་ལིས་ཀྱི་",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2163",
+    english: "Teacher's",
+    bhutia: "སློབ་དཔོན་གྱི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2164",
+    english: "Children's",
+    bhutia: "བོ་ཙོ་འི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2165",
+    english: "Swimming (gerund nouns)",
+    bhutia: "པྱེ་རྐྱབས་བཞིན་/བྱེ་རྐྱབས་བཞིན།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2166",
+    english: "Reading",
+    bhutia: "སྒྲོགས་བཞིན།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2167",
+    english: "Cooking",
+    bhutia: "བཙོ་བཞིན་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2168",
+    english: "Dancing",
+    bhutia: "འཆམ་བཞིན་",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2169",
+    english: "Painting",
+    bhutia: "རི་མོ་ བྲི་བཞིན་།/ཚན་བྲིས་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2170",
+    english: "Love (abstract nouns)",
+    bhutia: "བྱམས་པོ་།/དགའ་ཚོར་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2171",
+    english: "Freedom",
+    bhutia: "རང་དབང་ཅན་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2172",
+    english: "Courage",
+    bhutia: "སྙིང་སྟོབས་/དཔའ་སྙིང་།/བློ་ཁོག་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2173",
+    english: "Honesty",
+    bhutia: "དྲང་པོ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2174",
+    english: "Anger",
+    bhutia: "ཁོངཁྲོ་།/ཞེ་དངས་།/ཁྲོངས་པོ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2175",
+    english: "Team (collective nouns)",
+    bhutia: "རུ་ཁག་།/སྡེ་ཚན་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2176",
+    english: "Family",
+    bhutia: "ནང་མི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2177",
+    english: "Flock",
+    bhutia: "ཁྱུ་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2178",
+    english: "Bunch",
+    bhutia: "ཆག་ཁག་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2179",
+    english: "Committee",
+    bhutia: "ཚོགས་ཚུང་།/ལྷན་ཚོགས་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2180",
+    english: "Car (countable nouns)",
+    bhutia: "འཁོར་ལོ་/སྣུམའཁོར་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2181",
+    english: "Pencil",
+    bhutia: "སོལ་སྨྱུག་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2182",
+    english: "Apple",
+    bhutia: "གླི་",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2183",
+    english: "Chair",
+    bhutia: "རྐང་ཁྲི་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2184",
+    english: "Bird",
+    bhutia: "བྱི་ཅུང་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2185",
+    english: "Toothpaste (compound nouns)",
+    bhutia: "གསོ་སྨན",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2186",
+    english: "Swimming Pool",
+    bhutia: "པྱེ་རྫེང/བྱེ་རྫིང་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2187",
+    english: "Volley Ball",
+    bhutia: "ལག་རྩེ་པོ་ལི།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2188",
+    english: "Mother in Law",
+    bhutia: "ཨམ་སྒྱུགམ།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2189",
+    english: "Car stop/ Taxi stop",
+    bhutia: "འཁོར་ལོ་ བཀབ་གནས་།",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2190",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2191",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2192",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2193",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2194",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2195",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2196",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2197",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2198",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2199",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2200",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2201",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2202",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2203",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2204",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2205",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2206",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2207",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2208",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2209",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2210",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2211",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2212",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2213",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2214",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2215",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2216",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2217",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2218",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2219",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2220",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2221",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2222",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2223",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2224",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2225",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2226",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2227",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2228",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2229",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
+  {
+    key: "2230",
+    english: "",
+    bhutia: "",
+    pronunciation: "",
+    audiolink: "",
+  },
 ];
 
 export default Data;
