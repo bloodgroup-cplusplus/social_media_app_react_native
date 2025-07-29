@@ -7912,7 +7912,7 @@ const Data: Array<DataProps> = [
     key: "1114",
     english: "Theirs",
     pronunciation: "khon-ri",
-    bhutia: "",
+    bhutia: "ཁོང་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140819/correction/theirs_cegwfb.mp3",
   },
@@ -7920,7 +7920,7 @@ const Data: Array<DataProps> = [
     key: "1115",
     english: "Myself",
     pronunciation: "nga-ri",
-    bhutia: "",
+    bhutia: "ང་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/myself_ulnndg.mp3",
   },
@@ -7928,7 +7928,7 @@ const Data: Array<DataProps> = [
     key: "1116",
     english: "Yourself",
     pronunciation: "cho-ri",
-    bhutia: "",
+    bhutia: "ཆོང་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140829/correction/yourself_w7hi4j.mp3",
   },
@@ -7936,7 +7936,7 @@ const Data: Array<DataProps> = [
     key: "1117",
     english: "Himself",
     pronunciation: "khu-ri",
-    bhutia: "",
+    bhutia: "ཁོ་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/himself_dwhdxe.mp3",
   },
@@ -7944,7 +7944,7 @@ const Data: Array<DataProps> = [
     key: "1118",
     english: "Herself",
     pronunciation: "mu-ri",
-    bhutia: "",
+    bhutia: "མོ་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/herself_fdgl53.mp3",
   },
@@ -7952,23 +7952,23 @@ const Data: Array<DataProps> = [
     key: "1119",
     english: "Itself",
     pronunciation: "o-di-rang",
-    bhutia: "",
+    bhutia: "ཨོ་འདི་རང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/itself_bissdg.mp3",
   },
   {
     key: "1120",
     english: "Ourselves",
-    pronunciation: "nga-cha-ra",
-    bhutia: "",
+    pronunciation: "nga-cha-rang",
+    bhutia: "ང་ཅག་རང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140837/correction/ourselves_zpgajb.mp3",
   },
   {
     key: "1121",
     english: "Yourselves",
-    pronunciation: "khon-tsu-ra",
-    bhutia: "",
+    pronunciation: "khu-cha-rang",
+    bhutia: "ཁུ་ཅག་རང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140829/correction/yourselves_oeaobt.mp3",
   },
@@ -7976,7 +7976,7 @@ const Data: Array<DataProps> = [
     key: "1122",
     english: "Themselves",
     pronunciation: "khon-tsu-ra",
-    bhutia: "",
+    bhutia: "ཁོང་ཅུ༹་རའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/themselves_ern6ms.mp3",
   },
@@ -7984,7 +7984,7 @@ const Data: Array<DataProps> = [
     key: "1123",
     english: "This",
     pronunciation: "di",
-    bhutia: "",
+    bhutia: "འདི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/this_final_vpmwxk.mp3",
   },
@@ -7992,7 +7992,7 @@ const Data: Array<DataProps> = [
     key: "1124",
     english: "That",
     pronunciation: "phi-di",
-    bhutia: "",
+    bhutia: "ཕི་འདི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742142136/correction/that_xvmnog.mp3",
   },
@@ -8000,7 +8000,7 @@ const Data: Array<DataProps> = [
     key: "1125",
     english: "These",
     pronunciation: "di-tsu",
-    bhutia: "",
+    bhutia: "འདི་ཅུ༹་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/these_cqtp4n.mp3",
   },
@@ -8008,7 +8008,7 @@ const Data: Array<DataProps> = [
     key: "1126",
     english: "Those",
     pronunciation: "phi-di-tsu",
-    bhutia: "",
+    bhutia: "ཕི་འདི་ཅུ༹་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/those_wbltmb.mp3",
   },
@@ -8016,7 +8016,7 @@ const Data: Array<DataProps> = [
     key: "1127",
     english: "Who",
     pronunciation: "ka-bho",
-    bhutia: "",
+    bhutia: "ཀ་འབོ་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/who_shvhe3.mp3",
   },
@@ -8024,7 +8024,7 @@ const Data: Array<DataProps> = [
     key: "1128",
     english: "Whom",
     pronunciation: "ka-lho",
-    bhutia: "",
+    bhutia: "ཀའལོ་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/whom_cimdi9.mp3",
   },
@@ -8032,7 +8032,7 @@ const Data: Array<DataProps> = [
     key: "1129",
     english: "Whose",
     pronunciation: "kay",
-    bhutia: "",
+    bhutia: "ཀའི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140838/correction/whose_tltqbo.mp3",
   },
@@ -8040,7 +8040,7 @@ const Data: Array<DataProps> = [
     key: "1130",
     english: "Which",
     pronunciation: "gha-dhi",
-    bhutia: "",
+    bhutia: "ག་འདི་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/which_ajfwet.mp3",
   },
@@ -8048,7 +8048,7 @@ const Data: Array<DataProps> = [
     key: "1131",
     english: "What",
     pronunciation: "ghon",
-    bhutia: "",
+    bhutia: "གར་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140839/correction/what_hspkzq.mp3",
   },
@@ -8056,7 +8056,7 @@ const Data: Array<DataProps> = [
     key: "1132",
     english: "All",
     pronunciation: "tham-chay",
-    bhutia: "",
+    bhutia: "ཐམས་ཅང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/all_af6kmb.mp3",
   },
@@ -8064,7 +8064,7 @@ const Data: Array<DataProps> = [
     key: "1133",
     english: "Some",
     pronunciation: "re-nyi",
-    bhutia: "",
+    bhutia: "རེགཉིས",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/some_fpxyoh.mp3",
   },
@@ -8072,7 +8072,7 @@ const Data: Array<DataProps> = [
     key: "1134",
     english: "Any",
     pronunciation: "gha-dhi-in-rung",
-    bhutia: "",
+    bhutia: "ག་འདི་ ཨིན་ རུང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140941/correction/any_cstegn.mp3",
   },
@@ -8080,7 +8080,7 @@ const Data: Array<DataProps> = [
     key: "1135",
     english: "None",
     pronunciation: "gha-dhi-yang-mae",
-    bhutia: "",
+    bhutia: "ག་འདི་ ཡང་མན་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140848/correction/none_nom0ry.mp3",
   },
@@ -8088,7 +8088,7 @@ const Data: Array<DataProps> = [
     key: "1136",
     english: "Many",
     pronunciation: "key-po",
-    bhutia: "",
+    bhutia: "ཀེས་པོ་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140880/correction/many_fomaoe.mp3",
   },
@@ -8096,7 +8096,7 @@ const Data: Array<DataProps> = [
     key: "1137",
     english: "Few",
     pronunciation: "a-tsim",
-    bhutia: "",
+    bhutia: "ཨ་ཅིམ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140913/correction/few_u5hwx2.mp3",
   },
@@ -8104,7 +8104,7 @@ const Data: Array<DataProps> = [
     key: "1138",
     english: "Several",
     pronunciation: "keb-chi",
-    bhutia: "",
+    bhutia: "ཀེསབ་ཅིག་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140848/correction/several_adss1b.mp3",
   },
@@ -8112,23 +8112,23 @@ const Data: Array<DataProps> = [
     key: "1139",
     english: "Everyone",
     pronunciation: "tham-chay-ghang-po",
-    bhutia: "",
+    bhutia: "ཐམས་ཅང་ གང་པོ་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140941/correction/everyone_r5ljco.mp3",
   },
   {
     key: "1140",
     english: "Somebody",
-    pronunciation: "mi-chi-nyi",
-    bhutia: "",
+    pronunciation: "mig-chig-nyi",
+    bhutia: "མི་གཅིག་གཉིས་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/somebody_bn4c2a.mp3",
   },
   {
     key: "1141",
     english: "Nobody",
-    pronunciation: "ka-yang-me",
-    bhutia: "",
+    pronunciation: "ka-yang-meng",
+    bhutia: "ཀ་ཡང་མིང་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140850/correction/nobody_jklpgr.mp3",
   },
@@ -8136,7 +8136,7 @@ const Data: Array<DataProps> = [
     key: "1142",
     english: "Someone",
     pronunciation: "re-nyi",
-    bhutia: "",
+    bhutia: "རེ་ གཉིས་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140847/correction/someone_uik1w7.mp3",
   },
@@ -8144,7 +8144,7 @@ const Data: Array<DataProps> = [
     key: "1143",
     english: "Each",
     pronunciation: "re-re",
-    bhutia: "",
+    bhutia: "རེ་རེ་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140943/correction/each_qwf7mt.mp3",
   },
@@ -8152,7 +8152,7 @@ const Data: Array<DataProps> = [
     key: "1144",
     english: "Either",
     pronunciation: "chi-men-chi",
-    bhutia: "",
+    bhutia: "གཅིག་མར་ གཅིག་",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/either_lnu9tk.mp3",
   },
@@ -8160,7 +8160,7 @@ const Data: Array<DataProps> = [
     key: "1145",
     english: "Neither",
     pronunciation: "nyi-ka-mea",
-    bhutia: "",
+    bhutia: "གཉིས་ག་ མན",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140942/correction/neither_kc57im.mp3",
   },
