@@ -3455,14 +3455,14 @@ const Data: Array<DataProps> = [
     key: "491",
     english: "It's in the centre of the town",
     pronunciation: "ངའི་ སློབ་གྲྭ་ འདི་ ཁྲོམ་གྱི་ སྦུ་ན་ ཡོད།",
-    bhutia: "ni-lobda-di-thom-ki-bu-na-yea",
+    bhutia: "ni-lobdra-di thom-ki buna yea",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140472/correction/its_in_the_centre_of_the_town_kezqd7.mp3",
   },
   {
     key: "492",
     english: "Where do you live?",
-    pronunciation: "rang-khana-deto?",
+    pronunciation: "rang-ghana-de-to?",
     bhutia: "རང་ ག་ན་ སྡོད་ཏོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140448/correction/where_do_you_live_zpzbed.mp3",
@@ -3470,7 +3470,7 @@ const Data: Array<DataProps> = [
   {
     key: "493",
     english: "Where do you live (honorific)",
-    pronunciation: "lengay-khana-zupo-nangdo-la?",
+    pronunciation: "lhengye ghana zudpo nang-do la?",
     bhutia: "ལྷན་རྒྱས་ ག་ན་ བཞུགས་པོ་ གནང་དོ་ ལགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140451/correction/where_do_you_live_with_respect_k1rvl7.mp3",
@@ -3478,7 +3478,7 @@ const Data: Array<DataProps> = [
   {
     key: "494",
     english: "I live in a rented house",
-    pronunciation: "nga-lachi-khim-me-chig-na-deto-in",
+    pronunciation: "nga lachi khim-me chig-na deto-en",
     bhutia: "ང་ གླ་ཅའི་ ཁྱིམ་མིག་ ཅིག་ན་ སྡོད་ཏོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140472/correction/i_live_in_a_rented_house_jpwvhd.mp3",
@@ -3486,7 +3486,7 @@ const Data: Array<DataProps> = [
   {
     key: "495",
     english: "Where do you work?",
-    pronunciation: "rang-khana-yog-khyapdoh?",
+    pronunciation: "rang ghana yog kyab-do?",
     bhutia: "རང་ ག་ན་ གཡོག་རྐྱབས་ ཏོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/where_do_you_work_bxzwxi.mp3",
@@ -3494,7 +3494,7 @@ const Data: Array<DataProps> = [
   {
     key: "496",
     english: "Where do you work (honorific)?",
-    pronunciation: "lengay-chalay-khana-nang-do-ei-num-la?",
+    pronunciation: "lhengye chalay ghana nang-do enam la?",
     bhutia: "ལྷན་རྒྱས་ ཕྱག་ལས་ ག་ན་ གནང་དོ་ ཨིན་ནམ་ ལགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140444/correction/where_do_you_work_with_respect_uqbsfp.mp3",
@@ -3502,7 +3502,7 @@ const Data: Array<DataProps> = [
   {
     key: "497",
     english: "I work in a radio station .",
-    pronunciation: "lhen gay drejong ki chang chod po nang ga ?",
+    pronunciation: "lhengye  drejong ki chang chod po nang ga ?",
     bhutia: "ང་ རླུང་འཕྲིན་ ཁང་ནང་ ལོ་ གཡོག་ རྐྱབས་ཏོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140472/correction/i_work_at_a_radio_station_p9gwjk.mp3",
@@ -3510,7 +3510,7 @@ const Data: Array<DataProps> = [
   {
     key: "498",
     english: "What are your names? ",
-    pronunciation: "rong-chui-min-khan-enum?",
+    pronunciation: "rong chui min ghan enam?",
     bhutia: "རང་ཙུའི་ མིང་ གན་ ཨིན་ནམ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140463/correction/what_are_your_names_lqqr4c.mp3",
@@ -3518,7 +3518,7 @@ const Data: Array<DataProps> = [
   {
     key: "499",
     english: "What are your names? (honorific)",
-    pronunciation: "lenge-chui-chen-khan-enum? la",
+    pronunciation: "lhengye chui-chen ghan enam? la",
     bhutia: " ལྷན་རྒྱས་ ཙུའི་ མཚན་ གན་ ཨིན་ནམ? ལགས!",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140463/correction/what_are_your_names_with_respect_yqrs7v.mp3",
@@ -3527,7 +3527,7 @@ const Data: Array<DataProps> = [
   {
     key: "500",
     english: "Our names are Tshering,Sonam and Dorjee",
-    pronunciation: "ngachi-min-di: Tshering,Sonam Dorjee in",
+    pronunciation: "ngachi min-di: Tshering,Sonam Dorjee en",
     bhutia: "ང་ཅའི་ མིང་ འདི༔ ཚི་རིང་། བསོད་ནམས། རྡོར་རྗེ། ཙུ་ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140471/correction/our_names_are_tshering_sonam_dorjee_wn6ww3.mp3",
@@ -3535,7 +3535,7 @@ const Data: Array<DataProps> = [
   {
     key: "501",
     english: "What sports do you like?",
-    pronunciation: "rang-lo chim khadi-gacho yepo?",
+    pronunciation: "rang-lo chim ghadi-ga-cho yed-po?",
     bhutia: "རང་ལོ་ རྩེདམ་ ག་འདི་ དགའ་འཚོར་ ཡོད་ པོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_sports_do_you_like_zrw4cy.mp3",
@@ -3543,7 +3543,7 @@ const Data: Array<DataProps> = [
   {
     key: "502",
     english: "What sports do you like?(honorific)",
-    pronunciation: "lenge-lochem-khadi-neyta-ye-la?",
+    pronunciation: "lhengye lod-chem ghadi neyta yea la?",
     bhutia: "ལྷན་རྒྱས་ ལོ་ རྩེདམ་ ག་འདི་ མཉེས་དྲགས་ ཡོད་ལགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140456/correction/what_sports_do_you_like_with_respect_lihr2a.mp3",
@@ -3551,7 +3551,7 @@ const Data: Array<DataProps> = [
   {
     key: "503",
     english: "I like football and volleyball",
-    pronunciation: "nga-lo-kachepoli dang lakchepoli cho gacho yea",
+    pronunciation: "nga-lo kanchoed-poli dang lakchoed-poli cho gadc-ho yea",
     bhutia: "ང་ལོ་ རྐང་རྩེད་པོལི་ དང་ ལག་རྩེདཔོལི་ པོ་ལི་ ཙུ་ དགའ་ཚོར་ ཡོད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140472/correction/i_like_football_and_volleyball_x613rf.mp3",
@@ -3559,14 +3559,14 @@ const Data: Array<DataProps> = [
   {
     key: "504",
     english: "What drink do you like ? (honorific)",
-    pronunciation: "lengey loh sekum na khan jedey yepo lah?",
+    pronunciation: "lhengye lo sekum na ghan jedey yed-po la?",
     bhutia: "ལྷན་རྒྱས་ལོ་ ཞལ་སྐོམ་ན་ གན་བཞེས་ འདོད་ ཡོད་པོ་ ལགས?",
     audiolink: "",
   },
   {
     key: "505",
     english: "What drink do you like?",
-    pronunciation: "rang loh khakom na khan thungdey yepo?",
+    pronunciation: "rang lo ghakom na ghan thung-dey yed-po?",
     bhutia: "རང་ལོ་ ཁ་སྐོམ་ ན་ གན་ འཐུང་འདོད་ ཡོད་པོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892286/conversation/i_go_to_school_at_8_30_es5fqm.mp4",
@@ -3574,7 +3574,7 @@ const Data: Array<DataProps> = [
   {
     key: "506",
     english: "I like coffee",
-    pronunciation: "nga loh coffee/chigzya gacho yea",
+    pronunciation: "nga lo coffee/chigzya gacho yea",
     bhutia: "ང་ལོ་ ཀོ་ཕི/ ཚིག་ཇ་ དགའ་ཚོར་ ཡོད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892380/conversation/what_time_do_you_get_up_y0m23j.mp4",
@@ -3582,7 +3582,7 @@ const Data: Array<DataProps> = [
   {
     key: "507",
     english: "How many languages do you speak?",
-    pronunciation: "ranki kerik khaje kyabtshu ?",
+    pronunciation: "rang-ki kerik ghaje kyab-shu ?",
     bhutia: "རང་གི་ སྐད་རིགས་ ག་ཚོད་ རྐྱབས་ ཚུགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892283/conversation/i_get_up_at_6_o_clock_ouqlbq.mp4",
@@ -3590,7 +3590,7 @@ const Data: Array<DataProps> = [
   {
     key: "508",
     english: "How many languages do you speak (honorific)?",
-    pronunciation: "lengey ki kerig khaje kyapo nangtsu? la",
+    pronunciation: "lhengye kyi kerig ghaje kyapo nangtsu? la",
     bhutia: "ལྷན་ རྒྱས་ ཀྱིས་ སྐད་རིགས་ ག་ཚོད་ རྐྱབས་པོ་ གནང་ཚུགས་?ལགས།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1735892384/conversation/what_time_do_you_have_your_breakfast_vvymji.mp4",
