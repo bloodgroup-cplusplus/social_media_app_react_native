@@ -14493,6 +14493,463 @@ const Data: Array<DataProps> = [
     pronunciation: "",
     audiolink: "",
   },
+  
+  {
+    "key": "2231",
+    "english": "Abstract",
+    "bhutia": "སྙིང་དོན།",
+    "pronunciation": "ningden",
+    "audiolink": ""
+  },
+  {
+    "key": "2232",
+    "english": "Introduction",
+    "bhutia": "ངོ་སྤྲོད།",
+    "pronunciation": "ngoti",
+    "audiolink": ""
+  },
+  {
+    "key": "2233",
+    "english": "Literature Review",
+    "bhutia": "རྕོམ་རིག་ཡང་ཞིབ།",
+    "pronunciation": "chomrik yangship",
+    "audiolink": ""
+  },
+  {
+    "key": "2234",
+    "english": "Theoretical framework",
+    "bhutia": "བཤད་པའི་བཟོ་བཀོད།",
+    "pronunciation": "shepay shokey",
+    "audiolink": ""
+  },
+  {
+    "key": "2235",
+    "english": "Conceptual framework",
+    "bhutia": "བསམ་ཚུལ་བཟོ་བཀོད།",
+    "pronunciation": "samchul shokey",
+    "audiolink": ""
+  },
+  {
+    "key": "2236",
+    "english": "Method",
+    "bhutia": "ཐབས་ལམ།",
+    "pronunciation": "thaplam",
+    "audiolink": ""
+  },
+  {
+    "key": "2237",
+    "english": "Methodology",
+    "bhutia": "ཐབས་ལམ་གྱི་གཞུང་ལུགས།",
+    "pronunciation": "thaplam khi sunglu",
+    "audiolink": ""
+  },
+  {
+    "key": "2238",
+    "english": "Hypothesis",
+    "bhutia": "ཚོད་དཔག།",
+    "pronunciation": "chepak",
+    "audiolink": ""
+  },
+  {
+    "key": "2239",
+    "english": "Research Proposal",
+    "bhutia": "ཉམས་ཞིབ་ཀྱི་འཆར་གཞི།",
+    "pronunciation": "nyamzipkhi charze",
+    "audiolink": ""
+  },
+  {
+    "key": "2240",
+    "english": "Project Proposal",
+    "bhutia": "གཡོག་གཞིའི་འཆར་གཞི།",
+    "pronunciation": "yojie charze",
+    "audiolink": ""
+  },
+  {
+    "key": "2241",
+    "english": "Research Paper",
+    "bhutia": "ཉམས་ཞིབ་རྩོམ་ཤོག།",
+    "pronunciation": "nyamzip chomshyok",
+    "audiolink": ""
+  },
+  {
+    "key": "2242",
+    "english": "Research Result",
+    "bhutia": "ཉམས་ཞིབ་གྲུབ་འབྲས།",
+    "pronunciation": "nymzip dupdi",
+    "audiolink": ""
+  },
+  {
+    "key": "2243",
+    "english": "Discussion",
+    "bhutia": "གོ་བསྡུར།",
+    "pronunciation": "godur",
+    "audiolink": ""
+  },
+  {
+    "key": "2244",
+    "english": "Conclusion",
+    "bhutia": "འཇུག་བསྡོམ།",
+    "pronunciation": "jugdom",
+    "audiolink": ""
+  },
+  {
+    "key": "2245",
+    "english": "Recommendation",
+    "bhutia": "སློབ་སྟོན།",
+    "pronunciation": "lobten",
+    "audiolink": ""
+  },
+  {
+    "key": "2246",
+    "english": "Appendix",
+    "bhutia": "ལྷན་ཐབས།",
+    "pronunciation": "lenthap",
+    "audiolink": ""
+  },
+  {
+    "key": "2247",
+    "english": "Bibliography",
+    "bhutia": "རྩོམ་རིག་དེབ་ཐོ།",
+    "pronunciation": "chomrik thepdoh",
+    "audiolink": ""
+  },
+  {
+    "key": "2248",
+    "english": "Documentation",
+    "bhutia": "ཡིག་ཆ་ཕྱོགས་སྒྲིགས།",
+    "pronunciation": "hikcha chugdik",
+    "audiolink": ""
+  },
+  {
+    "key": "2249",
+    "english": "Proofreading",
+    "bhutia": "ཞུས་དག།",
+    "pronunciation": "chuda",
+    "audiolink": ""
+  },
+  {
+    "key": "2250",
+    "english": "Plagiarism",
+    "bhutia": "རྐུམ་བཤུས།",
+    "pronunciation": "kungshu",
+    "audiolink": ""
+  },
+  {
+    "key": "2251",
+    "english": "Paraphrasing",
+    "bhutia": "ལུང་འགྲེལ།",
+    "pronunciation": "lungdel",
+    "audiolink": ""
+  },
+  {
+    "key": "2252",
+    "english": "Citation",
+    "bhutia": "ལུང་འདྲེན།",
+    "pronunciation": "lungdin",
+    "audiolink": ""
+  },
+  {
+    "key": "2253",
+    "english": "Background",
+    "bhutia": "རྒྱབ་ལྗོངས།",
+    "pronunciation": "gyapzong",
+    "audiolink": ""
+  },
+  {
+    "key": "2254",
+    "english": "Data analysis and finding",
+    "bhutia": "གཡོག་གཞིའི་དཔྱད་གྲུབ།",
+    "pronunciation": "yujey chedup",
+    "audiolink": ""
+  },
+  {
+    "key": "2255",
+    "english": "Copy Right",
+    "bhutia": "པར་དབང།",
+    "pronunciation": "parwang",
+    "audiolink": ""
+  },
+  {
+    "key": "2256",
+    "english": "Dissertation",
+    "bhutia": "དཔྱད་རྩོམ།",
+    "pronunciation": "chechom",
+    "audiolink": ""
+  },
+  {
+    "key": "2257",
+    "english": "Thesis",
+    "bhutia": "ཉམས་ཞིབ་རྩོམ་དེབ།",
+    "pronunciation": "nyamzip chomthep",
+    "audiolink": ""
+  },
+  {
+    "key": "2258",
+    "english": "Term Paper",
+    "bhutia": "སློབ་ཚད་རྩོམ་ཤོག།",
+    "pronunciation": "lokche chomshok",
+    "audiolink": ""
+  },
+  {
+    "key": "2259",
+    "english": "Data",
+    "bhutia": "གཞི་ཐོ།",
+    "pronunciation": "shitoh",
+    "audiolink": ""
+  },
+  {
+    "key": "2260",
+    "english": "Data Analysis",
+    "bhutia": "གཡོག་གཞིའི་དཔྱད་པོ།",
+    "pronunciation": "yuzeye chepoh",
+    "audiolink": ""
+  },
+  {
+    "key": "2261",
+    "english": "Data Mining",
+    "bhutia": "གཞི་ཐོའི་མཛོད་སྟོན།",
+    "pronunciation": "sithuye zethem",
+    "audiolink": ""
+  },
+  {
+    "key": "2262",
+    "english": "Primary Data/Source",
+    "bhutia": "གཞི་ཐོའི་མ་དཔེ།",
+    "pronunciation": "sithuye mapay",
+    "audiolink": ""
+  },
+  {
+    "key": "2263",
+    "english": "Secondary Data/Source",
+    "bhutia": "གཞི་ཐོའི་བུ་དཔེ།",
+    "pronunciation": "sithuye phupay",
+    "audiolink": ""
+  },
+  {
+    "key": "2264",
+    "english": "Keywords",
+    "bhutia": "གནད་ཚིག།",
+    "pronunciation": "nechig",
+    "audiolink": ""
+  },
+  {
+    "key": "2265",
+    "english": "Footnote",
+    "bhutia": "ཞམ་མཆན།",
+    "pronunciation": "syemchen",
+    "audiolink": ""
+  },
+  {
+    "key": "2266",
+    "english": "Endnote",
+    "bhutia": "མཇུག་མཆན།",
+    "pronunciation": "zugchen",
+    "audiolink": ""
+  },
+  {
+    "key": "2267",
+    "english": "Archive",
+    "bhutia": "ཡིག་མཛོད།",
+    "pronunciation": "yugche",
+    "audiolink": ""
+  },
+  {
+    "key": "2268",
+    "english": "Article",
+    "bhutia": "རྩམ་ཡིག།",
+    "pronunciation": "chomik",
+    "audiolink": ""
+  },
+  {
+    "key": "2269",
+    "english": "Classification",
+    "bhutia": "སྡེ་ཚན་དབྱེ་བ།",
+    "pronunciation": "dechen chepa",
+    "audiolink": ""
+  },
+  {
+    "key": "2270",
+    "english": "Confidentiality",
+    "bhutia": "གསང་རྒྱ།",
+    "pronunciation": "sangya",
+    "audiolink": ""
+  },
+  {
+    "key": "2271",
+    "english": "Credibility",
+    "bhutia": "ཆ་བཞག་འོས་པོ།",
+    "pronunciation": "chaza yepo",
+    "audiolink": ""
+  },
+  {
+    "key": "2272",
+    "english": "Field Studies",
+    "bhutia": "ཕྱི་སྦྱོང།",
+    "pronunciation": "phichong",
+    "audiolink": ""
+  },
+  {
+    "key": "2273",
+    "english": "Quantitative",
+    "bhutia": "གྱངས་འབོར་ཚད་ལྡན།",
+    "pronunciation": "khyongpar cheden",
+    "audiolink": ""
+  },
+  {
+    "key": "2274",
+    "english": "Qualitative",
+    "bhutia": "སྤུས་ལྡན། or སྤུས་དག་ལྡན་བོ།",
+    "pronunciation": "phuden or phudadenbo",
+    "audiolink": ""
+  },
+  {
+    "key": "2275",
+    "english": "Pree-Review",
+    "bhutia": "ཆ་ཛ�ྐྱེན་ཡང་ཞིབ།",
+    "pronunciation": "chakyang yangzip",
+    "audiolink": ""
+  },
+  {
+    "key": "2276",
+    "english": "Principal Investigator",
+    "bhutia": "དཔྱད་ཞིབ་འགོ་དཔོན།",
+    "pronunciation": "chezip gophen",
+    "audiolink": ""
+  },
+  {
+    "key": "2277",
+    "english": "Questionnaire",
+    "bhutia": "དྲི་བའི་རེའུ་མིག།",
+    "pronunciation": "thiway ruimik",
+    "audiolink": ""
+  },
+  {
+    "key": "2278",
+    "english": "Random Sampling",
+    "bhutia": "ཐོབ་ཚད་ཚོད་ལྟ།",
+    "pronunciation": "thopchey cheta",
+    "audiolink": ""
+  },
+  {
+    "key": "2279",
+    "english": "Reference",
+    "bhutia": "ཁུངས་འདྲེན་ཡིག་ཆ།",
+    "pronunciation": "khungden yigcha",
+    "audiolink": ""
+  },
+  {
+    "key": "2280",
+    "english": "Summary",
+    "bhutia": "སྙིང་བསྡུས།",
+    "pronunciation": "ningdi",
+    "audiolink": ""
+  },
+  {
+    "key": "2281",
+    "english": "Synopsis",
+    "bhutia": "དཔྱད་རྩོམ་དོན་སྙིང།",
+    "pronunciation": "chechom thening",
+    "audiolink": ""
+  },
+  {
+    "key": "2282",
+    "english": "Compilation",
+    "bhutia": "ཕྱོགས་སྒྲིག།",
+    "pronunciation": "chokdig",
+    "audiolink": ""
+  },
+  {
+    "key": "2283",
+    "english": "Assignment",
+    "bhutia": "ནང་སྦྱོང་གཡོག་འགན།",
+    "pronunciation": "nanzung yogen",
+    "audiolink": ""
+  },
+  {
+    "key": "2284",
+    "english": "Title",
+    "bhutia": "མཚན་བརྗོད།",
+    "pronunciation": "chenzey",
+    "audiolink": ""
+  },
+  {
+    "key": "2285",
+    "english": "Topic",
+    "bhutia": "འགོ་བརྗོད།",
+    "pronunciation": "gozey",
+    "audiolink": ""
+  },
+  {
+    "key": "2286",
+    "english": "Acknowledgment",
+    "bhutia": "ཐུགས་རྗེ་ལེགས་གསོ།",
+    "pronunciation": "thuje leksoh",
+    "audiolink": ""
+  },
+  {
+    "key": "2287",
+    "english": "Content",
+    "bhutia": "དཀར་ཆག།",
+    "pronunciation": "karcha",
+    "audiolink": ""
+  },
+  {
+    "key": "2288",
+    "english": "Theme",
+    "bhutia": "བརྫོད་གཞི།",
+    "pronunciation": "jezi",
+    "audiolink": ""
+  },
+  {
+    "key": "2289",
+    "english": "Writeup",
+    "bhutia": "རྩོམ་བསྡུས།",
+    "pronunciation": "chomdi",
+    "audiolink": ""
+  },
+  {
+    "key": "2290",
+    "english": "Tools and Technique",
+    "bhutia": "ཡོས་ཆས་དང་ཇུས་ལམ།",
+    "pronunciation": "yuche thang jilam",
+    "audiolink": ""
+  },
+  {
+    "key": "2291",
+    "english": "Glossary",
+    "bhutia": "དཀའ་ཚིག་རིའུ་མིག།",
+    "pronunciation": "kachik rumik",
+    "audiolink": ""
+  },
+  {
+    "key": "2292",
+    "english": "Format",
+    "bhutia": "བཟོ་བཀོད།",
+    "pronunciation": "zokay",
+    "audiolink": ""
+  },
+  {
+    "key": "2293",
+    "english": "Index",
+    "bhutia": "བརྡ་སྟོན་རིའུ་མིག།",
+    "pronunciation": "daten ryumik",
+    "audiolink": ""
+  },
+  {
+    "key": "2294",
+    "english": "Progress Report",
+    "bhutia": "གོང་སྐེད་ཞུ་ཡིག།",
+    "pronunciation": "khongkey shuik",
+    "audiolink": ""
+  },
+  {
+    "key": "2295",
+    "english": "Course works",
+    "bhutia": "ཉམས་ཞིབ་སྔོན་འགྲོ།",
+    "pronunciation": "nyamship nyendoh",
+    "audiolink": ""
+  }
+
 ];
 
 export default Data;
