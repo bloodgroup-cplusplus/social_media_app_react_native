@@ -5776,7 +5776,7 @@ const Data: Array<DataProps> = [
     english: "Suffering from back ache ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739080199/at%20the%20hospital/suffering_from_backache_jlrg9o.mp3",
-    pronunciation: "gyap nabo in",
+    pronunciation: "gyap nabo en",
     bhutia: "རྒྱབ་ ན་བོ་ ཨིན།",
   },
   {
@@ -5784,7 +5784,7 @@ const Data: Array<DataProps> = [
     english: "Suffering from leg pain",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_leg_pain_bvpf9z.mp3",
-    pronunciation: "kangpo nabo in",
+    pronunciation: "kangpo nabo en",
     bhutia: "རྐང་པོ་ ན་བོ་ ཨིན།",
   },
   {
@@ -5792,7 +5792,7 @@ const Data: Array<DataProps> = [
     english: "Suffering from fever",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739080198/at%20the%20hospital/suffering_from_fever_e4c5uf.mp3",
-    pronunciation: "darkyong  kyapti",
+    pronunciation: "darkyong  kyab-ti",
     bhutia: "བརྡར་གྱོང་  རྐྱབས་སྟི།",
   },
   {
@@ -5808,7 +5808,7 @@ const Data: Array<DataProps> = [
     english: "Suffering from diarrohea and vomiting",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739084078/at%20the%20hospital/suffering_from_vomiting_and_dirrohea_nz131b.mp3",
-    pronunciation: "nga shay kyu thopo in",
+    pronunciation: "nga shay kyu thopo en",
     bhutia: "ང་ལོ་ བཤལ་ སྐྱུག་ འཐབ་པོ་ ཨིན།",
   },
 
@@ -6005,7 +6005,7 @@ const Data: Array<DataProps> = [
   {
     key: "855",
     english: "Anger issues",
-    pronunciation: "khongtok longpo",
+    pronunciation: "khong-tog long-po",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739085571/at%20the%20hospital/anger_issues_eh0jre.mp3",
     bhutia: "ཁོང་ཁྲོ་ ལོང་པོ་།",
@@ -8215,7 +8215,7 @@ const Data: Array<DataProps> = [
   {
     key: "1152",
     english: "How much money do you have?",
-    pronunciation: "rang-lo tiru-khaje yepo la?",
+    pronunciation: "rang-lo tiru-ghaje yepo la?",
     bhutia: "རང་ལོ་ ཏི་རུག་ ག་ཚོད་ ཡོད་པོ་ ལགས?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140711/correction/how_much_money_do_you_have_pm3rir.mp3",
@@ -8232,7 +8232,7 @@ const Data: Array<DataProps> = [
   {
     key: "1155",
     english: "I did not say anything",
-    pronunciation: "nga khande-lapse meh",
+    pronunciation: "nga khande-lapse me",
     bhutia: "ངས་ གན་ འདྲེ་ ལབ་ཤུལ་ མེད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/i_did_not_say_anything_v1hcri.mp3",
@@ -8240,7 +8240,7 @@ const Data: Array<DataProps> = [
   {
     key: "1156",
     english: "What is that?",
-    pronunciation: "odi khan bo?",
+    pronunciation: "odi ghan bo?",
     bhutia: "ཨོ་འདི་ གན་བོ་?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/what_is_that_xoxkk7.mp3",
@@ -8248,7 +8248,7 @@ const Data: Array<DataProps> = [
   {
     key: "1157",
     english: "What is that? (honorific)",
-    pronunciation: "phidi khanbo?",
+    pronunciation: "phidi ghan-bo?",
     bhutia: "ཕི་འདི་ གན་བོ?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140719/correction/what_is_that_xoxkk7.mp3",
@@ -8256,7 +8256,7 @@ const Data: Array<DataProps> = [
   {
     key: "1158",
     english: "That is my book",
-    pronunciation: "odi ngai thep in",
+    pronunciation: "odi ngai theb en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/that_is_my_book_v6ghnz.mp3",
     bhutia: "ཨོ་འདི་ ངའི་ དེབ་ ཨིན།",
@@ -8264,7 +8264,7 @@ const Data: Array<DataProps> = [
   {
     key: "1159",
     english: "What do you want?",
-    pronunciation: "rang loh khan go po",
+    pronunciation: "rang lo ghan go po?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/what_do_you_want_daywby.mp3",
     bhutia: "རང་ལོ་ གན་ དགོས་པོ?",
@@ -8272,7 +8272,7 @@ const Data: Array<DataProps> = [
   {
     key: "1160",
     english: "What do you want? (honorific)",
-    pronunciation: "lengay loh khan thu-kho yepo la?",
+    pronunciation: "lhengye lo ghan thu-kho yepo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140720/correction/what_do_you_want_with_respect_zrtcej.mp3",
     bhutia: "ལྷན་རྒྱས་ལོ་ གན་ ཐུགས་ཁོ་ ཡོད་པོ་ ལགས?",
@@ -8881,7 +8881,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/he_drives_to_work_iisdx4.mp3",
     bhutia: "ཁོ་ མ་ཊོར་ བསྐུལ་སྡི་ གཡོག་ལོ་ འགྱུ་དོ།",
-    pronunciation: "khu motor kidi yoloh gyudoh ",
+    pronunciation: "khu motor kyi-di yolo gyu-do ",
   },
   {
     key: "1237",
@@ -8889,7 +8889,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140341/correction/she_is_reading_a_book_w8nhqu.mp3",
     bhutia: "མོ་ དེབ་ སྒོགས་བཞིན་ ཡོད།",
-    pronunciation: "mu thep dokzin yea",
+    pronunciation: "mu theb dog-jin yea",
   },
   {
     key: "1238",
@@ -8897,7 +8897,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_is_running_fast_sqeuhw.mp3",
     bhutia: "ཁོ་ མ་ལགས་ རྒྱུགས་བཞིན་འདུག།",
-    pronunciation: "kho mala guzin duh",
+    pronunciation: "kho malag gyug-jin du",
   },
   {
     key: "1239",
