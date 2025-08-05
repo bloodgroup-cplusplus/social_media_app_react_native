@@ -14499,287 +14499,287 @@ const Data: Array<DataProps> = [
     "english": "Abstract",
     "bhutia": "སྙིང་དོན།",
     "pronunciation": "ningden",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/abstract_tw7lrk.mp3"
   },
   {
     "key": "2232",
     "english": "Introduction",
     "bhutia": "ངོ་སྤྲོད།",
     "pronunciation": "ngoti",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960320/college_terms/introduction_whtamx.mp3"
   },
   {
     "key": "2233",
     "english": "Literature Review",
     "bhutia": "རྕོམ་རིག་ཡང་ཞིབ།",
     "pronunciation": "chomrik yangship",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960321/college_terms/literature_review_taovja.mp3"
   },
   {
     "key": "2234",
     "english": "Theoretical framework",
     "bhutia": "བཤད་པའི་བཟོ་བཀོད།",
     "pronunciation": "shepay shokey",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960335/college_terms/theoretical_framework_tnh1cd.mp3"
   },
   {
     "key": "2235",
     "english": "Conceptual framework",
     "bhutia": "བསམ་ཚུལ་བཟོ་བཀོད།",
     "pronunciation": "samchul shokey",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/conceptual_framework_fybl0y.mp3"
   },
   {
     "key": "2236",
     "english": "Method",
     "bhutia": "ཐབས་ལམ།",
     "pronunciation": "thaplam",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960326/college_terms/method_hs0wwg.mp3"
   },
   {
     "key": "2237",
     "english": "Methodology",
     "bhutia": "ཐབས་ལམ་གྱི་གཞུང་ལུགས།",
     "pronunciation": "thaplam khi sunglu",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/methodology_wlk5gi.mp3"
   },
   {
     "key": "2238",
     "english": "Hypothesis",
     "bhutia": "ཚོད་དཔག།",
     "pronunciation": "chepak",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/hypothesis_w3yri8.mp3"
   },
   {
     "key": "2239",
     "english": "Research Proposal",
     "bhutia": "ཉམས་ཞིབ་ཀྱི་འཆར་གཞི།",
     "pronunciation": "nyamzipkhi charze",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_proposal_i1x5pk.mp3"
   },
   {
     "key": "2240",
     "english": "Project Proposal",
     "bhutia": "གཡོག་གཞིའི་འཆར་གཞི།",
     "pronunciation": "yojie charze",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/project_proposal_lck56b.mp3"
   },
   {
     "key": "2241",
     "english": "Research Paper",
     "bhutia": "ཉམས་ཞིབ་རྩོམ་ཤོག།",
     "pronunciation": "nyamzip chomshyok",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/research_paper_dmmrxa.mp3"
   },
   {
     "key": "2242",
     "english": "Research Result",
     "bhutia": "ཉམས་ཞིབ་གྲུབ་འབྲས།",
     "pronunciation": "nymzip dupdi",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_result_jo1fzf.mp3"
   },
   {
     "key": "2243",
     "english": "Discussion",
     "bhutia": "གོ་བསྡུར།",
     "pronunciation": "godur",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/discussion_trnzy4.mp3"
   },
   {
     "key": "2244",
     "english": "Conclusion",
     "bhutia": "འཇུག་བསྡོམ།",
     "pronunciation": "jugdom",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/conclusion_woyq8m.mp3"
   },
   {
     "key": "2245",
     "english": "Recommendation",
     "bhutia": "སློབ་སྟོན།",
     "pronunciation": "lobten",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/recommendation_tjwmpx.mp3"
   },
   {
     "key": "2246",
     "english": "Appendix",
     "bhutia": "ལྷན་ཐབས།",
     "pronunciation": "lenthap",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754386873/college_terms/appendix_sdfw3l.mp3"
   },
   {
     "key": "2247",
     "english": "Bibliography",
     "bhutia": "རྩོམ་རིག་དེབ་ཐོ།",
     "pronunciation": "chomrik thepdoh",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387005/college_terms/bibliography_ahjfsm.mp3"
   },
   {
     "key": "2248",
     "english": "Documentation",
     "bhutia": "ཡིག་ཆ་ཕྱོགས་སྒྲིགས།",
     "pronunciation": "hikcha chugdik",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/documentation_eto94l.mp3"
   },
   {
     "key": "2249",
     "english": "Proofreading",
     "bhutia": "ཞུས་དག།",
     "pronunciation": "chuda",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/proofreading_f5fqmp.mp3"
   },
   {
     "key": "2250",
     "english": "Plagiarism",
     "bhutia": "རྐུམ་བཤུས།",
     "pronunciation": "kungshu",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/plagarism_hsi66a.mp3"
   },
   {
     "key": "2251",
     "english": "Paraphrasing",
     "bhutia": "ལུང་འགྲེལ།",
     "pronunciation": "lungdel",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/paraphrasing_cdit0s.mp3"
   },
   {
     "key": "2252",
     "english": "Citation",
     "bhutia": "ལུང་འདྲེན།",
     "pronunciation": "lungdin",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387150/college_terms/citation_mlfifl.mp3"
   },
   {
     "key": "2253",
     "english": "Background",
     "bhutia": "རྒྱབ་ལྗོངས།",
     "pronunciation": "gyapzong",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387418/college_terms/background_zshf9v.mp3"
   },
   {
     "key": "2254",
     "english": "Data analysis and finding",
     "bhutia": "གཡོག་གཞིའི་དཔྱད་གྲུབ།",
     "pronunciation": "yujey chedup",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387496/college_terms/data_analysis_and_finding_rasqpw.mp3"
   },
   {
     "key": "2255",
-    "english": "Copy Right",
+    "english": "Copyright",
     "bhutia": "པར་དབང།",
     "pronunciation": "parwang",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387549/college_terms/copyright_juq39d.mp3"
   },
   {
     "key": "2256",
     "english": "Dissertation",
     "bhutia": "དཔྱད་རྩོམ།",
     "pronunciation": "chechom",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/dissertation_ibr5vo.mp3"
   },
   {
     "key": "2257",
     "english": "Thesis",
     "bhutia": "ཉམས་ཞིབ་རྩོམ་དེབ།",
     "pronunciation": "nyamzip chomthep",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/thesis_ybedc7.mp3"
   },
   {
     "key": "2258",
     "english": "Term Paper",
     "bhutia": "སློབ་ཚད་རྩོམ་ཤོག།",
     "pronunciation": "lokche chomshok",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387717/college_terms/term_paper_stmtt5.mp3"
   },
   {
     "key": "2259",
     "english": "Data",
     "bhutia": "གཞི་ཐོ།",
     "pronunciation": "shitoh",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/data_lt9ont.mp3"
   },
   {
     "key": "2260",
     "english": "Data Analysis",
     "bhutia": "གཡོག་གཞིའི་དཔྱད་པོ།",
     "pronunciation": "yuzeye chepoh",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_analysis_b1q3ei.mp3"
   },
   {
     "key": "2261",
     "english": "Data Mining",
     "bhutia": "གཞི་ཐོའི་མཛོད་སྟོན།",
     "pronunciation": "sithuye zethem",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_mining_cfluhx.mp3"
   },
   {
     "key": "2262",
     "english": "Primary Data/Source",
     "bhutia": "གཞི་ཐོའི་མ་དཔེ།",
     "pronunciation": "sithuye mapay",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387847/college_terms/primary_data_source_fd4y4n.mp3"
   },
   {
     "key": "2263",
     "english": "Secondary Data/Source",
     "bhutia": "གཞི་ཐོའི་བུ་དཔེ།",
     "pronunciation": "sithuye phupay",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387898/college_terms/secondary_data_source_rpsszi.mp3"
   },
   {
     "key": "2264",
     "english": "Keywords",
     "bhutia": "གནད་ཚིག།",
     "pronunciation": "nechig",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387973/college_terms/keywords_ye8gsn.mp3"
   },
   {
     "key": "2265",
     "english": "Footnote",
     "bhutia": "ཞམ་མཆན།",
     "pronunciation": "syemchen",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/footnote_xahcfk.mp3"
   },
   {
     "key": "2266",
     "english": "Endnote",
     "bhutia": "མཇུག་མཆན།",
     "pronunciation": "zugchen",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960300/college_terms/endnote_sdexxr.mp3"
   },
   {
     "key": "2267",
     "english": "Archive",
     "bhutia": "ཡིག་མཛོད།",
     "pronunciation": "yugche",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/archive_ga5zlp.mp3"
   },
   {
     "key": "2268",
     "english": "Article",
     "bhutia": "རྩམ་ཡིག།",
     "pronunciation": "chomik",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/article_loalwr.mp3"
   },
   {
     "key": "2269",
     "english": "Classification",
     "bhutia": "སྡེ་ཚན་དབྱེ་བ།",
     "pronunciation": "dechen chepa",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/classificaiton_mv0c5u.mp3"
   },
   {
     "key": "2270",
     "english": "Confidentiality",
     "bhutia": "གསང་རྒྱ།",
     "pronunciation": "sangya",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/confidentiality_sv1kdf.mp3"
   },
   {
     "key": "2271",
     "english": "Credibility",
     "bhutia": "ཆ་བཞག་འོས་པོ།",
     "pronunciation": "chaza yepo",
-    "audiolink": ""
+    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754388121/college_terms/credibility_jivwx0.mp3"
   },
   {
     "key": "2272",
