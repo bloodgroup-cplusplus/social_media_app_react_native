@@ -8440,7 +8440,7 @@ const Data: Array<DataProps> = [
   {
     key: "1181",
     english: "This is a cold drink",
-    pronunciation: "di thung-che khyem-chig in / di thung-che khyam-chig in",
+    pronunciation: "di thung-che khyoem-choeg en / di thung-che khyam-choeg en",
     bhutia: "འདི་ འཐུང་ཆས་ འཁྱོལམ་ཅིག་ ཨིན།/འདི་ འཐུང་ཆས་ གྱངམ་ཅིག་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/this_is_a_cold_drink_tsahr6.mp3",
@@ -8448,7 +8448,7 @@ const Data: Array<DataProps> = [
   {
     key: "1182",
     english: "He wore a red shirt",
-    pronunciation: "kho tego marpo/marp khen dug",
+    pronunciation: "kho tego marpo/marp gyond dug",
     bhutia: "ཁོས་སྟོད་གོས་ དམར་པོ་/དམརབ་ གྱོནད་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742529632/correction/he_wore_a_red_shirt_erlsvb.mp3",
@@ -8456,7 +8456,7 @@ const Data: Array<DataProps> = [
   {
     key: "1183",
     english: "The test was easy",
-    pronunciation: "thi-gyuk di zam-po du",
+    pronunciation: "thri-gyug di zam-po dug",
     bhutia: "བྲི་རྒྱུགས་ འདི་ འཇམ་པོ་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742529632/correction/the_test_was_easy_foablm.mp3",
@@ -8464,7 +8464,7 @@ const Data: Array<DataProps> = [
   {
     key: "1184",
     english: "He said 'I am Happy' (direct speech)",
-    pronunciation: "kho lapche 'nga ghata yea'",
+    pronunciation: "kho lab-che 'nga ga-drag yed'",
     bhutia: "ཁོས་ ལབ་ཅེ་,'ང་ དགའ་ དྲགས་ ཡོད།'",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_said_i_am_happy_cgfioj.mp3",
@@ -8472,7 +8472,7 @@ const Data: Array<DataProps> = [
   {
     key: "1185",
     english: "She asked 'are you okay?'",
-    pronunciation: "mu thijay 'ranglhem ye-ka?'",
+    pronunciation: "mu dri-zhi 'rang-lhem yed-ka?'",
     bhutia: "མོས་ དྲི་ཞེ་ 'རང་ལེགམ་ ཡོད་ཀ?'",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140417/correction/she_asked_are_you_okay_y3co6x.mp3",
@@ -8488,7 +8488,7 @@ const Data: Array<DataProps> = [
   {
     key: "1187",
     english: "She said 'I love chocolate'",
-    pronunciation: "mu lapche 'nga tsi-rilloh ga'",
+    pronunciation: "mo lab-che 'nga byi-ril-lo dgag'",
     bhutia: "མོས་ ལབ་ཅེ་,'ང་ བྱི་རིལ་ལོ་ དགའ།'",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140325/correction/she_said_i_love_chocolates_xgwxpr.mp3",
@@ -8496,7 +8496,7 @@ const Data: Array<DataProps> = [
   {
     key: "1188",
     english: "They replied 'We are coming soon'",
-    pronunciation: "khong-chu 'lhen-lokchay nga-cha mala hong-do'",
+    pronunciation: "khong-chu 'len log-che nga-chag malag hong-do'",
     bhutia: "ཁོང་ཙུ་ ལན་ ལོག་ཅེ་,'ང་ཅག་ མ་ལག་ འོང་དོ།'",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_replied_we_are_coming_soon_zel1lw.mp3",
@@ -8504,7 +8504,7 @@ const Data: Array<DataProps> = [
   {
     key: "1189",
     english: "He said he was happy (indirect speech)",
-    pronunciation: "khu gha-tak yeshe khu-ki lab-ce",
+    pronunciation: "kho ghaa-trag ye-shey kho ki lab-ce",
     bhutia: "ཁོ་ དགའ་དྲགས་ཡེས་སེ་ ཁོ་ ཀིས་ ལབ་ཅེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_said_he_was_happy_eyyoli.mp3",
@@ -8512,7 +8512,7 @@ const Data: Array<DataProps> = [
   {
     key: "1190",
     english: "She asked if I was okay",
-    pronunciation: "nga lemra yekamsay lapti moki thije",
+    pronunciation: "nga lemra yed-kam-se lab-ti mo-ki thri-zhi",
     bhutia: "ང་ ལེགམ་ར་ ཡོད་ཀམ་སེ་ ལབ་སྟི་ མོ་ཀིས་དྲི་ཞེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140417/correction/she_asked_if_i_was_okay_sufkaz.mp3",
@@ -8520,7 +8520,7 @@ const Data: Array<DataProps> = [
   {
     key: "1191",
     english: "He shouted for them to stop running",
-    pronunciation: "kong-chu loh mengyu lapti khu key-su-jay",
+    pronunciation: "kong-chu-lo men-gyug lapti kho ked-shyor-zhi",
     bhutia: "ཁོང་ཙུ༹་ལོ་ མན་འགྱུགས་ ལབ་སྟི་ ཁོ་ སྐད་ཤོར་ཞེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140426/correction/he_shouted_for_them_to_stop_running_que8so.mp3",
@@ -8528,7 +8528,7 @@ const Data: Array<DataProps> = [
   {
     key: "1192",
     english: "She said she loved chocolate",
-    pronunciation: "mu loh tsi-ril ghata yeshe mo ki lapchay",
+    pronunciation: "mu loh byi-ril gha-trag yed-she mo-ki lab-che",
     bhutia: "མོ་ལོ་ བྱི་རིལ་ དགའ་དྲགས་ ཡོད་སེ་ མོ་ཀིས་ ལབ་ཅེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140325/correction/she_said_she_loved_chocolates_wmo4bu.mp3",
@@ -8536,7 +8536,7 @@ const Data: Array<DataProps> = [
   {
     key: "1193",
     english: "Eaten by deer beaten to the goat (idiomatic/metaphorical use)",
-    pronunciation: "shou-khasa-sa, dung-bo ralo-dum",
+    pronunciation: "zha-bo khasa za, dung-bo ralo-dumg",
     bhutia: "ཟ་བོ་ ཁ་ཤ་ ཟ། རྡུང་བོ་ ར་ལོ་ རྡུང་།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/eaten_by_deer_beaten_by_goat_denz9s.mp3",
@@ -8572,7 +8572,7 @@ const Data: Array<DataProps> = [
   {
     key: "1198",
     english: "The test was too difficult (negative context)",
-    pronunciation: "thi-gyu di lep-ti khakta doh",
+    pronunciation: "thi-gyug di lep-ti khak-trag dug",
     bhutia: "བྲི་རྒྱུགས་ འདི་ ལེབ་སྟེ་ གག་དྲགས་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/the_text_was_too_difficult_j6hqps.mp3",
@@ -8580,7 +8580,7 @@ const Data: Array<DataProps> = [
   {
     key: "1199",
     english: "He made a big mistake",
-    pronunciation: "kho no-thul bhompu tsig phya-du",
+    pronunciation: "kho nor-phrul bhom-po chig phya dug",
     bhutia: "ཁོས་ནོར་འཕྲུལ་ སྦོམ་པོ་ ཅིག་ བྱ༹ས་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_made_a_big_mistake_d2kqp3.mp3",
@@ -8588,7 +8588,7 @@ const Data: Array<DataProps> = [
   {
     key: "1200",
     english: "It was a bad idea",
-    pronunciation: "samlo di lhem-chig mindu/ samlo di malek-po chig-du",
+    pronunciation: "samlo di lhem chig min-dug/ samlo di maleg-po chig-dug",
     bhutia:
       "བསམ་བློ་ འདི་ ལེགམ་ ཅིག་ མིན་འདུག།/བསམ་བློ་ འདི་ མ་ལེགས་པོ་ ཅིག་ འདུག།",
     audiolink:
@@ -8597,7 +8597,7 @@ const Data: Array<DataProps> = [
   {
     key: "1201",
     english: "The law must be followed (legal/official context)",
-    pronunciation: "cha-thim lo khye-len phya-go",
+    pronunciation: "cha-thrim-lo khye len phya go",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140234/correction/the_law_must_be_followed_xejyfv.mp3",
     bhutia: "རྩ་ཁྲིམས་ལོ་ ཁས་ ལེན་ བྱ༹ས་ དགོས།",
@@ -8605,7 +8605,7 @@ const Data: Array<DataProps> = [
   {
     key: "1202",
     english: "The contract was signed yesterday",
-    pronunciation: "thang-khangya na sai kyapo in",
+    pronunciation: "thang ghan-gyan yig kyab-po en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140234/correction/the_contract_was_signed_yesterday_qh4txl.mp3",
     bhutia: "མདང་གན་རྒྱ་ན་ ས་ཡིག་ རྐྱབས་པོ་ ཨིན།",
@@ -8613,7 +8613,7 @@ const Data: Array<DataProps> = [
   {
     key: "1203",
     english: "This book is good (positive degree of comparison)",
-    pronunciation: "theb di lem yea",
+    pronunciation: "theb di lem yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/this_book_is_good_i9xdat.mp3",
     bhutia: "དེབ་ འདི་ ལེགམ་ ཡོད།",
@@ -8621,7 +8621,7 @@ const Data: Array<DataProps> = [
   {
     key: "1204",
     english: "She is tall",
-    pronunciation: "mu rin-ku yea",
+    pronunciation: "mo ring-ku yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140326/correction/she_is_tall_ongnqa.mp3",
     bhutia: "མོ་ རིང་ཀུ་ ཡོད།",
@@ -8629,7 +8629,7 @@ const Data: Array<DataProps> = [
   {
     key: "1205",
     english: "This task is simple",
-    pronunciation: "yog-di le lapo yea/yog di zampo yea",
+    pronunciation: "yog di le lapo yed/yog di zampo yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/this_task_is_simple_e1kpoc.mp3",
     bhutia: "གཡོག་ འདི་ ལས་ སླ་པོ་ ཡོད།/གཡོག་ འདི་ འཇམ་པོ་ ཡོད།",
@@ -8638,7 +8638,7 @@ const Data: Array<DataProps> = [
     key: "1206",
     english:
       "This book is better than that one (comparative degree of comparison)",
-    pronunciation: "theb di odi le leta yea",
+    pronunciation: "theb di o di-le leg-trag yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/this_book_is_better_than_other_rduwco.mp3",
     bhutia: "དེབ་ འདི་ ཨོ་ འདིས་ལས་ ལེགས་དྲགས་ ཡོད།",
@@ -8646,7 +8646,7 @@ const Data: Array<DataProps> = [
   {
     key: "1207",
     english: "She is taller than her sister",
-    pronunciation: "mu di muye azi le rinta yea",
+    pronunciation: "mo di muye azi-le ring-trag yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140326/correction/she_is_taller_than_her_sister_fr8w5m.mp3",
     bhutia: "མོ་ འདིས་ མོའི་ ཨ་ཞི་ལས་ རིང་ དྲགས་ ཡོད།",
@@ -8654,7 +8654,7 @@ const Data: Array<DataProps> = [
   {
     key: "1208",
     english: "The task is simpler than I thought",
-    pronunciation: "yog de neanokhen di le zamta yea",
+    pronunciation: "yog de neano-khen di-le zam-trag yed",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140243/correction/the_task_is_simpler_than_i_thought_e7lzlp.mp3",
     bhutia: "གཡོག་ འདི་ ངས་མནོ་མཁན་ འདི་ལས་ འཇམ་དྲགས་ ཡོད།",
@@ -8662,7 +8662,7 @@ const Data: Array<DataProps> = [
   {
     key: "1209",
     english: "This is the best book",
-    pronunciation: "theb di le-sho in",
+    pronunciation: "theb di leg-sho en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/this_is_the_best_book_nd9c39.mp3",
     bhutia: "དེབ་ འདི་ ལེགས་ཤོས་ ཨིན།",
@@ -8670,7 +8670,7 @@ const Data: Array<DataProps> = [
   {
     key: "1210",
     english: "She is the tallest in her class",
-    pronunciation: "mo-di muye zyengyalna ringsho in",
+    pronunciation: "mo-di muye zyengyal-na ringsho en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140326/correction/she_is_the_tallest_in_her_class_qu4awt.mp3",
     bhutia: "མོ་འདི་ མོའི་ འཛིན་གྱལ་ན་ རིང་ཤོས་ ཨིན།",
@@ -8678,7 +8678,7 @@ const Data: Array<DataProps> = [
   {
     key: "1211",
     english: "That was the most interesting movie",
-    pronunciation: "loknyen odi lepdi ghashou doh",
+    pronunciation: "lok-nyen odi lep-di gha-shou dug",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140234/correction/that_was_the_most_interesting_movie_isymhp.mp3",
     bhutia: "གློག་བརྙན་ ཨོ་འདི་ ལེབ་སྟི་ དགའ་ཤོས་ འདུག།",
@@ -8686,7 +8686,7 @@ const Data: Array<DataProps> = [
   {
     key: "1212",
     english: "A cat is sleeping (singular use)",
-    pronunciation: "alichig nedi doh",
+    pronunciation: "ali-chig nel-drig dug",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/a_cat_is_sleeping_rtvql1.mp3",
     bhutia: "ཨ་ལུས་ཅིག་ ཉལ་སྡོད་ འདུག།",
@@ -8694,7 +8694,7 @@ const Data: Array<DataProps> = [
   {
     key: "1213",
     english: "The teacher is nice",
-    pronunciation: "lopen di lhem doh",
+    pronunciation: "lob-poen di lhem dug",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/the_teacher_is_nice_urwpxw.mp3",
     bhutia: "སློབ་དཔོན་ འདི་ ལེགམ་ འདུག།",
@@ -8702,7 +8702,7 @@ const Data: Array<DataProps> = [
   {
     key: "1214",
     english: "A house was built",
-    pronunciation: "khim chig jochar",
+    pronunciation: "khim chig zo-char",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/a_house_was_built_hcvf2w.mp3",
     bhutia: "ཁྱིམ་ཅིག་ བཟོ་ཚར་།",
@@ -8710,7 +8710,7 @@ const Data: Array<DataProps> = [
   {
     key: "1215",
     english: "The car is new",
-    pronunciation: "chenkor di sapu duh ",
+    pronunciation: "zhoen-gor di sar-po dug ",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140234/correction/the_car_is_new_esjzbh.mp3",
     bhutia: "ཞོན་འགོར་ འདི་ གསར་པོ་ འདུག།",
@@ -8721,7 +8721,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140443/correction/a_dog_is_barking_ylqh98.mp3",
     bhutia: " ཁྱི་ཅིག་  ཧབ་བཞིན་ འདུག།",
-    pronunciation: "kichig khabjin duh",
+    pronunciation: "khyi-chig khab-zin dug",
   },
   {
     key: "1217",
@@ -8729,7 +8729,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140442/correction/cats_are_sleeping_qle2xw.mp3",
     bhutia: "ཨ་ལུས་ཙུ་ ཉལ་སྡོད་ འདུག།",
-    pronunciation: "alichu nede duh",
+    pronunciation: "ali-chu nyil-de dug",
   },
   {
     key: "1218",
@@ -8737,7 +8737,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/teachers_are_nice_rmvttv.mp3",
     bhutia: "སློབ་དཔོན་ཙུ་ ལོགམ་ འདུག།",
-    pronunciation: "lopen chu lem duh",
+    pronunciation: "lob-pen-chu lem dug",
   },
   {
     key: "1219",
