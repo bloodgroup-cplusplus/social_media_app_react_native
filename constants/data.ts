@@ -8416,7 +8416,7 @@ const Data: Array<DataProps> = [
   {
     key: "1178",
     english: "We cook dinner together (bhutia correction)",
-    pronunciation: "nga-cha phi-khe sam nyam-chi zobo in",
+    pronunciation: "nga-chag phi-khe sam nyam-chi zobo en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742529631/correction/we_cook_dinner_together_tzrdee.mp3",
     bhutia: "ང་ཅག་ ཕྱི༹ས་ཁའི་ ཟམ་མཉམ་ཅིག་ བཟོ་བོ་ ཨིན།",
@@ -8897,7 +8897,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_is_running_fast_sqeuhw.mp3",
     bhutia: "ཁོ་ མ་ལགས་ རྒྱུགས་བཞིན་འདུག།",
-    pronunciation: "kho malag gyug-zin du",
+    pronunciation: "kho malag gyug-zin dug",
   },
   {
     key: "1239",
@@ -9092,7 +9092,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཉིན་ཐུབ་ རྐང་རྩེད་ པོ་ལི་ རྩེད་བཞིན་ ཡོད་པོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/they_had_been_playing_soccer_all_day_gb4i0z.mp3",
-    pronunciation: "khong-chu nying-thup kangched-poli ched-zyin yed-po bed",
+    pronunciation: "khong-chu nying-thub kangched-poli ched-zyin yed-po bed",
   },
   {
     key: "1263",
@@ -9100,7 +9100,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ ཆོས་ རྒྱུགས་ཀྱིས་ དོན་ལོ་ སྒྲོགས་བཞིན་ ཡོད་པོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742357786/he_had_been_studying_for_exam_r9dtxt.mp3",
-    pronunciation: "kho choyuki threnlo dogzin yepo be",
+    pronunciation: "kho choyuki threnlo dogzin yed-po bed",
   },
   {
     key: "1264",
@@ -9108,7 +9108,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ཀིས་ དེབ་ཅིག་ སྒྲོགས་ཤད་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742637305/correction/she_will_read_a_book_1_ks64ve.mp3",
-    pronunciation: "moki thepzig dokse in",
+    pronunciation: "moki theb-chig drog-shed en",
   },
   {
     key: "1265",
@@ -9116,7 +9116,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ མ་ལག་ རྒྱུགས་ཤད་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742637195/correction/he_will_run_fast_ghqpxq.mp4",
-    pronunciation: "kho malag gyukshe in",
+    pronunciation: "kho malag gyug-shed en",
   },
   {
     key: "1266",
@@ -9124,7 +9124,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ རྐང་རྩིས་ པོ་ལི་ རྩེད་ཤད་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742637350/correction/they_will_play_soccer_tckkjh.mp3",
-    pronunciation: "khongtsu kangchepoli tseche in",
+    pronunciation: "khong-chu kangched-poli tsed-shed en",
   },
   {
     key: "1267",
@@ -9132,7 +9132,7 @@ const Data: Array<DataProps> = [
     bhutia: "ང་ཅག་ ཕྱི༹ས་ཁའི་ ཟམ་ བཟོ་ཤད་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742637399/correction/we_will_cook_dinner_zzpnpy.mp3",
-    pronunciation: "ngacha phikay sam zoshe in",
+    pronunciation: "nga-chag phi-key zam zoshe en",
   },
   {
     key: "1268",
@@ -9140,7 +9140,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ དེབ་ སྒྲོགས་ཤད་ ཨིན་བོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_will_be_reading_a_book_izyhdk.mp3",
-    pronunciation: "mo thep doksey inbo be",
+    pronunciation: "mo theb drog-shed en-bo bed",
   },
   {
     key: "1269",
@@ -9148,7 +9148,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ གླིང་ ག་ན་ རྒྱུགས་ཤད་ ཨིན་བོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140418/correction/he_will_be_running_in_the_park_iev117.mp3",
-    pronunciation: "kho linkhana gyushe inbo beh",
+    pronunciation: "kho ling ghana gyug-shed en-bo bed",
   },
   {
     key: "1270",
@@ -9156,7 +9156,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཐོ་རང་ རྐང་རྕེད་པོ་ལི་ རྩེད་ཤད་ ཨིན་བོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_will_be_playing_soccer_wqyy4s.mp3",
-    pronunciation: "khong-tsu thorang kangchepoli tsichey inbo-be",
+    pronunciation: "khong-chu thorang kang-chepd-oli tsi-chey enbo-be",
   },
   {
     key: "1271",
@@ -9164,7 +9164,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ཀིས་ མོ་རེའི་ ཁྱིམ་གཡོག་ ཐམས་ཅད་ མྱོ༹ང་ཤད་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_will_have_finished_her_homework_hxaak1.mp3",
-    pronunciation: "moki muray khimyog thamche myungsey beh",
+    pronunciation: "mo-ki mo-ray khim-yog tham-ched myung-shed bed",
   },
   {
     key: "1272",
@@ -9180,7 +9180,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཆར་གཞི་ ཐམས་ཅད་ མྱོ༹ང་ཤད་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140034/correction/they_will_have_completed_the_project_edu4zr.mp3",
-    pronunciation: "khongtsu charjay thamchey myungshe be",
+    pronunciation: "khongtsu charg-zyi tham-ched myung-shed bed",
   },
   {
     key: "1274",
@@ -9189,7 +9189,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ སྐར་མོ་ སུམ་ཅུ་ ལས་ རྒྱུགས་བཞིན་ ཡོད་ཤད་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742278265/he_will_have_been_running_for_30_minutes_uovzzw.mp3",
-    pronunciation: "kho karma sumchu le yogzin yeshe in",
+    pronunciation: "ko karma sumchu le yog-zin yes-she en",
   },
   {
     key: "1275",
