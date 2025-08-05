@@ -5101,7 +5101,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "675",
-    english: "aa",
+    english: "aa (The next five letters from here on are vowels)",
     bhutia: "ཨ",
     pronunciation: "aa",
     audiolink: "",
@@ -9285,7 +9285,7 @@ const Data: Array<DataProps> = [
     english: "Her heart sang with joy (literary and poetic context)",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140045/correction/her_heart_sang_with_joy_xzennp.mp3",
-    pronunciation: "mo sem gata phya lukyapoh be",
+    pronunciation: "mo sem gata phya lukyapo be",
     bhutia: "མོ་ སེམས་ དགའ་དྲགས་ བྱ༹ས་ གླུ་རྐྱབས་པོ་ སྦད།",
   },
 
@@ -9293,7 +9293,7 @@ const Data: Array<DataProps> = [
     key: "1289",
     english: "How old are you? What is your age?",
     bhutia: "ལྷན་རྒྱས་ དགུང་ལོ་ག་ཚོད་ འབོ་ལགས།",
-    pronunciation: "lengay gunglo khaje boh la?",
+    pronunciation: "lhengye gunglo ghaje bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140480/correction/how_old_are_you_xyzp3l.mp3",
   },
@@ -9301,7 +9301,7 @@ const Data: Array<DataProps> = [
     key: "1290",
     english: "I am 30 years old.",
     bhutia: "ང་ ལོ་ ༣༠ ཨིན་ ལགས།",
-    pronunciation: "nga loh sumchu in la",
+    pronunciation: "nga lo sumchu en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140046/correction/i_am_30_years_old_nrhxnk.mp3",
   },
@@ -9309,7 +9309,7 @@ const Data: Array<DataProps> = [
     key: "1291",
     english: "Where do you study?",
     bhutia: "ལྷན་རྒྱས་  སློབ་སྦྱོངས་  ག་ན་  གནང་བདོ།",
-    pronunciation: "lengay lobzang khana nangdoh",
+    pronunciation: "lhengye lobzang ghana nangdo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140045/correction/where_do_you_study_mfwoni.mp3",
   },
@@ -9317,7 +9317,7 @@ const Data: Array<DataProps> = [
     key: "1292",
     english: "I study in Delhi",
     bhutia: "ང་ དྷེལ་ལི་ན་ སློབ་སྦྱོངས་ བྱ༹ས་བདོ་ ཨིན།",
-    pronunciation: "nga delhi na lobzang phyado in",
+    pronunciation: "nga delhi na lobzang phyado en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140046/correction/i_study_in_delhi_lzdkkx.mp3",
   },
@@ -9325,7 +9325,7 @@ const Data: Array<DataProps> = [
     key: "1293",
     english: "What are your hobbies?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ དང་འདོད་  གན་  ཡོད་པོ་ ལགས།",
-    pronunciation: "lengey ki thangday khang yepo la?",
+    pronunciation: "lhengye kyi thangday ghang yepo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140055/correction/what_are_your_hobbies_yxwaiw.mp3",
   },
@@ -9333,7 +9333,7 @@ const Data: Array<DataProps> = [
     key: "1294",
     english: "To read books.",
     bhutia: "དཔེ་ཆ་ སྒྲོགས་ཤད་ དགའ་ཚོར་ ཡོད་ལགས།",
-    pronunciation: "pecha dokse gacho yea la",
+    pronunciation: "pecha dokse gacho ye la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140055/correction/to_read_books_ao1oci.mp3",
   },
@@ -9341,7 +9341,7 @@ const Data: Array<DataProps> = [
     key: "1295",
     english: "What are your future plans?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མ་འོངས་པོ་ན་ འཆར་གཞི་ གན་གན་ ཡོད་པོ།",
-    pronunciation: "lengey ki maong pona charji khan khan yepo",
+    pronunciation: "lhengye kyi maong pona charji ghan ghan yedpo",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140055/correction/what_are_your_future_plans_vxi9cs.mp3",
   },
@@ -9349,7 +9349,7 @@ const Data: Array<DataProps> = [
     key: "1296",
     english: "I don't have any future plan.",
     bhutia: "ང་ལོ་ མ་འོངས་པོའི་ འཆར་གཞི་ གན་ཡང་ མེད་ལགས།",
-    pronunciation: "nga loh mahong pena charzi khanyang mela",
+    pronunciation: "nga lo mahong pena charzi ghan-yang mela",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140055/correction/i_dont_have_any_future_plans_svnles.mp3",
   },
@@ -9357,7 +9357,7 @@ const Data: Array<DataProps> = [
     key: "1297",
     english: "Where do you live?",
     bhutia: "ལྷན་རྒྱས་ ག་ན་ བཞུགས་པོ་ གནང་བདོ།",
-    pronunciation: "lengay khana zupo na doh?",
+    pronunciation: "lhengye ghana zupo nang do?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140448/correction/where_do_you_live_zpzbed.mp3",
   },
@@ -9365,7 +9365,7 @@ const Data: Array<DataProps> = [
     key: "1298",
     english: "I live in Gangtok.",
     bhutia: "ང་ སྒང་ཏོག་ན་ སྡོད་ཏོ་ ཨིན་ལགས།",
-    pronunciation: "nga gatoh na deto in la",
+    pronunciation: "nga gatok na deto en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140055/correction/i_live_in_gangtok_rjijcj.mp3",
   },
@@ -9373,7 +9373,7 @@ const Data: Array<DataProps> = [
     key: "1299",
     english: "Did you finish your college?",
     bhutia: "ལྷན་རྒྱས་ཀྱི་ མཐོ་རིམ་ སློབ་གྲྭ་ མྱོ༹ང་པོ་ ལགས།",
-    pronunciation: "lengey ke thorim lobda myungpo la?",
+    pronunciation: "lhengye ke thorim lobdra myungpo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140056/correction/did_you_finish_your_college_bujtz0.mp3",
   },
@@ -9381,7 +9381,7 @@ const Data: Array<DataProps> = [
     key: "1300",
     english: "Yes, I did recently.",
     bhutia: "ལགས་ ད་རེ་རང་ རྫོགས་པོ་ ཨིན།",
-    pronunciation: "la,thari rang zopo in",
+    pronunciation: "la,thare rang zopo en",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140056/correction/yes_i_did_recently_kn0weh.mp3",
   },
@@ -9397,7 +9397,7 @@ const Data: Array<DataProps> = [
     key: "1302",
     english: "I am fine, thanks.",
     bhutia: "ལེགམ་རང་ ཡོད་ལགས།,ཐུགས་རྗེ་ཆེ།",
-    pronunciation: "lemra ye la, thujiche",
+    pronunciation: "lemra ye la, thugji-che",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140480/correction/i_am_fine_thank_you_xwb0vq.mp3",
   },
@@ -9405,7 +9405,7 @@ const Data: Array<DataProps> = [
     key: "1303",
     english: "Where are you from?",
     bhutia: "ལྷན་རྒྱས་ ག་བཞུགས་པོ་ གནང་མཁན་ འབོ་ལགས།",
-    pronunciation: "lengay kha zupo nangken bo la?",
+    pronunciation: "lhengye kha zupo nangken bo la?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140452/correction/where_are_you_from_ixvifj.mp3",
   },
@@ -9413,7 +9413,7 @@ const Data: Array<DataProps> = [
     key: "1304",
     english: "I am from Kabi.",
     bhutia: "ང་ ག་འབི་ སྡོད་མཁན་ ཨིན་ལགས།",
-    pronunciation: "nga kabi deken in la",
+    pronunciation: "nga kabi deken en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140056/correction/i_am_from_kabi_spktsq.mp3",
   },
@@ -9422,7 +9422,7 @@ const Data: Array<DataProps> = [
     key: "1307",
     english: "At what time do you go to office?",
     bhutia: "ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ལས་ཁུངས་ བྱོན་བདོ།",
-    pronunciation: "lengay chuche khaje loh lekung chendo?",
+    pronunciation: "lhengye chuche ghaje lo lekhung chaendo?",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140057/correction/at_what_time_do_you_go_to_office_pxrmuy.mp3",
   },
@@ -9430,7 +9430,7 @@ const Data: Array<DataProps> = [
     key: "1308",
     english: "I go to office at ten o'clock.",
     bhutia: "ང་ ལས་ཁུངས་ ཆུ་ཚོད་ བཅུ་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།",
-    pronunciation: "nga lekung chuchey chu na gyudo in la",
+    pronunciation: "nga lekung chuchey chu na gyudo en la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140057/correction/i_go_to_office_at_ten_o_clock_azy1zp.mp3",
   },
@@ -9446,7 +9446,7 @@ const Data: Array<DataProps> = [
     key: "1310",
     english: "I'm thinking to submit application for govt. job.",
     bhutia: "གཞུང་གཡོག་གི་ དོན་ལོ་ ཞུ་ཡིག་ ཕུལ་ཤད་ མནོ་བསམ་ ཡོད་ལགས།",
-    pronunciation: "zyungyoki thenlo suik phisay nosam ye la",
+    pronunciation: "zyungyo-ki thenlo suik phisay nosam ye la",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140067/correction/i_am_thinking_to_submit_an_application_for_governement_job_kugxvn.mp3",
   },
