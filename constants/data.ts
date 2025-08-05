@@ -8745,7 +8745,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140417/correction/houses_were_built_r38y8w.mp3",
     bhutia: "ཁྱིམ་ཙུ་ བཟོ་ཚར་ འདུག།",
-    pronunciation: "khim-chu zo-char du",
+    pronunciation: "khim-chu zo-char dug",
   },
   {
     key: "1220",
@@ -8753,7 +8753,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140442/correction/cars_are_new_mkmdcl.mp3",
     bhutia: "ཞོན་འཁོར་ཙུ་ གསར་པོ་ འདུག།",
-    pronunciation: "chenkor chu sapo-du",
+    pronunciation: "zhoenkor-chu sapo-dug",
   },
   {
     key: "1221",
@@ -8761,7 +8761,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140436/correction/dogs_are_barking_daga1z.mp3",
     bhutia: "ཁྱི་ཙུ་ ཧབ་བཞིན་ འདུག།",
-    pronunciation: "khi-chu habzin du",
+    pronunciation: "khyi-chu habzin dug",
   },
   {
     key: "1222",
@@ -8769,7 +8769,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_wants_to_sing_libkio.mp3",
     bhutia: "མོ་ གླུ་ རྐྱབས་འདོད་ འདུག།",
-    pronunciation: "mu lo kyab-di du",
+    pronunciation: "mo lo kyab-dod dug",
   },
   {
     key: "1223",
@@ -8777,7 +8777,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/they_decided_to_leave_iw5we7.mp3",
     bhutia: "ཁོང་ཙུ་ཀིས་ བཏང་ཤད་ ཐག་ཅད་པོ་ སྦད།",
-    pronunciation: "khong-chu-ki tang-shed thag-ched-po bed",
+    pronunciation: "khong-chu-ki tang-shed thag-ched-po sbed",
   },
   {
     key: "1224",
@@ -8785,7 +8785,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_loves_to_play_football_ujnphw.mp3",
     bhutia: "ཁོ་ལོ་རྐང་རྩེད་ པོ་ལི་ རྩེད་ཤད་ དགའ།",
-    pronunciation: "kho-lo kangched-poli tsig-shed ga",
+    pronunciation: "kho-lo kangched-poli rtseng-shed ga",
   },
   {
     key: "1225",
@@ -8841,15 +8841,15 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140325/correction/she_saw_the_falling_leaves_lrkg5t.mp3",
     bhutia: "མོ་ཀིས་ བྱུ༹ས་བཞིན་ ཡོད་པའི་ འདབ་མ་ཙུ་ མཐོང་ཅེ། ",
-    pronunciation: "muki phyujin yepe damachu thongche",
+    pronunciation: "mo-ki phyu-zin yed-pe dam-chu thong-che",
   },
   {
     key: "1232",
     english: "He writes every day (present simple tense)",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140418/correction/he_writes_every_day_d6kwun.mp3",
-    bhutia: "ཁོ་ ཉིམ་ མ་ཆག་ བྲིས་དོ།",
-    pronunciation: "khu ning macha thido",
+    bhutia: "ཁོ་ ཉིམ་ མ་ཆག་ བྲིས་དོ།", 
+    pronunciation: "kho nyim ma-cha thri-do",
   },
   {
     key: "1233",
@@ -8857,7 +8857,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140325/correction/she_reads_a_book_wn2ckt.mp3",
     bhutia: "མོ་ དེབ་ཙུ་ སྒྲོགས་ཏོ།",
-    pronunciation: "mu theb-chu dok-to",
+    pronunciation: "mo theb-chu dok-to",
   },
   {
     key: "1234",
@@ -8865,7 +8865,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_play_football_rrw5db.mp3",
     bhutia: "ཁོང་ཙུ་ རྐང་རྕེད་ པོ་ལི་ རྩེད་དོ།",
-    pronunciation: "khong-chu kangche-poli chue-do",
+    pronunciation: "khong-chu kangched-poli chued-do",
   },
   {
     key: "1235",
@@ -8873,7 +8873,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/we_cook_on_weekends_qd2jdy.mp3",
     bhutia: "ང་ཅག་ བདུན་ཕྲག་གི་ མཐའ་འཇུག་ཙུ་ན་ ཟམ་ བཟོ་དོ།",
-    pronunciation: "ngacha dinthakhi thazukchona samjudoh",
+    pronunciation: "nga-chag dun-phrag-gi thazug-chuna zam zo-do",
   },
   {
     key: "1236",
@@ -8881,7 +8881,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/he_drives_to_work_iisdx4.mp3",
     bhutia: "ཁོ་ མ་ཊོར་ བསྐུལ་སྡི་ གཡོག་ལོ་ འགྱུ་དོ།",
-    pronunciation: "khu motor kyi-di yolo gyu-do ",
+    pronunciation: "kho motor kyil-di yog-lo gyu-do ",
   },
   {
     key: "1237",
@@ -8889,7 +8889,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140341/correction/she_is_reading_a_book_w8nhqu.mp3",
     bhutia: "མོ་ དེབ་ སྒོགས་བཞིན་ ཡོད།",
-    pronunciation: "mu theb dog-jin yea",
+    pronunciation: "mo theb dog-zin yed",
   },
   {
     key: "1238",
@@ -8897,7 +8897,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_is_running_fast_sqeuhw.mp3",
     bhutia: "ཁོ་ མ་ལགས་ རྒྱུགས་བཞིན་འདུག།",
-    pronunciation: "kho malag gyug-jin du",
+    pronunciation: "kho malag gyug-zin du",
   },
   {
     key: "1239",
@@ -8905,7 +8905,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/they_are_playing_soccer_uo6she.mp3",
     bhutia: "ཁོང་ཙུ་ རྐང་ཙེད་ པོ་ལི་ རྩེད་བཞིན་ འདུག།",
-    pronunciation: "khongtsu kangchepoli tsi zinduh",
+    pronunciation: "khong-chu kangchoed-poli tsi-zing dug",
   },
   {
     key: "1240",
@@ -8913,7 +8913,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140259/correction/we_are_cooking_dinner_vatago.mp3",
     bhutia: "ང་ཅག་ ཕྱི༹ས་ཁའི་ ཟམ་བཟོ་བཞིན་ ཡོད།",
-    pronunciation: "ngacha phikey samjozin yea",
+    pronunciation: "nga0chag phi-key samjo-zin yed",
   },
   {
     key: "1241",
@@ -8921,12 +8921,12 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140434/correction/he_is_driving_home_iypj5f.mp3",
     bhutia: "ཁོ་ མོ་ཊོར་ བསྐུལ་བཞིན་ ཁྱིམ་ན་ ལོག་ཏོ།",
-    pronunciation: "khu motor kijin khim na log-toh",
+    pronunciation: "kho motor kul-zin khim na log-to",
   },
   {
     key: "1242",
     english: "She has finished her work (present perfect tense)",
-    pronunciation: "muki muri yo myung chardu",
+    pronunciation: "moki mure yog myung-char dug",
     bhutia: "མོ་ཀིས་ མོ་རེའི་ གཡོག་ མྱོ༹ང་ཚར་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140374/correction/she_has_finished_her_work_wzewg3.mp3",
@@ -8934,7 +8934,7 @@ const Data: Array<DataProps> = [
   {
     key: "1243",
     english: "He has eaten lunch",
-    pronunciation: "khoki zao sachar",
+    pronunciation: "kho-ki za-bo za-char",
     bhutia: "ཁོ་ཀིས་ ཛ་བོ་ ཟ་ཚར།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140434/correction/he_has_eaten_lunch_xfepca.mp3",
@@ -8942,7 +8942,7 @@ const Data: Array<DataProps> = [
   {
     key: "1244",
     english: "They have travelled to Paris",
-    pronunciation: "khong-chu paris-lo song-je",
+    pronunciation: "khong-chu paris-lo song-zhe",
     bhutia: "ཁོང་ཙུ་ པེ་རིས་ལོ་ སོང་ཞེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140251/correction/they_have_travelled_to_paris_syxibt.mp3",
@@ -8950,7 +8950,7 @@ const Data: Array<DataProps> = [
   {
     key: "1245",
     english: "We have seen that movie",
-    pronunciation: "ngacha-ki loknyin odi taze",
+    pronunciation: "ngacha-gi lognyin odi ta-zhe",
     bhutia: "ང་ཅག་གིས་ གློག་བརྙན་ ཨོ་འདི་ ལྟ་ཞེ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140260/correction/we_have_seen_that_movie_vn48ew.mp3",
@@ -8959,7 +8959,7 @@ const Data: Array<DataProps> = [
     key: "1246",
     english:
       "He has been running since morning (present perfect continuous tense)",
-    pronunciation: "kho thupa le kyubzin duh",
+    pronunciation: "kho throp-pa le kyub-zin dug",
     bhutia: "ཁོ་ དྲོ་པ་ལས་ རྒྱུགས་བཞིན་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/he_has_been_running_since_morning_btprqe.mp3",
@@ -8970,7 +8970,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཉིན་ཐུབ་ རྐང་རྕེད་པོ་ལི་ རྕེད་བཞིན་ ཡོད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140251/correction/they_have_been_playing_football_all_day_or0h27.mp3",
-    pronunciation: "khongtsu ningthup kangchepoli chezin yea",
+    pronunciation: "khong-chu nyin-thup kang-choed-poli chezin yed",
   },
 
   {
@@ -8979,7 +8979,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ ཆོས་རྒྱུགས་ཀྱིས་ དོན་ལོ་ སྒྲོགས་བཞིན་ ཡོད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140434/correction/he_has_been_studying_for_the_exam_jhwq1y.mp3",
-    pronunciation: "kho choguki thenlo dogzin yea",
+    pronunciation: "kho chog-kyi then-lo dog-zin yed",
   },
   {
     key: "1249",
@@ -8987,7 +8987,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ཀིས་ དེབ་སྒྲོགས་ཀོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140326/correction/she_read_a_book_vlsycu.mp3",
-    pronunciation: "muki thepdoko in",
+    pronunciation: "mo-ki theb-droko en",
   },
   {
     key: "1250",
@@ -8995,7 +8995,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ མ་ལག་ རྒྱུགས་ཀོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140427/correction/he_ran_fast_ezzz5d.mp3",
-    pronunciation: "khu malag gyuko in",
+    pronunciation: "kho malag gyu-ko en",
   },
   {
     key: "1251",
@@ -9003,7 +9003,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ རྐང་རྩེད་པོ་ལི་ རྩེད་བོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_played_soccer_qcglvw.mp3",
-    pronunciation: "khongtsu kangchepoli chebo in",
+    pronunciation: "khong-chu kang-choed-poli ched-bo en",
   },
   {
     key: "1252",
@@ -9011,7 +9011,7 @@ const Data: Array<DataProps> = [
     bhutia: "ང་ཅག་གིས་ ཕྱི༹་ཁའི་ ཟམ་ བཟོ་བོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140260/correction/we_cooked_dinner_jylfrw.mp3",
-    pronunciation: "ngakhi phike samzobo in",
+    pronunciation: "nga-chag-ki phyi-ke zam zobo en",
   },
   {
     key: "1253",
@@ -9019,7 +9019,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ དེབ་སྒྲོགས་བཞིན་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140233/correction/she_was_reading_a_book_ataurd.mp3",
-    pronunciation: "mo thebdogzin doh",
+    pronunciation: "mo theb-drog-zin dug",
   },
   {
     key: "1254",
@@ -9027,7 +9027,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ མ་ལག་ རྒྱུགས་བཞིན་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140426/correction/he_was_running_fast_uk2mn7.mp3",
-    pronunciation: "kho malag gukzin duh",
+    pronunciation: "kho malag gyug-zyin dug",
   },
   {
     key: "1255",
@@ -9035,7 +9035,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ རྐང་རྩེད་ པོ་ལི་ རྩེད་བཞིན་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140252/correction/they_were_playing_soccer_au9prr.mp3",
-    pronunciation: "khontsu kangchepoli chezin du",
+    pronunciation: "khong-chu kang-choed-poli ched-zin dug",
   },
   {
     key: "1256",
@@ -9043,7 +9043,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ མོ་ཊོར་ བསྐུལ་བཞིན་ ཁྱིམ་ན་ ལོག་ཀོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140426/correction/he_was_driving_home_qkecaq.mp3",
-    pronunciation: "khu motor kezin khimna loko in",
+    pronunciation: "kho motor skul-zin khim-na log-ko en",
   },
   {
     key: "1257",
@@ -9051,7 +9051,7 @@ const Data: Array<DataProps> = [
     bhutia: "མོ་ཀིས་ མོ་རེའི་ གཡོག་ མྱོང་ཚར་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140416/correction/she_had_finished_her_homework_oy8iag.mp3",
-    pronunciation: "mokhi mori yo myungchar duh",
+    pronunciation: "mo-ki mo-ri yog myung-char dug",
   },
   {
     key: "1258",
@@ -9059,7 +9059,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ཀིས་ ཛ་བོ་ ཟ་ཚར་ འདུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/he_had_eaten_lunch_qj5uam.mp3",
-    pronunciation: "khoki zou sachar du",
+    pronunciation: "kho-ki zou-bo za-char dug",
   },
   {
     key: "1259",
@@ -9067,7 +9067,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ པེ་རིས་ལོ་ སོང་བོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140251/correction/they_had_travelled_to_paris_fm4zub.mp3",
-    pronunciation: "khongtsu parisloh subo beh",
+    pronunciation: "khong-chu paris-lo sung-bo bed",
   },
   {
     key: "1260",
@@ -9075,7 +9075,7 @@ const Data: Array<DataProps> = [
     bhutia: "ང་ཅག་གིས་ གློག་བརྙན་ ཨོ་འདི་ ལྟ་བོ་ ཨིན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140260/correction/we_had_seen_that_movie_xahz6f.mp3",
-    pronunciation: "ngachake loknin odi tao in",
+    pronunciation: "ngachag-ki log-nyin odi ta-bo en",
   },
   {
     key: "1261",
@@ -9084,7 +9084,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ དྲོ་པ་ལས་ རྒྱུགས་བཞིན་ ཡོད་པོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140435/correction/he_had_been_running_since_morning_bjesss.mp3",
-    pronunciation: "kho thupale gyukzin yepo be",
+    pronunciation: "kho thrupa-le gyug-zyin yed-po bed",
   },
   {
     key: "1262",
@@ -9092,7 +9092,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོང་ཙུ་ ཉིན་ཐུབ་ རྐང་རྩེད་ པོ་ལི་ རྩེད་བཞིན་ ཡོད་པོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140244/correction/they_had_been_playing_soccer_all_day_gb4i0z.mp3",
-    pronunciation: "khontsu ningthup kangchepoli chezin yepo be",
+    pronunciation: "khong-chu nying-thup kangched-poli ched-zyin yed-po bed",
   },
   {
     key: "1263",
@@ -9100,7 +9100,7 @@ const Data: Array<DataProps> = [
     bhutia: "ཁོ་ ཆོས་ རྒྱུགས་ཀྱིས་ དོན་ལོ་ སྒྲོགས་བཞིན་ ཡོད་པོ་ སྦད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742357786/he_had_been_studying_for_exam_r9dtxt.mp3",
-    pronunciation: "kho chokyuki thenlo dogzin yepo be",
+    pronunciation: "kho choyuki threnlo dogzin yepo be",
   },
   {
     key: "1264",
