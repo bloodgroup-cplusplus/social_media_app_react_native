@@ -5860,7 +5860,7 @@ const Data: Array<DataProps> = [
     key: "837",
     english: "Suffering for heartache",
     audiolink:
-      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_heartache_s7gz8d.mp3",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486669/correction/suffering_from_heartache_knkqji.mp3",
     pronunciation: "dhunhi nati",
     bhutia: "དུ་སྙིང་ ན་སྟི།",
   },
@@ -5868,7 +5868,7 @@ const Data: Array<DataProps> = [
     key: "838",
     english: "Shooting pain in half portion of body",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486787/correction/having_shooting_pain_in_half_portion_of_body_skc8f5.mp3",
     pronunciation: "zu phyeth zedi",
     bhutia: "གཟུགས་ཕྱེད་ གཟེར་སྡི།",
   },
@@ -5876,7 +5876,7 @@ const Data: Array<DataProps> = [
     key: "839",
     english: "Shooting pain in half portion of head",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486828/correction/having_shooting_pain_in_half_portion_of_head_bqib8t.mp3",
     pronunciation: "go phyeth zedi",
     bhutia: "མགོ་ ཕྱེད་ གཟེར་དི།",
   },
@@ -6027,14 +6027,14 @@ const Data: Array<DataProps> = [
     english: "Is there an injection?",
     pronunciation: "mhen khap yethpo?",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754487138/correction/is_there_an_injection___eifpa1.mp3",
     bhutia: "སྨན་ཁབ་ ཡོད་པོ།?",
   },
   {
     key: "859",
     english: "Took four injections before yesterday",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754487035/correction/taken_four_injection_before_yesterday_hkh873.mp3",
     bhutia: "སྨན་ཁབ་ དི་ཚེ་ བཞི་ རྐྱབས་ཚར།",
     pronunciation: "mhen khap thitsi kyaptsha",
   },
@@ -6042,7 +6042,7 @@ const Data: Array<DataProps> = [
     key: "860",
     english: "These medicines are slightly benefiting",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742144195/correction/these_medicines_are_slightly_benefitting_po38gd.mp3",
     bhutia: "སྨན་འདིས་ ཨ་ཙི་ ཕན་དོ།",
     pronunciation: "mhendi aatsi fendoh",
   },
