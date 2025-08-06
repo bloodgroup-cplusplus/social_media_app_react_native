@@ -12174,7 +12174,7 @@ const Data: Array<DataProps> = [
 
   {
     key: "1792",
-    english: "Water",
+    english: "Water (Uncountable Nouns)",
     bhutia: "ཆུ།",
     pronunciation: "chu",
     audiolink: "",
@@ -12213,7 +12213,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1797",
-    english: "Toothpaste",
+    english: "Toothpaste (Compound Nouns)",
     bhutia: "གསོ་སྨན",
     pronunciation: "so-men",
     audiolink: "",
@@ -12248,7 +12248,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1802",
-    english: "John's",
+    english: "John's (Possessive Nouns)",
     bhutia: "ཛོཧ་ནན་གྱི་།",
     pronunciation: "John-gyi",
     audiolink: "",
@@ -12283,7 +12283,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1807",
-    english: "Swimming",
+    english: "Swimming (Gerund nouns / Verbs)",
     bhutia: "པྱེ་རྐྱབས་བཞིན་/བྱེ་རྐྱབས་བཞིན།",
     pronunciation: "che-kyabjin/chey-kyabjin",
     audiolink: "",
@@ -12318,7 +12318,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1812",
-    english: "Apple",
+    english: "Apple (Concrete nouns)",
     bhutia: "གླི་།",
     pronunciation: "li",
     audiolink: "",
@@ -12353,7 +12353,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1817",
-    english: "Love",
+    english: "Love (Abstract noun)",
     bhutia: "བྱམས་པོ་།/དགའ་ཚོར་།",
     pronunciation: "chyam-po/dga-chor",
     audiolink: "",
@@ -12388,7 +12388,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1822",
-    english: "Team",
+    english: "Team (Collective nouns)",
     bhutia: "རུ་ཁག་།/སྡེ་ཚན་།",
     pronunciation: "ri-gak/sdey-chen",
     audiolink: "",
@@ -12423,7 +12423,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1827",
-    english: "Car",
+    english: "Car (countable nouns)",
     bhutia: "འཁོར་ལོ་/སྣུམ་འཁོར་།",
     pronunciation: "khorlo/snum-khor",
     audiolink: "",
@@ -12458,7 +12458,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1832",
-    english: "Biggest",
+    english: "Biggest (Superlative Adjectives)",
     bhutia: "སྦོམ་ཤོས་།",
     pronunciation: "bom-shoed",
     audiolink: "",
@@ -12528,7 +12528,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1842",
-    english: "Boy",
+    english: "Boy (Common nouns)",
     bhutia: "བུ་།",
     pronunciation: "",
     audiolink: "",
@@ -12563,7 +12563,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1847",
-    english: "London",
+    english: "London (proper nouns)",
     bhutia: "ལོན་ཌོན་།",
     pronunciation: "",
     audiolink: "",
