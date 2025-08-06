@@ -5,7 +5,6 @@ interface DataProps {
   pronunciation: string;
   audiolink: string;
 }
-Day-ཉིནམ།
 
 const Data: Array<DataProps> = [
   {
@@ -3562,7 +3561,8 @@ const Data: Array<DataProps> = [
     english: "What drink do you like ? (honorific)",
     pronunciation: "lhengye lo sekum na ghan jedey yed-po la?",
     bhutia: "ལྷན་རྒྱས་ལོ་ ཞལ་སྐོམ་ན་ གན་བཞེས་ འདོད་ ཡོད་པོ་ ལགས?",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742140463/correction/what_drink_do_you_like_oky6ch.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140463/correction/what_drink_do_you_like_oky6ch.mp3",
   },
   {
     key: "505",
@@ -3592,7 +3592,7 @@ const Data: Array<DataProps> = [
     key: "508",
     english: "How many languages do you speak (honorific)?",
     pronunciation: "lhengye kyi kerig gha-choed kyab-po nang-chug? la",
-    bhutia: "ལྷན་ རྒྱས་ ཀྱིས་ སྐད་རིགས་ ག་ཚོད་ རྐྱབས་པོ་ གནང་ཚུགས་?ལགས།", 
+    bhutia: "ལྷན་ རྒྱས་ ཀྱིས་ སྐད་རིགས་ ག་ཚོད་ རྐྱབས་པོ་ གནང་ཚུགས་?ལགས།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140489/correction/how_many_languages_do_you_speak_with_respect_da8t5v.mp3",
   },
@@ -3970,8 +3970,7 @@ const Data: Array<DataProps> = [
     english: "Do you play football? (honorific)",
     pronunciation: "lhengye kangched-poli ched-bo nang-do nya la?",
     bhutia: "ལྷན་རྒྱས་ རྐང་རྩེད་པོ་ལི་ རྩེད་བོ་ གནང་དོ་ ཉ་ ལགས?",
-    audiolink:
-      "",
+    audiolink: "",
   },
   {
     key: "556",
@@ -4894,21 +4893,24 @@ const Data: Array<DataProps> = [
     key: "645",
     english: "ka (The letters from here on are consonants)",
     pronunciation: "ka",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476028/alphabets/ka_jjuwm0.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476028/alphabets/ka_jjuwm0.mp3",
     bhutia: "ཀ",
   },
   {
     key: "646",
     english: "kha",
     pronunciation: "kha",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476029/alphabets/kha_kqunnz.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476029/alphabets/kha_kqunnz.mp3",
     bhutia: "ཁ",
   },
   {
     key: "647",
     english: "ga",
     pronunciation: "ga",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476067/alphabets/ga_t1lebi.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476067/alphabets/ga_t1lebi.mp3",
     bhutia: "ག",
   },
   {
@@ -4916,84 +4918,96 @@ const Data: Array<DataProps> = [
     english: "gha",
     pronunciation: "gha",
     bhutia: "ག",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476250/alphabets/consonant_gha_ahoh1m.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476250/alphabets/consonant_gha_ahoh1m.mp3",
   },
   {
     key: "649",
     english: "nga",
     pronunciation: "nga",
     bhutia: "ང",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476036/alphabets/nga_puecfs.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476036/alphabets/nga_puecfs.mp3",
   },
   {
     key: "650",
     english: "ca",
     pronunciation: "ca",
     bhutia: "ཅ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476060/alphabets/cha_hkvdtw.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476060/alphabets/cha_hkvdtw.mp3",
   },
   {
     key: "651",
     english: "chaa",
     bhutia: "ཆ",
     pronunciation: "chaa",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476056/alphabets/chay_oejgft.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476056/alphabets/chay_oejgft.mp3",
   },
   {
     key: "652",
     english: "za",
     bhutia: "ཇ",
     pronunciation: "za",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476061/alphabets/Chya_torceh.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476061/alphabets/Chya_torceh.mp3",
   },
   {
     key: "653",
     english: "nya",
     bhutia: "ཉ",
     pronunciation: "nya",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476533/nya_daxmh2.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476533/nya_daxmh2.mp3",
   },
   {
     key: "654",
     english: "ta",
     bhutia: "ཏ",
     pronunciation: "ta",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476044/alphabets/ta_ldyj4x.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476044/alphabets/ta_ldyj4x.mp3",
   },
   {
     key: "655",
     english: "tha",
     bhutia: "ཐ",
     pronunciation: "tha",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476048/alphabets/tha_ugbpet.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476048/alphabets/tha_ugbpet.mp3",
   },
   {
     key: "656",
     english: "da",
     bhutia: "ད",
     pronunciation: "da",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476061/alphabets/da_iunx0n.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476061/alphabets/da_iunx0n.mp3",
   },
   {
     key: "657",
     english: "na",
     bhutia: "ན",
     pronunciation: "na",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754477162/alphabets/actual_na_lof6aq.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754477162/alphabets/actual_na_lof6aq.mp3",
   },
   {
     key: "658",
     english: "pa",
     bhutia: "པ",
     pronunciation: "pa",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476037/alphabets/Pa_fzvwfv.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476037/alphabets/Pa_fzvwfv.mp3",
   },
   {
     key: "659",
     english: "pha",
     bhutia: "ཕ",
     pronunciation: "pha",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476038/alphabets/Pha_egxnoe.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476038/alphabets/Pha_egxnoe.mp3",
   },
   {
     key: "660",
@@ -5007,21 +5021,24 @@ const Data: Array<DataProps> = [
     english: "ma",
     bhutia: "མ",
     pronunciation: "ma",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476032/alphabets/Ma_jez79e.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476032/alphabets/Ma_jez79e.mp3",
   },
   {
     key: "662",
     english: "tsa",
     bhutia: "ཙ",
     pronunciation: "tsa",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476048/alphabets/Tsa_to1q2s.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476048/alphabets/Tsa_to1q2s.mp3",
   },
   {
     key: "663",
     english: "tsha",
     bhutia: "ཚ",
     pronunciation: "tsha",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476049/alphabets/Tsha_mpyro5.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476049/alphabets/Tsha_mpyro5.mp3",
   },
   {
     key: "664",
@@ -5035,7 +5052,8 @@ const Data: Array<DataProps> = [
     english: "wa",
     bhutia: "ཝ",
     pronunciation: "wa",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476049/alphabets/Wa_sspwqb.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476049/alphabets/Wa_sspwqb.mp3",
   },
   {
     key: "666",
@@ -5056,28 +5074,32 @@ const Data: Array<DataProps> = [
     english: "ha",
     bhutia: "འ",
     pronunciation: "ha",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476067/alphabets/haa_dvnbjk.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476067/alphabets/haa_dvnbjk.mp3",
   },
   {
     key: "669",
     english: "ya",
     bhutia: "ཡ",
     pronunciation: "ya",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476055/alphabets/yaa_zex3bi.mp3v",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476055/alphabets/yaa_zex3bi.mp3v",
   },
   {
     key: "670",
     english: "ra",
     bhutia: "ར",
     pronunciation: "ra",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476039/alphabets/Raa_jvuaxg.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476039/alphabets/Raa_jvuaxg.mp3",
   },
   {
     key: "671",
     english: "la",
     bhutia: "ལ",
     pronunciation: "la",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754476031/alphabets/laa_uaywcn.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754476031/alphabets/laa_uaywcn.mp3",
   },
   {
     key: "672",
@@ -5105,35 +5127,40 @@ const Data: Array<DataProps> = [
     english: "aa (The next five letters from here on are vowels)",
     bhutia: "ཨ",
     pronunciation: "aa",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/a-ley-shey_jzkabb.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/a-ley-shey_jzkabb.mp3",
   },
   {
     key: "676",
     english: "ae",
     bhutia: "ཨི",
     pronunciation: "akhiku e",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%B2_joevzh.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%B2_joevzh.mp3",
   },
   {
     key: "677",
     english: "au",
     bhutia: "ཨུ",
     pronunciation: "ashyapchu uh",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%B4_atnpyn.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%B4_atnpyn.mp3",
   },
   {
     key: "678",
     english: "ai",
     bhutia: "ཨེ",
     pronunciation: "adengbo a",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%BA_h4wdge.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%BA_h4wdge.mp3",
   },
   {
     key: "679",
     english: "ao",
     bhutia: "ཨོ",
     pronunciation: "anaro o",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%BC_nuoh7n.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754475615/alphabets/%E0%BD%A8%E0%BD%BC_nuoh7n.mp3",
   },
   {
     key: "680",
@@ -5516,8 +5543,6 @@ const Data: Array<DataProps> = [
     bhutia: "ནད་ཡམས་ བརྟག་དཔྱད་པོ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1754485045/correction/epidemilogist_tvu5wt.mp3",
-      
-      
   },
   {
     key: "793",
@@ -5539,16 +5564,14 @@ const Data: Array<DataProps> = [
     key: "795",
     english: "Dietician",
     pronunciation: "samki-theten-kheypo",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "ཟམ་གྱི་ འཕྲོད་རྟེན་ མཁས་པོ།",
   },
   {
     key: "796",
     english: "Diagnosis",
     pronunciation: "necha-tsheychey/nelo-che-phyasey",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "ནད་རྩ་དཔྱད་ཤད་།/ ནད་ལོ་ རྩད་ དཔྱད་ བྱ༹ས་ཤད་།",
   },
   {
@@ -5623,7 +5646,7 @@ const Data: Array<DataProps> = [
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/preventive_medicines_yunicu.mp3",
     bhutia: "སྔོན་ འགོག་གི་ སྨན་།",
   },
-  
+
   {
     key: "807",
     english: "Outpatient",
@@ -5644,8 +5667,7 @@ const Data: Array<DataProps> = [
     key: "809",
     english: "Intensive care unit (ICU)",
     pronunciation: "sapche-thechen-khang",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "ཟབ་བཅོས་ སྡེ་ཚན་ཁང།",
   },
   {
@@ -5708,7 +5730,8 @@ const Data: Array<DataProps> = [
     key: "817",
     english: "Curfew",
     pronunciation: "thempang kagya",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/curfew_dep7dx.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/curfew_dep7dx.mp3",
     bhutia: "ཐེམ་སྤང་ བཀའ་རྒྱ།",
   },
   {
@@ -5891,88 +5914,77 @@ const Data: Array<DataProps> = [
     key: "841",
     english: "Shooting in limbs",
     pronunciation: "kaang laag zedi",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "རྐང་ལག་ གཟེར་སྡི།",
   },
   {
     key: "842",
     english: "Eye pain",
     pronunciation: "mikdho nati",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "མིག་རྡོག་ ན་སྟི།",
   },
   {
     key: "843",
     english: "Suffering from toothache",
     pronunciation: "so suk kyapti",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "སོ་ཟུག་ རྐྱབས་སྟི།",
   },
   {
     key: "844",
     english: "Having dry throat",
     pronunciation: "kyom khomti",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "རྐོདམ་ ཁོམ་སྟི།",
   },
   {
     key: "845",
     english: "Body itch",
     pronunciation: "zug yati",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "གཟུཁས་ གཡའ་སྟི།",
   },
   {
     key: "846",
     english: "Half portion of the body is paralyzed",
     pronunciation: "zu phyeth pashyrth meth",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "གཟུགས་ཕྱེད་ སྤ་ཤད་ མེད།",
   },
   {
     key: "847",
     english: "Having ear pain",
     pronunciation: "naamcho nati",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "རྣམ་ཅོག་ ན་སྟི།",
   },
   {
     key: "848",
     english: "Body slimmed down",
     pronunciation: "zu khomti",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "གཟུགས་ ཁོམ་སྟི།",
   },
   {
     key: "849",
     english: "This is a liver problem",
     pronunciation: "chhinpoi natsha bhyeth",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "མཆིན་པོའི་ ན་ཚ་ སྦད།",
   },
   {
     key: "850",
     english: "This is tuberculosis",
     pronunciation: "glo neth bhyeth",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "གློ་ནད་ སྦད།",
   },
   {
     key: "851",
     english: "This says it is cancer",
     pronunciation: "ten neth bhyeth labzin dhug",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "སྤྲན་ནད་ ཨིན་ ལབ་བཞིན་ འདུག།",
   },
   {
@@ -5986,40 +5998,35 @@ const Data: Array<DataProps> = [
     key: "853",
     english: "Having gassy stomach",
     pronunciation: "supo ghangti",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "བསུ་པོ་ གང་སྡི",
   },
   {
     key: "854",
     english: "Behaving abnormally",
     pronunciation: "chholtsa long long thyen dhug",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "འཆོལ་རྩ་ ལོང་ལོང་ འཐོན་འདུག།",
   },
   {
     key: "855",
     english: "Anger issues",
     pronunciation: "khong-tog long-po",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "ཁོང་ཁྲོ་ ལོང་པོ་།",
   },
   {
     key: "856",
     english: "Have you shown the doctor",
     pronunciation: "menpolo tyenjay gaam",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "སྨན་པོ་ལོ་ སྟོན་ཞེ་ གམ?",
   },
   {
     key: "857",
     english: "Taking medicine after treatment ",
     pronunciation: "mhenpolo tyendi mhen sadoh in ",
-    audiolink:
-      "",
+    audiolink: "",
     bhutia: "སྨན་པོ་ལོ་ སྟོན་ སྡི་ སྨན་ཟ་དོ་ ཨིན།",
   },
   {
@@ -6696,87 +6703,87 @@ const Data: Array<DataProps> = [
   {
     key: "945",
     english: "A day/one day",
-    pronunciation: "ngin chi",
-    bhutia: "ཉིན་གཅིག།",
+    pronunciation: "nyinm  chi",
+    bhutia: "ཉིནམ་ གཅིག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595301/Times/a_day_or_one_day_jdqrpk.mp3",
   },
   {
     key: "946",
     english: "Two days",
-    pronunciation: "ngin ngi",
-    bhutia: "ཉིན་གཉིས།",
+    pronunciation: "nyinm ngi",
+    bhutia: "ཉིནམ་ གཉིས།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/two_days_uhdjpp.mp3",
   },
   {
     key: "947",
     english: "Three days",
-    pronunciation: "ngin sum",
-    bhutia: "ཉིན་གསུམ།",
+    pronunciation: "nyinm sum",
+    bhutia: "ཉིནམ་ གསུམ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/three_days_b4txjf.mp3",
   },
   {
     key: "948",
     english: "Four days",
-    pronunciation: "ngin nga",
-    bhutia: "ཉིན་ བཞི།",
+    pronunciation: "nyinm nga",
+    bhutia: "ཉིནམ་ བཞི།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595297/Times/four_days_qtfguk.mp3",
   },
   {
     key: "949",
     english: "Five days",
-    pronunciation: "ngin nga",
-    bhutia: "ཉིན་ ལྔ།",
+    pronunciation: "nyinm nga",
+    bhutia: "ཉིནམ་ ལྔ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/five_days_i87ava.mp3",
   },
   {
     key: "950",
     english: "Six days",
-    pronunciation: "ngin thruk",
-    bhutia: "ཉིན་དྲུག།",
+    pronunciation: "nyinm thruk",
+    bhutia: "ཉིནམ་་ དྲུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/six_days_nlzinq.mp3",
   },
   {
     key: "951",
     english: "Seven days",
-    pronunciation: "ngin dhuen",
-    bhutia: "ཉིན་ བདུན།",
+    pronunciation: "nyinm dhuen",
+    bhutia: "ཉིནམ་ བདུན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/seven_days_okxofi.mp3",
   },
   {
     key: "952",
     english: "Eight days",
-    pronunciation: "ngin gyath",
-    bhutia: "ཉིན་བརྒྱད།",
+    pronunciation: "nyinm gyath",
+    bhutia: "ཉིནམ་་བརྒྱད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595296/Times/eight_days_dmpfew.mp3",
   },
   {
     key: "953",
     english: "Nine days",
-    pronunciation: "ngin ghu",
-    bhutia: "ཉིན་ དགུ།",
+    pronunciation: "nyinm ghu",
+    bhutia: "ཉིནམ་ དགུ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/nine_days_edbl6v.mp3",
   },
   {
     key: "954",
     english: "Ten days",
-    pronunciation: "ngin chu thamba",
-    bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
+    pronunciation: "nyinm chu thamba",
+    bhutia: "ཉིནམ་ བཅུ་ཐམ་བ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595291/Times/ten_days_oxmroy.mp3",
   },
   {
     key: "955",
     english: "One night",
-    pronunciation: "shyak chi",
+    pronunciation: "shyag chi",
     bhutia: "ཉིན་ བཅུ་ཐམ་བ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/one_night_p7pced.mp3",
@@ -6784,7 +6791,7 @@ const Data: Array<DataProps> = [
   {
     key: "956",
     english: "Two nights",
-    pronunciation: "shyak ngi",
+    pronunciation: "shyag ngi",
     bhutia: "ཞག་ གཉིས།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/two_nights_upfiv1.mp3",
@@ -6792,7 +6799,7 @@ const Data: Array<DataProps> = [
   {
     key: "957",
     english: "Three nights",
-    pronunciation: "shyak sum",
+    pronunciation: "shyag sum",
     bhutia: "ཞག་ གསུམ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/three_nights_ehukdt.mp3",
@@ -6800,7 +6807,7 @@ const Data: Array<DataProps> = [
   {
     key: "958",
     english: "Four nights",
-    pronunciation: "shyak zi",
+    pronunciation: "shyag zi",
     bhutia: "ཞག་ བཞི།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/four_nights_rmbznx.mp3",
@@ -6808,7 +6815,7 @@ const Data: Array<DataProps> = [
   {
     key: "959",
     english: "Five nights",
-    pronunciation: "shyak nga",
+    pronunciation: "shyag nga",
     bhutia: "ཞག་ལྔ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595290/Times/five_nights_zxmoye.mp3",
@@ -6816,7 +6823,7 @@ const Data: Array<DataProps> = [
   {
     key: "960",
     english: "Six nights",
-    pronunciation: "shyak thruk",
+    pronunciation: "shyag thruk",
     bhutia: "ཞག་ དྲུག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595289/Times/six_nights_x4hkaf.mp3",
@@ -6824,7 +6831,7 @@ const Data: Array<DataProps> = [
   {
     key: "961",
     english: "Seven nights",
-    pronunciation: "shyak dhuen",
+    pronunciation: "shyag dhuen",
     bhutia: "ཞག་ བདུན།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/seven_nights_cfml2r.mp3",
@@ -6832,7 +6839,7 @@ const Data: Array<DataProps> = [
   {
     key: "962",
     english: "Eight nights",
-    pronunciation: "shyak gyeth",
+    pronunciation: "shyag gyeth",
     bhutia: "ཞག་ བརྒྱད།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/eight_nights_c5vxmw.mp3",
@@ -6840,7 +6847,7 @@ const Data: Array<DataProps> = [
   {
     key: "963",
     english: "Nine nights",
-    pronunciation: "shyak ghu",
+    pronunciation: "shyag ghu",
     bhutia: "ཞག་ དགུ།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1739595284/Times/nine_nights_zh1eyi.mp3",
@@ -7601,28 +7608,32 @@ const Data: Array<DataProps> = [
     english: "Yam (Simbal Tarul)",
     bhutia: "ལོ་སྐྱེའུ།/ལོ་ཤིང་སྐྱེའུ།གདུང་ལུ་ སྐྱེའུ།",
     pronunciation: "lo-be-kyu/dung-lo-kyu/lo-shing-kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742529594/correction/yam_simbal_tarul_myupse.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529594/correction/yam_simbal_tarul_myupse.mp3",
   },
   {
     key: "1063",
     english: "Yam (Pindalu)",
     bhutia: "དོ་སྐྱེའུ།",
     pronunciation: "do-kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_pindalu_ydlvla.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_pindalu_ydlvla.mp3",
   },
   {
     key: "1064",
     english: "Yam (Ban Tarul)",
     bhutia: "ནགས་སྐྱེའུ།",
     pronunciation: "nag-kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_ban_tarul_s3mor4.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_ban_tarul_s3mor4.mp3",
   },
   {
     key: "1065",
     english: "Yam (Ghar Tarul both purple and white color",
     bhutia: "བདག་སྐྱེའུ།/པེན་སྐྱེའུ།",
     pronunciation: "dag-kyu/pen-kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_ghar_tarul_both_purple_and_white_bazmvt.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742529593/correction/yam_ghar_tarul_both_purple_and_white_bazmvt.mp3",
   },
   {
     key: "1066",
@@ -7634,14 +7645,16 @@ const Data: Array<DataProps> = [
   {
     key: "1067",
     english: "White Sweet Potato ",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754455297/correction/white_sweet_potato_t3jes5.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754455297/correction/white_sweet_potato_t3jes5.mp3",
     pronunciation: "kyu ngarm kap",
     bhutia: "སྐེའུ་མངརམ་དཀརབ།",
   },
   {
     key: "1068",
     english: "Yum (pustakari)",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754455168/yum_pustakari_za48iv.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754455168/yum_pustakari_za48iv.mp3",
     pronunciation: "shyokey kyu/metok kyu",
     bhutia: "ཤོསྐྱི་ སྐེའུ/ མེ་ཏོག་ སྐེའུ།",
   },
@@ -7649,42 +7662,48 @@ const Data: Array<DataProps> = [
     key: "1069",
     english: "Squash Yam",
     pronunciation: "kha-du kyu/bis-ku kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754455055/squash_yam_nq7dzm.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754455055/squash_yam_nq7dzm.mp3",
     bhutia: "ག་དུ་སྐེའུ་ /བིས་ཀུ་ སྐེའུ།",
   },
   {
     key: "1070",
     english: "Potato",
     pronunciation: "aa-le-kyu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1735802346/vegetables/potato_p6wdne.mp4",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1735802346/vegetables/potato_p6wdne.mp4",
     bhutia: "ཨཱ་ལུས་ སྐེའུ།",
   },
   {
     key: "1071",
     english: "Beaten Rice",
     pronunciation: "bya bya-su",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754454852/correction/beaten_rice_xhgyyb.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754454852/correction/beaten_rice_xhgyyb.mp3",
     bhutia: "འབྱ༹་འབྱ༹་སུ།",
   },
   {
     key: "1072",
     english: "Beaten Maize",
     pronunciation: "ken-tsong bya-su",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754454847/correction/beaten_maize_xxfklb.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754454847/correction/beaten_maize_xxfklb.mp3",
     bhutia: "ཀེན་ཙོང་ འབྱ༹་སུ།",
   },
   {
     key: "1073",
     english: "Beaten Barley",
     pronunciation: "na bya-su/nasu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754454839/correction/beaten_barley_gldvax.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754454839/correction/beaten_barley_gldvax.mp3",
     bhutia: "ནཱ་ འབྱ༹་ སུ་ /ནཱ་སུ།",
   },
   {
     key: "1074",
     english: "Beaten Wheat",
     pronunciation: "gyo bya-su/khyosu",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754454842/correction/beaten_wheat_ofq38j.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754454842/correction/beaten_wheat_ofq38j.mp3",
     bhutia: "གྱོ་འབྱ༹་ སུ/་ གྱོ་སུ།",
   },
 
@@ -8381,7 +8400,7 @@ const Data: Array<DataProps> = [
     key: "1174",
     english: "She answered the question correctly",
     pronunciation: "mo dri-be len den-tra gyap-choe",
-    audiolink: 
+    audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742185973/correction/she_answered_the_question_correctly_wsyozf.mp3",
     bhutia: "མོས་ དྲི་བའི་ ལན་ བདེན་དྲགས་རྐྱབས་ཅེ།",
   },
@@ -8844,7 +8863,7 @@ const Data: Array<DataProps> = [
     english: "He writes every day (present simple tense)",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140418/correction/he_writes_every_day_d6kwun.mp3",
-    bhutia: "ཁོ་ ཉིམ་ མ་ཆག་ བྲིས་དོ།", 
+    bhutia: "ཁོ་ ཉིམ་ མ་ཆག་ བྲིས་དོ།",
     pronunciation: "kho nyim ma-cha thri-do",
   },
   {
@@ -9209,14 +9228,16 @@ const Data: Array<DataProps> = [
       "རང་གིས་ གཡོག་འདི་ལོ་ རོགས་རམ་ བྱ༹ས་བྱི༹ན་བོ་ལོ་ ང་ཅག་ དགའ་སུ་ ཡོག།",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140035/correction/we_appreciate_your_cooperation_in_this_matter_miiemu.mp3",
-    pronunciation: "rang-ki yug-di-lo rog-ram phya phin-bolo nga-chag gad-su yed",
+    pronunciation:
+      "rang-ki yug-di-lo rog-ram phya phin-bolo nga-chag gad-su yed",
   },
   {
     key: "1278",
     english: "The company is pleased to announce a new policy",
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140044/correction/the_company_is_pleased_to_announce_the_new_policy_r1w5is.mp3",
-    pronunciation: "chong-don le-lag-ki phyo-tab phya-thob-pay nga ga-trag then-ze",
+    pronunciation:
+      "chong-don le-lag-ki phyo-tab phya-thob-pay nga ga-trag then-ze",
     bhutia: "ཚོང་དོན་ ལས་ལག་གིས་ བྱུས་ཐབས་ བྱ༹ས་ཐོབ་པོའི་ན་ དགའ་དྲགས་ ཐོན་ཞེ།",
   },
   {
@@ -9282,7 +9303,7 @@ const Data: Array<DataProps> = [
     audiolink:
       "https://res.cloudinary.com/dmcov966p/video/upload/v1742140045/correction/her_heart_sang_with_joy_xzennp.mp3",
     pronunciation: "mo sem ga-trag phya lukyab-po bed",
-    bhutia: "མོ་ སེམས་ དགའ་དྲགས་ བྱ༹ས་ གླུ་རྐྱབས་པོ་ སྦད།",   
+    bhutia: "མོ་ སེམས་ དགའ་དྲགས་ བྱ༹ས་ གླུ་རྐྱབས་པོ་ སྦད།",
   },
 
   {
@@ -11579,8 +11600,7 @@ const Data: Array<DataProps> = [
     pronunciation:
       "mi-chu ki log-chen log-chen dhong-len phya-go-pey throe-ten gi ney-doen cho ghan ghan en-nam?",
   },
-  
-  
+
   {
     key: "1645",
     english: "Excuse me, where is the main road?",
@@ -11640,7 +11660,7 @@ const Data: Array<DataProps> = [
     bhutia: "",
     pronunciation: "Khim nangey yog-chu mobi thang phum-chu ta-tok phya-do en ",
   },
-  
+
   {
     key: "1663",
     english: "Yes the husband helps with cooking and cleaning.",
@@ -11731,7 +11751,6 @@ const Data: Array<DataProps> = [
       "gen-bo chu ki pho-cho chui  sem-kham throe-toen gi kor-lo loh-tob kye chuk-shed kyi tam chu kyap-to nya?",
   },
 
-
   {
     key: "1694",
     english: "Together we bloom we bloom as one ",
@@ -11743,7 +11762,8 @@ const Data: Array<DataProps> = [
   {
     key: "1740",
     english: "Anesthesia",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449119/new_medical_terms/anesthesia_atvcg4.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449119/new_medical_terms/anesthesia_atvcg4.mp3",
     bhutia: "ཟུག་ བཅག་སྨན་ བཏང་སྡི་ ཚོར་བ་ མེད་པོ་ བཟོ་བོ། ཞྡི་སྨན།",
     pronunciation: "",
   },
@@ -11751,21 +11771,24 @@ const Data: Array<DataProps> = [
   {
     key: "1741",
     english: "Avitaminosis",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449127/new_medical_terms/a_vitaminosis_ng807u.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449127/new_medical_terms/a_vitaminosis_ng807u.mp3",
     bhutia: "སོབས་སེད་ ཟད་ནད། ",
     pronunciation: "",
   },
   {
     key: "1742",
     english: "Artery",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449122/new_medical_terms/artery_pefvb6.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449122/new_medical_terms/artery_pefvb6.mp3",
     bhutia: "འཕར་རྩ།",
     pronunciation: "",
   },
   {
     key: "1743",
     english: "Antibiotic",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449124/new_medical_terms/antibiotics_huqvxg.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449124/new_medical_terms/antibiotics_huqvxg.mp3",
     bhutia: "སེ་ནད་ འགོག་སྨན། ",
     pronunciation: "",
   },
@@ -11780,63 +11803,72 @@ const Data: Array<DataProps> = [
   {
     key: "1745",
     english: "Blood Clot",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449130/new_medical_terms/blood_clot_j24sk0.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449130/new_medical_terms/blood_clot_j24sk0.mp3",
     bhutia: "ཁྱག་འཁྱེགས། ཁྱག་ལྡིང་།",
     pronunciation: "",
   },
   {
     key: "1746",
     english: "Blood Filter",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449133/new_medical_terms/blood_filter_mpqp8h.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449133/new_medical_terms/blood_filter_mpqp8h.mp3",
     bhutia: "ཁྱག་ཚགས།",
     pronunciation: "",
   },
   {
     key: "1747",
     english: "Blood Vessels",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449136/new_medical_terms/blood_vessels_ohtn85.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449136/new_medical_terms/blood_vessels_ohtn85.mp3",
     bhutia: "ཁྱག་རྩ།",
     pronunciation: "",
   },
   {
     key: "1748",
     english: "Balance",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449139/new_medical_terms/balance_cgpymw.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449139/new_medical_terms/balance_cgpymw.mp3",
     bhutia: "ཆ་སོམས་པོ།/ཚོད་སོམས།",
     pronunciation: "",
   },
   {
     key: "1749",
     english: "Central Venous Catheter",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449162/new_medical_terms/central_venous_cather_lhykbe.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449162/new_medical_terms/central_venous_cather_lhykbe.mp3",
     bhutia: "སྦུ་ནང་གྡི་ སོད་རྩ་ ནང་ཤ་ བླུགས་མཁན་ སྦུགས་ (Tube)",
     pronunciation: "",
   },
   {
     key: "1750",
     english: "Chronic Kidney Disease",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449155/new_medical_terms/chronic_kidney_disease_ei9ssu.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449155/new_medical_terms/chronic_kidney_disease_ei9ssu.mp3",
     bhutia: "ཚབས་ཆེན་ མཁལ་རོག་གྡི་ ནད།",
     pronunciation: "",
   },
   {
     key: "1751",
     english: "Cholesterol",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449159/new_medical_terms/cholesterol_jkbfzd.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449159/new_medical_terms/cholesterol_jkbfzd.mp3",
     bhutia: "མཁྡིས་ཞག ཁྱག་ཞག ཁྱག་ཚིལ།",
     pronunciation: "",
   },
   {
     key: "1752",
     english: "Complication",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449152/new_medical_terms/complication_xii5cd.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449152/new_medical_terms/complication_xii5cd.mp3",
     bhutia: "མགོ་རོག  དཀའ་ལས། རོག་འཛིང་། ",
     pronunciation: "",
   },
   {
     key: "1753",
     english: "Calcium",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449169/new_medical_terms/calcium_dtfm0o.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449169/new_medical_terms/calcium_dtfm0o.mp3",
     bhutia: "དཀར་ཤམ། ",
     pronunciation: "",
   },
@@ -11850,14 +11882,16 @@ const Data: Array<DataProps> = [
   {
     key: "1755",
     english: "Care",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449166/new_medical_terms/care_qcp0x7.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449166/new_medical_terms/care_qcp0x7.mp3",
     bhutia: "བདག་ཀུ/ལྟ་རོག",
     pronunciation: "",
   },
   {
     key: "1756",
     english: "Diet",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449149/new_medical_terms/diet_vqbpde.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449149/new_medical_terms/diet_vqbpde.mp3",
     bhutia: "ཟས་སོད།",
     pronunciation: "",
   },
@@ -11871,175 +11905,200 @@ const Data: Array<DataProps> = [
   {
     key: "1758",
     english: "Emergency",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449146/new_medical_terms/emergency_fptm8g.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449146/new_medical_terms/emergency_fptm8g.mp3",
     bhutia: "ཧང་ཏོག་ ལོང་ཐོན།",
     pronunciation: "",
   },
   {
     key: "1759",
     english: "Fistula",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449143/new_medical_terms/fistula_lbsjrr.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449143/new_medical_terms/fistula_lbsjrr.mp3",
     bhutia: "མཚན་བར་ རོལ་བ/ ཧྡིལ་བུ།",
     pronunciation: "",
   },
   {
     key: "1760",
     english: "Fluid",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449172/new_medical_terms/fluid_nxnwdw.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449172/new_medical_terms/fluid_nxnwdw.mp3",
     bhutia: "ཆུ་སེར།",
     pronunciation: "",
   },
   {
     key: "1761",
     english: "Glomerulonephritis",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449187/new_medical_terms/glomerulonephritis_c65rnn.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449187/new_medical_terms/glomerulonephritis_c65rnn.mp3",
     bhutia: "མཁལ་་རོག་གྡི་ ཚགས་རླུང་།",
     pronunciation: "",
   },
   {
     key: "1762",
     english: "Hypertension",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449176/new_medical_terms/hypertension_fliarh.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449176/new_medical_terms/hypertension_fliarh.mp3",
     bhutia: "ཁྱག་ཤེད་ མཐོ་དྲགས་ཀྡི་ ནད།",
     pronunciation: "",
   },
   {
     key: "1763",
     english: "High Blood Sugar",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449180/new_medical_terms/high_blood_sugar_oebi3a.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449180/new_medical_terms/high_blood_sugar_oebi3a.mp3",
     bhutia: "ཁྱག་རྩྡི་ མཐོ་དྲགས།",
     pronunciation: "",
   },
   {
     key: "1764",
     english: "Hemoglobin",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449183/new_medical_terms/hemoglobin_tsld9z.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449183/new_medical_terms/hemoglobin_tsld9z.mp3",
     bhutia: "ཁྱག་རྡིལ།",
     pronunciation: "",
   },
   {
     key: "1765",
     english: "Infection",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449195/new_medical_terms/infection_notupr.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449195/new_medical_terms/infection_notupr.mp3",
     bhutia: "གཉན་སྡིན་ ཉེན་ཁ།",
     pronunciation: "",
   },
   {
     key: "1766",
     english: "Itchy Skin",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449191/new_medical_terms/itchy_skin_dfwatr.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449191/new_medical_terms/itchy_skin_dfwatr.mp3",
     bhutia: "གཟུགས་ གཡའ་ཤད",
     pronunciation: "",
   },
   {
     key: "1767",
     english: "Kidney",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449258/new_medical_terms/kidney_l8ob2w.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449258/new_medical_terms/kidney_l8ob2w.mp3",
     bhutia: "མཁལ་རོག",
     pronunciation: "",
   },
   {
     key: "1768",
     english: "Multi Vitamin",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449251/new_medical_terms/multi_vitamin_yk2wrv.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449251/new_medical_terms/multi_vitamin_yk2wrv.mp3",
     bhutia: "སྣ་འཛོམས་ བཅུད་སྨན།",
     pronunciation: "",
   },
   {
     key: "1769",
     english: "Mineral",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449254/new_medical_terms/mineral_fygp23.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449254/new_medical_terms/mineral_fygp23.mp3",
     bhutia: "གཏེར་རྫས།",
     pronunciation: "",
   },
   {
     key: "1770",
     english: "Nephrologist",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449246/new_medical_terms/nephrologist_ioauxf.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449246/new_medical_terms/nephrologist_ioauxf.mp3",
     bhutia: "མཁལ་རོག་ སྨན་པོ།",
     pronunciation: "",
   },
   {
     key: "1771",
     english: "Option",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449242/new_medical_terms/option_q7bfio.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449242/new_medical_terms/option_q7bfio.mp3",
     bhutia: "གདམ་ཁ།",
     pronunciation: "",
   },
   {
     key: "1772",
     english: "Procedure",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449230/new_medical_terms/procedure_cuqzak.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449230/new_medical_terms/procedure_cuqzak.mp3",
     bhutia: "དཔྱད་བཅོས་ཀྡི་ རྡིམ་པོ། ",
     pronunciation: "",
   },
   {
     key: "1773",
     english: "Potassium",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449234/new_medical_terms/potassium_f5m5vi.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449234/new_medical_terms/potassium_f5m5vi.mp3",
     bhutia: "ཟེ་ཚྭ། དུག་སེལ་ དཀར་པོ། ",
     pronunciation: "",
   },
   {
     key: "1774",
     english: "Polycystic Kidney Disease",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449238/new_medical_terms/polycystic_kidney_disease_omswf7.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449238/new_medical_terms/polycystic_kidney_disease_omswf7.mp3",
     bhutia: "མཁལ་ནད་ ཀེས་པོའི སེབ།",
     pronunciation: "",
   },
   {
     key: "1775",
     english: "Protein",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449222/new_medical_terms/protein_nfofns.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449222/new_medical_terms/protein_nfofns.mp3",
     bhutia: "སྡི་དཀར།",
     pronunciation: "",
   },
   {
     key: "1776",
     english: "Prostate",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449226/new_medical_terms/prostate_znnypf.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449226/new_medical_terms/prostate_znnypf.mp3",
     bhutia: "ལྒང་བུ།",
     pronunciation: "",
   },
   {
     key: "1777",
     english: "Regular",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449218/new_medical_terms/regular_g5zpaz.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449218/new_medical_terms/regular_g5zpaz.mp3",
     bhutia: "ཨ་བཏང་/ཆག་མེད།",
     pronunciation: "",
   },
   {
     key: "1778",
     english: "Sedation",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449214/new_medical_terms/sedation_fbz09z.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449214/new_medical_terms/sedation_fbz09z.mp3",
     bhutia: "ཞྡི་སྨན།",
     pronunciation: "",
   },
   {
     key: "1779",
     english: "Sodium",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449210/new_medical_terms/sodium_rhd067.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449210/new_medical_terms/sodium_rhd067.mp3",
     bhutia: "ཚ་རླུང་/ཚྭ་རྫས། ",
     pronunciation: "",
   },
   {
     key: "1780",
     english: "Symptom",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449199/new_medical_terms/symptoms_zqpgwl.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449199/new_medical_terms/symptoms_zqpgwl.mp3",
     bhutia: "ནད་རགས/རགས་མཚན། ",
     pronunciation: "",
   },
   {
     key: "1781",
     english: "Surgery",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449202/new_medical_terms/surgery_rso6ys.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449202/new_medical_terms/surgery_rso6ys.mp3",
     bhutia: "གཤག་བཅོས།",
     pronunciation: "",
   },
   {
     key: "1782",
     english: "Steal Phenomena",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449206/new_medical_terms/stealth_phenomenon_yfvomf.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449206/new_medical_terms/stealth_phenomenon_yfvomf.mp3",
     bhutia: "བསྡིལ་གཤྡིས་ཀྡི་ གནད་དོན།",
     pronunciation: "",
   },
@@ -12047,35 +12106,40 @@ const Data: Array<DataProps> = [
   {
     key: "1784",
     english: "Toxin",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449263/new_medical_terms/toxin_mgs6yq.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449263/new_medical_terms/toxin_mgs6yq.mp3",
     bhutia: "སེ་ལྡན་ དུག་རྫས།",
     pronunciation: "",
   },
   {
     key: "1785",
     english: "Transplant",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754453323/new_medical_terms/transplant_o40lks.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754453323/new_medical_terms/transplant_o40lks.mp3",
     bhutia: "༼Kindney མཁལ་རོག་༽༼Organ དབང་པོ་༽ སོ་བཙུགས།",
     pronunciation: "",
   },
   {
     key: "1786",
     english: "Towel",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754453253/new_medical_terms/towel_zi0uz1.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754453253/new_medical_terms/towel_zi0uz1.mp3",
     bhutia: "ལྟོ་རས།",
     pronunciation: "",
   },
   {
     key: "1787",
     english: "Tube",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754453226/new_medical_terms/tube_fvtfle.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754453226/new_medical_terms/tube_fvtfle.mp3",
     bhutia: "སྦུགས།",
     pronunciation: "",
   },
   {
     key: "1788",
     english: "Urine",
-    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1754453191/new_medical_terms/urine_gbffbl.mp3",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754453191/new_medical_terms/urine_gbffbl.mp3",
     bhutia: "གཤེབ།",
     pronunciation: "",
   },
@@ -12091,9 +12155,10 @@ const Data: Array<DataProps> = [
     english: "Vascular",
     audiolink: "",
     bhutia: "སོག་རྩ་ ནག་ཀུ།",
-    pronunciation: "https://res.cloudinary.com/dmcov966p/video/upload/v1754449267/new_medical_terms/vascular_ut07li.mp3",
+    pronunciation:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754449267/new_medical_terms/vascular_ut07li.mp3",
   },
- 
+
   {
     key: "1792",
     english: "Water",
@@ -14181,464 +14246,527 @@ const Data: Array<DataProps> = [
     pronunciation: "",
     audiolink: "",
   },
-  
-  {
-    "key": "2231",
-    "english": "Abstract",
-    "bhutia": "སྙིང་དོན།",
-    "pronunciation": "ningden",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/abstract_tw7lrk.mp3"
-  },
-  {
-    "key": "2232",
-    "english": "Introduction",
-    "bhutia": "ངོ་སྤྲོད།",
-    "pronunciation": "ngoti",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960320/college_terms/introduction_whtamx.mp3"
-  },
-  {
-    "key": "2233",
-    "english": "Literature Review",
-    "bhutia": "རྕོམ་རིག་ཡང་ཞིབ།",
-    "pronunciation": "chomrik yangship",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960321/college_terms/literature_review_taovja.mp3"
-  },
-  {
-    "key": "2234",
-    "english": "Theoretical framework",
-    "bhutia": "བཤད་པའི་བཟོ་བཀོད།",
-    "pronunciation": "shepay shokey",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960335/college_terms/theoretical_framework_tnh1cd.mp3"
-  },
-  {
-    "key": "2235",
-    "english": "Conceptual framework",
-    "bhutia": "བསམ་ཚུལ་བཟོ་བཀོད།",
-    "pronunciation": "samchul shokey",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/conceptual_framework_fybl0y.mp3"
-  },
-  {
-    "key": "2236",
-    "english": "Method",
-    "bhutia": "ཐབས་ལམ།",
-    "pronunciation": "thaplam",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960326/college_terms/method_hs0wwg.mp3"
-  },
-  {
-    "key": "2237",
-    "english": "Methodology",
-    "bhutia": "ཐབས་ལམ་གྱི་གཞུང་ལུགས།",
-    "pronunciation": "thaplam khi sunglu",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/methodology_wlk5gi.mp3"
-  },
-  {
-    "key": "2238",
-    "english": "Hypothesis",
-    "bhutia": "ཚོད་དཔག།",
-    "pronunciation": "chepak",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/hypothesis_w3yri8.mp3"
-  },
-  {
-    "key": "2239",
-    "english": "Research Proposal",
-    "bhutia": "ཉམས་ཞིབ་ཀྱི་འཆར་གཞི།",
-    "pronunciation": "nyamzipkhi charze",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_proposal_i1x5pk.mp3"
-  },
-  {
-    "key": "2240",
-    "english": "Project Proposal",
-    "bhutia": "གཡོག་གཞིའི་འཆར་གཞི།",
-    "pronunciation": "yojie charze",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/project_proposal_lck56b.mp3"
-  },
-  {
-    "key": "2241",
-    "english": "Research Paper",
-    "bhutia": "ཉམས་ཞིབ་རྩོམ་ཤོག།",
-    "pronunciation": "nyamzip chomshyok",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/research_paper_dmmrxa.mp3"
-  },
-  {
-    "key": "2242",
-    "english": "Research Result",
-    "bhutia": "ཉམས་ཞིབ་གྲུབ་འབྲས།",
-    "pronunciation": "nymzip dupdi",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_result_jo1fzf.mp3"
-  },
-  {
-    "key": "2243",
-    "english": "Discussion",
-    "bhutia": "གོ་བསྡུར།",
-    "pronunciation": "godur",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/discussion_trnzy4.mp3"
-  },
-  {
-    "key": "2244",
-    "english": "Conclusion",
-    "bhutia": "འཇུག་བསྡོམ།",
-    "pronunciation": "jugdom",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/conclusion_woyq8m.mp3"
-  },
-  {
-    "key": "2245",
-    "english": "Recommendation",
-    "bhutia": "སློབ་སྟོན།",
-    "pronunciation": "lobten",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/recommendation_tjwmpx.mp3"
-  },
-  {
-    "key": "2246",
-    "english": "Appendix",
-    "bhutia": "ལྷན་ཐབས།",
-    "pronunciation": "lenthap",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754386873/college_terms/appendix_sdfw3l.mp3"
-  },
-  {
-    "key": "2247",
-    "english": "Bibliography",
-    "bhutia": "རྩོམ་རིག་དེབ་ཐོ།",
-    "pronunciation": "chomrik thepdoh",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387005/college_terms/bibliography_ahjfsm.mp3"
-  },
-  {
-    "key": "2248",
-    "english": "Documentation",
-    "bhutia": "ཡིག་ཆ་ཕྱོགས་སྒྲིགས།",
-    "pronunciation": "hikcha chugdik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/documentation_eto94l.mp3"
-  },
-  {
-    "key": "2249",
-    "english": "Proofreading",
-    "bhutia": "ཞུས་དག།",
-    "pronunciation": "chuda",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/proofreading_f5fqmp.mp3"
-  },
-  {
-    "key": "2250",
-    "english": "Plagiarism",
-    "bhutia": "རྐུམ་བཤུས།",
-    "pronunciation": "kungshu",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/plagarism_hsi66a.mp3"
-  },
-  {
-    "key": "2251",
-    "english": "Paraphrasing",
-    "bhutia": "ལུང་འགྲེལ།",
-    "pronunciation": "lungdel",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/paraphrasing_cdit0s.mp3"
-  },
-  {
-    "key": "2252",
-    "english": "Citation",
-    "bhutia": "ལུང་འདྲེན།",
-    "pronunciation": "lungdin",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387150/college_terms/citation_mlfifl.mp3"
-  },
-  {
-    "key": "2253",
-    "english": "Background",
-    "bhutia": "རྒྱབ་ལྗོངས།",
-    "pronunciation": "gyapzong",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387418/college_terms/background_zshf9v.mp3"
-  },
-  {
-    "key": "2254",
-    "english": "Data analysis and finding",
-    "bhutia": "གཡོག་གཞིའི་དཔྱད་གྲུབ།",
-    "pronunciation": "yujey chedup",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387496/college_terms/data_analysis_and_finding_rasqpw.mp3"
-  },
-  {
-    "key": "2255",
-    "english": "Copyright",
-    "bhutia": "པར་དབང།",
-    "pronunciation": "parwang",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387549/college_terms/copyright_juq39d.mp3"
-  },
-  {
-    "key": "2256",
-    "english": "Dissertation",
-    "bhutia": "དཔྱད་རྩོམ།",
-    "pronunciation": "chechom",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/dissertation_ibr5vo.mp3"
-  },
-  {
-    "key": "2257",
-    "english": "Thesis",
-    "bhutia": "ཉམས་ཞིབ་རྩོམ་དེབ།",
-    "pronunciation": "nyamzip chomthep",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/thesis_ybedc7.mp3"
-  },
-  {
-    "key": "2258",
-    "english": "Term Paper",
-    "bhutia": "སློབ་ཚད་རྩོམ་ཤོག།",
-    "pronunciation": "lokche chomshok",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387717/college_terms/term_paper_stmtt5.mp3"
-  },
-  {
-    "key": "2259",
-    "english": "Data",
-    "bhutia": "གཞི་ཐོ།",
-    "pronunciation": "shitoh",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/data_lt9ont.mp3"
-  },
-  {
-    "key": "2260",
-    "english": "Data Analysis",
-    "bhutia": "གཡོག་གཞིའི་དཔྱད་པོ།",
-    "pronunciation": "yuzeye chepoh",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_analysis_b1q3ei.mp3"
-  },
-  {
-    "key": "2261",
-    "english": "Data Mining",
-    "bhutia": "གཞི་ཐོའི་མཛོད་སྟོན།",
-    "pronunciation": "sithuye zethem",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_mining_cfluhx.mp3"
-  },
-  {
-    "key": "2262",
-    "english": "Primary Data/Source",
-    "bhutia": "གཞི་ཐོའི་མ་དཔེ།",
-    "pronunciation": "sithuye mapay",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387847/college_terms/primary_data_source_fd4y4n.mp3"
-  },
-  {
-    "key": "2263",
-    "english": "Secondary Data/Source",
-    "bhutia": "གཞི་ཐོའི་བུ་དཔེ།",
-    "pronunciation": "sithuye phupay",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387898/college_terms/secondary_data_source_rpsszi.mp3"
-  },
-  {
-    "key": "2264",
-    "english": "Keywords",
-    "bhutia": "གནད་ཚིག།",
-    "pronunciation": "nechig",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754387973/college_terms/keywords_ye8gsn.mp3"
-  },
-  {
-    "key": "2265",
-    "english": "Footnote",
-    "bhutia": "ཞམ་མཆན།",
-    "pronunciation": "syemchen",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/footnote_xahcfk.mp3"
-  },
-  {
-    "key": "2266",
-    "english": "Endnote",
-    "bhutia": "མཇུག་མཆན།",
-    "pronunciation": "zugchen",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960300/college_terms/endnote_sdexxr.mp3"
-  },
-  {
-    "key": "2267",
-    "english": "Archive",
-    "bhutia": "ཡིག་མཛོད།",
-    "pronunciation": "yugche",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/archive_ga5zlp.mp3"
-  },
-  {
-    "key": "2268",
-    "english": "Article",
-    "bhutia": "རྩམ་ཡིག།",
-    "pronunciation": "chomik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/article_loalwr.mp3"
-  },
-  {
-    "key": "2269",
-    "english": "Classification",
-    "bhutia": "སྡེ་ཚན་དབྱེ་བ།",
-    "pronunciation": "dechen chepa",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/classificaiton_mv0c5u.mp3"
-  },
-  {
-    "key": "2270",
-    "english": "Confidentiality",
-    "bhutia": "གསང་རྒྱ།",
-    "pronunciation": "sangya",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/confidentiality_sv1kdf.mp3"
-  },
-  {
-    "key": "2271",
-    "english": "Credibility",
-    "bhutia": "ཆ་བཞག་འོས་པོ།",
-    "pronunciation": "chaza yepo",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754388121/college_terms/credibility_jivwx0.mp3"
-  },
-  {
-    "key": "2272",
-    "english": "Field Studies",
-    "bhutia": "ཕྱི་སྦྱོང།",
-    "pronunciation": "phichong",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960303/college_terms/field_studies_tfbscg.mp3"
-  },
-  {
-    "key": "2273",
-    "english": "Quantitative",
-    "bhutia": "གྱངས་འབོར་ཚད་ལྡན།",
-    "pronunciation": "khyongpar cheden",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/quantitative_f01jvk.mp3"
-  },
-  {
-    "key": "2274",
-    "english": "Qualitative",
-    "bhutia": "སྤུས་ལྡན། or སྤུས་དག་ལྡན་བོ།",
-    "pronunciation": "phuden or phudadenbo",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960305/college_terms/qualitative_ymr4lb.mp3"
-  },
-  {
-    "key": "2275",
-    "english": "Pre-Review",
-    "bhutia": "ཆ་ཛ�ྐྱེན་ཡང་ཞིབ།",
-    "pronunciation": "chakyang yangzip",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754388506/college_terms/pre-review_dkaw1r.mp3"
-  },
-  {
-    "key": "2276",
-    "english": "Principal Investigator",
-    "bhutia": "དཔྱད་ཞིབ་འགོ་དཔོན།",
-    "pronunciation": "chezip gophen",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/principal_investigator_ky9s1a.mp3"
-  },
-  {
-    "key": "2277",
-    "english": "Questionaire",
-    "bhutia": "དྲི་བའི་རེའུ་མིག།",
-    "pronunciation": "thiway ruimik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960305/college_terms/questionaire_zwh90n.mp3"
-  },
-  {
-    "key": "2278",
-    "english": "Random Sampling",
-    "bhutia": "ཐོབ་ཚད་ཚོད་ལྟ།",
-    "pronunciation": "thopchey cheta",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960306/college_terms/random_sampling_w35vbr.mp3"
-  },
-  {
-    "key": "2279",
-    "english": "Reference",
-    "bhutia": "ཁུངས་འདྲེན་ཡིག་ཆ།",
-    "pronunciation": "khungden yigcha",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/reference_ggf0rg.mp3"
-  },
-  {
-    "key": "2280",
-    "english": "Summary",
-    "bhutia": "སྙིང་བསྡུས།",
-    "pronunciation": "ningdi",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754388683/college_terms/summary_dm0zhq.mp3"
-  },
-  {
-    "key": "2281",
-    "english": "Synopsis",
-    "bhutia": "དཔྱད་རྩོམ་དོན་སྙིང།",
-    "pronunciation": "chechom thening",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754388838/college_terms/synopsis_hrheyr.mp3"
-  },
-  {
-    "key": "2282",
-    "english": "Compilation",
-    "bhutia": "ཕྱོགས་སྒྲིག།",
-    "pronunciation": "chokdig",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/compilation_rzlo1b.mp3"
-    
-  },
-  {
-    "key": "2283",
-    "english": "Assignment",
-    "bhutia": "ནང་སྦྱོང་གཡོག་འགན།",
-    "pronunciation": "nanzung yogen",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/assignment_kpns9s.mp3"
-  },
-  {
-    "key": "2284",
-    "english": "Title",
-    "bhutia": "མཚན་བརྗོད།",
-    "pronunciation": "chenzey",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/title_recypv.mp3"
-  },
-  {
-    "key": "2285",
-    "english": "Topic",
-    "bhutia": "འགོ་བརྗོད།",
-    "pronunciation": "gozey",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/topic_iw2ves.mp3"
-  },
-  {
-    "key": "2286",
-    "english": "Acknowledgment",
-    "bhutia": "ཐུགས་རྗེ་ལེགས་གསོ།",
-    "pronunciation": "thuje leksoh",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754389016/college_terms/acknowledgement_s3mvf4.mp3"
-  },
-  {
-    "key": "2287",
-    "english": "Content",
-    "bhutia": "དཀར་ཆག།",
-    "pronunciation": "karcha",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3"
-  },
-  {
-    "key": "2288",
-    "english": "Theme",
-    "bhutia": "བརྫོད་གཞི།",
-    "pronunciation": "jezi",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/theme_pjihj0.mp3"
-  },
-  {
-    "key": "2289",
-    "english": "Writeup",
-    "bhutia": "རྩོམ་བསྡུས།",
-    "pronunciation": "chomdi",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/writeup_gukfrj.mp3"
-  },
-  {
-    "key": "2290",
-    "english": "Tools and Technique",
-    "bhutia": "ཡོས་ཆས་དང་ཇུས་ལམ།",
-    "pronunciation": "yuche thang jilam",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/tools_and_techniques_rlz1pk.mp3"
-  },
-  {
-    "key": "2291",
-    "english": "Glossary",
-    "bhutia": "དཀའ་ཚིག་རིའུ་མིག།",
-    "pronunciation": "kachik rumik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1754389221/college_terms/glossary_bfituf.mp3"
-  },
-  {
-    "key": "2292",
-    "english": "Format",
-    "bhutia": "བཟོ་བཀོད།",
-    "pronunciation": "zokay",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/format_wjtetj.mp3"
-  },
-  {
-    "key": "2293",
-    "english": "Index",
-    "bhutia": "བརྡ་སྟོན་རིའུ་མིག།",
-    "pronunciation": "daten ryumik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/index_iej49q.mp3"
-  },
-  {
-    "key": "2294",
-    "english": "Progress Report",
-    "bhutia": "གོང་སྐེད་ཞུ་ཡིག།",
-    "pronunciation": "khongkey shuik",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/progress_report_zv0lah.mp3"
-  },
-  {
-    "key": "2295",
-    "english": "Course works",
-    "bhutia": "ཉམས་ཞིབ་སྔོན་འགྲོ།",
-    "pronunciation": "nyamship nyendoh",
-    "audiolink": "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/coursework_pjqn7c.mp3"
-  }
 
+  {
+    key: "2231",
+    english: "Abstract",
+    bhutia: "སྙིང་དོན།",
+    pronunciation: "ningden",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/abstract_tw7lrk.mp3",
+  },
+  {
+    key: "2232",
+    english: "Introduction",
+    bhutia: "ངོ་སྤྲོད།",
+    pronunciation: "ngoti",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960320/college_terms/introduction_whtamx.mp3",
+  },
+  {
+    key: "2233",
+    english: "Literature Review",
+    bhutia: "རྕོམ་རིག་ཡང་ཞིབ།",
+    pronunciation: "chomrik yangship",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960321/college_terms/literature_review_taovja.mp3",
+  },
+  {
+    key: "2234",
+    english: "Theoretical framework",
+    bhutia: "བཤད་པའི་བཟོ་བཀོད།",
+    pronunciation: "shepay shokey",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960335/college_terms/theoretical_framework_tnh1cd.mp3",
+  },
+  {
+    key: "2235",
+    english: "Conceptual framework",
+    bhutia: "བསམ་ཚུལ་བཟོ་བཀོད།",
+    pronunciation: "samchul shokey",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960318/college_terms/conceptual_framework_fybl0y.mp3",
+  },
+  {
+    key: "2236",
+    english: "Method",
+    bhutia: "ཐབས་ལམ།",
+    pronunciation: "thaplam",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960326/college_terms/method_hs0wwg.mp3",
+  },
+  {
+    key: "2237",
+    english: "Methodology",
+    bhutia: "ཐབས་ལམ་གྱི་གཞུང་ལུགས།",
+    pronunciation: "thaplam khi sunglu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/methodology_wlk5gi.mp3",
+  },
+  {
+    key: "2238",
+    english: "Hypothesis",
+    bhutia: "ཚོད་དཔག།",
+    pronunciation: "chepak",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/hypothesis_w3yri8.mp3",
+  },
+  {
+    key: "2239",
+    english: "Research Proposal",
+    bhutia: "ཉམས་ཞིབ་ཀྱི་འཆར་གཞི།",
+    pronunciation: "nyamzipkhi charze",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_proposal_i1x5pk.mp3",
+  },
+  {
+    key: "2240",
+    english: "Project Proposal",
+    bhutia: "གཡོག་གཞིའི་འཆར་གཞི།",
+    pronunciation: "yojie charze",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/project_proposal_lck56b.mp3",
+  },
+  {
+    key: "2241",
+    english: "Research Paper",
+    bhutia: "ཉམས་ཞིབ་རྩོམ་ཤོག།",
+    pronunciation: "nyamzip chomshyok",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/research_paper_dmmrxa.mp3",
+  },
+  {
+    key: "2242",
+    english: "Research Result",
+    bhutia: "ཉམས་ཞིབ་གྲུབ་འབྲས།",
+    pronunciation: "nymzip dupdi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960334/college_terms/research_result_jo1fzf.mp3",
+  },
+  {
+    key: "2243",
+    english: "Discussion",
+    bhutia: "གོ་བསྡུར།",
+    pronunciation: "godur",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/discussion_trnzy4.mp3",
+  },
+  {
+    key: "2244",
+    english: "Conclusion",
+    bhutia: "འཇུག་བསྡོམ།",
+    pronunciation: "jugdom",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/conclusion_woyq8m.mp3",
+  },
+  {
+    key: "2245",
+    english: "Recommendation",
+    bhutia: "སློབ་སྟོན།",
+    pronunciation: "lobten",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/recommendation_tjwmpx.mp3",
+  },
+  {
+    key: "2246",
+    english: "Appendix",
+    bhutia: "ལྷན་ཐབས།",
+    pronunciation: "lenthap",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754386873/college_terms/appendix_sdfw3l.mp3",
+  },
+  {
+    key: "2247",
+    english: "Bibliography",
+    bhutia: "རྩོམ་རིག་དེབ་ཐོ།",
+    pronunciation: "chomrik thepdoh",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387005/college_terms/bibliography_ahjfsm.mp3",
+  },
+  {
+    key: "2248",
+    english: "Documentation",
+    bhutia: "ཡིག་ཆ་ཕྱོགས་སྒྲིགས།",
+    pronunciation: "hikcha chugdik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960319/college_terms/documentation_eto94l.mp3",
+  },
+  {
+    key: "2249",
+    english: "Proofreading",
+    bhutia: "ཞུས་དག།",
+    pronunciation: "chuda",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960328/college_terms/proofreading_f5fqmp.mp3",
+  },
+  {
+    key: "2250",
+    english: "Plagiarism",
+    bhutia: "རྐུམ་བཤུས།",
+    pronunciation: "kungshu",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/plagarism_hsi66a.mp3",
+  },
+  {
+    key: "2251",
+    english: "Paraphrasing",
+    bhutia: "ལུང་འགྲེལ།",
+    pronunciation: "lungdel",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960327/college_terms/paraphrasing_cdit0s.mp3",
+  },
+  {
+    key: "2252",
+    english: "Citation",
+    bhutia: "ལུང་འདྲེན།",
+    pronunciation: "lungdin",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387150/college_terms/citation_mlfifl.mp3",
+  },
+  {
+    key: "2253",
+    english: "Background",
+    bhutia: "རྒྱབ་ལྗོངས།",
+    pronunciation: "gyapzong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387418/college_terms/background_zshf9v.mp3",
+  },
+  {
+    key: "2254",
+    english: "Data analysis and finding",
+    bhutia: "གཡོག་གཞིའི་དཔྱད་གྲུབ།",
+    pronunciation: "yujey chedup",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387496/college_terms/data_analysis_and_finding_rasqpw.mp3",
+  },
+  {
+    key: "2255",
+    english: "Copyright",
+    bhutia: "པར་དབང།",
+    pronunciation: "parwang",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387549/college_terms/copyright_juq39d.mp3",
+  },
+  {
+    key: "2256",
+    english: "Dissertation",
+    bhutia: "དཔྱད་རྩོམ།",
+    pronunciation: "chechom",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/dissertation_ibr5vo.mp3",
+  },
+  {
+    key: "2257",
+    english: "Thesis",
+    bhutia: "ཉམས་ཞིབ་རྩོམ་དེབ།",
+    pronunciation: "nyamzip chomthep",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/thesis_ybedc7.mp3",
+  },
+  {
+    key: "2258",
+    english: "Term Paper",
+    bhutia: "སློབ་ཚད་རྩོམ་ཤོག།",
+    pronunciation: "lokche chomshok",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387717/college_terms/term_paper_stmtt5.mp3",
+  },
+  {
+    key: "2259",
+    english: "Data",
+    bhutia: "གཞི་ཐོ།",
+    pronunciation: "shitoh",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960299/college_terms/data_lt9ont.mp3",
+  },
+  {
+    key: "2260",
+    english: "Data Analysis",
+    bhutia: "གཡོག་གཞིའི་དཔྱད་པོ།",
+    pronunciation: "yuzeye chepoh",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_analysis_b1q3ei.mp3",
+  },
+  {
+    key: "2261",
+    english: "Data Mining",
+    bhutia: "གཞི་ཐོའི་མཛོད་སྟོན།",
+    pronunciation: "sithuye zethem",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/data_mining_cfluhx.mp3",
+  },
+  {
+    key: "2262",
+    english: "Primary Data/Source",
+    bhutia: "གཞི་ཐོའི་མ་དཔེ།",
+    pronunciation: "sithuye mapay",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387847/college_terms/primary_data_source_fd4y4n.mp3",
+  },
+  {
+    key: "2263",
+    english: "Secondary Data/Source",
+    bhutia: "གཞི་ཐོའི་བུ་དཔེ།",
+    pronunciation: "sithuye phupay",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387898/college_terms/secondary_data_source_rpsszi.mp3",
+  },
+  {
+    key: "2264",
+    english: "Keywords",
+    bhutia: "གནད་ཚིག།",
+    pronunciation: "nechig",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754387973/college_terms/keywords_ye8gsn.mp3",
+  },
+  {
+    key: "2265",
+    english: "Footnote",
+    bhutia: "ཞམ་མཆན།",
+    pronunciation: "syemchen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/footnote_xahcfk.mp3",
+  },
+  {
+    key: "2266",
+    english: "Endnote",
+    bhutia: "མཇུག་མཆན།",
+    pronunciation: "zugchen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960300/college_terms/endnote_sdexxr.mp3",
+  },
+  {
+    key: "2267",
+    english: "Archive",
+    bhutia: "ཡིག་མཛོད།",
+    pronunciation: "yugche",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/archive_ga5zlp.mp3",
+  },
+  {
+    key: "2268",
+    english: "Article",
+    bhutia: "རྩམ་ཡིག།",
+    pronunciation: "chomik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/article_loalwr.mp3",
+  },
+  {
+    key: "2269",
+    english: "Classification",
+    bhutia: "སྡེ་ཚན་དབྱེ་བ།",
+    pronunciation: "dechen chepa",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/classificaiton_mv0c5u.mp3",
+  },
+  {
+    key: "2270",
+    english: "Confidentiality",
+    bhutia: "གསང་རྒྱ།",
+    pronunciation: "sangya",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/confidentiality_sv1kdf.mp3",
+  },
+  {
+    key: "2271",
+    english: "Credibility",
+    bhutia: "ཆ་བཞག་འོས་པོ།",
+    pronunciation: "chaza yepo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754388121/college_terms/credibility_jivwx0.mp3",
+  },
+  {
+    key: "2272",
+    english: "Field Studies",
+    bhutia: "ཕྱི་སྦྱོང།",
+    pronunciation: "phichong",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960303/college_terms/field_studies_tfbscg.mp3",
+  },
+  {
+    key: "2273",
+    english: "Quantitative",
+    bhutia: "གྱངས་འབོར་ཚད་ལྡན།",
+    pronunciation: "khyongpar cheden",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/quantitative_f01jvk.mp3",
+  },
+  {
+    key: "2274",
+    english: "Qualitative",
+    bhutia: "སྤུས་ལྡན། or སྤུས་དག་ལྡན་བོ།",
+    pronunciation: "phuden or phudadenbo",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960305/college_terms/qualitative_ymr4lb.mp3",
+  },
+  {
+    key: "2275",
+    english: "Pre-Review",
+    bhutia: "ཆ་ཛ�ྐྱེན་ཡང་ཞིབ།",
+    pronunciation: "chakyang yangzip",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754388506/college_terms/pre-review_dkaw1r.mp3",
+  },
+  {
+    key: "2276",
+    english: "Principal Investigator",
+    bhutia: "དཔྱད་ཞིབ་འགོ་དཔོན།",
+    pronunciation: "chezip gophen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/principal_investigator_ky9s1a.mp3",
+  },
+  {
+    key: "2277",
+    english: "Questionaire",
+    bhutia: "དྲི་བའི་རེའུ་མིག།",
+    pronunciation: "thiway ruimik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960305/college_terms/questionaire_zwh90n.mp3",
+  },
+  {
+    key: "2278",
+    english: "Random Sampling",
+    bhutia: "ཐོབ་ཚད་ཚོད་ལྟ།",
+    pronunciation: "thopchey cheta",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960306/college_terms/random_sampling_w35vbr.mp3",
+  },
+  {
+    key: "2279",
+    english: "Reference",
+    bhutia: "ཁུངས་འདྲེན་ཡིག་ཆ།",
+    pronunciation: "khungden yigcha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/reference_ggf0rg.mp3",
+  },
+  {
+    key: "2280",
+    english: "Summary",
+    bhutia: "སྙིང་བསྡུས།",
+    pronunciation: "ningdi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754388683/college_terms/summary_dm0zhq.mp3",
+  },
+  {
+    key: "2281",
+    english: "Synopsis",
+    bhutia: "དཔྱད་རྩོམ་དོན་སྙིང།",
+    pronunciation: "chechom thening",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754388838/college_terms/synopsis_hrheyr.mp3",
+  },
+  {
+    key: "2282",
+    english: "Compilation",
+    bhutia: "ཕྱོགས་སྒྲིག།",
+    pronunciation: "chokdig",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/compilation_rzlo1b.mp3",
+  },
+  {
+    key: "2283",
+    english: "Assignment",
+    bhutia: "ནང་སྦྱོང་གཡོག་འགན།",
+    pronunciation: "nanzung yogen",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960298/college_terms/assignment_kpns9s.mp3",
+  },
+  {
+    key: "2284",
+    english: "Title",
+    bhutia: "མཚན་བརྗོད།",
+    pronunciation: "chenzey",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/title_recypv.mp3",
+  },
+  {
+    key: "2285",
+    english: "Topic",
+    bhutia: "འགོ་བརྗོད།",
+    pronunciation: "gozey",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/topic_iw2ves.mp3",
+  },
+  {
+    key: "2286",
+    english: "Acknowledgment",
+    bhutia: "ཐུགས་རྗེ་ལེགས་གསོ།",
+    pronunciation: "thuje leksoh",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754389016/college_terms/acknowledgement_s3mvf4.mp3",
+  },
+  {
+    key: "2287",
+    english: "Content",
+    bhutia: "དཀར་ཆག།",
+    pronunciation: "karcha",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3https://res.cloudinary.com/dmcov966p/video/upload/v1754389080/college_terms/content_urdlzb.mp3",
+  },
+  {
+    key: "2288",
+    english: "Theme",
+    bhutia: "བརྫོད་གཞི།",
+    pronunciation: "jezi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960311/college_terms/theme_pjihj0.mp3",
+  },
+  {
+    key: "2289",
+    english: "Writeup",
+    bhutia: "རྩོམ་བསྡུས།",
+    pronunciation: "chomdi",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/writeup_gukfrj.mp3",
+  },
+  {
+    key: "2290",
+    english: "Tools and Technique",
+    bhutia: "ཡོས་ཆས་དང་ཇུས་ལམ།",
+    pronunciation: "yuche thang jilam",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960312/college_terms/tools_and_techniques_rlz1pk.mp3",
+  },
+  {
+    key: "2291",
+    english: "Glossary",
+    bhutia: "དཀའ་ཚིག་རིའུ་མིག།",
+    pronunciation: "kachik rumik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754389221/college_terms/glossary_bfituf.mp3",
+  },
+  {
+    key: "2292",
+    english: "Format",
+    bhutia: "བཟོ་བཀོད།",
+    pronunciation: "zokay",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/format_wjtetj.mp3",
+  },
+  {
+    key: "2293",
+    english: "Index",
+    bhutia: "བརྡ་སྟོན་རིའུ་མིག།",
+    pronunciation: "daten ryumik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/index_iej49q.mp3",
+  },
+  {
+    key: "2294",
+    english: "Progress Report",
+    bhutia: "གོང་སྐེད་ཞུ་ཡིག།",
+    pronunciation: "khongkey shuik",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960304/college_terms/progress_report_zv0lah.mp3",
+  },
+  {
+    key: "2295",
+    english: "Course works",
+    bhutia: "ཉམས་ཞིབ་སྔོན་འགྲོ།",
+    pronunciation: "nyamship nyendoh",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960297/college_terms/coursework_pjqn7c.mp3",
+  },
 ];
 
 export default Data;
