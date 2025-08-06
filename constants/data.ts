@@ -12184,28 +12184,32 @@ const Data: Array<DataProps> = [
     english: "Sugar",
     bhutia: "མངརམ།",
     pronunciation: "ngam",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754497290/parts_of_speech/sugar_1_vd55xk.mp3",
   },
   {
     key: "1794",
     english: "Milk",
     bhutia: "ཨོམ།",
     pronunciation: "om",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754497272/parts_of_speech/milk_1_vq5heq.mp3",
   },
   {
     key: "1795",
     english: "Information",
     bhutia: "གནས་ཚུལ/ལན་བརྡ།",
     pronunciation: "nyed-chul/len-da",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754497236/parts_of_speech/information_1_ooyx0h.mp3",
   },
   {
     key: "1796",
     english: "Air",
     bhutia: "རླུང།",
     pronunciation: "lung",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754497209/parts_of_speech/air_1_hdwtia.mp3",
   },
   {
     key: "1797",
