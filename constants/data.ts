@@ -5436,11 +5436,11 @@ const Data: Array<DataProps> = [
   },
   {
     key: "783",
-    english: "Shortness of Breath",
-    pronunciation: "ushak",
+    english: "Shortness of Breath/Asthama",
+    pronunciation: "ug-shag",
     bhutia: "དབུགས་བསག།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/asthama_or_shortness_of_breath_jqnvsh.mp3",
   },
   {
     key: "784",
@@ -5448,33 +5448,33 @@ const Data: Array<DataProps> = [
     pronunciation: "thang-che/udhuk/ngal-shey",
     bhutia: "ཐང་ཆད་/འུ་སྡུག་/ངལ་ཤད",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/fatigue_rrbajb.mp3",
   },
   {
     key: "785",
     english: "Dry Cough",
-    pronunciation: "kam-shah/lossah/lepo-mepo-mepay-lossah-kyapshey",
+    pronunciation: "kam-shag/lossag/led-po med-po med-pay  lossag kyabshed",
     bhutia: "སྐམ་སག་/གློ་སག/ལུད་པོ་ མེད་པའི་ གློ་སག་ རྐྱབས་ཤད།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/dry_cough_d7fdag.mp3",
   },
   {
     key: "786",
     english: "Fever",
-    pronunciation: "thiba/darkhyong-sho",
+    pronunciation: "thriba/darkhyong-shuod",
     bhutia: "དྲོད་འབར་/བརྡར་གྱོང་ཞུན་།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/fever_xforcw.mp3",
   },
   {
     key: "787",
     english: "Intubation",
     pronunciation:
-      "ke-khi-dung-chung/mendung/ne-pe-khatang-nale-khekey-thungcho chukti menchu physay",
+      "ke-khi-dung-chung/mendung/ne-pe-ghatang-nale-kyekey-thungcho chukti menchu phy-sed",
     bhutia:
       "གྱིག་གི་ དུང་ཅུང་།/ སྨན་དུང་། /ནད་པོའི་ ཁ་ དང་ སྣ་ལས་ གྱིག་གི་ དུང་ཅུང་ བཙུག་སྟི་ སྨན་བཅོས་ བྱ༹ས་ཤད",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/intubation_g9le1n.mp3",
   },
   {
     key: "788",
@@ -5483,7 +5483,7 @@ const Data: Array<DataProps> = [
     bhutia:
       "སྒོ་སྡམ་བོ།/ སྒོ་བཅད་པོ་།/ ག་ཐོབ་ འགྱུ་ མ་ ཐོབ་ པའི་ ཁྲིམས་བཅད་ བཏང་བོ།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/lockdown_cvd23c.mp3",
   },
   {
     key: "789",
@@ -5491,15 +5491,15 @@ const Data: Array<DataProps> = [
     pronunciation: "chichok-kyangche/mithang mi-phar kyangche",
     bhutia: "སྤྱི་ཚོགས་ རྒྱང་ ཚད།/ མི་ དང་ མིའི་ བར་ རྒྱང་ཚད་།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/social_distancing_tj4fnb.mp3",
   },
   {
     key: "790",
-    english: "Psychiatrist",
+    english: "Psychiatry",
     pronunciation: "semney-menpo/semkham-chepey-mepo/semkham-mepo",
     bhutia: "སེམས་ནད་ སྨན་པོ་།/ སེམས་ཁམས་བཅོས་པའི་ སྨན་པོ། /སེམས་ཁམས་ སྨན་པོ་།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/psychiatry_kwmocn.mp3",
   },
   {
     key: "791",
@@ -5507,7 +5507,7 @@ const Data: Array<DataProps> = [
     pronunciation: "sen-ney/nin-chenkine/phenchen-semdi-kyungpe-neloh-lap",
     bhutia: "ཟུན་ནད་། /ཉེན་ཅན་གྱི་ ནད་།/ ཕན་ཚུན་ ཟུན་སྡི་ འགྱུ་བའི་ ནད་ལོ་ ལབ།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140783/correction/contagious_wciemr.mp3",
   },
   {
     key: "792",
@@ -5515,7 +5515,9 @@ const Data: Array<DataProps> = [
     pronunciation: "neyem taktsepo",
     bhutia: "ནད་ཡམས་ བརྟག་དཔྱད་པོ།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754485045/correction/epidemilogist_tvu5wt.mp3",
+      
+      
   },
   {
     key: "793",
@@ -5523,7 +5525,7 @@ const Data: Array<DataProps> = [
     pronunciation: "chapche-menga/malam-chekang",
     bhutia: "ཚབ་ཆེན་ སྨན་ཁང་/མ་ལག་ བཅོས་ཁང།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/emergency_room_nr4ycf.mp3",
   },
   {
     key: "794",
@@ -5531,7 +5533,7 @@ const Data: Array<DataProps> = [
     pronunciation: "bhipo-shyarsey",
     bhutia: "བི་པོ་ ཤར་ཤད།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140783/correction/sneeze_xqgjlp.mp3",
   },
   {
     key: "795",
@@ -5554,7 +5556,7 @@ const Data: Array<DataProps> = [
     english: "Pneumonia",
     pronunciation: "nang-che/lok-che/lokpo-ke-cheney",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754485287/correction/pnemounia_h0nd6p.mp3",
     bhutia: "ནང་ཚད་།/ གློ་ཚད་།/ གློ་བོ་གི་ ཚད་ནད།",
   },
   {
@@ -5562,7 +5564,7 @@ const Data: Array<DataProps> = [
     english: "Depression",
     pronunciation: "semney-nacha/lophem-nacha",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/depression_vjqrv1.mp3",
     bhutia: "སེམས་ནད་ན་ཚ།/ བློ་ཕམ་ན་ཚ།",
   },
   {
@@ -5570,7 +5572,7 @@ const Data: Array<DataProps> = [
     english: "Stress",
     pronunciation: "semney/sem-ne-nacha",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/stress_l2nnxy.mp3",
     bhutia: "སེམས་ནད་།/ སེམས་རྣོན་ན་ཚ།",
   },
   {
@@ -5578,7 +5580,7 @@ const Data: Array<DataProps> = [
     english: "Bacteria",
     pronunciation: "tha-pe-buk-sin",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140785/correction/bacteria_xlv2ei.mp3",
     bhutia: "ཕྲ་བའི་ འབུ་ སྲིན།",
   },
   {
@@ -5586,7 +5588,7 @@ const Data: Array<DataProps> = [
     english: "Virus",
     pronunciation: "thuk-sem/nebu-thasen",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/virus_qxxdqb.mp3",
     bhutia: "དུག་སྲིན་། /ནད་ འབུ་ཕྲ་སྲིན།",
   },
   {
@@ -5594,7 +5596,7 @@ const Data: Array<DataProps> = [
     english: "Immunization",
     pronunciation: "nesung-menkhap",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/immunization_as766u.mp3",
     bhutia: "ནད་སྲུང་སྨན་ཁབ་།",
   },
   {
@@ -5602,7 +5604,7 @@ const Data: Array<DataProps> = [
     english: "Immunity",
     pronunciation: "nikham-nesuk (lezhenlo khakchukpe ni shuk yepo)",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140788/correction/immunity_wveujs.mp3",
     bhutia: "ལུས་ཁམས་ ནུས་ཤུགས་།(ནད་གཞན་ལོ་ བཀག་ཚུགས་པའི་ ནུས་ ཤུགས་ ཡོད་པོ།)",
   },
   {
@@ -5610,7 +5612,7 @@ const Data: Array<DataProps> = [
     english: "Immune System",
     pronunciation: "zukham-lamlok",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/immune_system_cppc9k.mp3",
     bhutia: "གཟུགས་ཁམས་ ལམ་ ལུགས་།",
   },
   {
@@ -5618,23 +5620,16 @@ const Data: Array<DataProps> = [
     english: "Preventive medicine",
     pronunciation: "yen-goki men",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/preventive_medicines_yunicu.mp3",
     bhutia: "སྔོན་ འགོག་གི་ སྨན་།",
   },
-  {
-    key: "806",
-    english: "Preventive Measures",
-    pronunciation: "yen-go thaplam",
-    audiolink:
-      "",
-    bhutia: "",
-  },
+  
   {
     key: "807",
     english: "Outpatient",
     pronunciation: "philoki-nepo",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/outpatient_o0jk2b.mp3",
     bhutia: "ཕྱི༹་ལོག་གི་ ནད་པོ།",
   },
   {
@@ -5642,7 +5637,7 @@ const Data: Array<DataProps> = [
     english: "Inpatient",
     pronunciation: "nangdey-nepo",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/inpatient_lp4ijr.mp3",
     bhutia: "ནང་སྡོད་ ནད་པོ།",
   },
   {
@@ -5658,7 +5653,7 @@ const Data: Array<DataProps> = [
     english: "Vaccine",
     pronunciation: "gomen (nemasin neyenlo kakthop menkhap chig)",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/vaccine_thvggz.mp3",
     bhutia: "འགོག་སྨན་། (ནད་མ་ཟུན་ སྔོན་ལོ་བཀག་ཐབས་སྨན་ཁབ་ཅིཁ)",
   },
   {
@@ -5666,7 +5661,7 @@ const Data: Array<DataProps> = [
     english: "Ambulance",
     pronunciation: "nepe-khorlo",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/ambulance_targlh.mp3",
     bhutia: "ནད་པའི་ འཁོར་ལོ།",
   },
   {
@@ -5674,7 +5669,7 @@ const Data: Array<DataProps> = [
     english: "Outbreak",
     pronunciation: "hato khama gepo (neshok hato kama tharkyap thenbo)",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/outbreak_zycqvn.mp3",
     bhutia: "ཧང་ཏོག་མ་ འགས་པོ།(ནད་སོགས་ཧང་ཏོག་ ཁ་མ་ དར་ ཁྱབ་འཐོན་བོ)",
   },
   {
@@ -5682,7 +5677,7 @@ const Data: Array<DataProps> = [
     english: "Hand Sanitizer",
     pronunciation: "jejor lakhyu",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/hand_sanitizer_zxdjxy.mp3",
     bhutia: "རྗས་སྦྱོར་ ལག་འཁྱུར།",
   },
   {
@@ -5690,7 +5685,7 @@ const Data: Array<DataProps> = [
     english: "Pandemic",
     pronunciation: "yongkhyap neyam",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/pandemic_pzilao.mp3",
     bhutia: "ཡོངས་ཁྱབ ་ནད་ཡམས།",
   },
   {
@@ -5698,7 +5693,7 @@ const Data: Array<DataProps> = [
     english: "Epidemic",
     pronunciation: "rigne/neyom/kyapdolcheve neyam",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/epidemic_eimgjo.mp3",
     bhutia: "རིམས་ནད་།/ ནད་ཡམས་།/ ཁྱབ་རྡལ་ཚེ་བའི་ ནད་ཡམས་།",
   },
   {
@@ -5706,14 +5701,14 @@ const Data: Array<DataProps> = [
     english: "Quarantine",
     pronunciation: "nedo zurzhyok theyen",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/quarantine_phczye.mp3",
     bhutia: "ནད་ དྭོགས་ཟུར་ འཇོག་དུས་ཡོན།",
   },
   {
     key: "817",
     english: "Curfew",
     pronunciation: "thempang kagya",
-    audiolink: "",
+    audiolink: "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/curfew_dep7dx.mp3",
     bhutia: "ཐེམ་སྤང་ བཀའ་རྒྱ།",
   },
   {
@@ -5721,7 +5716,7 @@ const Data: Array<DataProps> = [
     english: "COVID-19",
     pronunciation: "tokchep nerim chugo",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/covid19_fzlsfm.mp3",
     bhutia: "ཏོག་དབྱིབས་ ནད་རིམས༡༩",
   },
   {
@@ -5729,7 +5724,7 @@ const Data: Array<DataProps> = [
     english: "Coronavirus",
     pronunciation: "tokchep nebu thasin",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/coronavirus_coawz7.mp3",
     bhutia: "ཏོག་དབྱིབས་ ནད་ འབུ་ ཕྲ་སྲིན།",
   },
   {
@@ -5737,7 +5732,7 @@ const Data: Array<DataProps> = [
     english: "Are you feeling well?",
     pronunciation: "rangtzu lhem thenzi ga?/rangyuiemze lhem thangjay ga",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/are_you_feeling_well___s23puk.mp3",
     bhutia: "རང་གཟུགས་ལེགམ་ འཐོན་ཞེ་ག?/རང་སྨྱུང་གཞི་ལེགམ་ དྭངས་ཞེ་ག?",
   },
   {
@@ -5745,14 +5740,14 @@ const Data: Array<DataProps> = [
     english: "Slightly recovered",
     pronunciation: "aatshim aucheje",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/slightly_recovered_final_n2azh1.mp3",
     bhutia: "ཨ་ཙིམ་ ཨའོ་ ཙི་ཞེ།",
   },
   {
     key: "822",
     english: "What was the illness ?",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/what_was_the_illness_1_r9musk.mp3",
     bhutia: "ན་ཚ་འདི་ གན་ འབོ?",
     pronunciation: "ngacha di khanbo?",
   },
@@ -5760,7 +5755,7 @@ const Data: Array<DataProps> = [
     key: "823",
     english: "Suffering from headache",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/suffering_from_headache_1_gsx2pb.mp3",
     bhutia: "མགོ་ ན་བའི་ ན་ཚ་ སྦད།",
     pronunciation: "go nabey ngacha beh ",
   },
@@ -5768,7 +5763,7 @@ const Data: Array<DataProps> = [
     key: "824",
     english: "Suffering from stomach ache",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/suffering_from_stomach_ache_qg0o9f.mp3",
     pronunciation: "supo/pho nabo in",
     bhutia: "བསུ་པོ/ཕོའོ་ན་ བོ་ཨིན།",
   },
@@ -5776,7 +5771,7 @@ const Data: Array<DataProps> = [
     key: "825",
     english: "Suffering from back ache ",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_backache_1_fq8vzb.mp3",
     pronunciation: "gyap nabo en",
     bhutia: "རྒྱབ་ ན་བོ་ ཨིན།",
   },
@@ -5784,7 +5779,7 @@ const Data: Array<DataProps> = [
     key: "826",
     english: "Suffering from leg pain",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_leg_pain_1_xfehcj.mp3",
     pronunciation: "kangpo nabo en",
     bhutia: "རྐང་པོ་ ན་བོ་ ཨིན།",
   },
@@ -5792,7 +5787,7 @@ const Data: Array<DataProps> = [
     key: "827",
     english: "Suffering from fever",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_fever_1_tki9n3.mp3",
     pronunciation: "darkyong  kyab-ti",
     bhutia: "བརྡར་གྱོང་  རྐྱབས་སྟི།",
   },
@@ -5800,7 +5795,7 @@ const Data: Array<DataProps> = [
     key: "828",
     english: "Suffering from diarrohea",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_diarrohea_1_yqq34v.mp3",
     pronunciation: "nga supo shedi",
     bhutia: "ང་བསུ་པོ་ བཤལ་སྡི།",
   },
@@ -5808,7 +5803,7 @@ const Data: Array<DataProps> = [
     key: "829",
     english: "Suffering from diarrohea and vomiting",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_diarohhea_and_vomiting_vsyyyj.mp3",
     pronunciation: "nga shay kyu thopo en",
     bhutia: "ང་ལོ་ བཤལ་ སྐྱུག་ འཐབ་པོ་ ཨིན།",
   },
@@ -5817,7 +5812,7 @@ const Data: Array<DataProps> = [
     key: "831",
     english: "Having vomiting tendency",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140811/correction/having_vomiting_tendency_1_frusm3.mp3",
     pronunciation: "kyuklogh kyapti",
     bhutia: "སྐྱུག་ལོག་ རྐྱབས་སྟི།",
   },
@@ -5825,7 +5820,7 @@ const Data: Array<DataProps> = [
     key: "832",
     english: "Suffering from dizziness",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486166/correction/suffering_from_dizziness_t3bh7m.mp3",
     pronunciation: "goyung khodi",
     bhutia: "མགོ་ཡུང་ འཁོར་སྡི།",
   },
@@ -5833,7 +5828,7 @@ const Data: Array<DataProps> = [
     key: "833",
     english: "Having gall vesicle",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486299/correction/having_vesicle_of_gall_fcygny.mp3",
     pronunciation: "thrip longpo bhyeth",
     bhutia: "མཁྲིསབ་ ལོང་པོ་ སྦད།",
   },
@@ -5841,7 +5836,7 @@ const Data: Array<DataProps> = [
     key: "834",
     english: "Suffering from chest burn",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486395/correction/suffering_from_chest_burn_of9a7j.mp3",
     pronunciation: "phyang tsha longti",
     bhutia: "བྱང་ཚ་ ལོང་སྟི།",
   },
@@ -5849,7 +5844,7 @@ const Data: Array<DataProps> = [
     key: "835",
     english: "Suffering from asthma",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/asthama_or_shortness_of_breath_jqnvsh.mp3",
     pronunciation: "ugsag longti",
     bhutia: "དབུགས་ བསགས་ ལོང་སྟི།",
   },
@@ -5857,7 +5852,7 @@ const Data: Array<DataProps> = [
     key: "836",
     english: "Caught flu",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754486562/correction/caught_flu_hnjmgv.mp3",
     pronunciation: "lochyam suendi",
     bhutia: "གློ་ཅམ་ ཟུན་སྡི།",
   },
@@ -5865,7 +5860,7 @@ const Data: Array<DataProps> = [
     key: "837",
     english: "Suffering for heartache",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1739080193/at%20the%20hospital/suffering_from_heartache_s7gz8d.mp3",
     pronunciation: "dhunhi nati",
     bhutia: "དུ་སྙིང་ ན་སྟི།",
   },
