@@ -6067,70 +6067,80 @@ const Data: Array<DataProps> = [
     english: "Direction",
     pronunciation: "chhog",
     bhutia: "མཆོས་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960578/directions/direction_eipgkz.mp3",
   },
   {
     key: "863",
     english: "East",
     pronunciation: "shar",
     bhutia: "ཤར་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960580/directions/east_srtgnq.mp3",
   },
   {
     key: "864",
     english: "South",
     pronunciation: "lho",
     bhutia: "ལྷོ་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960577/directions/south_ujeue2.mp3",
   },
   {
     key: "865",
     english: "West",
     pronunciation: "nub",
     bhutia: "ནུབ་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960577/directions/west_ohw9tr.mp3",
   },
   {
     key: "866",
     english: "North",
     pronunciation: "chhang",
     bhutia: "བྱང་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754489693/north_dgmm0d.mp3",
   },
   {
     key: "867",
     english: "South-East",
     pronunciation: "lho-shar",
     bhutia: "ལྷོ་ཤར་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754489816/directions/south_east_yfe2pg.mp3",
   },
   {
     key: "868",
     english: "South-West",
     pronunciation: "lho-nub",
     bhutia: "ལྷོ་ནུབ་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754489823/directions/south_west_bpqodq.mp3",
   },
   {
     key: "869",
     english: "North-West",
     pronunciation: "chhang-nub",
     bhutia: "བྱངས་ནུབ་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754489703/north_west_g4lv2s.mp3",
   },
   {
     key: "870",
     english: "North-East",
     pronunciation: "chhang-shar",
     bhutia: "བྱང་ཤར་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754489697/north_east_etcjhc.mp3",
   },
   {
     key: "871",
     english: "Up",
     pronunciation: "teng",
     bhutia: "སྟེང་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1754448665/parts_of_speech/up_y3gajs.mp3",
   },
   {
     key: "872",
@@ -6172,7 +6182,8 @@ const Data: Array<DataProps> = [
     english: "Left side",
     pronunciation: "yoen",
     bhutia: "གཡོན་",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960576/directions/left_side_zfpsaj.mp3",
   },
   {
     key: "878",
@@ -6186,7 +6197,8 @@ const Data: Array<DataProps> = [
     english: "Corner",
     pronunciation: "su",
     bhutia: "ཟུ་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960576/directions/corner_ihvqoe.mp3",
   },
   {
     key: "880",
@@ -6257,7 +6269,8 @@ const Data: Array<DataProps> = [
     english: "Up and Down",
     pronunciation: "yahog",
     bhutia: "ཡར་འོག་།",
-    audiolink: "",
+    audiolink:
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742960580/directions/up_and_down_mq6zd3.mp3",
   },
   {
     key: "890",
