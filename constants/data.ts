@@ -5432,7 +5432,7 @@ const Data: Array<DataProps> = [
     pronunciation: "ke-na-ma/kim-na-ma-then",
     bhutia: "རྐན་ན་རྨ།/ སྐོདམ་ན་ རྨ་འཐོན།",
     audiolink:
-      "",
+      "https://res.cloudinary.com/dmcov966p/video/upload/v1742140767/correction/sore_throat_wolj93.mp3",
   },
   {
     key: "783",
