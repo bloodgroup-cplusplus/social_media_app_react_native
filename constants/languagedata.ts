@@ -24,6 +24,7 @@ const conversations = require("@/assets/images/conversation_again.jpg");
 const tones = require("@/assets/images/tones.jpg");
 const military = require("@/assets/images/military.jpg");
 const gods = require("@/assets/images/god_s.jpeg");
+const letter = require("@/assets/images/letters.jpg");
 
 interface DataProps {
   key: string;
@@ -46,7 +47,7 @@ const LanguageData: Array<TopicsProps> = [
     english: "Letters",
     bhutia: "",
     pronunciation: "",
-    imageLink: "",
+    imageLink: letter,
     data: [
       {
         key: "645",
@@ -671,7 +672,7 @@ const LanguageData: Array<TopicsProps> = [
   },
   {
     id: "1",
-    english: "Tones",
+    english: "Tones (audio is disabled as pronunciations is demoed in text)",
     bhutia: "ཚིག་གདངས་",
     pronunciation: "tsiggangs",
     imageLink: tones,
