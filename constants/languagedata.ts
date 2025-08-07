@@ -10,14 +10,12 @@ const flowers = require("@/assets/images/flowers.jpg");
 const months = require("@/assets/images/months.jpg");
 const meat = require("@/assets/images/meat.jpg");
 const body = require("@/assets/images/bodyparts.jpg");
-const mountain = require("@/assets/images/mountain.jpg");
 const medical = require("@/assets/images/medical terms.jpg");
 const fooditems = require("@/assets/images/fooditems.jpg");
 const attire = require("@/assets/images/attire.jpg");
 const places = require("@/assets/images/places.jpg");
 const festivals = require("@/assets/images/festivals.jpg");
 const departments = require("@/assets/images/departments.jpg");
-const planets = require("@/assets/images/planets.jpg");
 const digits = require("@/assets/images/bhutia_digits.jpg");
 const designation = require("@/assets/images/designation.jpg");
 const conversations = require("@/assets/images/conversation_again.jpg");
@@ -25,6 +23,16 @@ const tones = require("@/assets/images/tones.jpg");
 const military = require("@/assets/images/military.jpg");
 const gods = require("@/assets/images/god_s.jpeg");
 const letter = require("@/assets/images/letters.jpg");
+const noun = require("@/assets/images/noun.jpg");
+const pronoun = require("@/assets/images/pronoun.jpg");
+const preposition = require("@/assets/images/preposition.jpg");
+const adjectives = require("@/assets/images/adjective.jpg");
+const college = require("@/assets/images/");
+const vegetable_market = require("@/assets/images/vegetable_market.jpg");
+const rural = require("@/assets/images/rural.jpg");
+const car_stop = require("@/assets/images/car_stop.jpg");
+const phone = require("@/assets/images/phone.jpg");
+const conversation_again = require("@/assets/images/conversation.jpg");
 
 interface DataProps {
   key: string;
@@ -13244,7 +13252,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "On the phone",
-    imageLink: "",
+    imageLink: ,
     data: [
       {
         key: "1549",
@@ -13382,7 +13390,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "At the vegetable shop",
-    imageLink: "",
+    imageLink: vegetable_market,
     data: [
       {
         key: "1565",
@@ -13637,7 +13645,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "At the taxi stand",
-    imageLink: "",
+    imageLink: car_stop,
     data: [
       {
         key: "1596",
@@ -13743,7 +13751,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Rural interviews",
-    imageLink: "",
+    imageLink: rural,
     data: [
       {
         key: "1608",
