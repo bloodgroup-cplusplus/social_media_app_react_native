@@ -12591,7 +12591,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1851",
-    english: "Small",
+    english: "Small (Attribute Adjectives)",
     bhutia: "ཆུང་ཆུང་།",
     pronunciation: "",
     audiolink: "",
@@ -12661,7 +12661,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1861",
-    english: "Bigger",
+    english: "Bigger (Comparative Adjectives)",
     bhutia: "སྦོམ་དྲགས་།",
     pronunciation: "",
     audiolink: "",
@@ -12766,7 +12766,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1876",
-    english: "Perfect",
+    english: "Perfect (Absolute Adjectives)",
     bhutia: "ཡང་དག་།",
     pronunciation: "",
     audiolink: "",
@@ -12829,7 +12829,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1885",
-    english: "Happy",
+    english: "Happy (Predicate Adjectives)",
     bhutia: "དགའ་དྲགས་།/སྐྱིད་དྲགས་།",
     pronunciation: "",
     audiolink: "",
@@ -12899,7 +12899,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1895",
-    english: "Well-known",
+    english: "Well-known (Compound Adjectives)",
     bhutia: "མིང་གཏམ་ཅན་།",
     pronunciation: "",
     audiolink: "",
@@ -12955,7 +12955,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1903",
-    english: "Exciting",
+    english: "Exciting (Participle Adjectives)",
     bhutia: "གྱོགས་ཆེ་ཆེ་།",
     pronunciation: "",
     audiolink: "",
@@ -13018,7 +13018,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1912",
-    english: "Any",
+    english: "Any (Indefinite Adjectives)",
     bhutia: "ཀ་ར་ ཨིན་རུང་?/གན་ར་ ཨིན་རུང?",
     pronunciation: "",
     audiolink: "",
@@ -13088,7 +13088,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1922",
-    english: "American",
+    english: "American (Proper Adjectives)",
     bhutia: "ཨ་མི་རི་ཀ་བོ་།/ཨ་རི་བོ་།",
     pronunciation: "",
     audiolink: "",
@@ -13158,7 +13158,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1932",
-    english: "My",
+    english: "My (Possessive Adjectives)",
     bhutia: "ངའི་།",
     pronunciation: "",
     audiolink: "",
@@ -13228,7 +13228,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1942",
-    english: "Which",
+    english: "Which (Interrogative Adjectives)",
     bhutia: "ག་འདི?",
     pronunciation: "",
     audiolink: "",
@@ -13298,7 +13298,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1952",
-    english: "This",
+    english: "This (Demonstrative Adjectives)",
     bhutia: "འདི་།",
     pronunciation: "",
     audiolink: "",
@@ -13368,7 +13368,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1962",
-    english: "Many",
+    english: "Many (Quantitative Adjectives)",
     bhutia: "ཀེས་པོ་།",
     pronunciation: "",
     audiolink: "",
@@ -13438,7 +13438,7 @@ const Data: Array<DataProps> = [
   },
   {
     key: "1972",
-    english: "Beautiful",
+    english: "Beautiful (Descriptive Adjectives)",
     bhutia: "གཅང་དྲགས་།",
     pronunciation: "",
     audiolink: "",
