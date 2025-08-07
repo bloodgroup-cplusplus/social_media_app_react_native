@@ -27,11 +27,11 @@ const noun = require("@/assets/images/noun.jpg");
 const pronoun = require("@/assets/images/pronoun.jpg");
 const preposition = require("@/assets/images/preposition.jpg");
 const adjectives = require("@/assets/images/adjective.jpg");
-const college = require("@/assets/images/");
+const college = require("@/assets/images/college.jpg");
 const vegetable_market = require("@/assets/images/vegetable_market.jpg");
 const rural = require("@/assets/images/rural.jpg");
 const car_stop = require("@/assets/images/car_stop.jpg");
-const phone = require("@/assets/images/phone.jpg");
+const phone = require("@/assets/images/on_the_phone.jpg");
 const conversation_again = require("@/assets/images/conversation.jpg");
 
 interface DataProps {
@@ -6181,7 +6181,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Noun",
-    imageLink: "",
+    imageLink: noun,
     data: [
       {
         key: "1842",
@@ -6537,7 +6537,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Pronouns",
-    imageLink: "",
+    imageLink: pronoun,
     data: [
       {
         key: "1096",
@@ -6963,7 +6963,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Adjectives",
-    imageLink: "",
+    imageLink: adjectives,
     data: [
       {
         key: "1972",
@@ -7400,7 +7400,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Preposition",
-    imageLink: "",
+    imageLink: preposition,
     data: [
       {
         key: "2020",
@@ -8084,14 +8084,6 @@ const LanguageData: Array<TopicsProps> = [
         audiolink: "",
       },
     ],
-  },
-  {
-    id: "28",
-    bhutia: "",
-    pronunciation: "",
-    english: "School Subjects",
-    imageLink: "",
-    data: [],
   },
 
   {
@@ -9127,7 +9119,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "College Terminology",
-    imageLink: "",
+    imageLink: college,
     data: [
       {
         key: "2231",
@@ -11591,7 +11583,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "Converstaion(intermediate)",
-    imageLink: conversations,
+    imageLink: conversation_again,
     data: [
       {
         key: "1289",
@@ -13252,7 +13244,7 @@ const LanguageData: Array<TopicsProps> = [
     bhutia: "",
     pronunciation: "",
     english: "On the phone",
-    imageLink: ,
+    imageLink: phone,
     data: [
       {
         key: "1549",
