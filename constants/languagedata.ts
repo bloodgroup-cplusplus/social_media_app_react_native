@@ -5812,14 +5812,6 @@ const LanguageData: Array<TopicsProps> = [
       },
     ],
   },
-  {
-    id: "23",
-    bhutia: "",
-    pronunciation: "",
-    english: "Medical Terms",
-    imageLink: medical,
-    data: [],
-  },
 
   {
     id: "27",
@@ -8101,6 +8093,1026 @@ const LanguageData: Array<TopicsProps> = [
     imageLink: "",
     data: [],
   },
+  {
+    id: "23",
+    bhutia: "",
+    pronunciation: "",
+    english: "Medical Terms",
+    imageLink: medical,
+    data: [
+      {
+        key: "1740",
+        english: "Anesthesia",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449119/new_medical_terms/anesthesia_atvcg4.mp3",
+        bhutia: "ཟུག་ བཅག་སྨན་ བཏང་སྡི་ ཚོར་བ་ མེད་པོ་ བཟོ་བོ། ཞྡི་སྨན།",
+        pronunciation: "",
+      },
+
+      {
+        key: "1741",
+        english: "Avitaminosis",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449127/new_medical_terms/a_vitaminosis_ng807u.mp3",
+        bhutia: "སོབས་སེད་ ཟད་ནད། ",
+        pronunciation: "",
+      },
+      {
+        key: "1742",
+        english: "Artery",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449122/new_medical_terms/artery_pefvb6.mp3",
+        bhutia: "འཕར་རྩ།",
+        pronunciation: "",
+      },
+      {
+        key: "1743",
+        english: "Antibiotic",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449124/new_medical_terms/antibiotics_huqvxg.mp3",
+        bhutia: "སེ་ནད་ འགོག་སྨན། ",
+        pronunciation: "",
+      },
+      {
+        key: "1744",
+        english: "AV Graft",
+        audiolink: "",
+        bhutia:
+          "སོད་རྩ་ དང་ འཕར་རྩ་ གཉྡིས་ འབེལ་ བཅུག་མཁན་ རྫས་སོར་ གྡིས་ བཟོ་བཟོ་བའྡི་ ཡུར་བ་ འདེམ་མོའི་ ཆ་ཀ",
+        pronunciation: "",
+      },
+      {
+        key: "1745",
+        english: "Blood Clot",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449130/new_medical_terms/blood_clot_j24sk0.mp3",
+        bhutia: "ཁྱག་འཁྱེགས། ཁྱག་ལྡིང་།",
+        pronunciation: "",
+      },
+      {
+        key: "1746",
+        english: "Blood Filter",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449133/new_medical_terms/blood_filter_mpqp8h.mp3",
+        bhutia: "ཁྱག་ཚགས།",
+        pronunciation: "",
+      },
+      {
+        key: "1747",
+        english: "Blood Vessels",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449136/new_medical_terms/blood_vessels_ohtn85.mp3",
+        bhutia: "ཁྱག་རྩ།",
+        pronunciation: "",
+      },
+      {
+        key: "1748",
+        english: "Balance",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449139/new_medical_terms/balance_cgpymw.mp3",
+        bhutia: "ཆ་སོམས་པོ།/ཚོད་སོམས།",
+        pronunciation: "",
+      },
+      {
+        key: "1749",
+        english: "Central Venous Catheter",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449162/new_medical_terms/central_venous_cather_lhykbe.mp3",
+        bhutia: "སྦུ་ནང་གྡི་ སོད་རྩ་ ནང་ཤ་ བླུགས་མཁན་ སྦུགས་ (Tube)",
+        pronunciation: "",
+      },
+      {
+        key: "1750",
+        english: "Chronic Kidney Disease",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449155/new_medical_terms/chronic_kidney_disease_ei9ssu.mp3",
+        bhutia: "ཚབས་ཆེན་ མཁལ་རོག་གྡི་ ནད།",
+        pronunciation: "",
+      },
+      {
+        key: "1751",
+        english: "Cholesterol",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449159/new_medical_terms/cholesterol_jkbfzd.mp3",
+        bhutia: "མཁྡིས་ཞག ཁྱག་ཞག ཁྱག་ཚིལ།",
+        pronunciation: "",
+      },
+      {
+        key: "1752",
+        english: "Complication",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449152/new_medical_terms/complication_xii5cd.mp3",
+        bhutia: "མགོ་རོག  དཀའ་ལས། རོག་འཛིང་། ",
+        pronunciation: "",
+      },
+      {
+        key: "1753",
+        english: "Calcium",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449169/new_medical_terms/calcium_dtfm0o.mp3",
+        bhutia: "དཀར་ཤམ། ",
+        pronunciation: "",
+      },
+      {
+        key: "1754",
+        english: "Challenges",
+        audiolink: "",
+        bhutia: "ཚོད་ལྟ/གདོང་ལེན།",
+        pronunciation: "",
+      },
+      {
+        key: "1755",
+        english: "Care",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449166/new_medical_terms/care_qcp0x7.mp3",
+        bhutia: "བདག་ཀུ/ལྟ་རོག",
+        pronunciation: "",
+      },
+      {
+        key: "1756",
+        english: "Diet",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449149/new_medical_terms/diet_vqbpde.mp3",
+        bhutia: "ཟས་སོད།",
+        pronunciation: "",
+      },
+      {
+        key: "1757",
+        english: "Dialysis",
+        audiolink: "",
+        bhutia: "ཁྱག་གཤེར",
+        pronunciation: "",
+      },
+      {
+        key: "1758",
+        english: "Emergency",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449146/new_medical_terms/emergency_fptm8g.mp3",
+        bhutia: "ཧང་ཏོག་ ལོང་ཐོན།",
+        pronunciation: "",
+      },
+      {
+        key: "1759",
+        english: "Fistula",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449143/new_medical_terms/fistula_lbsjrr.mp3",
+        bhutia: "མཚན་བར་ རོལ་བ/ ཧྡིལ་བུ།",
+        pronunciation: "",
+      },
+      {
+        key: "1760",
+        english: "Fluid",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449172/new_medical_terms/fluid_nxnwdw.mp3",
+        bhutia: "ཆུ་སེར།",
+        pronunciation: "",
+      },
+      {
+        key: "1761",
+        english: "Glomerulonephritis",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449187/new_medical_terms/glomerulonephritis_c65rnn.mp3",
+        bhutia: "མཁལ་་རོག་གྡི་ ཚགས་རླུང་།",
+        pronunciation: "",
+      },
+      {
+        key: "1762",
+        english: "Hypertension",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449176/new_medical_terms/hypertension_fliarh.mp3",
+        bhutia: "ཁྱག་ཤེད་ མཐོ་དྲགས་ཀྡི་ ནད།",
+        pronunciation: "",
+      },
+      {
+        key: "1763",
+        english: "High Blood Sugar",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449180/new_medical_terms/high_blood_sugar_oebi3a.mp3",
+        bhutia: "ཁྱག་རྩྡི་ མཐོ་དྲགས།",
+        pronunciation: "",
+      },
+      {
+        key: "1764",
+        english: "Hemoglobin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449183/new_medical_terms/hemoglobin_tsld9z.mp3",
+        bhutia: "ཁྱག་རྡིལ།",
+        pronunciation: "",
+      },
+      {
+        key: "1765",
+        english: "Infection",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449195/new_medical_terms/infection_notupr.mp3",
+        bhutia: "གཉན་སྡིན་ ཉེན་ཁ།",
+        pronunciation: "",
+      },
+      {
+        key: "1766",
+        english: "Itchy Skin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449191/new_medical_terms/itchy_skin_dfwatr.mp3",
+        bhutia: "གཟུགས་ གཡའ་ཤད",
+        pronunciation: "",
+      },
+      {
+        key: "1767",
+        english: "Kidney",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449258/new_medical_terms/kidney_l8ob2w.mp3",
+        bhutia: "མཁལ་རོག",
+        pronunciation: "",
+      },
+      {
+        key: "1768",
+        english: "Multi Vitamin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449251/new_medical_terms/multi_vitamin_yk2wrv.mp3",
+        bhutia: "སྣ་འཛོམས་ བཅུད་སྨན།",
+        pronunciation: "",
+      },
+      {
+        key: "1769",
+        english: "Mineral",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449254/new_medical_terms/mineral_fygp23.mp3",
+        bhutia: "གཏེར་རྫས།",
+        pronunciation: "",
+      },
+      {
+        key: "1770",
+        english: "Nephrologist",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449246/new_medical_terms/nephrologist_ioauxf.mp3",
+        bhutia: "མཁལ་རོག་ སྨན་པོ།",
+        pronunciation: "",
+      },
+      {
+        key: "1771",
+        english: "Option",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449242/new_medical_terms/option_q7bfio.mp3",
+        bhutia: "གདམ་ཁ།",
+        pronunciation: "",
+      },
+      {
+        key: "1772",
+        english: "Procedure",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449230/new_medical_terms/procedure_cuqzak.mp3",
+        bhutia: "དཔྱད་བཅོས་ཀྡི་ རྡིམ་པོ། ",
+        pronunciation: "",
+      },
+      {
+        key: "1773",
+        english: "Potassium",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449234/new_medical_terms/potassium_f5m5vi.mp3",
+        bhutia: "ཟེ་ཚྭ། དུག་སེལ་ དཀར་པོ། ",
+        pronunciation: "",
+      },
+      {
+        key: "1774",
+        english: "Polycystic Kidney Disease",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449238/new_medical_terms/polycystic_kidney_disease_omswf7.mp3",
+        bhutia: "མཁལ་ནད་ ཀེས་པོའི སེབ།",
+        pronunciation: "",
+      },
+      {
+        key: "1775",
+        english: "Protein",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449222/new_medical_terms/protein_nfofns.mp3",
+        bhutia: "སྡི་དཀར།",
+        pronunciation: "",
+      },
+      {
+        key: "1776",
+        english: "Prostate",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449226/new_medical_terms/prostate_znnypf.mp3",
+        bhutia: "ལྒང་བུ།",
+        pronunciation: "",
+      },
+      {
+        key: "1777",
+        english: "Regular",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449218/new_medical_terms/regular_g5zpaz.mp3",
+        bhutia: "ཨ་བཏང་/ཆག་མེད།",
+        pronunciation: "",
+      },
+      {
+        key: "1778",
+        english: "Sedation",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449214/new_medical_terms/sedation_fbz09z.mp3",
+        bhutia: "ཞྡི་སྨན།",
+        pronunciation: "",
+      },
+      {
+        key: "1779",
+        english: "Sodium",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449210/new_medical_terms/sodium_rhd067.mp3",
+        bhutia: "ཚ་རླུང་/ཚྭ་རྫས། ",
+        pronunciation: "",
+      },
+      {
+        key: "1780",
+        english: "Symptom",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449199/new_medical_terms/symptoms_zqpgwl.mp3",
+        bhutia: "ནད་རགས/རགས་མཚན། ",
+        pronunciation: "",
+      },
+      {
+        key: "1781",
+        english: "Surgery",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449202/new_medical_terms/surgery_rso6ys.mp3",
+        bhutia: "གཤག་བཅོས།",
+        pronunciation: "",
+      },
+      {
+        key: "1782",
+        english: "Steal Phenomena",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449206/new_medical_terms/stealth_phenomenon_yfvomf.mp3",
+        bhutia: "བསྡིལ་གཤྡིས་ཀྡི་ གནད་དོན།",
+        pronunciation: "",
+      },
+
+      {
+        key: "1784",
+        english: "Toxin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449263/new_medical_terms/toxin_mgs6yq.mp3",
+        bhutia: "སེ་ལྡན་ དུག་རྫས།",
+        pronunciation: "",
+      },
+      {
+        key: "1785",
+        english: "Transplant",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754453323/new_medical_terms/transplant_o40lks.mp3",
+        bhutia: "༼Kindney མཁལ་རོག་༽༼Organ དབང་པོ་༽ སོ་བཙུགས།",
+        pronunciation: "",
+      },
+      {
+        key: "1786",
+        english: "Towel",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754453253/new_medical_terms/towel_zi0uz1.mp3",
+        bhutia: "ལྟོ་རས།",
+        pronunciation: "",
+      },
+      {
+        key: "1787",
+        english: "Tube",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754453226/new_medical_terms/tube_fvtfle.mp3",
+        bhutia: "སྦུགས།",
+        pronunciation: "",
+      },
+      {
+        key: "1788",
+        english: "Urine",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754453191/new_medical_terms/urine_gbffbl.mp3",
+        bhutia: "གཤེབ།",
+        pronunciation: "",
+      },
+      {
+        key: "1789",
+        english: "Vein",
+        audiolink: "",
+        bhutia: "",
+        pronunciation: "",
+      },
+      {
+        key: "1790",
+        english: "Vascular",
+        audiolink: "",
+        bhutia: "སོག་རྩ་ ནག་ཀུ།",
+        pronunciation:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754449267/new_medical_terms/vascular_ut07li.mp3",
+      },
+      {
+        key: "782",
+        english: "Sore throat",
+        pronunciation: "ke-na-ma/kim-na-ma-then",
+        bhutia: "རྐན་ན་རྨ།/ སྐོདམ་ན་ རྨ་འཐོན།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140767/correction/sore_throat_wolj93.mp3",
+      },
+      {
+        key: "783",
+        english: "Shortness of Breath/Asthama",
+        pronunciation: "ug-shag",
+        bhutia: "དབུགས་བསག།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/asthama_or_shortness_of_breath_jqnvsh.mp3",
+      },
+      {
+        key: "784",
+        english: "Fatigue",
+        pronunciation: "thang-che/udhuk/ngal-shey",
+        bhutia: "ཐང་ཆད་/འུ་སྡུག་/ངལ་ཤད",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/fatigue_rrbajb.mp3",
+      },
+      {
+        key: "785",
+        english: "Dry Cough",
+        pronunciation: "kam-shag/lossag/led-po med-po med-pay  lossag kyabshed",
+        bhutia: "སྐམ་སག་/གློ་སག/ལུད་པོ་ མེད་པའི་ གློ་སག་ རྐྱབས་ཤད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/dry_cough_d7fdag.mp3",
+      },
+      {
+        key: "786",
+        english: "Fever",
+        pronunciation: "thriba/darkhyong-shuod",
+        bhutia: "དྲོད་འབར་/བརྡར་གྱོང་ཞུན་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/fever_xforcw.mp3",
+      },
+      {
+        key: "787",
+        english: "Intubation",
+        pronunciation:
+          "ke-khi-dung-chung/mendung/ne-pe-ghatang-nale-kyekey-thungcho chukti menchu phy-sed",
+        bhutia:
+          "གྱིག་གི་ དུང་ཅུང་།/ སྨན་དུང་། /ནད་པོའི་ ཁ་ དང་ སྣ་ལས་ གྱིག་གི་ དུང་ཅུང་ བཙུག་སྟི་ སྨན་བཅོས་ བྱ༹ས་ཤད",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/intubation_g9le1n.mp3",
+      },
+      {
+        key: "788",
+        english: "Lockdown",
+        pronunciation: "gotambo/gochepo/khatub-gyumathopey thimche tangbo",
+        bhutia:
+          "སྒོ་སྡམ་བོ།/ སྒོ་བཅད་པོ་།/ ག་ཐོབ་ འགྱུ་ མ་ ཐོབ་ པའི་ ཁྲིམས་བཅད་ བཏང་བོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/lockdown_cvd23c.mp3",
+      },
+      {
+        key: "789",
+        english: "Social Distancing",
+        pronunciation: "chichok-kyangche/mithang mi-phar kyangche",
+        bhutia: "སྤྱི་ཚོགས་ རྒྱང་ ཚད།/ མི་ དང་ མིའི་ བར་ རྒྱང་ཚད་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/social_distancing_tj4fnb.mp3",
+      },
+      {
+        key: "790",
+        english: "Psychiatry",
+        pronunciation: "semney-menpo/semkham-chepey-mepo/semkham-mepo",
+        bhutia:
+          "སེམས་ནད་ སྨན་པོ་།/ སེམས་ཁམས་བཅོས་པའི་ སྨན་པོ། /སེམས་ཁམས་ སྨན་པོ་།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140776/correction/psychiatry_kwmocn.mp3",
+      },
+      {
+        key: "791",
+        english: "Contagious",
+        pronunciation: "sen-ney/nin-chenkine/phenchen-semdi-kyungpe-neloh-lap",
+        bhutia:
+          "ཟུན་ནད་། /ཉེན་ཅན་གྱི་ ནད་།/ ཕན་ཚུན་ ཟུན་སྡི་ འགྱུ་བའི་ ནད་ལོ་ ལབ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140783/correction/contagious_wciemr.mp3",
+      },
+      {
+        key: "792",
+        english: "Epidemiologist",
+        pronunciation: "neyem taktsepo",
+        bhutia: "ནད་ཡམས་ བརྟག་དཔྱད་པོ།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754485045/correction/epidemilogist_tvu5wt.mp3",
+      },
+      {
+        key: "793",
+        english: "Emergency room",
+        pronunciation: "chapche-menga/malam-chekang",
+        bhutia: "ཚབ་ཆེན་ སྨན་ཁང་/མ་ལག་ བཅོས་ཁང།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/emergency_room_nr4ycf.mp3",
+      },
+      {
+        key: "794",
+        english: "Sneeze",
+        pronunciation: "bhipo-shyarsey",
+        bhutia: "བི་པོ་ ཤར་ཤད།",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140783/correction/sneeze_xqgjlp.mp3",
+      },
+      {
+        key: "795",
+        english: "Dietician",
+        pronunciation: "samki-theten-kheypo",
+        audiolink: "",
+        bhutia: "ཟམ་གྱི་ འཕྲོད་རྟེན་ མཁས་པོ།",
+      },
+      {
+        key: "796",
+        english: "Diagnosis",
+        pronunciation: "necha-tsheychey/nelo-che-phyasey",
+        audiolink: "",
+        bhutia: "ནད་རྩ་དཔྱད་ཤད་།/ ནད་ལོ་ རྩད་ དཔྱད་ བྱ༹ས་ཤད་།",
+      },
+      {
+        key: "797",
+        english: "Pneumonia",
+        pronunciation: "nang-che/lok-che/lokpo-ke-cheney",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754485287/correction/pnemounia_h0nd6p.mp3",
+        bhutia: "ནང་ཚད་།/ གློ་ཚད་།/ གློ་བོ་གི་ ཚད་ནད།",
+      },
+      {
+        key: "798",
+        english: "Depression",
+        pronunciation: "semney-nacha/lophem-nacha",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/depression_vjqrv1.mp3",
+        bhutia: "སེམས་ནད་ན་ཚ།/ བློ་ཕམ་ན་ཚ།",
+      },
+      {
+        key: "799",
+        english: "Stress",
+        pronunciation: "semney/sem-ne-nacha",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/stress_l2nnxy.mp3",
+        bhutia: "སེམས་ནད་།/ སེམས་རྣོན་ན་ཚ།",
+      },
+      {
+        key: "800",
+        english: "Bacteria",
+        pronunciation: "tha-pe-buk-sin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140785/correction/bacteria_xlv2ei.mp3",
+        bhutia: "ཕྲ་བའི་ འབུ་ སྲིན།",
+      },
+      {
+        key: "801",
+        english: "Virus",
+        pronunciation: "thuk-sem/nebu-thasen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/virus_qxxdqb.mp3",
+        bhutia: "དུག་སྲིན་། /ནད་ འབུ་ཕྲ་སྲིན།",
+      },
+      {
+        key: "802",
+        english: "Immunization",
+        pronunciation: "nesung-menkhap",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140784/correction/immunization_as766u.mp3",
+        bhutia: "ནད་སྲུང་སྨན་ཁབ་།",
+      },
+      {
+        key: "803",
+        english: "Immunity",
+        pronunciation: "nikham-nesuk (lezhenlo khakchukpe ni shuk yepo)",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140788/correction/immunity_wveujs.mp3",
+        bhutia:
+          "ལུས་ཁམས་ ནུས་ཤུགས་།(ནད་གཞན་ལོ་ བཀག་ཚུགས་པའི་ ནུས་ ཤུགས་ ཡོད་པོ།)",
+      },
+      {
+        key: "804",
+        english: "Immune System",
+        pronunciation: "zukham-lamlok",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/immune_system_cppc9k.mp3",
+        bhutia: "གཟུགས་ཁམས་ ལམ་ ལུགས་།",
+      },
+      {
+        key: "805",
+        english: "Preventive medicine",
+        pronunciation: "yen-goki men",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/preventive_medicines_yunicu.mp3",
+        bhutia: "སྔོན་ འགོག་གི་ སྨན་།",
+      },
+
+      {
+        key: "807",
+        english: "Outpatient",
+        pronunciation: "philoki-nepo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/outpatient_o0jk2b.mp3",
+        bhutia: "ཕྱི༹་ལོག་གི་ ནད་པོ།",
+      },
+      {
+        key: "808",
+        english: "Inpatient",
+        pronunciation: "nangdey-nepo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/inpatient_lp4ijr.mp3",
+        bhutia: "ནང་སྡོད་ ནད་པོ།",
+      },
+      {
+        key: "809",
+        english: "Intensive care unit (ICU)",
+        pronunciation: "sapche-thechen-khang",
+        audiolink: "",
+        bhutia: "ཟབ་བཅོས་ སྡེ་ཚན་ཁང།",
+      },
+      {
+        key: "810",
+        english: "Vaccine",
+        pronunciation: "gomen (nemasin neyenlo kakthop menkhap chig)",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140793/correction/vaccine_thvggz.mp3",
+        bhutia: "འགོག་སྨན་། (ནད་མ་ཟུན་ སྔོན་ལོ་བཀག་ཐབས་སྨན་ཁབ་ཅིཁ)",
+      },
+      {
+        key: "811",
+        english: "Ambulance",
+        pronunciation: "nepe-khorlo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/ambulance_targlh.mp3",
+        bhutia: "ནད་པའི་ འཁོར་ལོ།",
+      },
+      {
+        key: "812",
+        english: "Outbreak",
+        pronunciation: "hato khama gepo (neshok hato kama tharkyap thenbo)",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/outbreak_zycqvn.mp3",
+        bhutia: "ཧང་ཏོག་མ་ འགས་པོ།(ནད་སོགས་ཧང་ཏོག་ ཁ་མ་ དར་ ཁྱབ་འཐོན་བོ)",
+      },
+      {
+        key: "813",
+        english: "Hand Sanitizer",
+        pronunciation: "jejor lakhyu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/hand_sanitizer_zxdjxy.mp3",
+        bhutia: "རྗས་སྦྱོར་ ལག་འཁྱུར།",
+      },
+      {
+        key: "814",
+        english: "Pandemic",
+        pronunciation: "yongkhyap neyam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/pandemic_pzilao.mp3",
+        bhutia: "ཡོངས་ཁྱབ ་ནད་ཡམས།",
+      },
+      {
+        key: "815",
+        english: "Epidemic",
+        pronunciation: "rigne/neyom/kyapdolcheve neyam",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/epidemic_eimgjo.mp3",
+        bhutia: "རིམས་ནད་།/ ནད་ཡམས་།/ ཁྱབ་རྡལ་ཚེ་བའི་ ནད་ཡམས་།",
+      },
+      {
+        key: "816",
+        english: "Quarantine",
+        pronunciation: "nedo zurzhyok theyen",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140794/correction/quarantine_phczye.mp3",
+        bhutia: "ནད་ དྭོགས་ཟུར་ འཇོག་དུས་ཡོན།",
+      },
+      {
+        key: "817",
+        english: "Curfew",
+        pronunciation: "thempang kagya",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/curfew_dep7dx.mp3",
+        bhutia: "ཐེམ་སྤང་ བཀའ་རྒྱ།",
+      },
+      {
+        key: "818",
+        english: "COVID-19",
+        pronunciation: "tokchep nerim chugo",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/covid19_fzlsfm.mp3",
+        bhutia: "ཏོག་དབྱིབས་ ནད་རིམས༡༩",
+      },
+      {
+        key: "819",
+        english: "Coronavirus",
+        pronunciation: "tokchep nebu thasin",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140801/correction/coronavirus_coawz7.mp3",
+        bhutia: "ཏོག་དབྱིབས་ ནད་ འབུ་ ཕྲ་སྲིན།",
+      },
+      {
+        key: "820",
+        english: "Are you feeling well?",
+        pronunciation: "rangtzu lhem thenzi ga?/rangyuiemze lhem thangjay ga",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/are_you_feeling_well___s23puk.mp3",
+        bhutia: "རང་གཟུགས་ལེགམ་ འཐོན་ཞེ་ག?/རང་སྨྱུང་གཞི་ལེགམ་ དྭངས་ཞེ་ག?",
+      },
+      {
+        key: "821",
+        english: "Slightly recovered",
+        pronunciation: "aatshim aucheje",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/slightly_recovered_final_n2azh1.mp3",
+        bhutia: "ཨ་ཙིམ་ ཨའོ་ ཙི་ཞེ།",
+      },
+      {
+        key: "822",
+        english: "What was the illness ?",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/what_was_the_illness_1_r9musk.mp3",
+        bhutia: "ན་ཚ་འདི་ གན་ འབོ?",
+        pronunciation: "ngacha di khanbo?",
+      },
+      {
+        key: "823",
+        english: "Suffering from headache",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/suffering_from_headache_1_gsx2pb.mp3",
+        bhutia: "མགོ་ ན་བའི་ ན་ཚ་ སྦད།",
+        pronunciation: "go nabey ngacha beh ",
+      },
+      {
+        key: "824",
+        english: "Suffering from stomach ache",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140802/correction/suffering_from_stomach_ache_qg0o9f.mp3",
+        pronunciation: "supo/pho nabo in",
+        bhutia: "བསུ་པོ/ཕོའོ་ན་ བོ་ཨིན།",
+      },
+      {
+        key: "825",
+        english: "Suffering from back ache ",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_backache_1_fq8vzb.mp3",
+        pronunciation: "gyap nabo en",
+        bhutia: "རྒྱབ་ ན་བོ་ ཨིན།",
+      },
+      {
+        key: "826",
+        english: "Suffering from leg pain",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_leg_pain_1_xfehcj.mp3",
+        pronunciation: "kangpo nabo en",
+        bhutia: "རྐང་པོ་ ན་བོ་ ཨིན།",
+      },
+      {
+        key: "827",
+        english: "Suffering from fever",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_fever_1_tki9n3.mp3",
+        pronunciation: "darkyong  kyab-ti",
+        bhutia: "བརྡར་གྱོང་  རྐྱབས་སྟི།",
+      },
+      {
+        key: "828",
+        english: "Suffering from diarrohea",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_diarrohea_1_yqq34v.mp3",
+        pronunciation: "nga supo shedi",
+        bhutia: "ང་བསུ་པོ་ བཤལ་སྡི།",
+      },
+      {
+        key: "829",
+        english: "Suffering from diarrohea and vomiting",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140810/correction/suffering_from_diarohhea_and_vomiting_vsyyyj.mp3",
+        pronunciation: "nga shay kyu thopo en",
+        bhutia: "ང་ལོ་ བཤལ་ སྐྱུག་ འཐབ་པོ་ ཨིན།",
+      },
+
+      {
+        key: "831",
+        english: "Having vomiting tendency",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140811/correction/having_vomiting_tendency_1_frusm3.mp3",
+        pronunciation: "kyuklogh kyapti",
+        bhutia: "སྐྱུག་ལོག་ རྐྱབས་སྟི།",
+      },
+      {
+        key: "832",
+        english: "Suffering from dizziness",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486166/correction/suffering_from_dizziness_t3bh7m.mp3",
+        pronunciation: "goyung khodi",
+        bhutia: "མགོ་ཡུང་ འཁོར་སྡི།",
+      },
+      {
+        key: "833",
+        english: "Having gall vesicle",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486299/correction/having_vesicle_of_gall_fcygny.mp3",
+        pronunciation: "thrip longpo bhyeth",
+        bhutia: "མཁྲིསབ་ ལོང་པོ་ སྦད།",
+      },
+      {
+        key: "834",
+        english: "Suffering from chest burn",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486395/correction/suffering_from_chest_burn_of9a7j.mp3",
+        pronunciation: "phyang tsha longti",
+        bhutia: "བྱང་ཚ་ ལོང་སྟི།",
+      },
+      {
+        key: "835",
+        english: "Suffering from asthma",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140775/correction/asthama_or_shortness_of_breath_jqnvsh.mp3",
+        pronunciation: "ugsag longti",
+        bhutia: "དབུགས་ བསགས་ ལོང་སྟི།",
+      },
+      {
+        key: "836",
+        english: "Caught flu",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486562/correction/caught_flu_hnjmgv.mp3",
+        pronunciation: "lochyam suendi",
+        bhutia: "གློ་ཅམ་ ཟུན་སྡི།",
+      },
+      {
+        key: "837",
+        english: "Suffering for heartache",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486669/correction/suffering_from_heartache_knkqji.mp3",
+        pronunciation: "dhunhi nati",
+        bhutia: "དུ་སྙིང་ ན་སྟི།",
+      },
+      {
+        key: "838",
+        english: "Shooting pain in half portion of body",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486787/correction/having_shooting_pain_in_half_portion_of_body_skc8f5.mp3",
+        pronunciation: "zu phyeth zedi",
+        bhutia: "གཟུགས་ཕྱེད་ གཟེར་སྡི།",
+      },
+      {
+        key: "839",
+        english: "Shooting pain in half portion of head",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754486828/correction/having_shooting_pain_in_half_portion_of_head_bqib8t.mp3",
+        pronunciation: "go phyeth zedi",
+        bhutia: "མགོ་ ཕྱེད་ གཟེར་དི།",
+      },
+      {
+        key: "840",
+        english: "Lost appetitie",
+        pronunciation: "thangkha chhyethti",
+        audiolink: "",
+        bhutia: "དྭངས་ཁ་ ཆད་སྟི།",
+      },
+      {
+        key: "841",
+        english: "Shooting in limbs",
+        pronunciation: "kaang laag zedi",
+        audiolink: "",
+        bhutia: "རྐང་ལག་ གཟེར་སྡི།",
+      },
+      {
+        key: "842",
+        english: "Eye pain",
+        pronunciation: "mikdho nati",
+        audiolink: "",
+        bhutia: "མིག་རྡོག་ ན་སྟི།",
+      },
+      {
+        key: "843",
+        english: "Suffering from toothache",
+        pronunciation: "so suk kyapti",
+        audiolink: "",
+        bhutia: "སོ་ཟུག་ རྐྱབས་སྟི།",
+      },
+      {
+        key: "844",
+        english: "Having dry throat",
+        pronunciation: "kyom khomti",
+        audiolink: "",
+        bhutia: "རྐོདམ་ ཁོམ་སྟི།",
+      },
+      {
+        key: "845",
+        english: "Body itch",
+        pronunciation: "zug yati",
+        audiolink: "",
+        bhutia: "གཟུཁས་ གཡའ་སྟི།",
+      },
+      {
+        key: "846",
+        english: "Half portion of the body is paralyzed",
+        pronunciation: "zu phyeth pashyrth meth",
+        audiolink: "",
+        bhutia: "གཟུགས་ཕྱེད་ སྤ་ཤད་ མེད།",
+      },
+      {
+        key: "847",
+        english: "Having ear pain",
+        pronunciation: "naamcho nati",
+        audiolink: "",
+        bhutia: "རྣམ་ཅོག་ ན་སྟི།",
+      },
+      {
+        key: "848",
+        english: "Body slimmed down",
+        pronunciation: "zu khomti",
+        audiolink: "",
+        bhutia: "གཟུགས་ ཁོམ་སྟི།",
+      },
+      {
+        key: "849",
+        english: "This is a liver problem",
+        pronunciation: "chhinpoi natsha bhyeth",
+        audiolink: "",
+        bhutia: "མཆིན་པོའི་ ན་ཚ་ སྦད།",
+      },
+      {
+        key: "850",
+        english: "This is tuberculosis",
+        pronunciation: "glo neth bhyeth",
+        audiolink: "",
+        bhutia: "གློ་ནད་ སྦད།",
+      },
+      {
+        key: "851",
+        english: "This says it is cancer",
+        pronunciation: "ten neth bhyeth labzin dhug",
+        audiolink: "",
+        bhutia: "སྤྲན་ནད་ ཨིན་ ལབ་བཞིན་ འདུག།",
+      },
+      {
+        key: "852",
+        english: "Getting feverish",
+        pronunciation: "khyang chhuen kyapti",
+        audiolink: "",
+        bhutia: "གྱངས་ཆུན་ ལོང་སྟི།",
+      },
+      {
+        key: "853",
+        english: "Having gassy stomach",
+        pronunciation: "supo ghangti",
+        audiolink: "",
+        bhutia: "བསུ་པོ་ གང་སྡི",
+      },
+      {
+        key: "854",
+        english: "Behaving abnormally",
+        pronunciation: "chholtsa long long thyen dhug",
+        audiolink: "",
+        bhutia: "འཆོལ་རྩ་ ལོང་ལོང་ འཐོན་འདུག།",
+      },
+      {
+        key: "855",
+        english: "Anger issues",
+        pronunciation: "khong-tog long-po",
+        audiolink: "",
+        bhutia: "ཁོང་ཁྲོ་ ལོང་པོ་།",
+      },
+      {
+        key: "856",
+        english: "Have you shown the doctor",
+        pronunciation: "menpolo tyenjay gaam",
+        audiolink: "",
+        bhutia: "སྨན་པོ་ལོ་ སྟོན་ཞེ་ གམ?",
+      },
+      {
+        key: "857",
+        english: "Taking medicine after treatment ",
+        pronunciation: "mhenpolo tyendi mhen sadoh in ",
+        audiolink: "",
+        bhutia: "སྨན་པོ་ལོ་ སྟོན་ སྡི་ སྨན་ཟ་དོ་ ཨིན།",
+      },
+      {
+        key: "858",
+        english: "Is there an injection?",
+        pronunciation: "mhen khap yethpo?",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754487138/correction/is_there_an_injection___eifpa1.mp3",
+        bhutia: "སྨན་ཁབ་ ཡོད་པོ།?",
+      },
+      {
+        key: "859",
+        english: "Took four injections before yesterday",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1754487035/correction/taken_four_injection_before_yesterday_hkh873.mp3",
+        bhutia: "སྨན་ཁབ་ དི་ཚེ་ བཞི་ རྐྱབས་ཚར།",
+        pronunciation: "mhen khap thitsi kyaptsha",
+      },
+      {
+        key: "860",
+        english: "These medicines are slightly benefiting",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742144195/correction/these_medicines_are_slightly_benefitting_po38gd.mp3",
+        bhutia: "སྨན་འདིས་ ཨ་ཙི་ ཕན་དོ།",
+        pronunciation: "mhendi aatsi fendoh",
+      },
+      {
+        key: "861",
+        english: "Apetite is improving these days",
+        audiolink:
+          "https://res.cloudinary.com/dmcov966p/video/upload/v1742140818/correction/apetite_is_imporivng_these_days_final_tzbdfl.mp3",
+        bhutia: "ད་རེ་ ཟམ་མའི་ དྭངས་ཁ་ ཨ་ཙི་ འཐོན་དོ།",
+        pronunciation: "tharay samme thangka achi thendo",
+      },
+    ],
+  },
+
   {
     id: "29",
     bhutia: "",
